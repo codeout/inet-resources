@@ -1,4 +1,4 @@
-  Generated: Tue, 17 Mar 2015 05:00:03 -0400
+  Generated: Wed, 18 Mar 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -74968,6 +74968,13 @@
 				austin texas 78704
 				UNITED STATES
 
+  00-A7-84   (hex)		ITX security
+  00A784     (base 16)		ITX security
+  				9F Kolon Digital Tower Aston Bldg
+				Gasandigital 1-ro Geumcheon-gu
+				SEOUL (Outside US/Canada/China) 441-813
+				KOREA, REPUBLIC OF
+
   00-AA-00   (hex)		INTEL CORPORATION
   00AA00     (base 16)		INTEL CORPORATION
   				5200 NE ELAM YOUNG PARKWAY
@@ -84453,6 +84460,13 @@
 				Lustenau Vorarlberg 6890
 				AUSTRIA
 
+  10-DF-8B   (hex)		Shenzhen CareDear Communication Technology Co.,Ltd
+  10DF8B     (base 16)		Shenzhen CareDear Communication Technology Co.,Ltd
+  				No.605,6th floor, 1st Section, 25th Building, Science and Technology Park Industrial Zone, median space, High-tech Zone
+				Nanshan District, ShenZhen City, China
+				ShenZhen Guangdong 518000
+				CHINA
+
   10-E2-D5   (hex)		Qi Hardware Inc.
   10E2D5     (base 16)		Qi Hardware Inc.
   				555 4TH STREET #403
@@ -85742,6 +85756,13 @@
   				Pathoekeweg 11
 				Bruges West Flanders 8000
 				BELGIUM
+
+  18-8E-F9   (hex)		G2C Co. Ltd.
+  188EF9     (base 16)		G2C Co. Ltd.
+  				1004,1591-9, K-Center Kwanyang Dong
+				Dongan Gu,
+				Anyang Si Kyeonggido 431-815
+				KOREA, REPUBLIC OF
 
   18-92-2C   (hex)		Virtual Instruments
   18922C     (base 16)		Virtual Instruments
@@ -95911,6 +95932,12 @@
 				Hsin-Chu,  22099505
 				TAIWAN, PROVINCE OF CHINA
 
+  50-6A-03   (hex)		Netgear
+  506A03     (base 16)		Netgear
+  				350 East Plumeria Drive
+				San Jose CA 95134
+				UNITED STATES
+
   50-6F-9A   (hex)		Wi-Fi Alliance
   506F9A     (base 16)		Wi-Fi Alliance
   				10900-B Stonelake Boulevard
@@ -96560,6 +96587,12 @@
   				Scheelev
 				Lund Sk 22370
 				SWEDEN
+
+  54-64-D9   (hex)		Sagemcom SAS
+  5464D9     (base 16)		Sagemcom SAS
+  				250 route de l'Empereur
+				Rueil Malmaison Cedex Hauts de Seine 92848
+				FRANCE
 
   54-65-DE   (hex)		ARRIS Group, Inc.
   5465DE     (base 16)		ARRIS Group, Inc.
@@ -101799,7 +101832,7 @@
   70-2A-7D   (hex)		EpSpot AB
   702A7D     (base 16)		EpSpot AB
   				Aluddsparken 7D
-				Stockholm Stockholm 11265
+				Stockholm 11265
 				SWEDEN
 
   70-2B-1D   (hex)		E-Domus International Limited
