@@ -1,4 +1,4 @@
-  Generated: Fri, 20 Mar 2015 05:00:03 -0400
+  Generated: Sat, 21 Mar 2015 05:00:02 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -50705,11 +50705,11 @@
 				Los Angeles Ca 90025
 				UNITED STATES
 
-  00-1F-49   (hex)		Eurosat Distribution Ltd
-  001F49     (base 16)		Eurosat Distribution Ltd
-  				5 Oxgate Centre
-				Oxgate Lane
-				London  NW2 7JA
+  00-1F-49   (hex)		Manhattan Technology Limited
+  001F49     (base 16)		Manhattan Technology Limited
+  				3 Phoenix Park,
+				Apsley Way
+				London  NW2 7LN
 				UNITED KINGDOM
 
   00-1F-4A   (hex)		Albentia Systems S.A.
@@ -77577,10 +77577,10 @@
 				CHASKA MN 55318
 				UNITED STATES
 
-  00-D0-5C   (hex)		TECHNOTREND SYSTEMTECHNIK GMBH
-  00D05C     (base 16)		TECHNOTREND SYSTEMTECHNIK GMBH
-  				WILHELM-WOLFF-STRASSE 6
-				GER-99099 ERFURT
+  00-D0-5C   (hex)		KATHREIN TechnoTrend GmbH
+  00D05C     (base 16)		KATHREIN TechnoTrend GmbH
+  				Ing.- Anton-Kathrein Str. 2
+				83101 Rohrdorf-Thansau
 				GERMANY
 
   00-D0-5D   (hex)		INTELLIWORXX, INC.
@@ -89620,6 +89620,12 @@
 				Building C
 				Raanana  4366241
 				ISRAEL
+
+  2C-C5-D3   (hex)		Ruckus Wireless
+  2CC5D3     (base 16)		Ruckus Wireless
+  				350 West Java Drive
+				Sunnyvale CA 94089
+				UNITED STATES
 
   2C-CC-15   (hex)		Nokia Corporation
   2CCC15     (base 16)		Nokia Corporation
@@ -116250,6 +116256,13 @@
   				526 S. Main Street
 				Suite 601G
 				Akron OH 44311
+				UNITED STATES
+
+  B8-99-B0   (hex)		Cohere Technologies
+  B899B0     (base 16)		Cohere Technologies
+  				404 Saratoga Avenue
+				Suite 200
+				Santa Clara CA 95050
 				UNITED STATES
 
   B8-9A-CD   (hex)		ELITE OPTOELECTRONIC(ASIA)CO.,LTD
