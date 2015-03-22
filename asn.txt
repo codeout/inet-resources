@@ -1769,7 +1769,7 @@
 1768	ERX-SEEDNET-ASN1 Institute for Information Industry, Taiwan, ROC,TW
 1769	ERX-IIINET-ASN1 SEEDNet Service Center,TW
 1770	RINGSTADAS Ringstad Consulting AS,NO
-1771	SOLBERG-CORE-NET Solberg Network Engineering,EU
+1771	SOLBERG-CORE-NET Solberg Network Engineering Oslo, Norway,EU
 1772	DNIC-AS-01772 - Navy Network Information Center (NNIC),US
 1773	SJ-LEVINSON-AND-SONS-LLC - S.J. Levinson & Sons LLC,US
 1774	HEANET-IE Higher Education Authority Network (HEAnet),EU
@@ -6831,7 +6831,7 @@
 6895	ESPANIX ASOCIACION ESPANIX,ES
 6896	-Reserved AS-,ZZ
 6897	-Reserved AS-,ZZ
-6898	INTERNETONE_CH Swiss Engineering Laboratories SA,CH
+6898	INTERNETONE_CH InternetONE SA,CH
 6899	NETSTORE-AS Daisy Data Centre Solutions Limited,GB
 6900	AS6900 Hewlett Packard GmbH,DE
 6901	-Reserved AS-,ZZ
@@ -7824,7 +7824,7 @@
 7914	CSI - Church of Scientology International,US
 7915	DAYTONA-STATE-COLLEGE - Daytona State College Inc,US
 7916	ISDNET - Innovative System Design,US
-7917	PHS - Pacificare Health Systems,US
+7917	UNITEDHEALTH-GROUP - UnitedHealth Group Incorporated,US
 7918	LARKOM-AS - Larkom,US
 7919	DIGITALDATA-AS - Digital Data Technologies, Inc.,US
 7920	OPTIMALSATCOM - Optimal Satcom, Inc.,US
@@ -11127,7 +11127,7 @@
 11284	Núcleo de Inf. e Coord. do Ponto BR - NIC.BR,BR
 11285	KW-CORPORATION - K W Corporation, Inc.,US
 11286	KEYBANK - KeyBank National Association,US
-11287	REYAOD - The Reynolds and Reynolds Company,US
+11287	-Reserved AS-,ZZ
 11288	IDMS101 - InfraDMS,US
 11289	-Reserved AS-,ZZ
 11290	RAPIDUS - COGECO Cable Canada Inc.,CA
@@ -18934,6 +18934,7 @@
 19221	NORTHSTAR-TRAVEL-MEDIA - NORTHSTAR Travel Media, LLC.,US
 19222	LIGHTCREST - Lightcrest LLC,US
 19223	NTEGRATED-SOLUTIONS - Ntegrated Solutions,US
+19224	QDC-1030 - QDC,US
 19225	IMVU-AS - IMVU, Inc,US
 19226	AURA-SOUTH - A.U.R.A,US
 19227	VALNET - Terra World, Inc.,US
@@ -19086,6 +19087,7 @@
 19374	CMRL-ASNCT - Access Northeast Inc.,US
 19375	NUMERICINVESTORS - Numeric Investor's L.P.,US
 19376	JUSTNET Ministerie van Justitie,EU
+19377	CLOUD-CARIB-LTD - Cloud Carib Limited,BS
 19378	ADEA-AS - AMERICAN DENTAL EDUCATION ASSOCIATION,US
 19379	IFOXNETND - INFOCROSSING, INC.,US
 19380	CHROBINSON - C. H. Robinson Company,US
@@ -21808,6 +21810,7 @@
 22140	T-MOBILE-AS22140 - T-Mobile USA, Inc.,US
 22141	JMARK-BUSINESS-SOLUTIONS - JMARK Business Solutions, Inc,US
 22142	I-TECH - Fiserv Solutions Inc.,US
+22143	APPTI-11-TOP001 - Apptio, Inc.,US
 22144	CHAPMAN - Chapman and Cutler,US
 22145	RDSI - Rurbanc Data Services, Inc.,US
 22146	LANDAM - LandAmerica Financial Group, Inc.,US
@@ -31687,7 +31690,7 @@
 32344	CSD99 - Community High School District 99,US
 32345	TUMBLR-CORP - TUMBLR, INC.,US
 32346	-Reserved AS-,ZZ
-32347	PRAN-ASN - Fleming College,CA
+32347	PRAN-ASN - Sir Sandford Fleming College of Applied Arts and Technology,CA
 32348	SYMPHONYASSET - Symphony,US
 32349	CI-GROUP-AS - CI-GROUP,US
 32350	CANDIDCOLORSYSTEMS - Candid Color Systems, Inc.,US
@@ -33759,7 +33762,6 @@
 34452	ST-SARANSK-AS JSC Start Telecom Saransk,RU
 34453	-Reserved AS-,ZZ
 34454	EXCLUSIV-AS SC Business IT Telecom SRL,RO
-34455	,
 34456	RIALCOM-AS Rial Com JSC,RU
 34457	AMB-GENERALI Generali Deutschland Informatik Services GmbH,DE
 34458	-Reserved AS-,ZZ
@@ -41329,7 +41331,7 @@
 42192	NCC450-AS CJSC Astarta,RU
 42193	ASHAYAT Hayat Kimya A.S.,TR
 42194	MAKOLAB Makolab S.A.,PL
-42195	AIST-TELECOMMUNICATIONS Consumer organisation "AIST Territorial partner in Ukraine",UA
+42195	AIST-TELECOMMUNICATIONS "AIST-UA",UA
 42196	ROTAX-AS BRP-Powertrain GmbH & Co KG,DE
 42197	DDV-AS Dresdner Verlagshaus Technik GmbH,DE
 42198	-Reserved AS-,ZZ
@@ -64109,7 +64111,7 @@
 132493	LPRU-AS-AP Lampang-Meatha Rd., Thambon Chomphu Ampher Maung Lampang 52100,TH
 132494	UTHM-AS-AP Universiti Tun Hussein Onn Malaysia,MY
 132495	ABT-AS AB Tech,PH
-132497	DNA-AS-AP,IN
+132497	DNA-AS-AP DIGITAL NETWORK ASSOCIATES PRIVATE LIMITED,IN
 132499	HKCOLONETLIMITED-AS-AP HKCOLO.NET LIMITED,HK
 132500	UCFAID-AS-AP University Corporation for Advanced Internet Development,SG
 132501	CMNET-FUJIAN China Mobile Group FuJian communications corporation,CN
@@ -65456,7 +65458,7 @@
 133996	WALLDEPOT-AS Wall Depot Telecom Sevices Ltd,IN
 133998	SKYNETWORKS-AS JESMI ONLINE PVT LTD,IN
 133999	SOMANYCERAMICS-AS Somany Ceramics Limited,IN
-134000	GBPSNETWORKS-AS-IN Gbps Networks Pvt. Ltd.,IN
+134000	GBPSNETWORKS-AS-IN DIGITAL NETWORK ASSOCIATES PRIVATE LIMITED,IN
 134001	SANGHVIINFO-AS-IN Sanghvi Infotech Pvt Ltd,IN
 134002	JETWAYBROADBAND-AS-IN JETWAY BROADBAND,IN
 134003	TRANSV-AS-IN Trans Virtual Private Limited,IN
@@ -65464,6 +65466,7 @@
 134005	INSTANT-AS-IN Instant Solution,IN
 134006	SHENGLI-AS Sheng Li Telecom India Private Limited,IN
 134007	NETCAPTURE9-AS Visual Computer Care,IN
+134054	RAAGAVCOM-AS raagav communications pvt ltd,IN
 134058	BROBAN-AS BROBAN INTERNET SERVICES PVT LTD,IN
 134059	SOFTEARTH-AS Softearth Network Pvt Ltd,IN
 134060	NETSCOUT-AS Netscout Systems Software India Private Limited,IN
@@ -68984,7 +68987,7 @@
 200877	ODC-LHR Optimum Data Centres Limited,GB
 200878	ETIPOLAM ETI Polam Sp. z o.o.,PL
 200879	SWISSBROTHERS swissbrothers AG,CH
-200880	WIREM Net-IT s.r.l.,IT
+200880	WIREM Wirem Fiber Revolution - Net-IT s.r.l.,IT
 200881	NORRKOPING Norrkopings Kommun,SE
 200882	SEMILTON SEMITLON, s.r.o.,SK
 200883	EXPERTIZA-GOV-GE National Forensics Bureau,GE
@@ -72117,7 +72120,7 @@
 264461	ADM INTERNET LTDA - ME,BR
 264462	Comercial Conecte Sem Fio Ltda me,BR
 264463	MEGA REDES TELECOM LTDA,BR
-264464	ALMEIDA PARENTE,BR
+264464	INFORMATICA ALMEIDA PARENTE,BR
 264465	k s ferreira-ME,BR
 264466	ASSOCIACAO CULTURAL E EDUCACIONAL DO ESTADO DO PAR,BR
 264467	TRIBUNAL SUPERIOR DO TRABALHO,BR
