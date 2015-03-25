@@ -1,4 +1,4 @@
-  Generated: Tue, 24 Mar 2015 05:00:02 -0400
+  Generated: Wed, 25 Mar 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -56666,11 +56666,10 @@
 				Copenhagen V  DK-1790
 				DENMARK
 
-  00-22-FE   (hex)		Microprocessor Designs Inc
-  0022FE     (base 16)		Microprocessor Designs Inc
-  				65 Longmeadow Drive
-				PO Box 160
-				Shelburne Vermont 05482
+  00-22-FE   (hex)		Advanced Illumination
+  0022FE     (base 16)		Advanced Illumination
+  				440 State Garage Road
+				Rochester Vermont 05767
 				UNITED STATES
 
   00-22-FF   (hex)		iWDL Technologies
@@ -80463,6 +80462,13 @@
 				Madison Heights MI 48071
 				UNITED STATES
 
+  00-FC-8D   (hex)		Hitron Technologies. Inc
+  00FC8D     (base 16)		Hitron Technologies. Inc
+  				No. 1-8, Lising 1st Rd
+				Hsinchu Science Park
+				Hsin-chu Taiwan 300
+				TAIWAN, PROVINCE OF CHINA
+
   00-FD-4C   (hex)		NEVATEC
   00FD4C     (base 16)		NEVATEC
   				Lindaraja 2
@@ -80800,6 +80806,13 @@
 				Nanshan District
 				Shenzhen Guangdong 518055
 				CHINA
+
+  04-61-69   (hex)		MEDIA GLOBAL LINKS CO., LTD.
+  046169     (base 16)		MEDIA GLOBAL LINKS CO., LTD.
+  				580-16, Horikawa-cho
+				Saiwai-ku
+				Kawasaki Kanagawa 212-0013
+				JAPAN
 
   04-62-D7   (hex)		ALSTOM HYDRO FRANCE
   0462D7     (base 16)		ALSTOM HYDRO FRANCE
@@ -94482,6 +94495,12 @@
 				Taipei  112
 				TAIWAN, PROVINCE OF CHINA
 
+  48-5D-36   (hex)		Verizon
+  485D36     (base 16)		Verizon
+  				One Verizon Way
+				Basking Ridge NJ 07030
+				UNITED STATES
+
   48-5D-60   (hex)		Azurewave Technologies, Inc.
   485D60     (base 16)		Azurewave Technologies, Inc.
   				8F ., No.94, Baozhong Rd.
@@ -105211,6 +105230,13 @@
   				60 shimoishida,azabu-cho,
 				Miyoshi-shi Aichi-ken 470-0206
 				JAPAN
+
+  80-0B-51   (hex)		Chengdu XGimi Technology Co.,Ltd
+  800B51     (base 16)		Chengdu XGimi Technology Co.,Ltd
+  				5F Building A7,Tianfu Software Park,Tianfu
+				Avenue,Hi-tech Zone
+				Chengdu Sichuan 610041
+				CHINA
 
   80-0E-24   (hex)		ForgetBox
   800E24     (base 16)		ForgetBox
@@ -117394,6 +117420,12 @@
 				Houston Texas 77070
 				UNITED STATES
 
+  BC-EB-5F   (hex)		Fujian Beifeng Telecom Technology Co., Ltd.
+  BCEB5F     (base 16)		Fujian Beifeng Telecom Technology Co., Ltd.
+  				A-15, Huaqiao Economic Development Zone, Shuangyang, Luojiang,
+				quanzhou fujian 362000
+				CHINA
+
   BC-EC-23   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
   BCEC23     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
   				Unit A13-16/F,Skyworth Bldg
@@ -118631,6 +118663,13 @@
   				Dmitrovskoe shosse 157
 				Moscow  127411
 				RUSSIAN FEDERATION
+
+  C4-7D-46   (hex)		Fujitsu Limited
+  C47D46     (base 16)		Fujitsu Limited
+  				Musashi-kosugi Tower Place Bldg.,
+				403, Kosugi-cho 1-chome, Nakahara-ku
+				Kawasaki Kanagawa 211-0063
+				JAPAN
 
   C4-7D-4F   (hex)		CISCO SYSTEMS, INC.
   C47D4F     (base 16)		CISCO SYSTEMS, INC.
@@ -120423,8 +120462,8 @@
 				Seoul  152-847
 				KOREA, REPUBLIC OF
 
-  CC-EE-D9   (hex)		Deto Mechatronic GmbH
-  CCEED9     (base 16)		Deto Mechatronic GmbH
+  CC-EE-D9   (hex)		VAHLE DETO GmbH
+  CCEED9     (base 16)		VAHLE DETO GmbH
   				Gewerbepark Süd 11
 				Kufstein Tirol 6330
 				AUSTRIA
@@ -120691,6 +120730,13 @@
   				14F.-3, No.736, Zhongzheng Rd., Zhonghe Dist., New Taipei City 235, Taiwan (R.O.C.)
 				Taipei N/A 235
 				TAIWAN, PROVINCE OF CHINA
+
+  D0-4D-2C   (hex)		Roku, Inc
+  D04D2C     (base 16)		Roku, Inc
+  				12980 Saratoga Ave
+				Suite D
+				Saratoga CA 95070
+				UNITED STATES
 
   D0-4F-7E   (hex)		Apple
   D04F7E     (base 16)		Apple
