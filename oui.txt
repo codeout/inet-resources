@@ -1,4 +1,4 @@
-  Generated: Tue, 31 Mar 2015 05:00:03 -0400
+  Generated: Wed, 01 Apr 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -105033,6 +105033,12 @@
 				ECUISSES  71210
 				FRANCE
 
+  7C-C9-5A   (hex)		EMC
+  7CC95A     (base 16)		EMC
+  				176 South Street
+				Hopkinton MA 01748
+				UNITED STATES
+
   7C-CB-0D   (hex)		Antaira Technologies, LLC
   7CCB0D     (base 16)		Antaira Technologies, LLC
   				445 Capricorn St.
@@ -113509,6 +113515,12 @@
 				Groveport Ohio 43125
 				UNITED STATES
 
+  A8-D8-28   (hex)		Bayer HealthCare
+  A8D828     (base 16)		Bayer HealthCare
+  				777 Old Saw Mill River RD
+				Tarrytown NY 10791
+				UNITED STATES
+
   A8-D8-8A   (hex)		Wyconn
   A8D88A     (base 16)		Wyconn
   				Rennweg 97-99
@@ -114774,6 +114786,13 @@
   B07994     (base 16)		Motorola Mobility LLC
   				600 North US Hwy 45
 				Libertyville IL 60048
+				UNITED STATES
+
+  B0-7D-47   (hex)		Cisco Systems
+  B07D47     (base 16)		Cisco Systems
+  				80 West Tasman Dr.
+				SJCM/2
+				San Jose CA 95134
 				UNITED STATES
 
   B0-7D-62   (hex)		Dipl.-Ing. H. Horstmann GmbH
@@ -116200,6 +116219,12 @@
   B8653B     (base 16)		Bolymin, Inc.
   				13F-1, No.20, Ta-Long Rd.,
 				Taichung  40310
+				TAIWAN, PROVINCE OF CHINA
+
+  B8-69-C2   (hex)		Sunitec Enterprise Co., Ltd.
+  B869C2     (base 16)		Sunitec Enterprise Co., Ltd.
+  				1F., No.35, Dayong St., Zhonghe Dist.,
+				New Taipei City Taiwan 235
 				TAIWAN, PROVINCE OF CHINA
 
   B8-6B-23   (hex)		Toshiba
@@ -120029,6 +120054,12 @@
 				Indianapolis IN 46290
 				UNITED STATES
 
+  CC-37-AB   (hex)		Edgecore Networks Corportation
+  CC37AB     (base 16)		Edgecore Networks Corportation
+  				1 Creation Road 3.
+				Hsinchu Hsinchu 30077
+				TAIWAN, PROVINCE OF CHINA
+
   CC-39-8C   (hex)		Shiningtek
   CC398C     (base 16)		Shiningtek
   				No. 53, Nankeng 3 St
@@ -120168,6 +120199,13 @@
 				Minami-ikebukuro
 				Toshima-ku Tokyo 171-0022
 				JAPAN
+
+  CC-5F-BF   (hex)		Topwise 3G Communication Co., Ltd.
+  CC5FBF     (base 16)		Topwise 3G Communication Co., Ltd.
+  				6 Floor, A8 Music Building, Keyuan Road, High-Tech Park
+				Nanshan
+				Shenzhen Guangdong 518000
+				CHINA
 
   CC-60-BB   (hex)		Empower RF Systems
   CC60BB     (base 16)		Empower RF Systems
@@ -123679,6 +123717,13 @@
 				St. Martin a. W. Styria A-8580
 				AUSTRIA
 
+  DC-EB-94   (hex)		Cisco Systems
+  DCEB94     (base 16)		Cisco Systems
+  				80 West Tasman Dr.
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   DC-EC-06   (hex)		Heimi Network Technology Co., Ltd.
   DCEC06     (base 16)		Heimi Network Technology Co., Ltd.
   				Room 12B12, Block A2, Long-Term World Building,
@@ -126704,6 +126749,12 @@
 				Seoul 153-803
 				KOREA, REPUBLIC OF
 
+  F0-18-2B   (hex)		LG Chem
+  F0182B     (base 16)		LG Chem
+  				128, Yeoui-daero, Yeongdeungpo-gu,
+				Seoul Seoul 150-721
+				KOREA, REPUBLIC OF
+
   F0-1C-13   (hex)		LG Electronics
   F01C13     (base 16)		LG Electronics
   				60-39 , Kasan-dong, Gumcheon-gu
@@ -128227,6 +128278,12 @@
   				GuangDongShenZhen
 				ShenZhen GuangDong 518109
 				CHINA
+
+  F8-0D-60   (hex)		CANON INC.
+  F80D60     (base 16)		CANON INC.
+  				30-2 Shimomaruko 3-chome,
+				Ohta-ku Tokyo 146-8501
+				JAPAN
 
   F8-0D-EA   (hex)		ZyCast Technology Inc.
   F80DEA     (base 16)		ZyCast Technology Inc.
