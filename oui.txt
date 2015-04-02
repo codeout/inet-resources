@@ -1,4 +1,4 @@
-  Generated: Wed, 01 Apr 2015 05:00:03 -0400
+  Generated: Thu, 02 Apr 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -90207,6 +90207,12 @@
 				San Francisco CA 94105
 				UNITED STATES
 
+  30-8D-99   (hex)		Hewlett Packard
+  308D99     (base 16)		Hewlett Packard
+  				11445 Compaq Center Drive
+				Houston Tx 77070
+				UNITED STATES
+
   30-90-AB   (hex)		Apple
   3090AB     (base 16)		Apple
   				1 Infinite Loop
@@ -97750,6 +97756,12 @@
 				Suite A1
 				Beaverton OR 97006
 				UNITED STATES
+
+  58-F1-02   (hex)		BLU Products Inc.
+  58F102     (base 16)		BLU Products Inc.
+  				Tower 4, Excellence Century Center
+				Shenzhen Guangdong 518000
+				CHINA
 
   58-F3-87   (hex)		HCCP
   58F387     (base 16)		HCCP
