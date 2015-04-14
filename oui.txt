@@ -1,4 +1,4 @@
-  Generated: Mon, 13 Apr 2015 05:00:03 -0400
+  Generated: Tue, 14 Apr 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -34458,8 +34458,8 @@
 
   00-15-48   (hex)		CUBE TECHNOLOGIES
   001548     (base 16)		CUBE TECHNOLOGIES
-  				10, rue des Rosiéristes
-				CHAMPAGNE AU MONT D'OR FRANCE 69410
+  				46 A CHEMIN DU MOULIN CARRON
+				69570 DARDILLY FRANCE 
 				FRANCE
 
   00-15-49   (hex)		Dixtal Biomedica Ind. Com. Ltda
@@ -40335,11 +40335,12 @@
 				Selmsdorf Mecklenburg-Vorpommern 23923
 				GERMANY
 
-  00-18-EB   (hex)		BroVis Wireless Networks
-  0018EB     (base 16)		BroVis Wireless Networks
-  				19925 Stevens Creek Blvd
-				Cupertino CA 95014
-				UNITED STATES
+  00-18-EB   (hex)		Blue Zen Enterprises Private Limited
+  0018EB     (base 16)		Blue Zen Enterprises Private Limited
+  				No 2&3 (First Floor) Kurban Ali Street
+				Woods Road, Anna Salai
+				Chennai Tamil Nadu 600002
+				INDIA
 
   00-18-EC   (hex)		Welding Technology Corporation
   0018EC     (base 16)		Welding Technology Corporation
@@ -89840,6 +89841,12 @@
 				Zhejiang 310012
 				CHINA
 
+  30-0D-43   (hex)		Microsoft Mobile Oy
+  300D43     (base 16)		Microsoft Mobile Oy
+  				Keilalahdentie 2-4
+				Espoo N.A. 02150
+				FINLAND
+
   30-0E-D5   (hex)		Hon Hai Precision Ind.Co.Ltd
   300ED5     (base 16)		Hon Hai Precision Ind.Co.Ltd
   				66,Chung Shan Rd.Tu-Cheng
@@ -97335,6 +97342,12 @@
 				Shenzhen Guangdong 518000
 				CHINA
 
+  58-48-22   (hex)		Sony Mobile Communications AB
+  584822     (base 16)		Sony Mobile Communications AB
+  				Nya Vattentornet
+				Lund SE 22188
+				SWEDEN
+
   58-48-C0   (hex)		COFLEC
   5848C0     (base 16)		COFLEC
   				Parc d'activités du moulin de Massy
@@ -103045,6 +103058,13 @@
   				8F-1, No.186, Jian-Yi Road, ChungHo City,
 				Taipei  235
 				TAIWAN, PROVINCE OF CHINA
+
+  74-73-36   (hex)		MICRODIGTAL Inc
+  747336     (base 16)		MICRODIGTAL Inc
+  				10F, Acehighend tower 9th
+				233,Gasan Digital 1-Ro, Geumcheon-Gu
+				Seoul Seoul 153-803
+				KOREA, REPUBLIC OF
 
   74-75-48   (hex)		Amazon Technologies Inc.
   747548     (base 16)		Amazon Technologies Inc.
@@ -118201,6 +118221,13 @@
 				5-12-10 Higashiooi
 				Shinagawa-ku Tokyo 140-0011
 				JAPAN
+
+  C0-B7-13   (hex)		Beijing Xiaoyuer Technology Co. Ltd.
+  C0B713     (base 16)		Beijing Xiaoyuer Technology Co. Ltd.
+  				No.5 Guangshunbei Rd. Rm# B129
+				Chaoyang District
+				Beijing Beijing 100102
+				CHINA
 
   C0-B8-B1   (hex)		BitBox Ltd
   C0B8B1     (base 16)		BitBox Ltd
