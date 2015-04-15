@@ -1,4 +1,4 @@
-  Generated: Tue, 14 Apr 2015 05:00:03 -0400
+  Generated: Wed, 15 Apr 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -83258,6 +83258,12 @@
 				BEIJING  100083
 				CHINA
 
+  0C-75-6C   (hex)		Anaren Microwave, Inc.
+  0C756C     (base 16)		Anaren Microwave, Inc.
+  				6635 Kirkville Road
+				East Syracuse NY 13057
+				UNITED STATES
+
   0C-77-1A   (hex)		Apple
   0C771A     (base 16)		Apple
   				1 Infinite Loop
@@ -86297,6 +86303,12 @@
 				Shanghai 201613
 				CHINA
 
+  1C-40-24   (hex)		Dell Inc
+  1C4024     (base 16)		Dell Inc
+  				One Dell way
+				Round Rock Texas 78682
+				UNITED STATES
+
   1C-41-58   (hex)		Gemalto M2M GmbH
   1C4158     (base 16)		Gemalto M2M GmbH
   				St.-Martin-Strasse 60
@@ -86366,6 +86378,12 @@
   				No.85, Sec. 1, Fuxing Rd., South Dist
 				Taichung  402
 				TAIWAN, PROVINCE OF CHINA
+
+  1C-56-FE   (hex)		Motorola Mobility LLC, a Lenovo Company
+  1C56FE     (base 16)		Motorola Mobility LLC, a Lenovo Company
+  				222 West Merchandise Mart Plaza
+				Chicago IL 60654
+				UNITED STATES
 
   1C-5A-3E   (hex)		Samsung Eletronics Co., Ltd (Visual Display Divison)
   1C5A3E     (base 16)		Samsung Eletronics Co., Ltd (Visual Display Divison)
@@ -90196,6 +90214,12 @@
   				295 Phillip Street
 				Waterloo Ontario N2L 3W8
 				CANADA
+
+  30-7C-5E   (hex)		Juniper Networks
+  307C5E     (base 16)		Juniper Networks
+  				1133 Innovation Way
+				Sunnyvale CA 94089
+				UNITED STATES
 
   30-7E-CB   (hex)		SFR
   307ECB     (base 16)		SFR
@@ -98122,6 +98146,12 @@
 				Kulim Kedah 09000
 				MALAYSIA
 
+  5C-51-88   (hex)		Motorola Mobility LLC, a Lenovo Company
+  5C5188     (base 16)		Motorola Mobility LLC, a Lenovo Company
+  				222 West Merchandise Mart Plaza
+				Chicago IL 60654
+				UNITED STATES
+
   5C-56-ED   (hex)		3pleplay Electronics Private Limited
   5C56ED     (base 16)		3pleplay Electronics Private Limited
   				Plot No 54, Eshwarapuri Colony
@@ -103061,9 +103091,9 @@
 
   74-73-36   (hex)		MICRODIGTAL Inc
   747336     (base 16)		MICRODIGTAL Inc
-  				10F, Acehighend tower 9th
-				233,Gasan Digital 1-Ro, Geumcheon-Gu
-				Seoul Seoul 153-803
+  				10F, Ace High-End Tower 9th,
+				233, Gasan Digital 1-Ro, Geumcheon-Gu,
+				Seoul 153-803
 				KOREA, REPUBLIC OF
 
   74-75-48   (hex)		Amazon Technologies Inc.
@@ -126188,6 +126218,13 @@
   				350 EAST PLUMERIA DRIVE
 				SAN JOSE CALIFORNIA 95134
 				UNITED STATES
+
+  EC-01-33   (hex)		TRINUS SYSTEMS INC.
+  EC0133     (base 16)		TRINUS SYSTEMS INC.
+  				UNITECH VENTURE TOWN SUITE 801
+				142 ILSANRO ILSANDONG-GU
+				GOYANG-SI GYEONGGI-DO 410-722
+				KOREA, REPUBLIC OF
 
   EC-0E-C4   (hex)		Hon Hai Precision Ind. Co.,Ltd.
   EC0EC4     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
