@@ -15089,7 +15089,7 @@
 15323	BSD405 - Bellevue School District #405,US
 15324	BARRACUDA-NETWORKS-INC - Barracuda Networks, Inc.,US
 15325	CRVDNS - CRVDNS, Inc,US
-15326	BINARYBROADBAND - BINARY BROADBAND,CA
+15326	THERURALLINK - BINARY BROADBAND,CA
 15327	EFI-PGH-AS - Electronics for Imaging, Inc.,US
 15328	DATAPRISE-INC - Dataprise, Inc.,US
 15329	CUSTOMEDGE - Custom Edge Incorporated,US
@@ -19842,7 +19842,7 @@
 20169	EMPI-AS - EMPI, Inc.,US
 20170	MARITZFENTONMO - Maritz Inc.,US
 20171	ASN-VMC-01 - VMC Consulting,US
-20172	SUREWEST-20172 - SureWest Broadband,US
+20172	-Reserved AS-,ZZ
 20173	Televisa, S.A de C.V.,MX
 20174	WU - WESTERN UNION COMPANY,US
 20175	SETELAS - Birch Communications Inc.,US
@@ -20100,7 +20100,7 @@
 20428	GLOWPOINT-AS - Glowpoint Inc.,US
 20429	-Reserved AS-,ZZ
 20430	AXCESS-FINANCIAL - Axcess Financial Services, Inc.,US
-20431	SUREWEST-20431 - SureWest Broadband,US
+20431	-Reserved AS-,ZZ
 20432	ASN-SCBC-1 - SUGAR CREEK BAPTIST CHURCH,US
 20433	TL-MABOS - Cengage Learning Inc,US
 20434	FIRSTBEST - FirstBest Systems, inc,US
@@ -22162,7 +22162,7 @@
 22544	HOPLITE-CAPITAL - Hoplite Capital Management, LLC,US
 22545	ELAVON - ELAVON,US
 22546	-Reserved AS-,ZZ
-22547	SUREWEST-22547 - SureWest Broadband,US
+22547	-Reserved AS-,ZZ
 22548	Núcleo de Inf. e Coord. do Ponto BR - NIC.BR,BR
 22549	TBDSL-01 - PBX-Change,US
 22550	EXP-TOR2007A - Experian,US
@@ -24547,7 +24547,7 @@
 25045	EPH-AS EuropaPress Holding d.o.o.,HR
 25046	CHECKPOINT Check Point Software Technologies LTD,IL
 25047	-Reserved AS-,ZZ
-25048	DSNETHOSTING DSNet Hosting Limited,GB
+25048	DSNET DSNet,GB
 25049	STASCO-UK-AS Shell Information Technology International B.V.,GB
 25050	BACS-AS VOCALINK LTD,GB
 25051	ISNET-AS Informservice & Co Ltd.,RU
@@ -29086,7 +29086,7 @@
 29780	WOW-INTERNET-CLV - WideOpenWest Finance LLC,US
 29781	ECPI-AS - ECPI Colleges, Inc.,US
 29782	VIDEOJET-TECHNOLOGIES - Videojet Technologies,US
-29783	-Reserved AS-,ZZ
+29783	AS29783 - Basswood Capital Management LLC,US
 29784	GREENLIGHT-CAPITAL - Greenlight Capital,US
 29785	MTRX-PDX - Matrix Networks,US
 29786	ABRAMSCAPITALMANAGEMENTLLC - Abrams Capital Management, LLC,US
@@ -29812,7 +29812,7 @@
 30506	BLACKSUN-1 - Blacksun Technologies LLC,US
 30507	GLWIZ - Gold Line Telemanagement,  Inc.,CA
 30508	SOC-TXDPS - Texas Department of Public Safety,US
-30509	-Reserved AS-,ZZ
+30509	PRO-1 - PROTECTION ONE,US
 30510	PHNS - Anthelio Healthcare Solutions Inc,US
 30511	MEDIASPAN - Mediaspan Group, Inc.,US
 30512	RIDGEVIEW-MEDICAL-CENTER - Ridgeview Medical Center,US
@@ -31707,7 +31707,7 @@
 32433	PALLFURNPARK - Palliser Furniture Upholstery Ltd.,CA
 32434	IH-SOLUTIONS - INTEGRATED HEALTHCARE SOLUTIONS, INC.,US
 32435	DOTALLIANCE-ANYCAST - DotAlliance,CA
-32436	FSRAD-1 - Radisphere National Radiology Group Inc,US
+32436	CANDESCENT-HEALTH-AS - Radisphere National Radiology Group Inc,US
 32437	CYBERTEK-ZA,ZA
 32438	GRO-UCFUSM-1N - Michigan State University Federal Credit Union,US
 32439	ALTOVA-BOS - Altova, Inc.,US
@@ -33229,7 +33229,7 @@
 33965	LITECOM Litecom AG,CH
 33966	-Reserved AS-,ZZ
 33967	GB-LANCSCC Lancashire County Council,GB
-33968	INTERNETENGINEERINGAS Internet Engineering Limited,GB
+33968	INTERNETENGINEERINGAS Internet Engineering Ltd - part of the iomart group,GB
 33969	CTCTVER OJSC "RT Labs",RU
 33970	OPENHOSTING M247 Ltd,GB
 33971	BANCPOST-AS Bancpost S.A,RO
@@ -35114,7 +35114,7 @@
 35886	STEPHENS-MEDIA-LLC - Stephens Media LLC,US
 35887	PRECISION-DRILLING-AS-1 - Precision Drilling Corporation,CA
 35888	VIGNETTE - VIGNETTE CORPORATION,US
-35889	WFBHSV - Worthington Federal Bank,US
+35889	WFBHSV - American Bank of Huntsville,US
 35890	GII - GLOBAL INTERNETWORKING,US
 35891	NLB-ASN - Norwood Light Broadband,US
 35892	DRCC-ASN - DETROIT REGIONAL CHAMBER,US
@@ -62068,6 +62068,11 @@
 63479	MW-NAURORA-1200 - Midwest Warehouse & Distribution System, Incorporated,US
 63480	PSTSONLINE - ProSource Technology Solutions,US
 63481	BCRH - BAXTER COUNTY REGIONAL HOSPITAL, INC,US
+63482	FNW-MIDDLEVILLE - FreedomNet,US
+63483	SKYNET-AS-1 - Skynet,US
+63484	PAYMO - Paymobile Inc.,CA
+63485	PATRIOT-ASN - Patriot Web Solutions,US
+63486	MCCS - HQ USMC NAF Business & Support Services Division (MR),US
 63488	IDNIC-TOTALTEKNO-AS-ID PT Total Trimitra Teknologi,ID
 63489	IDNIC-BPRTIK-AS-ID Balai Pelatihan Riset TIK BLSDM Kemkominfo,ID
 63490	IDNIC-ARTHAHOSTING-AS-ID PT Artha Media Lintas Nusa,ID
@@ -65052,7 +65057,7 @@
 133477	HERATWEB-AS-AP Heratweb Service Group,AF
 133478	COMSENZ-AS-AP Comsenz,CN
 133479	ADPDSI-AS-AP DSI Singapore,SG
-133480	WOMBATSERVERS-AS-AP Wombat Servers Pty. Ltd.,AU
+133480	WOMBATSERVERS-AS-AP Wombat Servers,AU
 133481	SBN-FBB-AS-AP Fixed Broadband Network,TH
 133482	AIATSPL-AS-AP Athena IT and telecom Solutions P Ltd,IN
 133484	LGW-AS-AP Lao Gateway Co., Ltd,LA
@@ -72068,7 +72073,6 @@
 263678	serverloft, Infraestrutura e Datacenter.,BR
 263679	Servidor na Web Data Center Ltda,BR
 263680	THOMAS GREG & SONS LIMITED (GUERNSEY) S.A.,CO
-263681	,
 263682	CHILENETWORKS SPA,CL
 263683	Universidad de Costa Rica,CR
 263684	Internet Services S.A.,AR
@@ -73387,3 +73391,5 @@
 393887	BIAMP-HQ - BIAMP SYSTEMS CORPORATION,US
 393888	SQUAR-12-AS-1 - SQUARETRADE, INC.,US
 393889	EIGHTJOY-NETWORK-LLC - EightJoy Network LLC,US
+393890	BTEKSO - BTEK SOFTWARE,US
+393891	POTASHCORP - Potash Corporation of Saskatchewan, Inc.,CA
