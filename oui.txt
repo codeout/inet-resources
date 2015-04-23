@@ -1,4 +1,4 @@
-  Generated: Wed, 22 Apr 2015 05:00:03 -0400
+  Generated: Thu, 23 Apr 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -24024,12 +24024,12 @@
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-  00-0E-D8   (hex)		Aktino, Inc.
-  000ED8     (base 16)		Aktino, Inc.
-  				18551 Von Karman Avenue
-				Suite 201
-				Irvine CA 92612
-				UNITED STATES
+  00-0E-D8   (hex)		Positron Access Solutions Corp
+  000ED8     (base 16)		Positron Access Solutions Corp
+  				5101 Buchan Street
+				Suite 220
+				Montreal, Quebec H4P 2R9
+				CANADA
 
   00-0E-D9   (hex)		Aksys, Ltd.
   000ED9     (base 16)		Aksys, Ltd.
@@ -120145,6 +120145,12 @@
   				Via Germania, 34
 				PADOVA  35127
 				ITALY
+
+  C8-F9-C8   (hex)		NewSharp Technology(SuZhou)Co,Ltd
+  C8F9C8     (base 16)		NewSharp Technology(SuZhou)Co,Ltd
+  				1st/f.building 7th No.328 XingHu street SuZhou City
+				SuZhou City JiangSu Province 215123
+				CHINA
 
   C8-F9-F9   (hex)		CISCO SYSTEMS, INC.
   C8F9F9     (base 16)		CISCO SYSTEMS, INC.
