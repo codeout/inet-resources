@@ -1,4 +1,4 @@
-  Generated: Fri, 24 Apr 2015 05:00:03 -0400
+  Generated: Sat, 25 Apr 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -95615,6 +95615,12 @@
 				Hamburg 22763
 				GERMANY
 
+  4C-B8-2C   (hex)		Cambridge Mobile Telematics, Inc.
+  4CB82C     (base 16)		Cambridge Mobile Telematics, Inc.
+  				One Broadway, 14th Floor
+				Cambridge MA 02142
+				UNITED STATES
+
   4C-B9-C8   (hex)		CONET CO., LTD.
   4CB9C8     (base 16)		CONET CO., LTD.
   				2-8,HIGASHIJIMA-CHO
@@ -122227,6 +122233,12 @@
 				Espelkamp North Rhine Westphalia 32339
 				GERMANY
 
+  D4-7B-B0   (hex)		ASKEY COMPUTER CORP
+  D47BB0     (base 16)		ASKEY COMPUTER CORP
+  				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI TAIWAN 23585
+				TAIWAN, PROVINCE OF CHINA
+
   D4-81-CA   (hex)		iDevices, LLC
   D481CA     (base 16)		iDevices, LLC
   				136 Simsbury, Rd
@@ -125373,6 +125385,12 @@
   				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+  E4-A3-2F   (hex)		Shanghai Artimen Technology Co., Ltd.
+  E4A32F     (base 16)		Shanghai Artimen Technology Co., Ltd.
+  				Room 4462, Third Building, No. 505, Xinge Road, Xinqiao Town, SongJiang District, Shanghai City, China
+				Shanghai Shanghai 201206
+				CHINA
 
   E4-A5-EF   (hex)		TRON LINK ELECTRONICS CO., LTD.
   E4A5EF     (base 16)		TRON LINK ELECTRONICS CO., LTD.
