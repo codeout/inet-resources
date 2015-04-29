@@ -1,4 +1,4 @@
-  Generated: Tue, 28 Apr 2015 05:00:03 -0400
+  Generated: Wed, 29 Apr 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -82661,6 +82661,13 @@
 				Silverwater New South Wales 2128
 				AUSTRALIA
 
+  08-94-EF   (hex)		Wistron Infocomm (Zhongshan) Corporation
+  0894EF     (base 16)		Wistron Infocomm (Zhongshan) Corporation
+  				No.38,East Keji Road
+				Zhongshan Torch Development Zone
+				Zhongshan Guangdong 528437
+				CHINA
+
   08-95-2A   (hex)		Technicolor CH USA Inc
   08952A     (base 16)		Technicolor CH USA Inc
   				101 West 103rd Street
@@ -88477,6 +88484,13 @@
 				SJCM/2
 				San Jose CA 95134
 				UNITED STATES
+
+  28-37-13   (hex)		Shenzhen 3Nod Digital Technology Co., Ltd.
+  283713     (base 16)		Shenzhen 3Nod Digital Technology Co., Ltd.
+  				Building D, No.8 Langhui Road,
+				Tangxiayong Community, Songgang Street, Baoan District, Shenzhen City,
+				Shenzhen Guangdong 518105
+				CHINA
 
   28-37-37   (hex)		Apple
   283737     (base 16)		Apple
@@ -99650,6 +99664,13 @@
 				173 Des Voeux Road Central
 				00852
 				HONG KONG
+
+  64-0D-E6   (hex)		Petra Systems
+  640DE6     (base 16)		Petra Systems
+  				One Cragwood Road
+				Suite 303
+				South Plainfield NJ 07080
+				UNITED STATES
 
   64-0E-36   (hex)		TAZTAG
   640E36     (base 16)		TAZTAG
@@ -114250,6 +114271,12 @@
 				Sunnyvale CA 94085
 				UNITED STATES
 
+  AC-67-6F   (hex)		Electrocompaniet A.S.
+  AC676F     (base 16)		Electrocompaniet A.S.
+  				Breivikveien 7
+				Tau Rogaland 4120
+				NORWAY
+
   AC-6B-AC   (hex)		Jenny Science AG
   AC6BAC     (base 16)		Jenny Science AG
   				Sandblatte 7a
@@ -124411,6 +124438,12 @@
 				Singapore Singapore 569088
 				SINGAPORE
 
+  E0-55-3D   (hex)		Cisco Meraki
+  E0553D     (base 16)		Cisco Meraki
+  				500 Terry A. Francois Blvd
+				San Francisco California 94158
+				UNITED STATES
+
   E0-55-97   (hex)		Emergent Vision Technologies Inc.
   E05597     (base 16)		Emergent Vision Technologies Inc.
   				SUITE# 239 - 552A CLARKE ROAD
@@ -130136,10 +130169,10 @@
 				Kista  SE-16440
 				SWEDEN
 
-  FC-AF-AC   (hex)		Panasonic System LSI
-  FCAFAC     (base 16)		Panasonic System LSI
-  				1 Kotari-yakemachi
-				Nagaokakyo Kyoto 617-8520
+  FC-AF-AC   (hex)		Socionext Inc.
+  FCAFAC     (base 16)		Socionext Inc.
+  				19 Nishikujo-Kasuga-cho
+				Minaki-ku Kyoto 601-8413
 				JAPAN
 
   FC-B0-C4   (hex)		Shanghai DareGlobal Technologies Co., Ltd
