@@ -15682,7 +15682,7 @@
 15965	AS15965 CEGECOM SA - Luxembourg,LU
 15966	EMANGO Emango Internet Services BV,NL
 15967	NAZWAPL nazwa.pl S.A.,PL
-15968	NETPILOT NETpilot GmbH,DE
+15968	NET4SEC net4sec UG,DE
 15969	SYSTEMIA-AS Systemia.pl Sp. z o.o.,PL
 15970	KPY-AS DNA Oy,FI
 15971	-Reserved AS-,ZZ
@@ -28988,7 +28988,7 @@
 29711	MAPLE-FINANCIAL - Maple Financial,CA
 29712	GALAXY - FiservGALAXY 2000 Division,US
 29713	ELIA-60 - Reliable Hosting Services,US
-29714	NAHB-RESEARCH-CENTER - NAHB Research Center,US
+29714	NAHB-RESEARCH-CENTER - Home Innovation Research Labs, Inc.,US
 29715	LCCC - Laramie County Community College,US
 29716	ASNOTS - Otsuka America Pharmaceutical, Inc.,US
 29717	OMEDA-29717 - Omeda Communications,US
@@ -29240,7 +29240,7 @@
 29963	MARYKAY-NA - Mary Kay Inc.,US
 29964	MCCORMICK-AND-COMPANY - McCormick & Company Inc.,US
 29965	FRONTCLOUD-ASN-1 - Front Cloud LLC,US
-29966	MAILWELL-PRINT-DRS - MAILWELL PRINT,US
+29966	-Reserved AS-,ZZ
 29967	ARAMARK-NS - ARAMARK,US
 29968	ASN-NETSYNC - Dunkirk & Fredonia Telephone Company,US
 29969	AS-PROTOCOL - BI Incorporated,US
@@ -31624,7 +31624,7 @@
 32379	SOUTHERN-GRAPHIC-SYSTEMS-INC - Southern Graphic Systems, Inc,US
 32380	SESSIONM-1 - SessionM, Inc,US
 32381	WIDEVINE - Widevine Technologies,US
-32382	ATOS-ORIGIN-INTERNET-AS - ATOS ORIGIN,US
+32382	ATOS-ORIGIN-INTERNET-AS - Atos IT Solutions and Services Inc,US
 32383	ROME-NET - ROME Sverdrup,US
 32384	MILLERWELDSASN01 - MILLER Electric Mfg. Co.,US
 32385	INTELEPEER-US-BACKBONE - IntelePeer, Inc.,US
@@ -31893,7 +31893,7 @@
 32648	MNAT - Morris, Nichols, Arsht and Tunnel,US
 32649	FE-DC-BGP - FRANKLIN ELECTRIC CO., INC.,US
 32650	SANDHILLS-SW - SANDHILLS PUBLISHING,US
-32651	COVENANT - Covenant Services Worldwide, LLC,US
+32651	-Reserved AS-,ZZ
 32652	ASHERECHICAGODC - HERE North America LLC,US
 32653	ENETWORKS,ZA
 32654	TWRS-CHI - Towerstream I, Inc.,US
@@ -32673,7 +32673,7 @@
 33428	NHS-39AS - The New-York Historical Society,US
 33429	NMT-DENVER - Newmont USA Limited,US
 33430	VTSILAS - Vantage Technologies Systems Integration, LLC,US
-33431	JELLYDIGITAL - Jelly Digital,US
+33431	ROSSTECH - Ross Technology Inc.,US
 33432	INFB3-AS - InternetNamesForBusiness.com,US
 33433	CLINICOMP - CLINICOMP INTERNATIONAL, INC.,US
 33434	PEMPASNAME01 - FEDERAL HOME LOAN BANK OF SEATTLE,US
@@ -33312,6 +33312,7 @@
 34086	SCZN-AS T-Systems International GmbH,DE
 34087	NTE-BREDBAND NTE Bredband, Norway,NO
 34088	BELLAXA-AS PlusServer AG,DE
+34089	NEARMEDIC-AS LLC NEARMEDIC PLUS,RU
 34090	PAYSAFE-AT-AS paysafecard.com Wertkarten AG,DE
 34091	-Reserved AS-,ZZ
 34092	TVCOM-AS TVCOM Ltd.,UA
@@ -33333,7 +33334,9 @@
 34108	BREEDBANDDELFT Stichting Breedband Delft,NL
 34109	AS34109 Tilaa B.V.,NL
 34110	NETWORK-IE-AS Vu2Vu Ireland Limited,IE
+34111	ASBOKOV PE Bokov Nikolay Nikolayevich,RU
 34112	ILCA ILCA Internet (ILCA, JSC),RU
+34113	NS-REALISP1 Real-ISP SARL,LB
 34114	ZONA-FRANCA-CADIZ-AS Consorcio de la Zona Franca de Cadiz,ES
 34115	NAVTEQ-AS Navteq (DE) GmbH,DE
 34116	-Reserved AS-,ZZ
@@ -36922,7 +36925,7 @@
 37709	Cloud-Temple,TN
 37710	AIXP-Route-Server,TZ
 37711	SeaBreeze,BW
-37712	Malswitch,ZZ
+37712	Malswitch,MW
 37713	-Reserved AS-,ZZ
 37714	-Reserved AS-,ZZ
 37715	-Reserved AS-,ZZ
@@ -53855,7 +53858,7 @@
 54870	SESCO-ASN - SESCO Enterprises LLC,US
 54871	GNUSA-FL - Global Network USA,US
 54872	PMHALLIANCE - Pennsylvania Mountains Healthcare Alliance LLC,US
-54873	-Reserved AS-,ZZ
+54873	LISS-NET - LISS Consulting Corp.,US
 54874	CENTRAL-GROCERS - Central Grocers Inc.,US
 54875	SBKTELECOM - SBK TELECOM,CA
 54876	ROKABEAR - ROKABEAR LLC,US
@@ -54976,7 +54979,7 @@
 56102	THINAIR-AS-AP Ground Floor,AU
 56103	IXLINK-HK Rm 217 Lincoln Center,HK
 56104	MEDICARE_AUSTRALIA Optus Customer Network,AU
-56105	DOEECD-AS-AP Department of Education and Early Childhood Development,AU
+56105	VICDET-AS-AP Department of Education and Training - Victoria,AU
 56106	DEDICATEDGAMING-AU DEDICATEDGAMING.COM.AU -  Hosting Provider AUSTRALIA,AU
 56107	JAGRAN-NET-IN Jagran Building,IN
 56108	PFLNET4-IN PrimeFocus House Opp Citi Bank,IN
@@ -59786,7 +59789,7 @@
 61069	-Reserved AS-,ZZ
 61070	CDCW-PWC Pricewaterhouse Coopers Services Ltd,GB
 61071	NETBOX-AS Netbox Ltd.,BG
-61072	EZCLD-AS EZCloud LIMITED,GB
+61072	EZNET-AS EZNet LIMITED,GB
 61073	TELEMEDIASRL-AS TELEMEDIA SRL,RO
 61074	SKRK-AS Military Unit 3034,RU
 61075	NETTELECOM-AS Nettelecom Ltd.,RU
@@ -60489,7 +60492,7 @@
 61902	Bahialink - Technology,BR
 61903	MUNICIPIO DE NOVO HAMBURGO,BR
 61904	GERAIS ON LINE INFORMATICA LTDA - ME,BR
-61905	CONNECTVIP ISP,BR
+61905	A K DE SOUZA MARINHO ME,BR
 61906	UNIMAX TELECOM,BR
 61907	NOVINET TELECOM LTDA - ME,BR
 61908	Nova Net Telecomunicações Ltda,BR
@@ -65673,6 +65676,8 @@
 134168	BIG-AS-AP Brunei International Gateway Sdn Bhd,BN
 134169	CERNET-SJTU-AS-AP Shanghai Jiaotong University Campus Network,CN
 134170	CAVITE-AS-AP PROVINCIAL GOVERNMENT OF CAVITE,PH
+134171	LZDSEA-AS-AP Lazada South East Asia Pte. Ltd.,SG
+134172	HJNTCL-CN Colocation at China Telecom Hong Kong datacenter at Shatin,CN
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -69130,6 +69135,12 @@
 200189	BNM Banca Nationala a Moldovei,MD
 200190	VIPTEL-AS VIP IT Telecom LLC,RU
 200191	RAFFEL-INTERNET Raffel Internet B.V.,NL
+200699	SHOCKSRV-AS ShockSRV Internet Services Private Limited,NL
+200700	BMC_UK-1 Broadcast Media Communications Ltd,GB
+200701	LYSSNA-NJUT-AB Lyssna & Njut Radio & TV AB,SE
+200702	SPKVA-NET SP Kazakov Viktor Aleksandrovich,RU
+200703	MEWA MEWA Textil-Service AG & Co. Management OHG,DE
+200704	LANDERHOLM Johan Landerholm,SE
 200705	NETSUITE-EU Venda Limited,NL
 200706	ONEIT Novabase IMS-Infrastructures & Managed Services S.A.,PT
 200707	APPMAIL Appmail Ltd,GB
@@ -72848,7 +72859,7 @@
 327872	IBITS-Internet,ZA
 327873	KALDERA,MU
 327874	PYXISE-SARL,RE
-327875	Malswitch,MW
+327875	,
 327876	Societe-TLDC,GA
 327877	EBS,DZ
 327878	Estate-Connexions,ZA
@@ -73281,7 +73292,7 @@
 393642	PRYORCASHMAN-NY - PRYOR CASHMAN LLP,US
 393643	GLOBUSGVI - GlobusFamily,US
 393644	OTR-GLOBAL-LLC - OTR Global LLC,US
-393645	OMSI - OMSI,US
+393645	-Reserved AS-,ZZ
 393646	PRIMELINK-ASN - Primelink Services LLC,US
 393647	ADR-NY - Anandar Capital Management LP,US
 393648	ACTON-SOFTWARE - Act-On Software,US
@@ -73568,3 +73579,9 @@
 393929	SIMPATICO - Simpatico Systems,US
 393930	LINK2CLOUD - Garvoo Inc,US
 393931	HS-AS-001 - HealthStream, Inc.,US
+393932	ENCODING-COM-INC - Encoding.com Inc.,US
+393933	TPR-ASN1 - The Princeton Review,US
+393934	CLEARSLIDE-AS - ClearSlide, Inc.,US
+393935	SCCU - Sierra Central Credit Union,US
+393936	TULSA-COUNTY - Metropolitan Tulsa Electronic Network,US
+393937	MCS-PUBLIC-NET - Medical Card System, Inc.,PR
