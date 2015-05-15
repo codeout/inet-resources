@@ -12705,7 +12705,6 @@
 12936	ECCE-TERRAM-DE ECCE TERRAM Internet Services GmbH,DE
 12937	-Reserved AS-,ZZ
 12939	HANSE-AS Hanse Holding AB,SE
-12940	,
 12941	INTERSAAR-AS intersaar GmbH,DE
 12942	NRB-AS Network Research Belgium,BE
 12943	-Reserved AS-,ZZ
@@ -16751,7 +16750,7 @@
 17069	Coop Telefonica Villa Gesell Ltda,AR
 17070	UBSW-CHICAGO - UBS AG,US
 17071	UBSW-STAMFORD - UBS AG,US
-17072	Iusacell PCS de Mexico, S.A. de C.V.,MX
+17072	TOTAL PLAY TELECOMUNICACIONES SA DE CV,MX
 17073	ALLEGISGROUP7312 - Allegis Group,US
 17074	SEPHIL-YIPES-65-175-52-0-A - Saul Ewing LLP,US
 17075	PARA-1 - Parago Inc,US
@@ -17919,7 +17918,7 @@
 18269	KAI Kai Creates Inc.,JP
 18270	TOIN Toin University of Yokohama,JP
 18271	EVONET Sojitz Systems Corporation,JP
-18272	SYNFORM-NET SYNFORM CO.,LTD,JP
+18272	JPNIC-ASBLOCK-AP JPNIC,JP
 18273	JPNIC-ASBLOCK-AP JPNIC,JP
 18274	UCATV Utsunomiya Cable TV Corporation,JP
 18275	JPNIC-ASBLOCK-AP JPNIC,JP
@@ -22457,7 +22456,7 @@
 22881	USBANCORP-2 - US Bancorp (formerly Firstar Bank),US
 22882	CEMEX Central, S.A. de C.V.,MX
 22883	CONDENAST - CondeNast Publications,US
-22884	Iusacell PCS de Mexico, S.A. de C.V.,MX
+22884	TOTAL PLAY TELECOMUNICACIONES SA DE CV,MX
 22885	ASI - Advertising Specialty Institute,US
 22886	ICI-ATL - Incomm,US
 22887	WIU-AS - Western Illinois University,US
@@ -26703,7 +26702,7 @@
 27291	FRYS-ELECT - Fry's Electronics Inc.,US
 27292	RESMED-AS-SAN - ResMed Corp.,US
 27293	BANKOFCANADA - The Bank of Canada,CA
-27294	ST-JOHN-NETWORK - Reserve Long Distance Company, Inc,US
+27294	RESERVETEL - Reserve Long Distance Company, Inc,US
 27295	-Reserved AS-,ZZ
 27296	WU-PRIMARY - Wilmington University, Inc.,US
 27297	PGTECHNOLOGY - PG TECHNOLOGY, INC.,US
@@ -36935,7 +36934,7 @@
 37710	AIXP-Route-Server,TZ
 37711	SeaBreeze,BW
 37712	Malswitch,MW
-37713	Access-Communications-Ltd,ZZ
+37713	Access-Communications-Ltd,MW
 37714	-Reserved AS-,ZZ
 37715	-Reserved AS-,ZZ
 37716	-Reserved AS-,ZZ
@@ -40562,7 +40561,7 @@
 41436	-Reserved AS-,ZZ
 41437	KNAPP-AS KNAPP AG,AT
 41438	MSCI-AS MSCI Barra SA,CH
-41439	M-ONLINE Mobitel Communication Sh.p.k,AL
+41439	ALCOMM Mobitel Communication Sh.p.k Alcomm,AL
 41440	SIBIRTELECOM-AS OJSC Rostelecom,RU
 41441	-Reserved AS-,ZZ
 41442	SNT-AS S&T Services Polska Sp. z o.o.,PL
@@ -41586,7 +41585,7 @@
 42460	PLUS_GRX_ASN Mobile 4 AL Sh.A.,AL
 42461	ORVISS-COMMERCIAL-NETWORK Orviss Commercial Network Co Ltd,IR
 42462	MONEYBACK MONEYBACK S.L,ES
-42463	ASAGESCI AGESCI - Associazione Guide e Scout Cattolici Italiani,IT
+42463	AS-AGESCI AGESCI - Associazione Guide e Scout Cattolici Italiani,IT
 42464	DER-ASN1 Deutsches Reisebuero GmbH,DE
 42465	WHS-ANYCAST-ASN Websense Hosted Security - Anycast network,GB
 42466	METEORIC-AS Meteoric Ltd,GB
@@ -57740,7 +57739,7 @@
 58915	TRACTPTYLTD-AS-AP Tract Pty Ltd,AU
 58916	JETSYSTEMSPTYLTD-AS-AP Jet Systems Pty Ltd,AU
 58917	MH-BD M&H Informatics (BD) Ltd.,BD
-58918	BCC-MANGOCLIENT-AS-AP Bangladesh Computer Council,BD
+58918	MANGOTEST-AS-AP Test Public ASN MANGO_BTRC ISS POC,BD
 58919	GIL-AS-AP GRAMEENPHONE IT LTD. AS No.,BD
 58920	IPSECPTYLTD-AS-AP IPSec Pty Ltd,AU
 58921	CSL-AS-AP Capricorn Society Limited,AU
@@ -57919,6 +57918,7 @@
 59168	CHANNEL9-AS-IN CHANNEL9 CABLE NETWORK,IN
 59169	KNDG-AS KNGD INFOSYS PVT LTD,IN
 59170	WALLDEPOT-AS Wall Depot Telecom Sevices Ltd,IN
+59171	MATRIXTECHLABS-AS-IN Matrix Tech Labs,IN
 59172	BYTENET-AS 3pleplay Broadband Private Limited,IN
 59177	POWERGRID-AS Power Grid Corporation of India Limited,IN
 59179	MINS-AS MINS Technologies Private Limited,IN
@@ -65556,6 +65556,7 @@
 133979	NCAOR-AS-IN NATIONAL CENTRE FOR ANTARCTIC AND OCEAN RESEARCH,IN
 133980	BPS-AS-IN BPS COMMUNICATION AND SERVICES PRIVATE LIMITED,IN
 133981	SAISNET-AS-IN SAI AKSHAY INTERNET SERVICES PRIVATE LIMITED,IN
+133982	EXCITEL-AS-IN Excitel Broadband Private Limited,IN
 133986	NAGESHWAR-AS Nageshwar Wireless Technology Private Limited,IN
 133987	ORIFLAME-AS-IN Oriflame India Pvt Ltd,IN
 133988	MEGAMSYS-AS-IN Megam Systems,IN
@@ -65715,6 +65716,9 @@
 134180	BRISKSYSTEMS-AS-AP Md. Shariful Islam T/A BRISK SYSTEMS,BD
 134181	DGEWIN-AS-AP Tas Communications Pty Ltd,AU
 134183	PROGRESSIT-AS-AP Progress I.T. Pty Ltd,AU
+134184	JOEYS-AS-AP MARIST BROTHERS ST JOSEPHS COLLEGE,AU
+134185	EXABYTELIMITED-AS-AP Exabyte Limited,BD
+134186	PARADISETEC-AS-AP Paradise Technologies Limited,BD
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -72516,6 +72520,9 @@
 264245	TURKYNET TECNOLOGIA EM INTERNET, SEGURANÇA E TELEF,BR
 264246	globaltech telecomunicações e informatica ltda me,BR
 264247	Maila Networks,BR
+264248	BandeiraNet Telecomunicações Ltda ME,BR
+264249	Lyra Network Telecomunicações LTDA,BR
+264250	Marisa C. K. Martins,BR
 264349	ABSOLUTNET LTDA - ME,BR
 264350	Rebouças On Line Comunicações Ltda,BR
 264351	Wuzu Telecom Ltda,BR
@@ -72969,6 +72976,8 @@
 327879	AJYWA-TELECOM,CD
 327880	Multichoice-Support-Services,ZA
 327881	NICDC,SD
+327882	RPKI-AFRINIC-TEST,MU
+327883	EAGLE-EYE,EG
 393216	B6 - B.Root-Servers-OPS,US
 393217	ASN4-TELUS - TELUS Communications Inc.,CA
 393218	HOSTLEASING - Host Leasing Corporation,US
@@ -73734,3 +73743,6 @@
 393978	IDCO-TT - Interactive Data,US
 393979	CLEARSKYDATA-PUBLIC - ClearSky Data Inc,US
 393980	GVHAZ - Green Valley Hospital LLC.,US
+393981	CNH-NY - Palladian Properties LLC,US
+393982	WIDEORBIT-WOCLOUD - WideOrbit Inc,US
+393983	WWWROCKFORD - Wolverine Worldwide,US
