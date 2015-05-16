@@ -1,4 +1,4 @@
-  Generated: Fri, 15 May 2015 05:00:03 -0400
+  Generated: Sat, 16 May 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -109253,6 +109253,9 @@
 				Shanghai  201613
 				CHINA
 
+  90-6F-18   (hex)		PRIVATE
+  906F18     (base 16)		 
+
   90-70-25   (hex)		Garea Microsys Co.,Ltd.
   907025     (base 16)		Garea Microsys Co.,Ltd.
   				4th Floor, Building 2, Software Park
@@ -110975,6 +110978,13 @@
   				611 North Main Street
 				Goldfield IA 50543
 				UNITED STATES
+
+  98-CB-27   (hex)		Galore Networks Pvt. Ltd.
+  98CB27     (base 16)		Galore Networks Pvt. Ltd.
+  				#D1104, Salarpuria Serenity, 41A,
+				5th Main, 7th Sector, HSR Layout
+				Bangalore Karnataka 560068
+				INDIA
 
   98-CD-B4   (hex)		Virident Systems, Inc.
   98CDB4     (base 16)		Virident Systems, Inc.
