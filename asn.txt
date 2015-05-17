@@ -12175,7 +12175,7 @@
 12385	-Reserved AS-,ZZ
 12386	ASALPI Orange Catalunya Xarxes de Telecomunicacions S.A.,ES
 12387	TON TON Total optical Networks AG,CH
-12388	Casey CableVision Ltd.,IE
+12388	CABLESURF Casey CableVision Ltd.,IE
 12389	ROSTELECOM-AS OJSC Rostelecom,RU
 12390	KINGSTON-UK-AS KCOM Group Public Limited Company,GB
 12391	-Reserved AS-,ZZ
@@ -14762,7 +14762,7 @@
 15019	ZAPPOS - Zappos.com, Inc.,US
 15020	WSOL - WebSolutions Technology,US
 15021	NOOSH - NOOSH, INC,US
-15022	CHICKASAW,ZA
+15022	ADEPT-ZA,ZA
 15023	LOTUS-CANTON - Lotus International Company,US
 15024	PACKET-WORKS - Packetworks Inc.,CA
 15025	CTF - CTF HOLDINGS, INC (dba CTF HOTELS AND RESORTS),US
@@ -22475,7 +22475,7 @@
 22900	ITRON - ITRON,US
 22901	ATL-OFFICE - Noble Systems Corporation,US
 22902	DNIC-AS-22902 - DoD Network Information Center,US
-22903	EDGEWEBHOSTING - Edge Hosting, LLC,US
+22903	EDGE-HOSTING - Edge Hosting, LLC,US
 22904	WSITS - Winning Strategies ITS,US
 22905	SOFTCOMUS - SoftCom America Inc.,US
 22906	TWAI - FRIT ,US
@@ -35831,7 +35831,7 @@
 36595	PPI - Payment Processing Inc.,US
 36596	FACC - Florida Association of Court Clerks, Inc.,US
 36597	OMNITI-COMPUTER-CONSULTING-INC - OmniTI Computer Consulting Inc.,US
-36598	LAYERBYTENETWORKS - Layerbyte Networks Inc,CA
+36598	LAYERBYTENETWORKS - Layerbyte Networks Inc,US
 36599	-Reserved AS-,ZZ
 36600	FROEDTERT-COMMUNITY-HELATH - Froedtert Memorial Lutheran Hospital, Inc.,US
 36601	TNT - Terra Nova Telecom, Inc.,US
@@ -57713,7 +57713,6 @@
 58884	SMPHI-AS-AP SM Prime Holdings, Inc.,PH
 58885	IQONGLOBALPTELTD-AS-AP IQON GLOBAL PTE LTD,SG
 58886	AXIS-AS-BD Axis Technologies,BD
-58887	,
 58888	CNISP-UNION CNISP-Union Technology (Beijing) Co., Ltd,CN
 58889	ZOL-BD Zx Online Ltd,BD
 58890	INFOLINK1-BD InfoLink,BD
@@ -61339,7 +61338,7 @@
 62736	LANDMARK-COLLEGE - Landmark College, Inc,US
 62737	PARINC - Psychological Assessment Resources, Inc.,US
 62738	ZOCHNET1 - ZochNet,US
-62739	US-KONTIKI - Kontiki, Inc.,US
+62739	US-KONTIKI - Kollective Technology, Inc.,US
 62740	JJLAX01 - JibJab Media Inc.,US
 62741	AS-IPL - IP Systems Limited,VG
 62742	HSCS-ASN - HSCS,CA
@@ -61426,7 +61425,7 @@
 62823	CHOICEPR-1 - Puerto Rico Cable Acquisition Company Inc.,PR
 62824	RMP-REGIONAL-MUNICIPALITY-OF-PEEL - Regional Municipality of Peel,CA
 62825	WTC-40-AS - Walnut Communications,US
-62826	-Reserved AS-,ZZ
+62826	CSO-AS - CHICAGO SYMPHONY ORCHESTRA,US
 62827	GGS-DFW - Gemalto,US
 62828	NFINANSE - nfinanse inc.,US
 62829	PL-BGP - Prime-Line Products Company,US
@@ -65723,6 +65722,7 @@
 134184	JOEYS-AS-AP MARIST BROTHERS ST JOSEPHS COLLEGE,AU
 134185	EXABYTELIMITED-AS-AP Exabyte Limited,BD
 134186	PARADISETEC-AS-AP Paradise Technologies Limited,BD
+134187	INTERCLOUD-AS-AP InterCloud,SG
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -69237,7 +69237,7 @@
 200695	ONWIFITGN OnWifi Tarragona SL,ES
 200696	PAF Alands Penningautomatforening,FI
 200697	DIJLAT-AL-KHAIR-FOR-COMMUNICATION-AND-INTERNET Dijlat Al-Khair Ltd,IQ
-200698	GLOBALHOST Globalhost d.o.o.,BA
+200698	GLOBALHOST-BOSNIA-AS Globalhost d.o.o.,BA
 200699	SHOCKSRV-AS ShockSRV Internet Services Private Limited,NL
 200700	BMC_UK-1 Broadcast Media Communications Ltd,GB
 200701	LYSSNA-NJUT-AB Lyssna & Njut Radio & TV AB,SE
@@ -72995,7 +72995,7 @@
 327879	AJYWA-TELECOM,CD
 327880	Multichoice-Support-Services,ZA
 327881	NICDC,SD
-327882	RPKI-AFRINIC-TEST,MU
+327882	-Reserved AS-,ZZ
 327883	EAGLE-EYE,EG
 393216	B6 - B.Root-Servers-OPS,US
 393217	ASN4-TELUS - TELUS Communications Inc.,CA
@@ -73165,7 +73165,7 @@
 393381	ATHENA-BROADBAND - Athena Broadband,US
 393382	KERNHEALTHSYSTEMS - Kern Family Health Care,US
 393383	SISD-ASN - Spring Independent School District,US
-393384	US-KONTIKI-2 - Kontiki, Inc.,US
+393384	US-KONTIKI-2 - Kollective Technology, Inc.,US
 393385	NVI - National Vision, Inc.,US
 393386	DAYSTARDATACENTERS - Day Star Data Centers, LLC,US
 393387	PORT-OF-TACOMA-ASN - Port of Tacoma,US
@@ -73776,3 +73776,8 @@
 393992	TOWNOFBROOKHAVEN - Town of Brookhaven,US
 393993	CODBBR01 - City of Daytona Beach,US
 393994	BRRD-AS - Brantford Hydro,CA
+393995	PFFCUGW - Police and Fire Federal Credit Union,US
+393996	GOVI-WNDS - Govital Internet Inc.,CA
+393997	REDCOATS - Red Coats, Inc,US
+393998	EGV-BGP - Elk Grove Village Police Department,US
+393999	ALPINEWEB - AlpineWEB,US
