@@ -1,4 +1,4 @@
-  Generated: Thu, 21 May 2015 05:00:03 -0400
+  Generated: Fri, 22 May 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -17616,9 +17616,8 @@
 
   00-0A-DD   (hex)		Allworx Corp.
   000ADD     (base 16)		Allworx Corp.
-  				300 Main Street
-				Suite 11
-				East Rochester NY 14445
+  				245 East Main Street
+				East Rochester NY 14604
 				UNITED STATES
 
   00-0A-DE   (hex)		Happy Communication Co., Ltd.
@@ -97502,6 +97501,13 @@
 				Moenchengladbach NRW 41238
 				GERMANY
 
+  54-FF-82   (hex)		Davit Solution co.
+  54FF82     (base 16)		Davit Solution co.
+  				103-301,Geudaegapremier,21 Deagyeong-Daero 1484beon-Gil
+				Yeongtong-GU
+				Suwon-Si Gyeonggi-Do KS002
+				KOREA, REPUBLIC OF
+
   54-FF-CF   (hex)		Mopria Alliance
   54FFCF     (base 16)		Mopria Alliance
   				2400 Camino Ramon, Ste #375
@@ -98043,6 +98049,12 @@
   				4F-7,  No.65,  Gaotia 7th Rd,  Zhubei City
 				Hsinchu  302
 				TAIWAN, PROVINCE OF CHINA
+
+  58-B6-33   (hex)		Ruckus Wireless
+  58B633     (base 16)		Ruckus Wireless
+  				350 West Java Drive
+				Sunnyvale CA 94089
+				UNITED STATES
 
   58-B9-61   (hex)		SOLEM Electronique
   58B961     (base 16)		SOLEM Electronique
@@ -109328,6 +109340,12 @@
   90-6F-18   (hex)		PRIVATE
   906F18     (base 16)		 
 
+  90-6F-A9   (hex)		NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD.
+  906FA9     (base 16)		NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD.
+  				No.1 Putian Road,Yuhuamenwai,Nanjing
+				Nan Jing Jiang Su 210022
+				CHINA
+
   90-70-25   (hex)		Garea Microsys Co.,Ltd.
   907025     (base 16)		Garea Microsys Co.,Ltd.
   				4th Floor, Building 2, Software Park
@@ -114669,6 +114687,12 @@
   				817 Woolim Lions Valley 1, 311-3 Sangdaewon-dong Jungwon-gu
 				Seongnam-si Gyeonggi-do 462160
 				KOREA, REPUBLIC OF
+
+  AC-60-B6   (hex)		Ericsson AB
+  AC60B6     (base 16)		Ericsson AB
+  				Torshamnsgatan 36
+				Stockholm SE-164 80
+				SWEDEN
 
   AC-61-23   (hex)		Drivven, Inc.
   AC6123     (base 16)		Drivven, Inc.
