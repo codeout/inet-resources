@@ -1297,7 +1297,7 @@
 1296	University of Chili,CL
 1297	USLHCNET CERN - European Organization for Nuclear Research,CH
 1298	DNIC-AS-01298 - DoD Network Information Center,US
-1299	TELIANET TeliaSonera International Carrier,SE
+1299	TELIANET TeliaSonera AB,SE
 1300	FR-RENATER-R3T2-MARSEILLE Reseau Regional R3T2,EU
 1301	FR-EDFDPT3 Electricite de France Service National,FR
 1302	FRANCE-ASNBLOCK-AS INRIA,EU
@@ -2590,7 +2590,7 @@
 2594	ASN-CSI CSI Piemonte,IT
 2595	CSP-AS CSP s.c. a r.l.,IT
 2596	CSP-SCHOOLS-AS CSP s.c. a r.l.,IT
-2597	CCTLD-IT Registry of ccTLD it - IIT-CNR,IT
+2597	CCTLD-IT Registro del ccTLD it  - IIT-CNR,IT
 2598	CNR Consiglio Nazionale delle Ricerche,IT
 2599	OJSC "Vimpelcom",RU
 2600	TEKSTILBANK A.S.,TR
@@ -5348,7 +5348,7 @@
 5407	SKYNET-CZ PODA a.s.,CZ
 5408	GR-NET Greek Research and Technology Network S.A,GR
 5409	TPL-ASN Toplink GmbH,DE
-5410	ASN-BOUYGTEL-ISP Bouygues Telecom S.A.,FR
+5410	ASN-BOUYGTEL-ISP Bouygues Telecom SA,FR
 5411	Tieto Oyj,FI
 5412	-Reserved AS-,ZZ
 5413	AS5413 Daisy Communications Ltd,GB
@@ -5364,7 +5364,7 @@
 5424	ATNET-AT A1 Telekom Austria AG,AT
 5425	SPIDERNET SpiderNet Services Public Ltd,CY
 5426	SUNRISE-MOBILE Sunrise Communications AG,CH
-5427	PRTL-DE Primus Telecommunications GmbH, Germany,DE
+5427	PRTL-DE Primus Telecommunications Europe,DE
 5428	ECL-AS Energis Communications Ltd,GB
 5429	IIP-NET-AS5429 "UMOS CENTER" LLC,RU
 5430	FREENETDE freenet Datenkommunikations GmbH,DE
@@ -5400,7 +5400,7 @@
 5461	OKB MEI,RU
 5462	CABLEINET Virgin Media Limited,GB
 5463	PERCEVAL Perceval S.A.,BE
-5464	NETDISCOUNTER Netdiscounter GmbH autonomous system,DE
+5464	NETDISCOUNTER Netdiscounter GmbH,DE
 5465	-Reserved AS-,ZZ
 5466	EIRCOM Eircom Limited,IE
 5467	MIPT Non state educational institution "Educational Scientific and Experimental Center of Moscow Institute of Physics and Technology",RU
@@ -6667,7 +6667,7 @@
 6744	RACTI-NET Research Academic Computer Technology Institute (CTI),GR
 6745	QUZA-UK Global Crossing,GB
 6746	-Reserved AS-,ZZ
-6747	LATTELEKOM Lattelekom,LV
+6747	LATTELEKOM SIA Lattelekom,LV
 6748	ATT-WN-MIS ATT WN-MIS Europe,EU
 6749	DEMON-INTERNET Demon Internet,GB
 6750	SDR Soluciones Dinamicas de la Red, S.L.,ES
@@ -6729,7 +6729,7 @@
 6810	BEZEK "Bezeq"- THE ISRAEL TELECOMMUNICATION CORP. LTD.,IL
 6811	Verizon Denmark A/S,DK
 6813	FLEXNET FLEXNET Autonomous System,ES
-6814	Tinet SpA,DE
+6814	Tinet Spa,DE
 6815	ING-NL-AS ING Bank N.V.,NL
 6816	ING Bank N.V.,NL
 6817	ING Bank N.V.,NL
@@ -6799,11 +6799,11 @@
 6884	-Reserved AS-,ZZ
 6885	ASCITYNET2 CITYNET MARCIN SOBALA - PIOTR MISIUDA,PL
 6886	INTS-ASN INTS,UA
-6887	PRTL-ES Primus Telecommunications Spain,DE
+6887	PRTL-ES Primus Telecommunications Europe,DE
 6888	-Reserved AS-,ZZ
 6889	-Reserved AS-,ZZ
 6890	-Reserved AS-,ZZ
-6891	INFEUROPE-AS infeurope Autonomous System,LU
+6891	INFEUROPE-AS infeurope,LU
 6892	Vasileostrovsky Telecom Center,RU
 6893	SAITIS-NETWORK Saitis Network, N.Desir,CH
 6894	KDDI KDDI Europe Ltd.,GB
@@ -6818,7 +6818,7 @@
 6903	ZENON-AS ZENON N.S.P.,RU
 6904	ATT-ASIAPACIDC-SNG1-AS AT&T Webhosting Singapore IDC,US
 6905	ATT-EMEAIDC-AMS1-AS AT&T Webhosting Amsterdam IDC,US
-6906	GEANT-APOLLO Lattelecom,LV
+6906	GEANT-APOLLO SIA Lattelekom,LV
 6907	EBAY-DE-AS eBay GmbH,DE
 6908	DATAHOP Datahop Ltd,GB
 6909	-Reserved AS-,ZZ
@@ -8081,7 +8081,7 @@
 8193	BRM "Uzbektelekom" Joint Stock Company,UZ
 8194	VITA VAS "Latvijas Valsts radio un televizijas centrs",LV
 8195	IONIP AS8195,SE
-8196	CLARANETDE Claranet Deutschland GmbH,DE
+8196	CLARANETDE Claranet Gmbh,DE
 8197	-Reserved AS-,ZZ
 8198	-Reserved AS-,ZZ
 8199	-Reserved AS-,ZZ
@@ -8120,7 +8120,7 @@
 8232	GXS-EUROPE GXS International Inc.,NL
 8233	TELIANET-UK TeliaSonera AB,GB
 8234	RAI-AS RAI RadioTelevisione Italiana,IT
-8235	TIX-ZH .,CH
+8235	TIX-ZH Equinix (Switzerland) AG,CH
 8236	DNA-CE DNA Oy,FI
 8237	DATAWAY-AS mhs internet AG,CH
 8238	AT&T VAS,IT
@@ -8149,7 +8149,7 @@
 8262	LIREXNET-AS Lirex net EOOD,BG
 8263	PORTAL OJSC MegaFon,RU
 8264	TELENOR Astrium Services Enterprises AS,SK
-8265	FASTNET-BKB-ASN FASTnet s.p.a.,IT
+8265	FASTNET-BKB-ASN FASTNET SpA,IT
 8266	NEXUSTEL Nexus Telecommunications Ltd,GB
 8267	CYFRONET-AS Academic Computer Centre CYFRONET AGH,PL
 8269	KUPOL TV Kupol,RU
@@ -8182,10 +8182,10 @@
 8298	TOBEREPURPOSE J. Massar,DE
 8299	INFOTEL-AS JVC INFOTEL,RU
 8300	TEST-AS-MAIN Swisscom (Switzerland) Ltd,CH
-8301	GIBTELECOMNET www.GIBTELE.COM,GI
+8301	GIBTELECOMNET Gibtelecom Ltd.,GI
 8302	ZATTOO Zattoo Europa AG,CH
 8303	WDR-AS Westdeutscher Rundfunk Koeln,DE
-8304	ECRITEL-FRANCE ECRITEL Company,FR
+8304	ECRITEL-FRANCE Ecritel,FR
 8306	LOGIC-ASN S.C. LogicNET Solution S.R.L,RO
 8307	Telekom Slovenije d.d.,SI
 8308	NASK-COMMERCIAL NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA INSTYTUT BADAWCZY,PL
@@ -8230,7 +8230,7 @@
 8348	SONERARUS SONERA RUS Closed JSC,DK
 8349	-Reserved AS-,ZZ
 8350	COMBELLGA-AS OJSC "Vimpelcom",RU
-8351	PLANET-DE AS for PLANET IC GmbH,DE
+8351	PLANET-DE PLANET IC GmbH,DE
 8353	-Reserved AS-,ZZ
 8354	TWINWAVE-AS Twinwave ISP,DE
 8355	-Reserved AS-,ZZ
@@ -8252,7 +8252,7 @@
 8372	COLT-UK-AS COLT Technology Services Group Limited,GB
 8373	DEUBA-NET Deutsche Bank AG,DE
 8374	PLUSNET Polkomtel Sp. z o.o.,PL
-8375	KDD Deutschland Autonomous System,DE
+8375	KDDI Deutschland GmbH,DE
 8376	Jordan Data Communications Company LLC,JO
 8377	PETERLINK-AS Awanti Ltd.,RU
 8378	-Reserved AS-,ZZ
@@ -8269,7 +8269,7 @@
 8390	TPN-AS Interoute Bulgaria JSCo.,BG
 8391	KNIPP-AS Knipp Medien und Kommunikation GmbH,DE
 8392	-Reserved AS-,ZZ
-8393	NEWTECH-AS "ASTEL" OJSC,KZ
+8393	NEWTECH-AS "ASTEL" JSC,KZ
 8394	ALFANETT Alfanett Autonomous System,NO
 8395	EAST-AS East Telecom ISP Autonomous system,RU
 8396	TEE-GR Technical Chamber of Greece,GR
@@ -8307,7 +8307,7 @@
 8428	-Reserved AS-,ZZ
 8429	-Reserved AS-,ZZ
 8430	ALMA-MEDIA-ALMATY-AS "Complex Service Company" LLC,RU
-8431	AS8431 TEA Internet Service Provider,BG
+8431	AS8431 TEA Ltd.,BG
 8432	-Reserved AS-,ZZ
 8433	-Reserved AS-,ZZ
 8434	TELENOR-SE Telenor Sweden,SE
@@ -8347,7 +8347,7 @@
 8471	-Reserved AS-,ZZ
 8472	VIAG-INTERKOM British Telecommunications plc,DE
 8473	BAHNHOF Bahnhof Internet AB,SE
-8474	AS8474 Riscom AS,MD
+8474	AS8474 Riscom S.A.,MD
 8475	State Educational Institute of Higher Professional Education "Bashkirskiy State University",RU
 8476	BVDEP-AS Bureau van Dijk Editions Electroniques SA,BE
 8477	ECHOSTARPL-AS ZTS Echostar Studio Poznan Poland,PL
@@ -8359,7 +8359,7 @@
 8483	Claranet Benelux B.V.,NL
 8484	-Reserved AS-,ZZ
 8485	SAMSC-AS SamSC RAS,RU
-8486	BNK-AS Baltnetos Komunikacijos, UAB,LT
+8486	BNK-AS UAB "Baltnetos komunikacijos",LT
 8487	PHIBEE Phibee Telecom SARL,FR
 8488	-Reserved AS-,ZZ
 8489	PORTAL-TO-WEB EDV Beratung Mersberger,DE
@@ -8455,7 +8455,7 @@
 8581	UOI University of Ioannina,GR
 8582	XENNA-AS Xenna Services GmbH,DE
 8583	-Reserved AS-,ZZ
-8584	BARAK Netvision 013 Barak - Barak Network,IL
+8584	BARAK 013 NetVision Ltd,IL
 8585	INTERNET-CG Crnogorski Telekom a.d.Podgorica,ME
 8586	OBSL-AS TalkTalk Communications Limited,GB
 8587	INFRACOM-AS Infracom B.V.,NL
@@ -8562,7 +8562,7 @@
 8700	Technological Educational Institute of Thessaly,GR
 8701	-Reserved AS-,ZZ
 8702	Posten AB,SE
-8703	HP-CH-AS1 HP-CH Autonomous System,CH
+8703	HP-CH-AS1 Hewlett-Packard (Schweiz) GmbH,CH
 8704	CHEL-IX-AS State Educational Institution of Higher Professional Education 'South Ural State University',RU
 8705	TNN Turk Nokta Net Autonomous System,TR
 8706	VDA-AS LLC Volga-Dnepr Airlines,RU
@@ -8654,7 +8654,7 @@
 8798	PAGI-AS Powszechna Agencja Informacyjna S.A.,PL
 8799	AS8799 Monaco Telecom,FR
 8800	-Reserved AS-,ZZ
-8801	NETSERV Autonomous System of Darest Informatic,CH
+8801	NETSERV Darest Informatic S.A.,CH
 8802	THOMSON-REUTERS Thomson Corporation,CH
 8803	MIGROS Migros-Genossenschafts-Bund,CH
 8804	REGIO-AS regio[.NET] Holding GmbH,DE
@@ -8765,7 +8765,7 @@
 8915	DELFA-AS Company Delfa Co. Ltd.,RU
 8916	PORTFAST Portfast Ltd,GB
 8917	PUBLIKA-TV-AS STIRI MEDIA GRUP SRL,MD
-8918	CARRIER1-AS Carrier1 Autonomous System,NL
+8918	CARRIER1-AS Carrier1 BV,NL
 8919	CANAD UPC Romania SRL,RO
 8920	VTC-AS Vostoktelecom Autonomous System,RU
 8921	FR-OC3NETWORK OC3 NETWORK,FR
@@ -8877,7 +8877,7 @@
 9031	EDPNET EDPNET,BE
 9032	EDUNET-AS Educational Network Ltd.,RU
 9033	ECIX-AS Peering GmbH,DE
-9034	Wind Telecomunicazioni spa,IT
+9034	WIND Telecomunicazioni S.p.A.,IT
 9035	ASN-WIND WIND Telecomunicazioni S.p.A.,IT
 9036	NEURONNEXION-AS NEURONNEXION,FR
 9037	-Reserved AS-,ZZ
@@ -8919,7 +8919,7 @@
 9077	UFSC-AS Institution of Russian Academy of Sciences Ufa Scientific Centre RAN,RU
 9078	SIBIS-AS Sibirskie Innovacionnye Sistemy Ltd,RU
 9079	FIRSTNET (First Data Communication Group),JO
-9080	GIN IPEX/GIN Autonomous System,CZ
+9080	GIN Ipex Ltd.,CZ
 9081	AS9081 B92-NET Autonomous System,RS
 9082	SINUSRZN-AS SINUS Ltd.,RU
 9083	CARPENET carpeNet Information Technologies GmbH,DE
@@ -8928,7 +8928,7 @@
 9086	ASN-DOCKLANDS-DATA-CENTRE-LTD Qi Comm Ltd,GB
 9087	DNT-NETWORK DNT A.O.,MD
 9088	Dalarna University,SE
-9089	ALTO ALTO Network,FR
+9089	ALTO ALTO,FR
 9090	PRNE PR Newswire Europe Ltd.,GB
 9091	Swedbank AS,LV
 9092	OPENSYSTEMS-AS Open Systems AG,CH
@@ -8965,7 +8965,7 @@
 9124	IKSUR Federal State Educational Institution of Higher Professional Education Russian State University of Immanuil Kant,RU
 9125	ORIONTELEKOM-AS Drustvo za telekomunikacije Orion telekom doo Beograd, Gandijeva 76a,RS
 9126	COLT Technology Services Group Limited,DE
-9127	NETISSAT-AS NETISSAT,BG
+9127	NETISSAT-AS NET IS SAT Ltd.,BG
 9128	Alpha Bank SA,GR
 9129	KE-NET2000,ZA
 9130	HMS-AS LLC Managing Company Hydraulic Machines and Systems,RU
@@ -8975,7 +8975,7 @@
 9134	REGMED-AS Federal goverment entity for Scientific Center on Expertise of Medical Application Products,RU
 9135	ITEMAX-AS Itemax GmbH,DE
 9136	WOBCOM Wobcom GmbH,DE
-9137	ASN-UNO Uno Communications S.p.A.,IT
+9137	ASN-UNO Uno Communications SpA,IT
 9138	-Reserved AS-,ZZ
 9139	CYPIX (Cyprus Internet Exchange),CY
 9140	HYPERNEPH Hyperneph Ltd,GB
@@ -9024,7 +9024,7 @@
 9185	ALTAIR "Altair" CJSC,RU
 9186	ONI ONITELECOM Autonomous System,PT
 9187	-Reserved AS-,ZZ
-9188	INFOSERVE-AS infoServe GmbH,DE
+9188	INFOSERVE-AS InfoServe GmbH,DE
 9189	ACCOM NetAachen GmbH,DE
 9190	-Reserved AS-,ZZ
 9191	NEWNET Timico Partner Services Limited,GB
@@ -9033,7 +9033,7 @@
 9194	Verizon UK Limited,GB
 9195	-Reserved AS-,ZZ
 9196	-Reserved AS-,ZZ
-9197	BECOMGMBH-AS becom Systemhaus GmbH, Internet Service Provider,DE
+9197	BECOMGMBH-AS becom Systemhaus GmbH & Co. KG,DE
 9198	KAZTELECOM-AS JSC Kazakhtelecom,KZ
 9199	RENAM "RENAM" Public Association,MD
 9200	-Reserved AS-,ZZ
@@ -12078,7 +12078,7 @@
 12289	SVYAZEKSPERT "Svyazekspert" LLC,RU
 12290	EXONETRIC Exonetric Consulting Ltd,GB
 12291	Deutsche Post AG,DE
-12292	TRANSKOM Transkom Kommunikationsnetzwerke GmbH,DE
+12292	TRANSKOM Transkom GmbH,DE
 12293	IIL-AS Digiweb ltd,IE
 12294	TSYSTEMS PrJSC "MTS UKRAINE",UA
 12295	-Reserved AS-,ZZ
@@ -12094,7 +12094,7 @@
 12305	NORTENET G9SA, Telecomunicacoes, S.A,PT
 12306	PLUSLINE Plus.Line AG,DE
 12308	-Reserved AS-,ZZ
-12309	NOUVELLE-AS Autonomous system for Nouvelle Srl,IT
+12309	NOUVELLE-AS Nouvelle S.r.l,IT
 12310	INES iNES Group SRL,RO
 12311	IAEA International Atomic Energy Agency,AT
 12312	ECOTEL ecotel communication ag,DE
@@ -12104,7 +12104,7 @@
 12316	FITSNET Finanz Informatik Technologie Service GmbH & Co. KG,DE
 12317	-Reserved AS-,ZZ
 12318	FR-AS-EXANE EXANE SA,FR
-12319	IZFE-AS IZFE SA Informatika Zerbitzuen Foru Elkartea,ES
+12319	IZFE-AS IZFE SA,ES
 12320	-Reserved AS-,ZZ
 12321	ES-IBERCOMTELECOM-BACKBONE Ibercom Telecom S.A.,ES
 12322	PROXAD Free SAS,FR
@@ -12114,7 +12114,7 @@
 12326	Hrvatski Telekom d.d.,HR
 12327	IDEAR4BUSINESS-INTERNATIONAL-LTD idear4business international LTD,EU
 12328	ALAN-SYSTEMS-RYBNIK-AS "Alan Systems" SP. Z O.O.,PL
-12329	TMR TMR IP service and TMR customer networks,DE
+12329	TMR Telekommunikation Mittleres Ruhrgebiet GmbH,DE
 12330	BAUDIA-OY Mikkelin Puhelin Oyj,FI
 12331	AUDI AG,DE
 12332	PRIMORYE-AS OJSC Rostelecom,RU
@@ -12132,7 +12132,7 @@
 12345	AS12345 General Software s.r.l.,IT
 12346	LUBMAN-COM-AS Poland, Lublin,PL
 12347	VIRTUALTEC VirtualTec Solutions AG,CH
-12348	AS12348 ODN OnlineDienst Nordbayern GmbH & Co. KG,DE
+12348	AS12348 ODN OnlineDienst Nordbayern GmbH,DE
 12349	SCHERING-AS Bayer Business Services GmbH,DE
 12350	VTX-NETWORK VTX Services SA,CH
 12351	TBS-CAEN TBS INTERNET SAS,FR
@@ -12147,7 +12147,7 @@
 12360	KTK KEVAG Telekom GmbH,DE
 12361	PANAFONET-AS VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA,GR
 12362	NETPLUSCOM-LEGACY Netplus Communication - France,FR
-12363	DADA-AS DADA S.p.a.,IT
+12363	DADA-AS DADAnet Italia,IT
 12364	UOM University of Macedonia, Economic and Social Sciences,GR
 12365	SARKOR-AS Sarkor-Telecom,UZ
 12366	-Reserved AS-,ZZ
@@ -12187,7 +12187,7 @@
 12401	INTERNIC-AS12401 internic Datenkommunikations GmbH,AT
 12402	UOPIRAEUS University of Piraeus,GR
 12403	VIZIT-AS Teleradiocompany Vizit Ltd,UA
-12404	SZ ASN,DE
+12404	Saarbruecker Zeitung Druckerei und Verlag GmbH,DE
 12406	BN-AS Business Network JV,BY
 12407	-Reserved AS-,ZZ
 12408	BIKENT-AS LLC Bi-Kent,UA
@@ -12209,7 +12209,7 @@
 12425	IBYKUS IBYKUS AG fuer Informationstechnologie,DE
 12426	MADNET-AS Slovanet a.s.,SK
 12428	UNICREDIT-AS-MI-IT UniCredit Business Integrated Solutions S.C.p.A.,IT
-12429	CYBERNET-CH Swisscom (Schweiz) AG / Autonomous System,CH
+12429	CYBERNET-CH Swisscom (Schweiz) AG,CH
 12430	VODAFONE_ES VODAFONE ESPANA S.A.U.,ES
 12431	SYB-AS SYBCOM GmbH,DE
 12432	-Reserved AS-,ZZ
@@ -12249,7 +12249,7 @@
 12467	SafeNet Inc.,DE
 12468	ABANET ABANET,IT
 12469	INFONET-NETHERLAND KPN B.V.,NL
-12470	AS12470 GLOBE Development GmbH Backbone Germany,DE
+12470	AS12470 Globe Development GmbH,DE
 12471	TELSTRAEUROPELTD-DEDICATED-HOSTING Telstra Ltd,GB
 12472	AS12472 Waycom International SARL,LU
 12473	-Reserved AS-,ZZ
@@ -12259,10 +12259,10 @@
 12477	-Reserved AS-,ZZ
 12478	SITEKSPB-AS JSC Mastak,RU
 12479	UNI2-AS France Telecom Espana SA,ES
-12480	ASILK ILK Internet GmbH, Karlsruhe, Germany,DE
+12480	ASILK ILK Internet.Gmbh,DE
 12481	TRIVENET Trivenet S.R.L.,IT
 12482	ASN-ICTNET-AS Institut Catala de Tecnologia,ES
-12483	Danske Bank Autonomous System,DK
+12483	Den Danske Bank A/S,DK
 12484	BORISLTD-AS Boris Ltd.,RU
 12485	SMARTNET DNS:NET Internet Service GmbH,DE
 12486	YEMENNET TeleYemen,YE
@@ -12293,12 +12293,12 @@
 12512	CBXNET CBXNET combox internet GmbH,DE
 12513	ECLIPSE KCOM GROUP PLC,GB
 12514	-Reserved AS-,ZZ
-12515	RS Advanced Systems srl,IT
+12515	RSAdvSys,IT
 12516	WEBORAMA Weborama SA,FR
 12518	-Reserved AS-,ZZ
 12519	FASTNETUK FastNet International Ltd,GB
 12520	-Reserved AS-,ZZ
-12521	NOVA_INTERNET_AS12521 Nova Internet Network,ES
+12521	NOVA_INTERNET_AS12521 Nova Internet,ES
 12523	EUREDIT EUROPAGES SA,FR
 12524	Middle East Internet Company Limited,JO
 12525	INTERNETLTD INTERNET Ltd.,LV
@@ -12307,7 +12307,7 @@
 12528	BURSTFIRE-MH-AS Burstfire Networks Ltd,GB
 12529	SALECO Sale For Distribution & Communication Co. Ltd,SA
 12530	GOLDENTELECOM-UKRAINE Golden Telecom,UA
-12531	WLW-AS Wer liefert was ?,DE
+12531	WLW-AS WLW,DE
 12532	-Reserved AS-,ZZ
 12533	RMNET RMnet S.R.L.,IT
 12534	-Reserved AS-,ZZ
@@ -12316,7 +12316,7 @@
 12537	-Reserved AS-,ZZ
 12538	TATINCOM-AS CJSC Nizhegorodskaya Cellular Communications,RU
 12539	PENKI Penki Kontinentai, Ltd.,LT
-12540	IDECNET-AS IdecNet Spain - Canary Islands Telco,ES
+12540	IDECNET-AS IdecNet S.A.,ES
 12541	BTESPANA BT ESPANA, COMPANIA DE SERVICIOS GLOBALES DE TELECOMUNICACIONES, SA,ES
 12542	TVCABO-AS NOS COMUNICACOES, S.A.,PT
 12543	KUBTELECOM-AS KUBTELECOM Ltd.,RU
@@ -12344,14 +12344,14 @@
 12568	-Reserved AS-,ZZ
 12569	INYCOM Instrumentacion y Componentes, SA,ES
 12570	ITSELF itself s.r.o.,CZ
-12571	INCAS-AS INCAS GmbH,DE
+12571	INCAS-AS INCAS Voice Solution GmbH & Co. KG,DE
 12573	WIDEXS WideXS B.V.,NL
 12574	ROUTING http.net Internet GmbH,DE
 12575	-Reserved AS-,ZZ
 12576	ORANGE-PCS Orange Personal Communications Services,GB
 12577	MMC-AT-AS mmc kommunikationstechnologie gmbh,AT
-12578	APOLLO-AS LATTELEKOM-APOLLO,LV
-12579	XNC GmbH, Koeln,DE
+12578	APOLLO-AS SIA Lattelekom,LV
+12579	Xenologics Networks & Communications GmbH,DE
 12580	OMNITEC Omnitec Sp. z o.o.,PL
 12581	TOPSNET tops.net GmbH & Co. KG,DE
 12582	TSF-DATANET-NGD-AS TSF MPLS VPN Services,FI
@@ -12401,7 +12401,7 @@
 12627	-Reserved AS-,ZZ
 12628	SCREAMING-NET-AS Jaco Engelbrecht,GB
 12629	OPTION-SERVICE Option Service SAS,FR
-12630	OVERKKOAS OVERKKO Autonomous System,FI
+12630	OVERKKOAS Otaverkko Oy,FI
 12631	-Reserved AS-,ZZ
 12632	DIGINETMOBIL RCS & RDS SA,RO
 12633	-Reserved AS-,ZZ
@@ -12409,7 +12409,7 @@
 12635	AS12635 Hutchison Drei Austria GmbH,AT
 12636	ONO Cableuropa S.A.U.,ES
 12637	SEEWEB Seeweb s.r.l.,IT
-12638	AS12638 E-Plus Mobilfunk GmbH & Co. KG,DE
+12638	AS12638 E-Plus Mobilfunk GmbH,DE
 12639	MARKASON-AS MARKASON LTD,UA
 12640	COLT Technology Services Group Limited,GB
 12641	BT_MPLS British Telecommunications plc,GB
@@ -12428,14 +12428,14 @@
 12656	TA-GRX-I-AT A1 Telekom Austria AG,AT
 12657	BAYCIX BayCIX GmbH,DE
 12658	DXNET-AS Dexterity Networks Limited,GB
-12659	BBNWKSCORE European Backbone Networks,FI
-12660	SHARIF-EDU-NET Sharif University of Technology, Tehran,Iran,IR
+12659	BBNWKSCORE European Backbone Networks Inc.,FI
+12660	SHARIF-EDU-NET Sharif University Of Technology,IR
 12661	-Reserved AS-,ZZ
 12662	NEMI-AS FOP Petrushenko Sergiy Petrovich,UA
 12663	VODAFONE-GROUP Vodafone Omnitel B.V.,IT
 12664	DAB-AG-AS DAB Bank AG,DE
 12665	MSH Autonomous System,DE
-12666	INTERXION-AS InterXion Telecom BV,NL
+12666	INTERXION-AS InterXion Holding NV,NL
 12667	-Reserved AS-,ZZ
 12668	MIRALOGIC-AS LLC "KomTehCentr",RU
 12669	BDUT-AS "OAO Brokerage Firm Unity Trust",RU
@@ -12487,7 +12487,7 @@
 12716	MOBILTEL MOBILTEL EAD,BG
 12717	-Reserved AS-,ZZ
 12718	-Reserved AS-,ZZ
-12719	QUIPO-AS Quipo Internet Provider by Micso s.r.l.,IT
+12719	QUIPO-AS Quipo,IT
 12720	BT Communications Ireland Limited,IE
 12721	-Reserved AS-,ZZ
 12722	REAL-CONNECT-AS RECONN. Operator svyazy Ltd.,RU
@@ -12518,7 +12518,7 @@
 12748	IAV IAV GmbH Ingenieurgesellschaft Auto und Verkehr,DE
 12749	Multi-homed service provider,IL
 12750	SOFTEC-MNT Softec AG,CH
-12751	NCI NCI GmbH, Muenchen,DE
+12751	NCI NCI GmbH,DE
 12752	-Reserved AS-,ZZ
 12753	TEVA-AS Teva Pharmaceutical Industries Limited,IL
 12754	COOLNET Coolnet New Communication Provider,PS
@@ -12526,12 +12526,12 @@
 12756	INFOCOM-AS Infocom Plc.,BG
 12757	IPTRON IPTRON.NET OU,EE
 12758	-Reserved AS-,ZZ
-12759	SOCO-AS SOCO Network Solutions GmbH,DE
+12759	SOCO-AS SOCO SoftCom Datensysteme,DE
 12760	-Reserved AS-,ZZ
 12761	COLT Technology Services Group Limited,IT
 12762	VTG-AT Vorarlberger Informatik- und Telekommunikationsdienstleistungsgesellschaft mbH,AT
 12763	Honda Europe NV,BE
-12764	AKNET Educational and Science Network,KG
+12764	AKNET Ltd.,KG
 12765	TOTAL-CONNECT Total S.A.,FR
 12766	MAGNA STEYR Fahrzeugtechnik AG und Co KG,AT
 12767	PRAGONET-AS T-Mobile Czech Republic a.s.,CZ
@@ -12588,7 +12588,7 @@
 12819	SCIENCE APPLICATION INTERNATIONAL CORPORATION (SAIC)/NASA INTEGRATED COMMUNICATIONS SERVICES (NICS),RU
 12820	ALITE-AS Limited Liability Company "Alite",RU
 12821	INFOSYS-NHK-AS Open Joint-Stock Company "Information Systems",RU
-12822	LYNET-AS LYNET Kommunikation AG,DE
+12822	LYNET-AS LyNet Kommunikation,DE
 12823	KAPPATECH-AS KAPPATECH DOO Beograd,RS
 12824	HOMEPL-AS home.pl S.A.,PL
 12825	-Reserved AS-,ZZ
@@ -12612,13 +12612,13 @@
 12844	ASN-BOUYGTEL-MOBILE Bouygues Telecom SA,FR
 12845	-Reserved AS-,ZZ
 12846	OJSC Rostelecom,RU
-12847	LMT-NET Latvijas Mobilais Telefons SIA,LV
+12847	LMT-NET Latvian Mobile Telephone Co.,LV
 12848	-Reserved AS-,ZZ
 12849	HOTNET-IL Hot-Net internet services Ltd.,IL
 12850	ASN-ENTER Enter S.r.l.,IT
 12851	ALVOTECH-AS Alvotech GmbH,DE
 12852	EASYNETES-AS Easynet Global Services Limited,GB
-12853	GENDORF-DE InfraServ Gendorf, Germany,DE
+12853	GENDORF-DE InfraServ Gendorf,DE
 12854	PINE-AS Pine Digital Security AS,NL
 12855	HOUXOUUK Houxou Ltd,GB
 12856	-Reserved AS-,ZZ
@@ -12682,7 +12682,7 @@
 12915	EPAG-AS EPAG Domainservices GmbH,DE
 12916	-Reserved AS-,ZZ
 12918	VERKKOTIETO-AS DNA Oy,FI
-12919	Agilent Technologies Europe Autonomous System,DE
+12919	Agilent Technologies Europe,DE
 12920	-Reserved AS-,ZZ
 12922	MULTITRADE-AS CEDACRI S.P.A.,IT
 12923	WIZARD-AS Wizard Computersysteme GmbH,DE
@@ -12715,7 +12715,7 @@
 12953	REUTERS-AS Thomson Corporation,FR
 12954	SIA SIA S.p.A.,IT
 12955	-Reserved AS-,ZZ
-12956	TELEFONICA Telefonica Backbone Autonomous System,ES
+12956	TELEFONICA Telefonica International Wholesale Services, SL,ES
 12957	-Reserved AS-,ZZ
 12958	MCC OJSC "Moscow Cellular Communications",RU
 12959	NETLUX-AS Teleradiocompany Nadezhda Ltd,UA
@@ -12810,11 +12810,11 @@
 13051	Libro Online Autonomous System,AT
 13052	DATAGUARD DataGuard AS,NO
 13053	ASSOFTTRONIK Corporate net for Soft-Tronik, Inc.,UA
-13054	FREINET FreiNet GmbH,DE
+13054	FREINET FreiNet Gesellschaft fuer Informationsdienste mbH,DE
 13055	CSVLG-AS JSC "Comstar-Regions",RU
 13056	RT-TMB-AS OJSC Rostelecom,RU
 13057	A.P. Moller - Maersk A/S,DK
-13058	INTERDOTNET-DE-AS Inter.Net Germany GmbH Headquarter Berlin,DE
+13058	INTERDOTNET-DE-AS Inter.Net Germany,DE
 13059	EXTREME-SOLUTIONS Extreme Solutions SRL,RO
 13060	ASN-BASICNET Basic Net SpA,IT
 13061	-Reserved AS-,ZZ
@@ -12951,7 +12951,7 @@
 13197	-Reserved AS-,ZZ
 13198	-Reserved AS-,ZZ
 13200	BANCOBPI Banco BPI SA,PT
-13201	COMHOUSE-AS ComHouse Autonomous System,DE
+13201	COMHOUSE-AS Investis Flife AG,DE
 13202	SUMY-NET Production Company Polisan Ltd.,UA
 13203	-Reserved AS-,ZZ
 13205	British Telecommunications PLC,GB
@@ -13009,7 +13009,7 @@
 13261	C1-HOLDING-ASN Cognizant Business Services GmbH,DE
 13262	-Reserved AS-,ZZ
 13263	HAYATNET-AS HayatNet Bilgi ve Iletisim Hizmetleri A.S,TR
-13264	BarakNet,IL
+13264	013 NetVision Ltd,IL
 13265	-Reserved AS-,ZZ
 13266	POR-NET Havenbedrijf Rotterdam n.v.,NL
 13267	Zuercher Kantonalbank,CH
@@ -13032,7 +13032,7 @@
 13284	BRT-AS Brain Technology S.p.A.,IT
 13285	OPALTELECOM-AS TalkTalk Communications Limited,GB
 13286	-Reserved AS-,ZZ
-13287	NIXVAL NIXVAL Data Center,ES
+13287	NIXVAL SERVICLEOP SL,ES
 13288	-Reserved AS-,ZZ
 13289	ASIWELT iWelt AG - Internet Dienste,DE
 13290	-Reserved AS-,ZZ
@@ -14748,7 +14748,7 @@
 15010	IT-DIMENSIONS - IT Dimensions, Inc.,US
 15011	JAGUAR-1 - Jaguar Communications,US
 15012	CRTCAPITAL-001 - CRT Capital Group LLC,US
-15013	FUSS-ONEILL-TECH - Fuss & O'Neill Technologies, LLC,US
+15013	LMID - Fuss & O'Neill Technologies, LLC,US
 15014	TTS-ASN - Total Tool Supply, Inc.,US
 15015	SECURITY-CONNECTIONS-INC - Security Connections, Inc.,US
 15016	RBSLYNK-AS2 - WorldPay US, Inc.,US
@@ -15116,7 +15116,7 @@
 15382	-Reserved AS-,ZZ
 15383	CIRB-CIBG,BE
 15384	CD Contact Direct Sp. z o.o.,PL
-15385	CLARANET-AS Clara.net  Germany,DE
+15385	CLARANET-AS Claranet Gmbh,DE
 15386	ASN-HEALTH Municipal government of health (GUZO),UA
 15387	-Reserved AS-,ZZ
 15388	OMC-AS OMCnet Internet Service GmbH,DE
@@ -15140,7 +15140,7 @@
 15408	-Reserved AS-,ZZ
 15409	-Reserved AS-,ZZ
 15410	BT Limited Magyarorszagi Fioktelepe,HU
-15411	DANISCO Danisco A/S Enterprise network Copenhagen , Denmark,DK
+15411	DANISCO DANISCO,DK
 15412	FLAG-AS Flag Telecom Global Internet AS,GB
 15413	-Reserved AS-,ZZ
 15414	FLASHMM DB-DATABANK,GR
@@ -15148,7 +15148,7 @@
 15416	Donbas National Academy of Civil Engineering and Architecture,UA
 15417	KBIMPULS Autonomous System,DE
 15418	FASTHOSTS-INTERNET Fasthosts Internet Ltd. Gloucester, UK.,GB
-15419	LRTC-AS SC "LRTC" Internet services,LT
+15419	LRTC-AS SC "Lithuanian Radio and TV Center",LT
 15420	Lloyds TSB Bank plc, London,CH
 15421	Internap European Autonomous System,GB
 15422	PPR-AS15422 PPR SA,FR
@@ -15167,7 +15167,7 @@
 15436	WITBE-AS WITBE NET S.A.,FR
 15437	ASN-KJWS K.J.W.S. S.r.l.,IT
 15439	Bank EFG Eurobank Ergasias SA,GR
-15440	AS15440 Baltnetos Komunikacijos Autonomous System,LT
+15440	AS15440 UAB "Baltnetos komunikacijos",LT
 15441	-Reserved AS-,ZZ
 15442	PG-EUROPE Procter & Gamble Service GmbH,BE
 15443	Presspublica Sp.z.o.o.,PL
@@ -15191,9 +15191,9 @@
 15462	CNET Europe S.A.,CH
 15463	NETWORKI-AS Network-i Limited,GB
 15464	IHLASNET Ihlas Net A.S.,TR
-15465	SIEMENSDE Siemens AG,DE
-15466	ASN-DTO Ivent Autonomous System,NL
-15467	ENTERNET-LIBERCOM-AS Enternet 2001 Ltd., Hungary,HU
+15465	SIEMENSDE SIEMENS AG,DE
+15466	ASN-DTO Defensie Telematica Organisatie,NL
+15467	ENTERNET-LIBERCOM-AS Enternet 2001 Ltd.,HU
 15468	KLGELECS-AS OJSC Rostelecom,RU
 15469	WARINET_NETWORK Warinet Global Services SA,IT
 15470	HYPERION-KIELCE-AS Hyperion S.A.,PL
@@ -15222,14 +15222,14 @@
 15496	Aalto University,FI
 15497	COLOCALL Internet Data Center "ColoCALL",UA
 15498	ATUSMEDIA CPSNET Internet Providing,AT
-15499	GECITS-EU Computacenter AG & Co. oHG,DE
+15499	GECITS-EU Computacenter AG & Co.oHG,DE
 15500	OJSC Rostelecom,RU
 15501	PHNET DNA Oy,FI
-15502	VODAFONE-IRELAND-ASN Vodafone Ireland,IE
+15502	VODAFONE-IRELAND-ASN Vodafone Ireland Limited,IE
 15503	MULTINET-SA SwiatInternet,PL
 15504	TRADENETWORKS Trade Networks - Developments Services (2007) Ltd,IL
 15505	KAU King Abdulaziz University (KAU) - Deanship of Information Technology,SA
-15506	ASTODO todo GmbH,DE
+15506	ASTODO TODO GmbH,DE
 15507	IT3GNS-AS 3G Network Services sp. z o.o.,PL
 15508	NOVOSOFT-AS Novosoft Ltd.,RU
 15509	PLANT Plant Holding GMBH,NL
@@ -15271,7 +15271,7 @@
 15546	-Reserved AS-,ZZ
 15547	NETPLUS netplus.ch SA,CH
 15548	CCR-AS CAJAS RURALES UNIDAS, SOCIEDAD COOPERATIVA DE CREDITO,ES
-15549	National information technologies JSC,KZ
+15549	National Information Technologies Joint-Stock Company,KZ
 15550	Count+Care GmbH & Co. KG,DE
 15551	-Reserved AS-,ZZ
 15552	DIGCOMM LLC "Real-net",RU
@@ -15313,7 +15313,7 @@
 15590	FIDUCIA FIDUCIA IT AG,DE
 15592	GNISIM-ASN Banca Sella S.p.A.,IT
 15593	-Reserved AS-,ZZ
-15594	NETZQUADRAT netzquadrat GmbH,DE
+15594	NETZQUADRAT [netzquadrat] GmbH,DE
 15595	SKYLINE-AS Skyline Electronics Ltd.,UA
 15596	INTERLINK TOV Company Interlink,UA
 15597	TANGRAM-CA-INC Tangram Canada Inc,CA
@@ -15351,7 +15351,7 @@
 15630	UNED Universidad Nacional de Educacion a Distancia - UNED,ES
 15631	-Reserved AS-,ZZ
 15632	ALFA-BANK-AS Alfa-Bank Moscow Russia,RU
-15633	UOC-AS UOC is a virtual University based in Barcelona (ES).,ES
+15633	UOC-AS Universitat Oberta de Catalunya,ES
 15634	-Reserved AS-,ZZ
 15635	YAHOO-UKL Yahoo! Europe,GB
 15636	COLLINGWOOD Collingwood Business Solutions Limited,GB
@@ -15380,7 +15380,7 @@
 15660	FINDOMESTIC-AS Findomestic Banca S.p.A.,IT
 15661	Bank J. Safra Sarasin AG,CH
 15662	-Reserved AS-,ZZ
-15663	UMBRIA_NET Umbrianet srl Internet Service Provider,IT
+15663	UMBRIA_NET UmbriaNet,IT
 15664	SI-BUSINESS Business Solutions d.o.o.,SI
 15665	WOLA-AS Instytut Geofizyki PAN,PL
 15666	ASLAIKI BANK OF CYPRUS PUBLIC COMPANY LIMITED,CY
@@ -15402,7 +15402,7 @@
 15682	ITERANET-AS ITERANET LLC,RU
 15683	DOMASHKA-AS Domashnya Merezha, LLC,UA
 15684	OptiCom SIA,LV
-15685	CASABLANCA-AS Casablanca INT Autonomous system,CZ
+15685	CASABLANCA-AS Casablanca INT,CZ
 15686	ADAMNETASN Malot Afek Communications Ltd.,IL
 15687	AS15687 NNIT A/S,DK
 15688	EVRY AS,NO
@@ -15427,15 +15427,15 @@
 15708	ALADDIN-AS Safenet Data Security (Israel) Ltd,IL
 15709	AS15709 Vodafone GmbH,DE
 15710	-Reserved AS-,ZZ
-15711	IBERDROLA Autonomo System of Iberdrola Company,ES
+15711	IBERDROLA Grupo Iberdrola S.A.,ES
 15712	-Reserved AS-,ZZ
 15713	GCN-UA LLC Global-City-Net,UA
 15714	ASN-WORKUP WorkUp Srl,IT
 15715	EDSPA-AS HP Enterprise Services AS for SPC Project,IT
 15716	SYGROUP Adfinis SyGroup AG,CH
 15717	VERSATEL-VPN Versatel Deutschland GmbH,DE
-15720	Postecom s.p.a. Autonomous System,IT
-15721	CTCO C.T.CO. Ltd Autonomous System,UA
+15720	Postecom S.p.a.,IT
+15721	CTCO C.T.CO. Ltd.,UA
 15722	MKDESIGN-AS MKdesign e.K.,DE
 15723	AZERONLINE Azeronline Information Services,AZ
 15724	Cofunds Ltd,GB
@@ -15464,7 +15464,7 @@
 15748	-Reserved AS-,ZZ
 15749	-Reserved AS-,ZZ
 15750	-Reserved AS-,ZZ
-15751	METEORMOBILECOMMS-AS Meteor Mobile Communication Ireland,IE
+15751	METEORMOBILECOMMS-AS Meteor,IE
 15752	BP-US-1 BP International Ltd,DE
 15753	BP-US-2 BP International Ltd,DE
 15755	ISPRONET ISPRO Autonomous System Izmir,TURKEY,TR
@@ -15517,7 +15517,7 @@
 15804	UNSPECIFIED,EG
 15805	SKYNET-CY-AS MTN Cyprus Limited,CY
 15806	ORG-IG30-RIPE Irish Government,IE
-15807	WEBLINK Weblink ASP autonomous system,IT
+15807	WEBLINK WebLink Servizi Telematici,IT
 15808	ACCESSKENYA-KE ACCESSKENYA GROUP LTD is an ISP serving,KE
 15809	-Reserved AS-,ZZ
 15810	BBVA-AS Banco Bilbao Vizcaya Argentaria, S.A.,ES
@@ -15536,7 +15536,7 @@
 15823	RADWARE-AS Radware Ltd.,IL
 15824	A1-TA-AG A1 Telekom Austria AG,AT
 15825	UNSPECIFIED,GH
-15826	NFRANCE NFRANCE CONSEIL,FR
+15826	NFRANCE NFrance CONSEIL,FR
 15827	TURIBA-AS SIA 'Biznesa augstskola Turiba',LV
 15829	EUTELSAT EUTELSAT S.A.,FR
 15830	TELECITY-LON TELECITYGROUP INTERNATIONAL LIMITED,GB
@@ -15544,7 +15544,7 @@
 15832	TRIGLAV-OSIGURANJE TRIGLAV OSIGURANJE ADO BEOGRAD,RS
 15833	-Reserved AS-,ZZ
 15835	MAP Moscow Network Access Point,RU
-15836	AXAUTSYS ARAX I.S.P.,MD
+15836	AXAUTSYS Arax-Impex s.r.l.,MD
 15837	-Reserved AS-,ZZ
 15838	FIRSTGATE-AS CBS GmbH,DE
 15839	Cobweb Solutions Ltd,GB
@@ -15590,7 +15590,7 @@
 15883	-Reserved AS-,ZZ
 15885	-Reserved AS-,ZZ
 15886	REKKON-AS limited liability company "Konnectika",RU
-15887	INFOGROUP-AS Infogroup S.p.A.,IT
+15887	INFOGROUP-AS Infogroup S.p.a.,IT
 15889	SRC-SI-AS SRC.SI sistemske integracije d.o.o.,SI
 15890	CEGETEL-DTI-FR-AS Societe Francaise du Radiotelephone S.A,FR
 15891	NETDEPOT Loomes AG,DE
@@ -15642,9 +15642,9 @@
 15940	-Reserved AS-,ZZ
 15941	BURDENIS-AS BURDENIS-COM EOOD,BG
 15942	-Reserved AS-,ZZ
-15943	WTNET-AS wilhelm.tel GmbH Norderstedt,DE
+15943	WTNET-AS wilhelm.tel GmbH,DE
 15944	-Reserved AS-,ZZ
-15945	PFALZKOM-NET PfalzKom GmbH Autonomous System Number,DE
+15945	PFALZKOM-NET PfalzKom, Gesellschaft fuer Telekommunikation mbH,DE
 15946	BANKA-KOPER-AS Banka Koper d.d.,SI
 15947	CCBISP-AS Cork Community Broadband Limited,IE
 15948	ICE/HT fundamental and technological research,GR
@@ -15702,7 +15702,7 @@
 16000	-Reserved AS-,ZZ
 16001	AAREON-AS Aareon Deutschland GmbH,DE
 16002	-Reserved AS-,ZZ
-16004	MIXITA-AS MIX S.r.L.,IT
+16004	MIXITA-AS MIX S.r.L. - Milan Internet eXchange,IT
 16005	ASITCENTROFHOUSING SPSC IT Center of housing and communal services,UA
 16006	RUPKKI-SK-AS Rupkki s.r.o.,SK
 16007	ASN-KANCOM KANCOM Fiber-Optic Network,RU
@@ -15737,7 +15737,7 @@
 16036	THOMSON-CORPORATION Thomson Corporation,GB
 16037	TETRAPAK-AS AB Tetra Pak,SE
 16038	LSV-AS LSV Ltd.,UA
-16039	KNET Comunicaciones S.L.,ES
+16039	KNET Knet Comunicaciones, S.L.,ES
 16040	-Reserved AS-,ZZ
 16042	AS16042 Terra S.p.a.,IT
 16043	SAMARA-TELECOM-AS Samara Telecom Autonomous System,RU
@@ -15754,7 +15754,7 @@
 16054	NSOELSV-AS OJSC Rostelecom,RU
 16055	DEVK Autonomous System,DE
 16056	IBASIS-AS IVANET Autonomous System,GB
-16057	AGELIA-AS Agelia Autonomous System,FR
+16057	AGELIA-AS Agelia,FR
 16058	Gabon-Telecom,GA
 16059	-Reserved AS-,ZZ
 16060	KUWAIT-MOF-AS Kuwait Ministry of Finance,KW
@@ -15773,7 +15773,7 @@
 16073	ACCELANCE-AS-FR-1 Open Wide Outsourcing SAS,FR
 16074	CAPGEMINI_OUTSOURCING_NL Capgemini Nederland B.V.,NL
 16075	TAZ-AS taz die tageszeitung autonomous system,DE
-16076	IPERV-AS IperV. Padova NOC.,IT
+16076	IPERV-AS IPERV Internet Per Il Veneto,IT
 16077	Regus Paris SAS,FR
 16079	NESTEC_CLGO Nestle Operational Services Worldwide SA,CH
 16080	RENTABILIWEB Rentabiliweb Telecom,FR
@@ -15786,11 +15786,11 @@
 16087	-Reserved AS-,ZZ
 16089	-Reserved AS-,ZZ
 16090	-Reserved AS-,ZZ
-16091	SATEC SATEC AS,DE
+16091	SATEC SATEC, S.A.,DE
 16092	-Reserved AS-,ZZ
 16093	-Reserved AS-,ZZ
 16094	ROILCOM-AS ROILCOM LTD,RU
-16095	JAYNET jay.net a/s,DK
+16095	JAYNET Jay.net A/S,DK
 16096	BETFAIR The Sporting Exchange Ltd,GB
 16097	HLKOMM HL komm Telekommunikations GmbH,DE
 16098	-Reserved AS-,ZZ
@@ -15830,7 +15830,7 @@
 16133	AXA Technology Services Switzerland AG,CH
 16134	NEODIGIT_AS Neodigit, S.L.,ES
 16135	TURKCELL-AS TURKCELL ILETISIM HIZMETLERI A.S.,TR
-16136	POLIRIS-AS POLIRIS,FR
+16136	POLIRIS-AS SeLoger.com S.A.,FR
 16138	INTERIAPL INTERIA.PL Sp z.o.o.,PL
 16139	LOWERTHAN16150 AS-HEMLIGT,SE
 16140	IMADIFF-ASN IMA'DIFF s.a.r.l.,FR
@@ -15883,7 +15883,7 @@
 16188	PUNKT punkt.de GmbH,DE
 16189	KLEE SA,FR
 16190	AS16190 WEB Ltd,AM
-16191	ICANET-AS ICA-NET S.r.l.,IT
+16191	ICANET-AS ICA-NET SRL,IT
 16192	ROM-ELECTRONIC-AS Rom Electronic Company SRL,RO
 16193	BankService AD,BG
 16194	REALDOLMEN RealDolmen NV,BE
@@ -15903,7 +15903,7 @@
 16209	-Reserved AS-,ZZ
 16210	GRUPPOIH-AS VISIANT TECHNOLOGIES S.R.L.,IT
 16211	STELLA-NET Stella Telecom SAS,FR
-16212	LORAL-SKYNET-ASN Loral Skynet - Aflenz ES (Telekom Austria),DE
+16212	LORAL-SKYNET-ASN Loral Skynet Network Services (Europe) Ltd,DE
 16213	MICRODATAUA-AS Microdata Ltd.,UA
 16214	CERIST,DZ
 16215	-Reserved AS-,ZZ
@@ -15921,7 +15921,7 @@
 16229	PRIMETEL PrimeTel PLC Ltd,CY
 16230	SKYNET-AS LLC Skynet, Ekaterinburg, Russia,RU
 16231	DEKNET DEK-optics LTD,RU
-16232	ASN-TIM TIM (Telecom Italia Mobile) Autonomous System,IT
+16232	ASN-TIM Telecom Italia Mobile,IT
 16233	-Reserved AS-,ZZ
 16234	STAYON Stayon AS,NO
 16235	POUYANAZM-AS Pouya Nazm Najafabad Computer Co(PJS),IR
@@ -15934,7 +15934,7 @@
 16242	MHS mhs internet AG,CH
 16243	VIRTU-AS Virtu Secure Webservices B.V.,NL
 16245	NGDC NetGroup A/S,DK
-16246	AS16246 RIOMEDIA Autonomous system,CZ
+16246	AS16246 RIO Media a.s.,CZ
 16247	DATASTATE VENUS BUSINESS COMMUNICATIONS LIMITED,MT
 16248	-Reserved AS-,ZZ
 16250	-Reserved AS-,ZZ
@@ -15950,7 +15950,7 @@
 16261	Bahnhof Internet AB,SE
 16262	DELTA-LTD-AS Delta Ltd,RU
 16263	RAMAN Politechnika Radomska Im.Kazimierza Pulaskiego,PL
-16264	What's Up Informations,DE
+16264	What's Up,DE
 16265	LEASEWEB-NETWORK LeaseWeb B.V.,NL
 16266	ASN-CANON-NL Canon Europa N.V.,NL
 16267	AZ Medien Gruppe (Holding) ENTERPRISE,CH
@@ -15988,7 +15988,7 @@
 16303	IPSwitch Networks Ltd,GB
 16304	-Reserved AS-,ZZ
 16305	A1 Telekom Austria AG,AT
-16306	WALDONET WALDONET Autonomous System,MT
+16306	WALDONET GO p.l.c.,MT
 16307	-Reserved AS-,ZZ
 16308	State Educational institution for High professional education 'Southern Federal University',RU
 16309	-Reserved AS-,ZZ
@@ -16032,7 +16032,7 @@
 16347	RMI-FITECH ADISTA SAS,FR
 16348	PWC-FR PricewaterhouseCoopers Services GIE,FR
 16349	FON-AS-2 Fon Wireless LTD,ES
-16350	ECHELON-AS Echelon BV,NL
+16350	ECHELON-AS Echelon,NL
 16351	JUNO-AS Juno Records Ltd,GB
 16352	-Reserved AS-,ZZ
 16353	MERULA Merula Limited,GB
@@ -16812,7 +16812,7 @@
 17136	SPANGROUP-UTI - Span Manufacturing Ltd.,CA
 17137	HAWKEYE-SYNIVERSE - Hawkeye Switching LLC.,US
 17138	EBG - Epstein Becker & Green, P.C.,US
-17139	CORPCOLO - Corporate Colocation Inc.,US
+17139	NETRANGE - Corporate Colocation Inc.,US
 17140	CBRE-US - CBRE, INC.,US
 17141	TELIUVO-TOR - Teliuvo, Inc.,CA
 17142	THERASOFTONLINE - Therasoft Online Inc,US
@@ -18620,7 +18620,7 @@
 18979	WHI - Whi Solutions Inc.,US
 18980	PEACEHEALTH - Peace Health,US
 18981	IPSTRADA - Supreme Telecom Systems, Inc.,US
-18982	ONENECK-IT-SERVICES-CHARLOTTE-AS - OneNeck IT Services,US
+18982	ONENECK-IT-SOLUTIONS-DEN - OneNeck IT Services,US
 18983	FMI-BR - FM Services Company,US
 18984	SERVERCAVE - ServerCave, Inc.,US
 18985	-Reserved AS-,ZZ
@@ -20150,7 +20150,7 @@
 20518	-Reserved AS-,ZZ
 20519	BALTNET OJSC Rostelecom,RU
 20520	CENTRIC-ACC Centric Telecom Limited,GB
-20521	ASN-BELLNET Bellnet Ltd.,MT
+20521	ASN-BELLNET Bellnet Limited,MT
 20522	SEVEN-AUTONOMOUS-SYSTEM WIIT SPA,IT
 20523	Novotron Informatikai Rt.,HU
 20524	INEXESS-ASN SC Inexess Team Agency SRL,RO
@@ -20172,7 +20172,7 @@
 20542	HTV DNA Oy,FI
 20543	-Reserved AS-,ZZ
 20544	EXTEL CJSC Express TeleCom,RU
-20545	GRENA-AS GRENA Autonomous System,GE
+20545	GRENA-AS Georgian Research and Educational Networking Association (GRENA),GE
 20546	SOPRADO-ANY SOPRADO GmbH,DE
 20547	SIXDG-AS Six Degrees Managed Data Limited,GB
 20548	LATVIJAS_REPUBLIKAS_SAEIMA Latvijas Republikas Saeima,LV
@@ -20192,7 +20192,7 @@
 20566	-Reserved AS-,ZZ
 20567	-Reserved AS-,ZZ
 20568	AH-CDN-AS Antenna Hungaria Broadcast and Telecommunication Corporation,HU
-20569	AINAIP-AS AinaCom - IP Services and Transit Network,FI
+20569	AINAIP-AS AinaCom Oy,FI
 20570	ASN-TSI-IPLS T-Systems International GmbH,DE
 20571	EXOMI Ztango Finland,FI
 20572	GIESECKE Giesecke & Devrient GmbH,DE
@@ -20241,7 +20241,7 @@
 20620	-Reserved AS-,ZZ
 20621	OPENIT OpenIT GmbH,DE
 20622	PERFETTI-AS Perfetti Van Melle Gida San. ve Tic A.S.,TR
-20623	SAFELINES The network of ISP Safelines,includes POPs in various cities,IL
+20623	SAFELINES Safelines Ltd.,IL
 20624	Euronet Services Kft,HU
 20625	HELSINGENET Bollnas energi AB,SE
 20626	Sandviken Energi AB,SE
@@ -20273,7 +20273,7 @@
 20655	E-STYLEISP-AS e-Style ISP LLC,RU
 20656	ELEKTRIM-AS Laris Investments Sp. z o.o.,PL
 20657	ATLANTIS Atlantis BG, Ltd.,BG
-20658	COMPUTERDESIGN-AS Web Farm of Computer Design in a multi-homed infrastructure,IT
+20658	COMPUTERDESIGN-AS Computer Design,IT
 20659	-Reserved AS-,ZZ
 20660	LE-UA-AS LinkExpress Ltd.,UA
 20661	TURKMENTELECOM-AS TurkmenTelecom ISP Network,TM
@@ -20303,8 +20303,8 @@
 20689	HCCNET XS4ALL Internet BV,NL
 20690	APATIT JSC Apatit,RU
 20691	GLS-SLO-AS General Logistics Systems logisticne storitve d.o.o.,SI
-20692	NETGATE-AS NetGate Datacenter ASN,DE
-20693	INTERNET-XPRESS-AS INTERNET XPRESS Autonomus System,ES
+20692	NETGATE-AS NetGate Internetservice,DE
+20693	INTERNET-XPRESS-AS Internet Xpress,ES
 20694	NMMN-AS NMMN New Media Markets & Networks IT-Services GmbH,DE
 20695	CAP1-AS Capital One Bank (Europe) plc,GB
 20696	ABSNET Absnet on Aker Brygge, Oslo,Norway,NO
@@ -20326,7 +20326,7 @@
 20713	-Reserved AS-,ZZ
 20714	MERLIN-TELECOM "Merlin-Telekom" LLC,UA
 20716	TOTALTELECOM-AS TOTAL TELECOM SRL,RO
-20718	AS_ARSYS-EURO-1 arsys.es,ES
+20718	AS_ARSYS-EURO-1 ARSYS INTERNET S.L.,ES
 20719	PS-BZU-AS Birzeit University,PS
 20720	TOL-AS CJSC "Tatarstan-On-Line",RU
 20721	KAOSES KAOS REDES IP,ES
@@ -20335,7 +20335,7 @@
 20724	TELEPARK-AS Telepark LTD,UA
 20725	DATAGROUP-AS_NCC2013033607 PRIVATE JOINT STOCK COMPANY "DATAGROUP",UA
 20726	-Reserved AS-,ZZ
-20727	DE-WRONLINE WRonline GbR,DE
+20727	DE-WRONLINE Wronline GbR,DE
 20728	GUNESSIG Gunes Sigorta AS,TR
 20729	Sun Alliance Management Services,GB
 20730	BAYKAL-INCANET-AS BIKS+ Ltd,RU
@@ -20351,7 +20351,7 @@
 20740	MESSEFFM Messe Frankfurt GmbH,DE
 20742	AHOL Internet4U Kereskedelmi es Szolgaltato Kft.,HU
 20743	SWX SIX Swiss Exchange AG,CH
-20745	CNIT Autonomous System,IT
+20745	CNIT Italian National Consortium for Telecommunications,IT
 20746	ASN-IDC Telecomitalia s.p.a.,IT
 20747	-Reserved AS-,ZZ
 20748	CAJAMADRID Bankia S.A.,ES
@@ -20360,7 +20360,7 @@
 20752	-Reserved AS-,ZZ
 20753	PCTCONSULTING Pohl Consulting Team GmbH,DE
 20754	RCT-AS PRIVATE JOINT STOCK COMPANY "DATAGROUP",UA
-20755	NET-LAB net-lab's famous autonomous system,DE
+20755	NET-LAB net-lab GmbH,DE
 20756	NAMESHIELD ECHO MARQUES,FR
 20757	-Reserved AS-,ZZ
 20758	-Reserved AS-,ZZ
@@ -20408,7 +20408,7 @@
 20800	Globes,IL
 20803	RISS-AS LLC "Ris-Tel",RU
 20804	ASN-TELENERGO Exatel S.A.,PL
-20805	HFONETZ Aut.-System HFO Telecom AG,DE
+20805	HFONETZ Hochfranken Online GmbH+Co.KG,DE
 20806	ASJSCITT JSC InfoTeCS Taganrog Telecom,RU
 20807	CREDOLINK-ASN Credolink ISP Autonomous System,RU
 20808	AS-BGZ Bank Gospodarki Zywnosciowej SA,PL
@@ -20437,7 +20437,7 @@
 20833	ATL-AS Atlantis Telecom,UA
 20834	-Reserved AS-,ZZ
 20835	ATS69-AS ZAO ATS-69,RU
-20836	CDLAN-AS CDLAN Autonomous System,IT
+20836	CDLAN-AS CDLAN s.r.l.,IT
 20837	-Reserved AS-,ZZ
 20838	YIF-AS France Telecom Espana S.A,ES
 20839	SED-UA-NET Private Firm "NT-Zv'yazok",UA
@@ -20456,7 +20456,7 @@
 20852	ATLANT-TELECOM-AS FE "ALTERNATIVNAYA ZIFROVAYA SET",BY
 20853	ETOP-AS eTOP sp.  z o.o.,PL
 20854	-Reserved AS-,ZZ
-20855	AIRDATA-AS AIRDATA AG,DE
+20855	AIRDATA-AS Airdata AG,DE
 20856	-Reserved AS-,ZZ
 20857	TRANSIP-AS TransIP B.V.,NL
 20858	EGYNET-AS,EG
@@ -20514,17 +20514,17 @@
 20911	NETSURF-AS-BG Net-Surf.net Ltd.,BG
 20912	ASN-PANSERVICE Panservice,IT
 20913	BETAM_TELECOMUNICAZIONI_AS Betam.it SNC di Leoni marco e Zibelli Maurizio,IT
-20914	OPENOFFICE-AS Openoffice,CH
+20914	OPENOFFICE-AS OpenOffice InternetService,CH
 20915	HUNDRED-PERCENT-IT 100 Percent IT AS,IT
 20916	ADMINEXPERT-AS PE Arzanova Nadezhda Borisovna,UA
 20917	KHEOPS-AUTONOMOUS-SYSTEM KHEOPS Organisation,FR
-20918	PI-AS PI-Informatik GmbH,DE
+20918	PI-AS PI Informatik GmbH,DE
 20919	IBS IBS Systems Integration Limited,RU
 20920	-Reserved AS-,ZZ
 20921	AMENA-AS France Telecom Espana SA,ES
 20922	DW-AS Invitel Tavkozlesi Zrt.,HU
 20923	-Reserved AS-,ZZ
-20924	ICTEAM ICTeam Autonomous System,IT
+20924	ICTEAM ICTeam S.p.A.,IT
 20925	-Reserved AS-,ZZ
 20926	PULSATION-AS Oceanet Technology SAS,FR
 20927	ADDISON-LEE Addison Lee Limited,GB
@@ -20586,7 +20586,6 @@
 20985	ARTX-AS ArtX LLC,RU
 20987	-Reserved AS-,ZZ
 20988	MTF-CLOUD ,CH
-20989	,
 20990	DKB-LONDON-AS Commerzbank Aktiengesellschaft,GB
 20991	DKB-FRANKFURT-AS Commerzbank Aktiengesellschaft,GB
 20992	IDP-AS IDP s.n.c. di Repetto Davide e Magnone Paolo,IT
@@ -20634,7 +20633,7 @@
 21041	-Reserved AS-,ZZ
 21042	GULFSAT-AS Gulfsat Autonomous System,IL
 21043	-Reserved AS-,ZZ
-21044	VIZZAVI-DE-AS Vodafone Content Services Germany Autonomous System,DE
+21044	VIZZAVI-DE-AS Vodafone Deutschland GmbH,DE
 21045	QNETCZ QNET CZ s.r.o.,CZ
 21047	DEUTSCHE-BANK-SUISSE-AS Deutsche Bank (Suisse) SA,CH
 21048	-Reserved AS-,ZZ
@@ -20642,7 +20641,7 @@
 21050	FAST-TELCO Fast Telecommunications Company W.L.L.,KW
 21051	NIVAL-AS Limited liability company Mail.Ru,RU
 21052	-Reserved AS-,ZZ
-21053	BOSCH-REXROTH-AS Bosch Rexroth AG,DE
+21053	BOSCH-REXROTH-AS Robert Bosch Gesellschaft mit Beschraenkter Haftung,DE
 21054	RBSG-UK-AS THE ROYAL BANK OF SCOTLAND PLC,GB
 21055	-Reserved AS-,ZZ
 21056	ASN-WELCOMEITALIA Welcome Italia S.p.A.,IT
@@ -20657,7 +20656,7 @@
 21065	-Reserved AS-,ZZ
 21066	-Reserved AS-,ZZ
 21068	IE-NET-AS Image Electronics Autonomous System,PL
-21069	ASN-METANET METANET AG, Switzerland,CH
+21069	ASN-METANET METANET AG,CH
 21070	TOTAL Total S.A.,FR
 21072	-Reserved AS-,ZZ
 21073	ZORANET-AS Zoranet Internetdiensten,NL
@@ -20680,7 +20679,7 @@
 21090	-Reserved AS-,ZZ
 21091	-Reserved AS-,ZZ
 21092	-Reserved AS-,ZZ
-21093	FR-BOUYGUES Bouygues Telecom S.A.,FR
+21093	FR-BOUYGUES Bouygues Telecom SA,FR
 21094	FR-EUROSPORT EUROSPORT SA,FR
 21095	-Reserved AS-,ZZ
 21096	DSTSIP-AS Department of Support of State Service of Special Communication and Information Protection of Ukraine,UA
@@ -20710,7 +20709,7 @@
 21122	ASN-APPLICABLE Applicable Ltd,GB
 21123	INCENTIAS ASSECO Poland S.A.,PL
 21124	ATRILA-ANYCAST AtrilA GmbH,CH
-21125	EMPERION-AS Emperion Autonomous System,DK
+21125	EMPERION-AS Emperion A/S,DK
 21126	-Reserved AS-,ZZ
 21127	ZSTTKAS JSC "Zap-Sib TransTeleCom", Novosibirsk,RU
 21128	-Reserved AS-,ZZ
@@ -20754,7 +20753,7 @@
 21169	POLCARD-AS First Data Polska S.A.,PL
 21171	SCHIBSTED Schibsted ASA Autonomous system, Oslo, Norway,NO
 21172	-Reserved AS-,ZZ
-21173	ASN-LANTANA Network of LANtana GmbH, Germany, Ahrensburg,DE
+21173	ASN-LANTANA LANtana GmbH,DE
 21174	RWANDATEL-AS Autonomous System Number for RWANDATEL, Rwanda,IL
 21175	WIS WIS Telecom SA,BE
 21176	ASN-SEMA Engineering Ingegneria Informatica S.p.A.,IT
@@ -20780,7 +20779,7 @@
 21196	EPN-BA-AS europroNET Bosnia d.o.o.,BA
 21197	ROHDE-SCHWARZ-ASN Rohde & Schwarz GmbH & Co. KG,DE
 21198	JESSENLENZ-AS JessenLenz GmbH,DE
-21199	SEAT-AS Seat Pagine Gialle SPA - Autonomous System,IT
+21199	SEAT-AS Seat Pagine Gialle S.p.A.,IT
 21200	SKANDIABANKEN Skandia Informationsteknologi AB,SE
 21201	NETFONDS-AS Netfonds Bank ASA, Oslo, Norway,NO
 21202	DCSNET-AS Bredband2 AB,SE
@@ -20906,10 +20905,10 @@
 21330	AVE-AS TOV GORILLA,UA
 21331	OKDN-AS Oslo kommune, Utviklings- og kompetanseetaten,NO
 21332	NTC-AS OJSC "Vimpelcom",RU
-21333	INVA-AS IN.VA.'s Autonomous System,IT
-21334	ASN-VODAFONE-HU VODAFONE-HU Vodafone Hungary Ltd.,HU
+21333	INVA-AS IN.VA. S.p.A.,IT
+21334	ASN-VODAFONE-HU Vodafone Hungary Ltd.,HU
 21335	DIGITONESPB-AS CJSC "WEST CALL LTD",RU
-21336	INFORENT-AS INFORENT Autonomous System Area,DE
+21336	INFORENT-AS INFORENT GmbH,DE
 21337	UBBNET United Bulgarian Bank AD,BG
 21338	NORD-VOSTOK-AS PrivateJSC DataGroup,UA
 21339	CONTINGENCYNETWORKS Contingency Networks Ltd,GB
@@ -20922,7 +20921,7 @@
 21346	VISTORM-AS Vistorm Limited,GB
 21347	-Reserved AS-,ZZ
 21348	KOPTERIFI KOPTERIFI is autonomous system. Located in Vammala Finland,FI
-21350	INTERSPACE-AS INTERSPACE LTD. Autonomous System,IL
+21350	INTERSPACE-AS Interspace Ltd.,IL
 21351	MEDIASERV Mediaserv,FR
 21352	ASNETMOBILE Net Mobile AG,DE
 21353	ARTCOMS-AS PRESTIGE-INTERNET LTD,RU
@@ -20983,7 +20982,7 @@
 21410	LINKPARDAZ Pardaz Gostar Ertebatat Berelian Limited Liability Company,IR
 21411	ITERA-NET-UA ITERANET LLC,UA
 21412	CGATES-AS UAB "Cgates",LT
-21413	ENVIA-TEL-AS envia Tel GmbH,DE
+21413	ENVIA-TEL-AS Envia Tel GmbH,DE
 21414	RUSCOMNET-AS RusComNet Ltd.,RU
 21415	INTERNETGROUP-AS-BG Internet Group Ltd.,BG
 21416	TCINET-AS CJSC Technical Center Internet,RU
@@ -21004,7 +21003,7 @@
 21431	-Reserved AS-,ZZ
 21432	AVAL PJSC "Raiffeisen Bank Aval",UA
 21433	ACCENTUREFSSC Accenture UK Limited,GB
-21434	CLARIANT CLARIANT-B2B,CH
+21434	CLARIANT Clariant International Ltd.,CH
 21435	BROADNET-CZ Broadnet Czech, Prague,CZ
 21436	ALMANID almanid group GmbH,CH
 21437	AVITI-AS Aviti ltd.,UA
@@ -21034,14 +21033,14 @@
 21463	-Reserved AS-,ZZ
 21464	EDF-AS EDF Trading Ltd,GB
 21465	EUROPAEISKE-AS Europaeiske IT,DK
-21466	ASQUICKNET This AS belongs to the Cablenetwork Quicknet of,CH
+21466	ASQUICKNET Kabelfernsehen Bodeli AG,CH
 21467	MECOM-AS Medien Communications Gesellschaft mbH,DE
 21468	-Reserved AS-,ZZ
 21469	CREDEM-AS Credito Emiliano S.p.A.,IT
 21470	SWISP-AS South West Communications Group Ltd,GB
 21471	ASN-FERRANIA Ferrania Technologies S.P.A,IT
 21472	SERVERHOUSE ServerHouse Ltd,GB
-21473	MANET-AS MAnet Autonomous System Number,DE
+21473	MANET-AS MAnet,DE
 21474	SD-WORX SD WORX vzw,NL
 21475	-Reserved AS-,ZZ
 21476	ASN-ACDC all-connect Data Communications GmbH,DE
@@ -21069,7 +21068,7 @@
 21499	IMS-AS PlusServer AG,DE
 21500	TNS-AS Scientific Production Enterprise "Technaukservice" Ltd,UA
 21501	MAINLAB-AS PlusServer AG,DE
-21502	ASN-NUMERICABLE NUMERICABLE is a cable network operator in France, offering TV,VOICE and Internet services,FR
+21502	ASN-NUMERICABLE NC Numericable S.A.,FR
 21503	ARETE-AS Availo Networks AB,SE
 21504	BESSEMER-GROUP-INCORPORATED - The Bessemer Group, Inc.,US
 21505	EXENET-AS - Exenet Technologies, Inc.,US
@@ -24095,7 +24094,7 @@
 24620	RTU Rigas Tehniska Universitate,LV
 24621	STENOS-AS PP Stenos,UA
 24623	FMCOMPUTER F&M Computer Systemhaus GmbH,DE
-24624	IASOFT-AS IA Soft Aragon AS Number,ES
+24624	IASOFT-AS IA Soft Aragon, S.L.,ES
 24625	-Reserved AS-,ZZ
 24626	TTKNN-AS Closed Joint Stock Company TransTeleCom,RU
 24627	SHOWNET-KW-AS GULFSATCOMMUNICATIONS COMPANY K.S.C.,GB
@@ -24110,7 +24109,7 @@
 24638	RAMBLER-TELECOM-AS Rambler Internet Holding LLC,RU
 24639	INFRASERV-AS InfraServ GmbH & Co.Hoechst KG,DE
 24640	BSWS-AS BS Web Services GmbH,DE
-24641	FASTER-AS This is AS for ISP Faster, Brno, CZ.,CZ
+24641	FASTER-AS FASTER CZ spol. s r.o.,CZ
 24642	NL-CAVEO Caveo Internet BV,NL
 24643	CHELLO-AS-IPV6 UPC Austria GmbH,AT
 24644	-Reserved AS-,ZZ
@@ -24227,7 +24226,7 @@
 24761	-Reserved AS-,ZZ
 24762	STELCOM StelcomEngineering LLC,RU
 24763	THALES Thales Services SAS,FR
-24764	MAX-IT-AS m.a.x. Informationstechnologie AG,DE
+24764	MAX-IT-AS m.a.x. it AG,DE
 24765	-Reserved AS-,ZZ
 24766	GBCNET-AS01 GBC Internet Center GmbH,DE
 24767	ASPOL-AS OJSC MegaFon,RU
@@ -24260,7 +24259,7 @@
 24795	ASMBK-NETWORKS Ludwig Melosch GmbH & CO. KG,DE
 24796	NAMEX-IXP NAMEX CONSORZIO,IT
 24798	-Reserved AS-,ZZ
-24799	DTI2-AS Desarrollo de la Tecnologia de las Comunicaciones - DTI2,ES
+24799	DTI2-AS Desarrollo de la Tecnologia de las Comunicaciones,ES
 24801	-Reserved AS-,ZZ
 24802	KEYCAB-AS Selex ES S.p.A,IT
 24803	-Reserved AS-,ZZ
@@ -24277,7 +24276,7 @@
 24814	SCS-AS Syrian Computer Society, scs,SY
 24815	IST-TICARET-NET Istanbul Ticaret Universitesi,TR
 24816	-Reserved AS-,ZZ
-24817	IFINET-AS AS number of Ifinet - Verona - Italy,IT
+24817	IFINET-AS Ifinet Srl,IT
 24818	ANRC ANRC Services GmbH,DE
 24819	NORDNET-AS Nordnet Bank AB,SE
 24820	-Reserved AS-,ZZ
@@ -24287,7 +24286,7 @@
 24824	WEISS-ASN Gebrueder-Weiss GmbH,DE
 24825	LTMFA-AS Lietuvos Respublikos Uzsienio reikalu ministerija,LT
 24826	-Reserved AS-,ZZ
-24827	BELINFONET Belinfonet Autonomus System, Minsk, Belarus,BY
+24827	BELINFONET Belinfonet Ltd.,BY
 24828	TESMEDIA-AS UPC Ceska Republica, s.r.o.,CZ
 24829	ASTEL-TELECOM-AS Astel-Telecom,RU
 24830	INTEREC-AS CIRCUITOS ALJARAFE, S.L.,ES
@@ -24302,7 +24301,7 @@
 24841	SUPERNEWS-NL Supernews Inc.,NL
 24842	DHMS-NET DHMS Ltd,GB
 24844	EUROFORUM-ASN Euroforum Deutschland SE,DE
-24845	LHM-AS AS for Landeshauptstadt Muenchen,DE
+24845	LHM-AS Landeshauptstadt Muenchen,Direktorium,Hauptabteilung III,DE
 24846	BANCORP-AS IFC BanCorp Electronic Banking &,RU
 24847	OEVAG-AS Oesterreichische Volksbanken AG,AT
 24848	KIELMAN-EDU-AS Kielce University of Technology,PL
@@ -24337,7 +24336,7 @@
 24877	INIT Init Corporation Autonomous System,LT
 24878	BIBLIOTHECA-ALEXANDRINA,EG
 24879	PEKAOSA-PL BANK POLSKA KASA OPIEKI S.A.,PL
-24880	EPRESS-AS ePress Autonomous System,IT
+24880	EPRESS-AS ePress Information Services s.r.l.,IT
 24881	INTERPHONE-AS Interphone Ltd.,UA
 24882	UKRINFORMJUST State enterprise "Information Centre" Ministry of Justice of Ukraine,UA
 24883	-Reserved AS-,ZZ
@@ -24405,7 +24404,7 @@
 24948	-Reserved AS-,ZZ
 24949	BTCML-AXA-AS AXA Technology Services UK Limited,GB
 24950	SOFIASAT-AS Venus REIT OOD,BG
-24951	EVERYWARE-NET EveryWare LTD.,CH
+24951	EVERYWARE-NET EveryWare AG,CH
 24952	FIRMENICH-AS Firmenich SA,CH
 24953	ASN-CARRIER66 NETPLANET GmbH,AT
 24954	HAVAS HAVAS S.A.,FR
@@ -24436,7 +24435,7 @@
 24980	PENTA-AS PENTA INVESTMENTS LIMITED o.z.,SK
 24981	PRIVATBANKLV-AS AS Privatbank,LV
 24982	BANKMED BankMed sal,LB
-24983	ALTECOM Alta Tecnologia en Comunicacions, S.L.,ES
+24983	ALTECOM Alta Tecnologia en Comunicacions, S.L,ES
 24984	DNB AB DNB bankas,LT
 24985	KACZMARSKI-AS KACZMARSKI-INKASSO-Malgorzata-Kaczmarski,PL
 24986	EUROMB Donpharmholding Ltd,UA
@@ -24445,11 +24444,11 @@
 24990	EQUINIX-FR-ASN Equinix France SAS,FR
 24991	DATATRANS-AS Datatrans Internet Ltd,HU
 24992	DIC-AS DIC - Online Wolf & Co. KG,AT
-24993	POTSDAM-AS netzhaus AG,DE
+24993	POTSDAM-AS netzhaus aktiengesellschaft,DE
 24994	GENESYS-AS genesys informatica srl,IT
 24995	MIKTELECOM-AS MIK Telecom ltd.,UA
 24996	LADOT-AS Ladot Nederland BV,NL
-24997	GE-CDN-AS AS for CDN,GE
+24997	GE-CDN-AS Caucasus digital network,GE
 24998	ORBITONE-AS Orbit One bvba,BE
 24999	SINSOFT-AS Sumy Online Ltd,UA
 25000	DVCOM-AS TOV DV-COM,UA
@@ -24501,7 +24500,7 @@
 25050	BACS-AS VOCALINK LTD,GB
 25051	ISNET-AS Informservice & Co Ltd.,RU
 25053	EA-AS Generali IT-Solutions GmbH,UA
-25054	ACO-AS the AS of ACO Computerservice GmbH Kassel -Germany-,DE
+25054	ACO-AS ACO Computerservice GmbH,DE
 25055	BBG-PL-AS Bank Millennium SA,PL
 25056	SALOMON-AT-AS Salomon Automation Gesellschaft m.b.H.,AT
 25058	CMO-AS CMO Internet Dienstleistungen GmbH,DE
@@ -24563,7 +24562,7 @@
 25119	UKRPRESS State Publishing House "The Press of Ukraine" of the State Business Management,UA
 25120	-Reserved AS-,ZZ
 25121	LBB-AS AS Eesti Krediidipank Latvia,LV
-25122	GULFSAT_COMMUNICATIONS-AS Gulfsat Communications Co.,KW
+25122	GULFSAT_COMMUNICATIONS-AS GULFSATCOMMUNICATIONS COMPANY K.S.C.,KW
 25123	-Reserved AS-,ZZ
 25124	DATAK DATAK Internet Engineering, Inc,IR
 25125	ISRAEL-LCL-NET-AS Local Authorities Data Processing Center Company Ltd Corp,IL
@@ -24591,7 +24590,7 @@
 25148	BASEFARM-ASN Basefarm AS. Oslo - Norway,NO
 25149	DROGA-AS Droga Kolinska d.d.,SI
 25150	DCTEL-AS DCTel Ltd,UA
-25151	CYSO-AS Cyso Hosting B.V., Alkmaar, The Netherlands,NL
+25151	CYSO-AS Cyso Hosting B.V.,NL
 25152	K-ROOT-SERVER Reseaux IP Europeens Network Coordination Centre (RIPE NCC),EU
 25153	-Reserved AS-,ZZ
 25155	STARSOFT-AS Star Soft Ltd.,UA
@@ -24673,11 +24672,11 @@
 25240	UMTS-AS Svenska UMTS Nat AB,SE
 25241	IEM-AS Information Centre of the Ministry of the Interior,LV
 25242	KUWAIT-UNIVERSITY Computer Information Systems Kuwait University Kuwait,KW
-25244	DECODE-AS Decode Autonomous System,IS
+25244	DECODE-AS deCode Inc.,IS
 25245	RTDEWDF-AS REALTECH Verwaltungs GmbH,DE
-25247	IBERCAJA-AS AUTONOMOUS SYSTEM OF IBERCAJA, A SPANISH BANK LOCATED ON ZARAGOZA,ES
+25247	IBERCAJA-AS Ibercaja,ES
 25248	BLUETONE-AS RADIOKOMUNIKACE a.s.,CZ
-25249	GE-MAGTICOM MAGTICOM,GE
+25249	GE-MAGTICOM Magticom Ltd.,GE
 25250	GAMTEL-AS,GM
 25251	ARTCON-AS Art-Constructor CJSC,RU
 25252	VOLVOIT Volvo Information Technology AB,SE
@@ -24693,7 +24692,7 @@
 25263	-Reserved AS-,ZZ
 25265	VELTON-AS VELTON.TELECOM Ltd,UA
 25266	-Reserved AS-,ZZ
-25267	CORPME-AS Colegio de Registradores de la Propiedad,ES
+25267	CORPME-AS Colegio de Registradores de la Propiedad y Mercantiles de Espana,ES
 25268	CARGOPARTNER-AS CARGO PARTNER GMBH,AT
 25269	UNEXBANK-AS Joint-stock commercial bank UNEX,UA
 25270	-Reserved AS-,ZZ
@@ -24728,8 +24727,8 @@
 25302	BS-NET-AS Oliver Breuninger,DE
 25303	KDD KDD Centralna klirinsko depotna druzba d.d.,SI
 25304	UNITBV Universitatea TRANSILVANIA Brasov,RO
-25305	ALBEDO-AS Albedo S.r.l. Network Service Provider Operating in ITALY,IT
-25306	INSTITUTE-ISIRAN institute isiran Autonomous System Number,IR
+25305	ALBEDO-AS Albedo S.r.l.,IT
+25306	INSTITUTE-ISIRAN IsIran,IR
 25307	IXEUROPE-GERMANY-2-ASN Equinix Limited,DE
 25308	CITYLAN-AS CityLanCom LTD,RU
 25309	TOPIX-AS Consorzio Topix - Torino e Piemonte Exchange Point,IT
@@ -24739,7 +24738,7 @@
 25313	PL-OPEN-AS Open Finance S.A,PL
 25315	AVGZ TOB AVGZ,UA
 25316	MWM-AS MWM Gas & Energy SRL,RO
-25317	MB-T-AS MB&T GmbH,DE
+25317	MB-T-AS MB&T Consulting GmbH,DE
 25318	PROVISION SC Provision Software Division SRL,RO
 25319	ASN-CTS State Enterprise "Special Telecommunications Center",MD
 25320	SKPWRINTL-AS Skypower AS Number,GB
@@ -24773,7 +24772,7 @@
 25350	ASN-NUOVOPIGNONE Nuovo Pignone S.p.A,IT
 25351	BROADNET-NO-AS Broadnet AS,NO
 25352	GUARDIAN-NETWORKS H B H Trade Center v/Henrik Bo Hansen,DK
-25353	BAR-AS BAR Informatik AG,CH
+25353	BAR-AS BAR Informatik Net,CH
 25354	RED-ES-AS Entidad Publica Empresarial Red.es,ES
 25355	ASN-INTELE "Intelecom" LLC,RU
 25356	SECURITAS-DIRECT-AS SECURITAS DIRECT ESPANA S.A.U.,ES
@@ -24813,7 +24812,7 @@
 25391	SSH-AS SSH Communications Security Corporation,FI
 25392	GEDAS-AS T-SYSTEMS ITC IBERIA S.A.,ES
 25393	UKRLINK Internet Invest Ltd.,UA
-25394	MK-NETZDIENSTE-AS AS for MK Netzdienste GmbH & Co. KG,DE
+25394	MK-NETZDIENSTE-AS MK Netzdienste GmbH & Co. KG,DE
 25395	Gateway Communications,NL
 25396	-Reserved AS-,ZZ
 25398	TSP-AS Technosphere Ltd.,UA
@@ -24842,7 +24841,7 @@
 25421	JOHN-LEWIS-AS John Lewis Plc.,GB
 25422	-Reserved AS-,ZZ
 25423	HT The Phone House Telecom GmbH,DE
-25424	INEXT-CZ INTERNEXT 2000 s.r.o.,CZ
+25424	INEXT-CZ InterneXt 2000,CZ
 25425	UNICOM Unicom Management Services (Cyprus) Ltd.,CY
 25426	BRAINTEC-AS D.FI Services SAS,GB
 25427	-Reserved AS-,ZZ
@@ -24850,7 +24849,7 @@
 25429	CBI-AS CBINET, Bujumbura, Burundi.,BI
 25430	-Reserved AS-,ZZ
 25431	GAMAELEKTRONIK Gama Electronics d.o.o.,RS
-25432	INFINEON-AS Infineon AG,DE
+25432	INFINEON-AS Infineon Technologies AG,DE
 25433	HENZ-NL-AS HenZ.nl B.V.,NL
 25434	EDAG-AS EDAG Engineering AG,DE
 25435	META10-ASN META10 AG,CH
@@ -24899,7 +24898,7 @@
 25484	ACCELERATED-AS Accelerated IT Services GmbH,DE
 25485	VERISIGN-CH-AS VeriSign Inc.,GB
 25486	LUN-AS Lightup Network Solutions GmbH & Co. KG,DE
-25487	DIGITALVALUE-AS Digital Value Autonomous System, Valencia (Spain),ES
+25487	DIGITALVALUE-AS Digital Value,ES
 25488	COMUNE-NOVARA-AS Comune di novara,IT
 25489	AQUATIX-AS Aquatix IT-Services e.K.,DE
 25490	STC-AS OJSC Rostelecom,RU
@@ -24945,15 +24944,15 @@
 25531	INTFRM-AS Intinform Ltd.,RU
 25532	MASTERHOST-AS .masterhost autonomous system,RU
 25533	FAUST-ASN FAUST ISP LTD.,UA
-25534	INTELSOFT-AS Intelsoft Kazakstan AS,RU
+25534	INTELSOFT-AS Intelsoft Kazakstan Ltd,RU
 25535	ASN-RUCENTER-HOSTING Autonomous Non-commercial Organization 'Regional Network Information Center',RU
 25536	ASN-METAV Metav SA,RO
 25537	RU-CENTER-AS CJSC Regional Network Information Center,RU
 25538	IN-ULM Internet Ulm/Neu-Ulm e.V.,DE
 25539	MAVIR-HU-AS Hungarian Power System Operator Co.,HU
-25540	ALPHALINK-AS Alphalink ISP,FR
+25540	ALPHALINK-AS Alphalink,FR
 25541	MERKUR-SI-AS MERKUR trgovina in storitve d.d.,SI
-25542	DENIT-AS Denit Internet Services B.V.,NL
+25542	DENIT-AS Denit Internet Services,NL
 25543	FasoNet-AS,BF
 25544	EROSKI Eroski Scoop.,ES
 25545	AVANZA-AS Avanza Bank AB,SE
@@ -24972,7 +24971,7 @@
 25560	RHTEC-AS rh-tec IP Backbone,DE
 25561	PRONTO LLC "Pronto-Moscow",RU
 25562	SCEE Sony Computer Entertainment Europe (SCEE),GB
-25563	WEBLAND-AS Webland AG, Autonomous System,CH
+25563	WEBLAND-AS Webland AG,CH
 25564	ASN-NETSIGHT Netsight Internet Solutions Limited,GB
 25565	NETANYA-COLLEGE-AS Netanya Academic College,IL
 25566	SSK-AS Sosyal Guvenlik Kurumu(SGK),TR
@@ -24997,7 +24996,7 @@
 25587	DXI-SOL-CORE MoneyAM Ltd,GB
 25588	ULTRASPEED Ultraspeed UK Limited,GB
 25592	NETIS-AS NETIS TELECOM Inc. Yaroslavl region ISP provider Russia,RU
-25593	LINKBYNET-AS Linkbynet S.A,FR
+25593	LINKBYNET-AS LinkByNet S.A.,FR
 25594	ASCALIK Calik Holding AS,TR
 25596	CAMBRIUM-AS Cambrium IT Services B.V.,NL
 25597	-Reserved AS-,ZZ
@@ -25797,7 +25796,7 @@
 26394	CHOA - Egleston Children's Hospital,US
 26395	-Reserved AS-,ZZ
 26396	-Reserved AS-,ZZ
-26397	OPTIPUTER - The Regents of the University of California; University of California, San Diego.,US
+26397	OPTIPUTER - The Regents of the University of California - University of California, San Diego.,US
 26398	SALIENT-FEDERAL - Command Information Inc.,US
 26399	BROADMOOR - Broadmoor Hotel Inc,US
 26400	NAVIMEDIX - NaviMedix, Inc.,US
@@ -25836,7 +25835,7 @@
 26433	BRESOURCE - B Resource, Inc.,US
 26434	Dynamic Air Spectrum N.V.,CW
 26435	LITLECO1 - Litle & Co.,US
-26436	ACT-NET - All Continents Travel, Inc,US
+26436	-Reserved AS-,ZZ
 26437	TCH-AS - THE CLEARING HOUSE PAYMENTS COMPANY L.L.C.,US
 26438	MONROE-COMMUNITY-COLLEGE - Monroe Community College,US
 26439	CITY-OF-ABQ - City of Albuquerque,US
@@ -27977,7 +27976,7 @@
 28674	ITERGO-CORP-AS ITERGO Informationstechnologie GmbH,DE
 28675	AGSMTEL-AS AGSM Verona Spa,IT
 28676	WITCOM-AS WITCOM Wiesbadener Informations- und Telekommunikations GmbH,DE
-28677	AMEN AMEN Network,FR
+28677	AMEN AMEN,FR
 28678	KOSMAN-EDU-AS Technical University of Koszalin,PL
 28679	-Reserved AS-,ZZ
 28680	IKEA-AS IKEA IT AB,SE
@@ -28024,13 +28023,13 @@
 28722	ENERGETYKA-KALISKA-AS ENERGA-OPERATOR SA,PL
 28723	NOKIA-APAC NOKIA Corporation,FI
 28724	SOFTLINE-KIEV-AS JSC "SOFTLINE",UA
-28725	CZ-EUROTEL-AS AS of Eurotel Praha,CZ
+28725	CZ-EUROTEL-AS Eurotel Praha, spol. s r.o.,CZ
 28726	ASN-EDB-UNIGRID EDB Drift AB,SE
 28727	ASN-NRACTI Autoritatea Nationala pentru Administrare si Reglementare in Comunicatii,RO
-28728	INFORNAX-AS The AS includes the network infrastructure of Infornax, an Internet Service Provider in Veszperm County, Hungary.,HU
+28728	INFORNAX-AS Infornax Society,HU
 28729	FORD-AS Ford Motor Company Limited,GB
 28730	BLINKAS Broadband Communications,JO
-28731	WSELTD-AS WSE Limited, Juelich, Germany Internet-provider, Database, we,DE
+28731	WSELTD-AS TRADION AG,DE
 28732	ANIXE Anixe Polska Sp. z o.o.,PL
 28733	-Reserved AS-,ZZ
 28734	ATON-AS Aton LLC,RU
@@ -28126,13 +28125,13 @@
 28828	CASA-AS CASA Haustechnik-Handelsgesellschaft mbH,DE
 28829	NOMOS-AS Public Joint-Stock Company "Bank Otkritie Financial Corporation",RU
 28830	BTSAU-ISP-AS Bilotcerkivskiy National Agrarian University,UA
-28831	PHOENIX-AS Phoenix Informatica srl,IT
+28831	PHOENIX-AS Phoenix Informatica SRL,IT
 28832	MKS-CHEL-AS CJSC "COMSTAR-regions",RU
 28833	EILATINTER-AS Eilat Inter Ltd. Internet Provider in Eilat,IL
 28834	TA-GRX-AT A1 Telekom Austria AG,AT
 28835	MEDIADATA-AS Oberoesterreichische Media Data Vertriebs- und Verlags GmbH,AT
 28836	IC-S-NL IC&S,NL
-28837	VM-DE-NET Vox Mundi LLC.,GB
+28837	VM-DE-NET Vox Mundi d.o.o.,GB
 28839	ASN-UNOV United Nations Office at Vienna,AT
 28840	TATTELECOM-AS OJSC "OAO TATTELECOM",RU
 28841	-Reserved AS-,ZZ
@@ -28149,7 +28148,7 @@
 28852	ERICSSON-M2M-INET-AS Telefonaktiebolaget L M Ericsson,SE
 28853	RAIFFEISEN-AS Raiffeisen Bank SA,RO
 28854	NAVABNET-SWEDEN SavMAN AB,SE
-28855	GALACSYS-AS GalacSYS is an hosting and managed services provider,FR
+28855	GALACSYS-AS GalacSYS,FR
 28856	-Reserved AS-,ZZ
 28857	CSC-AS CSC Computer Sciences Consulting Austria GmbH,AT
 28858	LECOS Lecos Online Ltd.,UA
@@ -28165,7 +28164,7 @@
 28868	-Reserved AS-,ZZ
 28869	-Reserved AS-,ZZ
 28870	PLUSINFO-AS PlusInfo Ltd,RU
-28871	INFOGLOBAL-AS *********************************,ES
+28871	INFOGLOBAL-AS Infoglobal S.A.,ES
 28872	-Reserved AS-,ZZ
 28873	NAFTEX-BG-AS Petrol Holding AD,BG
 28874	BASLERMEDIENGRUPPE-AS National Zeitung und Basler Nachrichten AG,CH
@@ -28227,7 +28226,7 @@
 28934	MIZUHO-AS Mizuho International Plc,GB
 28935	ODEC-ES-AS ODEC, CENTRO DE CALCULO Y APLICACIONES INFORMATICAS, S.A.,ES
 28936	NIK-AS Nik.Ru LTD,RU
-28937	ENERGIT-AS ENERG.IT SpA,IT
+28937	ENERGIT-AS Energ.it S.p.a.,IT
 28938	MEDUNET-AS Sultan Bin Abdulaziz Foundation,SA
 28939	ARM-AS ARM Ltd,GB
 28940	GTZ-AS Deutsche Gesellschaft fuer Internationale Zusammenarbeit (GIZ) GmbH,DE
@@ -28260,7 +28259,7 @@
 28969	AB-VASSILOPOULOS-AS AB Vassilopoulos SA,GR
 28970	TRANSRS-AS OOO TransRadioService,RU
 28971	MEDIAFUSION-ES-AS MEDIAFUSION ESPANA, S.A.,ES
-28972	MSOFT-AS M-SOFT s.r.o.,CZ
+28972	MSOFT-AS M-SOFT, spol. s r.o.,CZ
 28973	-Reserved AS-,ZZ
 28974	ACTIVEOPERATIONS-AS Active Operations LLC,UA
 28975	MTB-AS PJSC MARFIN BANK,UA
@@ -28354,7 +28353,7 @@
 29069	TLK-AS Morton Telekom Ltd,RU
 29071	RU-ISKRANET-AS ISKRA R&D Corporation,RU
 29072	RDTC-AS Regional Digital Telecommunication Company,RU
-29073	ECATEL-AS AS29073, Ecatel Network,NL
+29073	ECATEL-AS Ecatel LTD,NL
 29074	FAUST-ASN FAUST ISP LTD.,UA
 29075	IELO IELO Main Network,FR
 29076	CITYTELECOM-AS Filanco LTD,RU
@@ -28377,7 +28376,7 @@
 29094	MEDIOLANUM-AS Banca Mediolanum S.p.A.,IT
 29095	CYBIC-AS National Taras Shevchenko University of Kyiv,UA
 29096	B_LITE_TELECOM-AS B.Lite Telecom SPRL/BVBA,BE
-29097	HOSTPOINT-AS Hostpoint AG, Switzerland,CH
+29097	HOSTPOINT-AS Hostpoint GmbH,CH
 29098	IPSO-AS IPSO S.R.L.,RO
 29100	BROADCOMDK Sagitta ApS,DK
 29101	INTER-TRADE-AS Inter-trade LLC,RU
@@ -28409,7 +28408,7 @@
 29129	VISPA-ASN Vispa Limited,GB
 29130	CORNEL-AS PE Cornel Communications,UA
 29131	RAPIDSWITCH-AS Iomart,GB
-29132	IWNET-AS Our company name is Oy IW-Net Ltd. located at Kuopio at central Finland.,FI
+29132	IWNET-AS Oy IW-Net Ltd,FI
 29133	-Reserved AS-,ZZ
 29134	IGNUM-AS Ignum s.r.o.,CZ
 29136	RIMBLACKBERRY-AS BlackBerry UK Limited,GB
@@ -28421,7 +28420,7 @@
 29142	-Reserved AS-,ZZ
 29143	MAGAZ-AS Magistrat Graz,AT
 29144	BIST-TR Borsa Istanbul A.S.,TR
-29145	CENTAUR-GMBH-AS CENTAUR GmbH Internet Service Provider,DE
+29145	CENTAUR-GMBH-AS Centaur GmbH,DE
 29146	UAIC-AS IT Consulting Group LTD,UA
 29147	NSTU-AS State Educational Enterprise of Higher Professional Education Novosibirsk State Technical University,RU
 29148	ASSURANY SURANY.NET s.r.o.,CZ
@@ -28445,7 +28444,7 @@
 29166	NZZ-AS Neue Zuercher Zeitung AG,SE
 29167	ELNET-AS El-Net S.A. Regional Telecommunication Operator, Cable Television Operator,PL
 29168	-Reserved AS-,ZZ
-29169	GANDI-AS Gandi SAS,FR
+29169	GANDI-AS GANDI SAS,FR
 29170	KUJTESA-AS Kujtesa Net Sh.p.k.,RS
 29171	NETCONNECT NET-CONNECT INTERNET S.R.L,RO
 29173	-Reserved AS-,ZZ
@@ -28478,7 +28477,7 @@
 29201	-Reserved AS-,ZZ
 29202	EMPICS PA Sport UK Ltd,GB
 29203	ASBITUA House Information Technology Ltd.,UA
-29204	B3G-AS B3G Telecom backbone AS,FR
+29204	B3G-AS B3G Telecom,FR
 29206	-Reserved AS-,ZZ
 29207	SHIRE-UK-AS Shire Pharmaceuticals LLC,GB
 29208	DIALTELECOM-AS Dial Telecom, a.s.,SK
@@ -28533,7 +28532,7 @@
 29259	DE-IABG-TELEPORT IABG mbH,DE
 29260	NETLANTIS Pascal Gloor,CH
 29261	-Reserved AS-,ZZ
-29263	HAAGNET-AS HAAGnet, Municipality of The Hague network,NL
+29263	HAAGNET-AS Gemeente Den Haag,NL
 29265	DNSEUROPE-AS DNS Europe Ltd,GB
 29266	DANMARKS-RADIO-AS DR,DK
 29267	RO-QUEST Quest Communication SRL,RO
@@ -28557,7 +28556,7 @@
 29286	SKYLOGIC-AS SKYLOGIC S.P.A.,IT
 29287	AT-WZN-AS Wien Energie GmbH,AT
 29288	-Reserved AS-,ZZ
-29290	ALPHAMEGA Alphamega Autonomous System,NL
+29290	ALPHAMEGA Alphamega,NL
 29291	ASN-E-IX Patrick Koehne,DE
 29292	-Reserved AS-,ZZ
 29293	LUOTTOKUNTA-AS Luottokunta,FI
@@ -28587,7 +28586,7 @@
 29318	WINCANTON-PL-AS Raben Polska sp. z o.o.,PL
 29319	ASN-IMSYS Informational-measuring systems Ltd,RU
 29320	ASN-MIRGOROD FOP Lykhouzov Evgen Mukolayovuch,UA
-29321	CENTRONETAS Centronet, a.s.,CH
+29321	CENTRONETAS CentroNet a.s.,CH
 29322	STREAMWIDE-AS STREAMWIDE SA,FR
 29323	-Reserved AS-,ZZ
 29324	ASN-ROEON S.C. Wolters Kluwer S.R.L,RO
@@ -28605,13 +28604,13 @@
 29338	safaribet,GH
 29339	MBBG-AS Markus Bach Betriebs GmbH,DE
 29340	AFOL-GH,GH
-29341	WELDE-AS wel.de Gesellschaft fuer Internetdienste mbH,DE
+29341	WELDE-AS wel.de Internet Service Provider,DE
 29342	KIYAVIA-AS CJSC Kiyv Agency of Air Services 'Kiy Avia',UA
 29343	AS-AKVANET Akvanet Ltd.,BG
 29344	SCHLYTER Jakob Hermansson Schlyter,SE
 29346	-Reserved AS-,ZZ
 29347	ECOFIS-AS ECOFIS GmbH,DE
-29348	FSNET-AS FSNET,IS
+29348	FSNET-AS Icelandic Ministry of Education,IS
 29349	-Reserved AS-,ZZ
 29350	IRPOST-QOM Iran Post Company,IR
 29351	STO-NETWORK-HG AD VALEM TECHNOLOGIES,FR
@@ -28666,7 +28665,7 @@
 29400	TULLETT-AS Tullett Prebon Group Ltd,GB
 29402	-Reserved AS-,ZZ
 29403	DK-EUROTRUST VeriSign Inc.,DK
-29404	ELBRACHT-COMPUTER-AS ELBRACHT Autonomous System,DE
+29404	ELBRACHT-COMPUTER-AS Elbracht-Computer Netzwerk & Grafik Service GmbH,DE
 29405	VNET-AS VNET a.s.,SK
 29406	O2-UK-AS O2 UK,IE
 29407	ASN-SIBSUTIS GOU WPO "Siberian State University of Telecommunication And Informatics",RU
@@ -28697,7 +28696,7 @@
 29435	IPOWER-AS @iPower N.V.,BE
 29436	ASN-IMPERIAL The private businessman Buryanov Konstantin Volodimirovich,UA
 29437	NCH-AS NCH Advisors INC. Wilmington sucursala Bucuresti,RO
-29438	MOMAX-AS MOMAX S.r.l.,IT
+29438	MOMAX-AS MOMAX,IT
 29439	ASN-CPUA PP Contour Plus,UA
 29440	-Reserved AS-,ZZ
 29441	-Reserved AS-,ZZ
@@ -28708,7 +28707,7 @@
 29446	CHUNKYCHIPS-AS ChunkyChips.net Limited,GB
 29447	TIF-AS ONLINE S.A.S.,FR
 29448	-Reserved AS-,ZZ
-29449	TPN-AS TopneT Telecomunicazioni S.r.L.,IT
+29449	TPN-AS TopneT Telecomunicazioni s.r.l.,IT
 29450	ATLAS-NW-AS Federal State Unitary Enterprise CenterInform,RU
 29451	NET-SERWIS-AS Net-Serwis Sp. z o. o.,PL
 29452	SECURA-AS Secura Hosting Ltd,GB
@@ -28717,10 +28716,11 @@
 29455	COMCOR-HOSTING OJSC Comcor,RU
 29456	BELSVYAZ-AS OJSC Rostelecom,RU
 29457	OPTIONS-AS Options Technology Ltd.,GB
+29458	FRONTER FRONTER AS,NO
 29459	-Reserved AS-,ZZ
 29460	-Reserved AS-,ZZ
 29461	-Reserved AS-,ZZ
-29462	DSD-AS DSD Automatisering B.V.,NL
+29462	DSD-AS DSD automatisering b.v.,NL
 29463	-Reserved AS-,ZZ
 29464	FILMAC-ES-AS FILMAC Centre SL,ES
 29465	VCG-AS MTN NIGERIA Communication limited,NG
@@ -28736,15 +28736,17 @@
 29475	CCS-ODESSA Complex Communication Systems Ltd,UA
 29476	OOO-TELEKOM-HOLDING-AS OOO "Telecom-Holding",RU
 29477	-Reserved AS-,ZZ
+29478	KARLDYSON-DEV Karl Dyson,GB
 29479	CLUSTERTECH-NO-AS Clustertech Group,NO
 29480	ASN-CCN CC Network Inc,GB
-29481	JCYL-AS Junta de Castilla y Leon Autonomous System,ES
+29481	JCYL-AS Junta de Castilla y Leon,ES
 29482	-Reserved AS-,ZZ
+29483	TURKISHBANK Turk Bankasi Ltd,TR
 29484	RUB-AS Ruhr-Universitaet Bochum,DE
-29485	AMISHR Amis Telekom d.o.o,HR
+29485	AMISHR AMIS Telekom d.o.o.,HR
 29486	WEBHUSET-AS Webhuset Datasenter AS,NO
 29487	PFIZERSWITZERLAND-AS Pfizer Manufacturing Deutschland GmbH,US
-29488	CCN AS of ccn,DE
+29488	CCN ccn corporate communication networks GmbH,DE
 29489	TMOTION-AS T-Mobile (UK) Limited,GB
 29490	ITNETPLC-AS Serco Group PLC,GB
 29491	KIEVLINE KIEVLINE LLC,UA
@@ -28760,10 +28762,12 @@
 29501	NFZ-POZ Narodowy Fundusz Zdrowia,PL
 29502	-Reserved AS-,ZZ
 29503	RATMIR-MOSCOW-AS Ratmir KDS,RU
+29504	LBCFREE Freenet Liberec o.s.,CZ
 29505	TRAVEKOM-AS TraveKom Telekommunikationsgesellschaft mbH,DE
 29506	SE-RTRS-1 Thomson Corporation,SE
 29507	WHEELSLOGISTICS WHEELS Logistics GmbH & Co. KG,DE
 29508	TANAT-AS TANAT LLC,UA
+29509	OST-AS Ost LLC,RU
 29510	INTERNETT-AS internett GmbH,DE
 29511	LUCKYNET-AS FOP Kryvosheenko Vitalij Oleksandrovitch,UA
 29512	TVK-WROC-AS TVK Tel-Ka Wroclaw,PL
@@ -28809,7 +28813,7 @@
 29552	CUBESYS-AS SC CUBE PROGRAMS & SYSTEMS SRL,RO
 29553	VLINE-AS Virtual Line,PL
 29554	SVYAZNOY ZAO "Svyaznoy Logistika",RU
-29555	ALTEL-AS ALTEL CDMA cellular provider,KZ
+29555	ALTEL-AS JSC "ALTEL",KZ
 29556	-Reserved AS-,ZZ
 29557	-Reserved AS-,ZZ
 29558	HOSTALIA acens Technologies, S.L.,ES
@@ -28839,7 +28843,7 @@
 29582	SATCOM-AS Optisprint,BG
 29583	UNIENT-AS Spinoco Czech Republic, a.s.,CZ
 29584	AZEDUNET-AS AZEDUNET LLC,AZ
-29585	-Reserved AS-,ZZ
+29585	MFA Ministry of foreign affairs,IL
 29586	-Reserved AS-,ZZ
 29587	SCHEDOM-AS schedom vof,BE
 29588	IVSTARNET-AS Ivstar Ltd,RU
@@ -28852,7 +28856,7 @@
 29595	IPGLOBAL IPG Global Care&Contact Center,BE
 29596	GENERACJA-AS Telekomunikacja Internetowa Sp. z o.o.,PL
 29597	X-NETWORK-AS X-Net Ltd,UA
-29598	RAVDA-AS Regione Autonoma Valle d'Aosta,IT
+29598	RAVDA-AS Regione Autonoma Valle d'Aosta - Dipartimento Sistema Informativo,IT
 29599	ZNTU-AS Zaporizhzhe National Technical University,UA
 29600	LATVENERGO-AS Latvenergo,LV
 29601	UPM-KYMMENE-AS UPM-Kymmene Oyj,FI
@@ -28870,7 +28874,7 @@
 29613	-Reserved AS-,ZZ
 29614	GHANATEL-AS,GH
 29615	PORTODIGITAL-AS Associacao Porto Digital,PT
-29616	KIVIX I.C.S. Trabia-Network S.R.L. dba kivix,MD
+29616	KIVIX I.C.S. Trabia-Network S.R.L.,MD
 29617	EWB-NET Energy Water Bern,CH
 29618	KORONA-AS Korona Ltd,UA
 29619	LMS-TELECOM-AS Lenmontazhstroy-Telecom CJSC,RU
@@ -28934,7 +28938,7 @@
 29677	ILS-AS AXIANS ICT Austria GmbH,AT
 29678	-Reserved AS-,ZZ
 29679	ASN-EXPANSION Groupe Express-Roularta,FR
-29680	VOZTELECOM VozTelecom Network,ES
+29680	VOZTELECOM VozTelecom Sistemas, S.L.,ES
 29681	-Reserved AS-,ZZ
 29682	LBANK-DE-KA-AS Landeskreditbank Baden-Wuerttemberg - Foerderbank,DE
 29683	CMS-VSMU-AS Vinnica State Medical University of M.I.Pirogov,UA
@@ -29974,7 +29978,7 @@
 30717	GCPW-GREER-COMMISSION-OF-PUBLC-WORKS - Greer CPW,US
 30718	SSI-WESTCOAST - Survey Sampling International, LLC,US
 30719	ARIESSYS - Aries Systems Corporation,US
-30720	VWE-EXTRANET-AS VWE Extranet,NL
+30720	VWE-EXTRANET-AS VWE-ExtraNet BV,NL
 30721	SATGATE SatGate LLC,DE
 30722	VODAFONE-IT-ASN Vodafone Omnitel B.V.,IT
 30723	FOTEXNET-AS Fotexnet Kft.,HU
@@ -30028,7 +30032,7 @@
 30771	CYCLE-AS PE Cycle-Plus,UA
 30772	LEONET LEO Pharma A/S,DK
 30773	-Reserved AS-,ZZ
-30774	ESC-ASN ESC Network Autonomous System Number,DE
+30774	ESC-ASN ESC - Electronic Service Center,DE
 30775	MKS-AS UAB "First Data Lietuva",LT
 30776	-Reserved AS-,ZZ
 30777	ZPIX-AS Zaporozhye Internet Exchange,UA
@@ -30170,7 +30174,7 @@
 30913	-Reserved AS-,ZZ
 30914	IOKO-AS PIKSEL LIMITED,GB
 30915	LIEBHERR Liebherr-IT Services GmbH,DE
-30916	NETWAY-AS NETWAY ISP AS NUMBER,CY
+30916	NETWAY-AS DSP NetWay LTD,CY
 30917	BUDAPESTBANK-AS Budapest Hitel- es Fejlesztesi Bank Nyrt,HU
 30918	WEZELKRAKOWSKI Connected sp. z o. o.,PL
 30919	EXPERTISEFRANCE Agence Francaise d'Expertise Technique Internationale ET,FR
@@ -30287,7 +30291,7 @@
 31030	ASCORONA Roman Hochuli,CH
 31031	TRANSNODE-AS Phibee Telecom SARL,FR
 31032	CALL-CENTER-POLAND-AS CALL CENTER POLAND S.A,PL
-31033	INVESTNET-AS InvestNet Italia S.p.A.,IT
+31033	INVESTNET-AS Investnet Italia S.p.A.,IT
 31034	ARUBA-ASN Aruba S.p.A.,IT
 31035	ISD-AS Corporation "Industrial Union of Donbass",UA
 31036	NEWTELESYSTEMS New Telesystems - TV, Ltd.,RU
@@ -30380,7 +30384,7 @@
 31123	LBGRNWCH-AS Royal Borough of Greenwich,GB
 31124	SEFANET-AS Societe Electrique des Forces de l'Aubonne,CH
 31125	LINETEC-AS Linetec GmbH,AT
-31126	SODETEL-AS SODETEL SAL,LB
+31126	SODETEL-AS SODETEL S.A.L.,LB
 31127	SATRO Satro, s.r.o.,SK
 31128	SHAZAM-AS Shazam Entertainment Limited,GB
 31129	MTP-POZNAN-AS Miedzynarodowe Targi Poznanskie Sp. z o.o.,PL
@@ -30466,7 +30470,7 @@
 31209	AS12CONNECT 12Connect AS,NL
 31210	DTEL-IX-AS Digital Telecom IX LLC,UA
 31211	SIGMATIC Sigmatic Oy,FI
-31212	INTERPAY-AS Interpay Nederland B.V.,NL
+31212	INTERPAY-AS Equens SE,NL
 31213	MF-NWGSM-AS OJSC MegaFon,RU
 31214	TIS-DIALOG-AS TIS-DIALOG Autonomous system,RU
 31215	PURH The Republic of Croatia, Ministry of Finance,HR
@@ -30513,7 +30517,7 @@
 31256	WARWICKSHIRECC Warwickshire County Council,GB
 31257	ORIONNET-NET JSC "Orion telecom",RU
 31258	JUGRA-BANK-AS OAO AKB "JUGRA",RU
-31259	KOMSA-AS Komsa Group Network,DE
+31259	KOMSA-AS Komsa Data & Solutions GmbH,DE
 31260	NEWCOM-AS LLC 'Santel',RU
 31261	GARS-AS GARS Telecom,RU
 31262	EDICOM INTERCAMBIO ELECTRONICO DE DATOS Y COMUNICACIONES S.L.,ES
@@ -30621,7 +30625,7 @@
 31364	INTELBI-AS Closed Joint Stock Company TransTeleCom,RU
 31365	SGSTELEKOM SGS Telekom Autonomous System,TR
 31366	-Reserved AS-,ZZ
-31367	NEO-CUST Neo Telecoms Group,FR
+31367	NEO-CUST Neo Telecoms S.A.S.,FR
 31368	ASTELNET-AS Astelnet Ltd.,RU
 31369	NSSI-AS National Social Security Institute,BG
 31370	MOSLINE-AS OOO Montaj Telecom Service,RU
@@ -30770,7 +30774,7 @@
 31513	TVTEL NOS COMUNICACOES, S.A.,PT
 31514	INF-NET-AS LLC "Multiscan",RU
 31515	INMARSAT INMARSAT GLOBAL LIMITED,GB
-31516	REG-PIEMONTE-AS Piedmont Regional Administration,IT
+31516	REG-PIEMONTE-AS CSI Piemonte,IT
 31517	SKODA-AS SkodaAuto Deutschland GmbH,DE
 31518	NDR-AS Norddeutscher Rundfunk,DE
 31519	VOICECOM-AS SIA "ECO NETWORKS",LV
@@ -32934,7 +32938,7 @@
 33677	SIROTA-CONSULTING-LLC - Sirota Consulting,US
 33678	NETWORTH-SERVICES - NetWorth Services, Inc,US
 33679	AS-HFMA - Healthcare Financial Management Association,US
-33680	-Reserved AS-,ZZ
+33680	TELEPERFORMANCE-USA - TELEPERFORMANCE USA,US
 33681	COMPTRK - Competitrack Inc.,US
 33682	WEBERHS - Weber Human Services Foundation,US
 33683	UIWTX - University of the Incarnate Word,US
@@ -33164,7 +33168,7 @@
 33908	KIROVTELECOM ZAO Kirovtelecom,RU
 33909	-Reserved AS-,ZZ
 33910	TRAMER-AS IGORTA BILGI MERKEZI,TR
-33911	BP BP OFFICE & SERVICE SRL,RO
+33911	TENNET TENNET TELECOM SRL,RO
 33912	IP-BROKER IP Broker Limited,RO
 33913	RIATEK-AS LLC CTS EVENTIM,RU
 33914	COMPASS Compass Electro-Optical Systems Ltd,IL
@@ -33230,7 +33234,7 @@
 33974	ASALIANCE "Aliance Plus" Ltd.,RU
 33975	NETCONSULT-AS NetConsult Ltd,GB
 33976	SCHIBSTED-AS Aftonbladet Hierta AB,SE
-33977	BANAT-TELECOM-AS Baleanu Servcom S.R.L.,RO
+33977	BANAT-TELECOM-AS Banat Telecom Satelit S.R.L.,RO
 33978	YAPIC-AS Collective Production Enterprise Yapic.Net,UA
 33979	-Reserved AS-,ZZ
 33980	PAF Frobbit Ab,DE
@@ -33697,7 +33701,7 @@
 34441	SIBNK-AS Siberian Internet Company,RU
 34442	AMATISNETWORKS Xifos Ltd,GB
 34443	PABK-AS Postova banka a.s.,SK
-34444	EUTELSAT-BACKBONE-AS EUTELSAT S.A.,FR
+34444	EUTELSAT-BACKBONE-AS Eutelsat S.A.,FR
 34445	-Reserved AS-,ZZ
 34446	RTLTD-AS Ready Technology (UK) Limited,GB
 34447	ASMYISPLB My ISP SARL,LB
@@ -33919,7 +33923,7 @@
 34663	ASBELASTINGDIENST Belastingdienst/Centrum voor Infrastructuur en Exploitatie,NL
 34664	NEVKA-SPB-AS OOO Nevka SPb,RU
 34665	AIRABA-AS AirABA Sarajevo D.O.O.,BA
-34666	GLB1-AS "Global-Erty" JSC,GE
+34666	GLB1-AS JSC "Global Erty",GE
 34667	-Reserved AS-,ZZ
 34668	ORBITAUA-AS Join Stock Company "Scientific & Production Enterprise "ORBITA",UA
 34669	TELESYS-AS Telesys Ltd.,BG
@@ -34370,12 +34374,12 @@
 35114	GIUNTI-AS GIUNTI EDITORE S.p.a.,IT
 35115	BESTGOPL-AS BESTGO.PL sp. z o.o.,PL
 35116	INFOCASA-AS InfoCasa Information Technologies S.L.,ES
-35117	VERIVOX-AS Verivox GmbH, Frankfurt, Germany,DE
+35117	VERIVOX-AS Verivox GmbH,DE
 35118	-Reserved AS-,ZZ
 35119	-Reserved AS-,ZZ
 35120	-Reserved AS-,ZZ
 35121	WEBKOM Patrik Olsson,SE
-35122	SATNET-AS SatNet Ltd,BG
+35122	SATNET-AS Satnet LTD,BG
 35123	MITEL-AS VAT Podilska telephone company 'Mitel',UA
 35124	INFINITE-AS Infinite sp. z o.o.,PL
 35125	SMOLENSK-AS OJSC Rostelecom,RU
@@ -34865,12 +34869,12 @@
 35609	ITP-AT Smart Force e.U.,AT
 35610	AIGPB Falcon Private Bank AG,CH
 35611	GLOBALGARVE-AS Globalgarve - Cooperacao e Desenvolvimento S.A.,PT
-35612	NGI-AS NGI Spa,IT
+35612	NGI-AS NGI SpA,IT
 35613	NETDATCOMM NetDataComm, s.r.o.,CZ
 35614	PPLEVIN-AS PP Levin Oleksandr Arkadiyovych,UA
 35615	MEB-AS Middle East Bank PJSC,IR
 35616	-Reserved AS-,ZZ
-35617	DUEBITE-AS 2Bite ASN,IT
+35617	DUEBITE-AS 2Bite s.r.l.,IT
 35618	WMGRUPPE-AS Herausgebergemeinschaft Wertpapier-Mitteilungen Keppler, Lehmann GmbH & Co. KG,DE
 35619	-Reserved AS-,ZZ
 35620	RECRO RECRO-NET d.o.o.,HR
@@ -35062,7 +35066,7 @@
 35806	DRILLISCH Drillisch AG,DE
 35807	SKYNET-SPB-AS SkyNet Ltd.,RU
 35808	CCA-AS LLC SETEL,RU
-35809	ASDIVI SIA "Datorikas instituts DIVI",LV
+35809	ASDIVI SIA "DIVI Grupa",LV
 35810	BIGTELECOM-AS Autonomous System of BIG Telecom, JSC,RU
 35811	-Reserved AS-,ZZ
 35812	VALOR Valor Computerized Systems Ltd,IL
@@ -35417,7 +35421,7 @@
 36161	WESTCHESTERCOUNTY-NY - County of Westchester,US
 36162	CONCERGENT-LLC - CONCERGENT, LLC,US
 36163	HILLCO-LTD - HILLCO, LTD,US
-36164	ADACEL-AS-BROSSARD - ATS Aerospace,CA
+36164	ADACEL-AS-BROSSARD - ATS Aerospace,US
 36165	IBC-NET - Instituto de Banca y Comercio,PR
 36166	STEPAN-AS - Stepan Company,US
 36167	NETRIPLEX01 - NETRIPLEX LLC,US
@@ -38255,11 +38259,11 @@
 39108	SBS-AS Standard Business & Services SRL,RO
 39109	URPL-AS Urzad Rejestracji Produktow Leczniczych Wyrobow Medycznych i Produktow Biobojczych,PL
 39110	-Reserved AS-,ZZ
-39111	ADSI-AS Amazon EU DC AS,IE
+39111	ADSI-AS Amazon Data Services Ireland Ltd,IE
 39112	BIK-AS Biuro Informacji Kredytowej S.A.,PL
 39113	-Reserved AS-,ZZ
 39114	NL-1KEY 1KEY BV,NL
-39115	VIRTELA-NET-VFRPAR1 Virtela Communications,DE
+39115	VIRTELA-NET-VFRPAR1 Virtela Communications Inc,DE
 39116	TELEHOUSE Telehouse Inter. Corp. of Europe Ltd As Number,GB
 39117	-Reserved AS-,ZZ
 39118	EGN-AS Earthgazer Limited,GB
@@ -38377,7 +38381,7 @@
 39230	MHP-AS PAT Myronivsky Hliboproduct,UA
 39231	DTL-AS "Digital-Tel Net" Ltd,UZ
 39232	UNINET Uninet,AZ
-39233	BFACE Blueface Ltd. Ireland,IE
+39233	BFACE Blueface Ltd.,IE
 39234	STONE-IS Stone Internet Services bvba,BE
 39235	DAT Dat, s.r.o.,CZ
 39236	-Reserved AS-,ZZ
@@ -40239,7 +40243,7 @@
 41092	IGICHP INSTITUTE OF TUBERCULOSIS AND LUNG DISEASES,PL
 41093	EUROFOOTBALL-AS Eurofootball OOD,BG
 41094	ASN-PROVINCIADITERNI Provincia di Terni,IT
-41095	IPTP IPTP Networks,NL
+41095	IPTP IPTP LTD,NL
 41096	TIM-UMAN-AS TOV TV&Radio Company TIM,UA
 41097	ESERVICE-AS CENTRUM ELEKTRONICZNYCH USLUG PLATNICZYCH "ESERVICE" SA,PL
 41098	NETFOX-AS NetFox Ltd.,RU
@@ -40372,7 +40376,7 @@
 41225	MASTERLINK-AS ISP MasterLink,RU
 41226	SUPERBANK-RU-AS Joint Stock Company TransCreditBank,RU
 41227	-Reserved AS-,ZZ
-41228	NNT-AS41228 NNT Internet,LT
+41228	NNT-AS41228 UAB "NNT",LT
 41229	-Reserved AS-,ZZ
 41230	ASK4 Ask4 Limited,GB
 41231	CANONICAL-AS Canonical Ltd,GB
@@ -40480,7 +40484,7 @@
 41333	-Reserved AS-,ZZ
 41334	MANCHE-TELECOM-AS MANCHE TELECOM,FR
 41335	STARTV Media Operator Sp. z o. o.,PL
-41336	HITRONET-AS HITRONET AS Number,HR
+41336	HITRONET-AS FINANCIJSKA AGENCIJA d.o.o,HR
 41337	PROSERV-AS OOO Bookmaker office "Marathon",UA
 41338	-Reserved AS-,ZZ
 41339	CC-AS CitoConsult Ltd.,BG
@@ -41089,7 +41093,7 @@
 41942	DOZOR-AS JSC Dozor-Teleport,RU
 41943	VMI-KISTA Vaddo Media Information IS AB,SE
 41944	PTB-AS Joint Stock Company SVYAZNOY BANK,RU
-41945	TLEN FreecoNet Tlenofon S.A,PL
+41945	TLEN AITON CALDWELL S.A.,PL
 41946	LAGERAONLINE-AS Petros Ltd.,BG
 41947	WEBALTA-AS OAO Webalta,RU
 41948	-Reserved AS-,ZZ
@@ -41819,7 +41823,7 @@
 42672	-Reserved AS-,ZZ
 42673	SKYWARE-AS Skyware Sp. z o.o.,PL
 42674	BANKSOYUZ-AS Joint Stock Commercial Bank Soyuz,RU
-42675	ANET-AS KAVA,LT
+42675	ANET-AS UAB "KAVAMEDIA",LT
 42676	SMARTKOM Joint Stock Company Smartkom,RU
 42677	MARATHONBET Marathon Bookmaker Company Ltd,RU
 42678	MEGANET-AS JSC "Meganet",RU
@@ -41918,7 +41922,7 @@
 42771	TELIOS-AS GARS Telecom - Telecommunications Management LLC,RU
 42772	VELCOM-AS FE VELCOM,BY
 42773	FILANCO-KRS-AS Filanco Siberia Ltd.,RU
-42774	BB-AS Uzdaroji akcine bendrove "BLUE BRIDGE",LT
+42774	BB-AS UAB Blue Bridge,LT
 42775	DSRT-NET ADWORLDS TECHNOLOGIES LP,RU
 42776	HOSTELNET Hostel Ltd.,RU
 42777	WISTA-AS WISTA Management GmbH,DE
@@ -41952,7 +41956,7 @@
 42805	-Reserved AS-,ZZ
 42806	Magticom Ltd.,GE
 42807	AEROTEK-AS Aerotek Bilisim Taahhut Sanayi ve Ticaret Limited Sirketi,TR
-42808	VIRTELA-NET-VNLAMS1 Virtela Communications,NL
+42808	VIRTELA-NET-VNLAMS1 Virtela Communications Inc,NL
 42809	FSKEES-AS OJSK "Federal Grid Company of Unified Energy System",RU
 42810	TCNETCH TcNet GmbH,CH
 42811	HERAULT-TELECOM-AS Herault Telecom,FR
@@ -42249,7 +42253,7 @@
 43102	REDSOLEX-AS RedSolex Ltd.,RU
 43103	ONETELECOM-AS One Telecom ltd,UA
 43104	RIA-AS SJSC RIGA International Airport,LV
-43105	CAPGEMINI Capgemini France,FR
+43105	CAPGEMINI CAPGEMINI FRANCE SAS,FR
 43106	NEVACOM-AS Nevacom Ltd,RU
 43107	WASER-CH WASER + CO AG,CH
 43108	GARM-AS GARM Technologies Ltd.,LV
@@ -42364,7 +42368,7 @@
 43217	HEIDRICK-STRUGGLES-PARIS Heidrick and Struggles International Inc,FR
 43218	EURO-ASYS CJSC "COMSTAR-regions",RU
 43219	EVERYCITY Every City Limited,GR
-43220	DANDOMAIN-NETWORK-AS Web hotels, domain sales, etc,DK
+43220	DANDOMAIN-NETWORK-AS DanDomain A/S,DK
 43221	-Reserved AS-,ZZ
 43222	CRIMEAN_INTERNET_EXCHANGE_AUTONOMOUS_SYSTEM CrimeaCom LLC,UA
 43223	ELROUA-AS ELRO Corporation,UA
@@ -44108,7 +44112,7 @@
 44961	DUKENET DukeNet, LTD,UA
 44962	BRIX_WROCLAW BRIX Sp.zo.o.,PL
 44963	POTOK-AS Joint Stock company "KMVtelecom",RU
-44964	DAPL CJSC DAPL,RU
+44964	DAPL DATAPLANET Ltd.,RU
 44965	CONTACTUAL Contactual Inc.,GB
 44966	TOTOLOTEK-AS Totolotek S.A.,PL
 44967	TASIO Tasio Ltd,BG
@@ -44176,7 +44180,7 @@
 45029	RIPN-SU-NET ROSNIIROS Russian Institute for Public Networks,RU
 45030	INTERPPHU-AS PPHU Inter Pawel Walczak,PL
 45031	PROVIDERBOX dogado GmbH,DE
-45032	FABIT-AS Fab:IT ApS AS,DK
+45032	FABIT-AS Fab:IT ApS,DK
 45033	-Reserved AS-,ZZ
 45034	-Reserved AS-,ZZ
 45035	RO3D-AS SC 3D Media Creation SRL,RO
@@ -44306,7 +44310,7 @@
 45181	LOCALCLOUD-NZ LocalCloud Limited,NZ
 45182	YTLCOMMS-MY YTL Communications Sdn Bhd,MY
 45184	DEN-ISP-AS-IN-AP Den Digital Entertainment Pvt. Ltd. AS ISP india,IN
-45185	RHYTHM-INDIA-AS-AP Rhythm & Hues Sudios India Pvt Ltd AS Content for MUM,IN
+45185	,
 45186	DIGITALRIVER-NETWORKS-PEERING-AS-AP Digital River Networks Peering Australia,AU
 45187	RACKSPACE-AP Rackspace IT Hosting AS IT Hosting Provider Hong Kong,HK
 45188	BGCCONTRACTNET-AU 290 Bushmead Road,AU
@@ -46019,7 +46023,7 @@
 46982	IGC-TYN - Intelsat General Corporation,US
 46983	SAML-ASN - Southpaw Asset Management LP,US
 46984	CPF-AS - Charlotte Pipe and Foundry Company,US
-46985	OBSERVATORY-CYBERINFRASTRUCTURE - The Regents of the University of California; University of California, San Diego.,US
+46985	OBSERVATORY-CYBERINFRASTRUCTURE - The Regents of the University of California - University of California, San Diego.,US
 46986	RITTCT020 - Tri-County Telephone Inc.,US
 46987	RITTCT020 - Tri-County Telephone Inc.,US
 46988	MICA-AS - Maryland Institute College of Art,US
@@ -46532,7 +46536,7 @@
 47495	RADIOPAGE-T-AS RadioPage-T OJSC.,RU
 47496	PRO-HOTELS-AS Pro Hotels S.R.L.,RO
 47497	MEGABIT-AS Last Mile LLC,RU
-47498	CONTINENT8-MALTA-AS Continent 8 Technologies (Malta) Limited,MT
+47498	CONTINENT8-MALTA-AS CONTINENT 8 TECHNOLOGIES PLC,MT
 47499	ILVA-LV ILVA Ltd.,LV
 47500	-Reserved AS-,ZZ
 47501	-Reserved AS-,ZZ
@@ -47388,7 +47392,7 @@
 48351	EARTHLINK EARTHLINK SRL,RO
 48352	INFOLAN Home Network Ltd,BY
 48353	NOVATV-AS NOVA TV d.d.,HR
-48354	RELANT-AS LLC Company Relant,RU
+48354	RELANT-AS Company Relant Ltd,RU
 48355	FCRUISE Fidelio Cruise Software GmbH,DE
 48356	-Reserved AS-,ZZ
 48357	METKOMBANK-AS JSC "MetKomBank",RU
@@ -47534,7 +47538,7 @@
 48497	-Reserved AS-,ZZ
 48498	SOCHI-ONLINE-AS Sochi-online Ltd.,RU
 48499	AEROCLUB-AS CJSC Aeroclub,RU
-48500	IRPNET-AS IrpiniaNetCom SRL,IT
+48500	IRPNET-AS Irpinia Net-Com SRL,IT
 48501	GHASEDAK-AS Ghasedak Samaneh Co. Ltd.,IR
 48502	METROCOMBANK-AS ForteBank JSC.,KZ
 48503	TELE2-KZ Tele2 Sverige AB,KZ
@@ -48684,7 +48688,7 @@
 49647	NASIRO-AS Nasiro Holdings Limited,CY
 49648	SVTEL-AS "SvyazTelecom" LTD,RU
 49649	GMAN-EDU Urzad Miasta Gorzow Wielkopolski,PL
-49650	EVEREX Everex Comunicaciones SA,ES
+49650	EVEREX Everex Comunicaciones, S.A.,ES
 49651	ENERCON-AS ENERCON GmbH,DE
 49652	SYNCOMA-AS SYNCOMA-AS,LI
 49653	DELTAWEB-AS Delta Web Spa,IT
@@ -49046,7 +49050,7 @@
 50009	QUARTZ-AS Ltd. Quartz,RU
 50010	NAWRAS-AS Omani Qatari Telecommunications Company SAOC,OM
 50011	STREAM-TGL-AS CJSC "COMSTAR-REGIONS",RU
-50012	BESTLINK-AS Solovyov Volodymyr Igorovich,UA
+50012	BESTLINK-AS PE Solovyov Volodymyr Igorovich,UA
 50013	ISOLUTE Multicomp Ltd,BG
 50014	NOWYSTYL Nowy Styl sp. z o.o.,PL
 50015	HOLINET-AS Oleksandr Butenko,CZ
@@ -49066,7 +49070,7 @@
 50029	TELECOM Telecom Ltd.,RU
 50030	ALMAZAYA Almazaya gateway L.L.C,AE
 50031	ZALASZAM-AS Zalaszam Informatika Kft.,HU
-50032	FOTOLIA-AS Fotolia LLC,FR
+50032	FOTOLIA-AS Fotolia SARL,FR
 50033	GROUP3-AS GROUP 3 LLC.,RU
 50034	EURONICS-EG-AS EURONICS Deutschland eG,DE
 50035	ALTERNET-AS Altercom JSC,RU
@@ -49492,7 +49496,7 @@
 50455	KA-SCHMERSAL-PI K.A. SCHMERSAL GmbH,DE
 50456	GAGENETWORKS-US Gage Networks LLP,GB
 50457	ITA It-afdelingen a/s,DK
-50458	CIBER-AS Ciber Managed Services GmbH,DE
+50458	CIBER-AS CIBER Managed Services GmbH,DE
 50459	INFORMSERVICE-AS Private enterprise "InformService",UA
 50460	IBTO Iranian Blood Transfusion Organization (IBTO),IR
 50461	ALMADINAH-AS City Telecom Co. LTD.,IQ
@@ -52190,7 +52194,7 @@
 53174	Pannet Serviços On Line Ltda,BR
 53175	Unetvale Servicos e Equipamentos LTDA,BR
 53176	NET INFORMÁTICA LTDA,BR
-53177	JG TELECOM LTDA,BR
+53177	,
 53178	SCNet Equipamentos de Informática Ltda,BR
 53179	Racer Intermediação de Negócios,BR
 53180	Infortel Telecomunicações e Serviços Ltda.,BR
@@ -55452,7 +55456,7 @@
 56563	WBERGNET Wberg Networks,SE
 56564	WM-AS Webmaster Agency Ltd,RU
 56565	MANORIT-GB-2 Manor IT (UK) Limited,GB
-56566	SATT-AS Satt a.s.,CZ
+56566	SATT-AS SATT a.s.,CZ
 56567	KOMPOVOD-AS Mikhail Antonov,RU
 56568	XCOMMUNICATION-AS X-COMMUNICATION LTD,KZ
 56569	KOMBANK-AS Komercijalna banka a.d. Beograd,RS
@@ -55900,7 +55904,7 @@
 57011	SENET-AS Information- Analytical Agency IF LTD,RU
 57012	ZEELANDSEAPORTS N.V. Zeeland Seaports,NL
 57013	EURASIA-STAR-AS Eurasia Star Ltd.,KZ
-57014	DOLPHIN-AS Dolphin New Media GmbH i.G.,DE
+57014	DOLPHIN-AS Caseso GmbH,DE
 57015	SENSITIVE-TELECOM SENSITIVE LINE S.R.L.,RO
 57016	ISTV-AS Inform-Service TV Ltd.,UZ
 57017	-Reserved AS-,ZZ
@@ -59090,7 +59094,7 @@
 60340	SAIPA-AS Saipa Corporation Public Joint Stock,IR
 60341	DATACOMFORT Data Comfort BV,NL
 60342	TOPHOST-SOUTH Fragkoulis Maounis & Co. General Partnership (OE),GR
-60343	ROSCAP-AS OJSC ROSSIYSKY CAPITAL,RU
+60343	ROSCAP-AS JSC ROSSIYSKY CAPITAL (public limited company),RU
 60344	ASKLEPIOS-AS Asklepios Kliniken GmbH,DE
 60345	NBITI-AS Nahjol Balagheh International Research Institution,IR
 60346	V_F_TANKER-AS V.F.Tanker Ltd.,RU
@@ -59350,7 +59354,7 @@
 60600	IMGU-AS LLC "InterMediaGroup Ural",RU
 60601	HSYS-AS HSYS SAS,FR
 60602	INOVARE-PRIM-AS Inovare-Prim SRL,MD
-60603	ASUTEL OOO "Utel",RU
+60603	ASUTEL "Utel" Ltd.,RU
 60604	PRIMARIA-CALARASI-AS Primaria Municipiului Calarasi,RO
 60605	CONCEPTCLOUD SC Capital Partners LLP,GB
 60606	EDINAYA-AS Edinaya Spravochnaya Ltd.,RU
@@ -60719,7 +60723,7 @@
 62097	VAN-DIJK Van Dijk Educatie Beheer B.V.,NL
 62098	UMBRELLA UMBRELLA-C JSC,UA
 62099	JMNET JM-Net o.s.,CZ
-62100	HNS HNS UG (haftungsbeschrankt),DE
+62100	-Reserved AS-,ZZ
 62101	CNAB-AS COMPANIA NATIONALA AEROPORTURI BUCURESTI SA,RO
 62102	ISE-AS Informacni sluzby energetika a.s.,CZ
 62103	AIRLINK-AS AirLink Ltd.,RU
@@ -62311,6 +62315,8 @@
 63985	RJ-AS-AP Renjiao International Technology Corporation Ltd,HK
 63986	CIX-PH U506 Executive Bldg 369 G. Puyat Ave cor Makati Ave,PH
 63987	DSEL-BD Dhaka Stock Exchange Limited,BD
+63988	LBIL-HK Large Bright Investments Limited,HK
+63989	DOTENTERPRISE-TH 163/5 Samsen soi 5, Sam Phaya Rd.,TH
 64496	-Reserved AS-,ZZ
 64497	-Reserved AS-,ZZ
 64498	-Reserved AS-,ZZ
@@ -63468,7 +63474,7 @@
 131216	RMU-AS-AP Rajabhat Mahasarakham University,TH
 131217	INFINEON-SG 8 Kallang Sector,SG
 131218	INNODATA-ISOGEN-AS-LK Innodata Lanka Pvt Ltd,LK
-131219	RHYTHM-AS-AP Rhythm & Hues Studios India Pvt Ltd,IN
+131219	,
 131221	PBRU-AS-AP Petchaburi Rajabhat University,TH
 131222	MTS-INDIA-IN 334,Udyog Vihar,IN
 131223	NETMAGIC-AS-AP NetMagic Solutions Pvt Ltd,IN
@@ -63878,7 +63884,7 @@
 132085	HOMELINX-JOEL-AS-AP Joel Clarke - HomeLinx,AU
 132086	BBCONNECT-TH 499 Moo 3 Benchachinda Bldg,TH
 132088	MEGA-IT-AS #86, Street 214,KH
-132089	RHYTHM-AS-MY Rhythm & Hues Studios, Malaysia.,MY
+132089	,
 132091	ALPHAINFONETWORK-AS AlphaInfonet,IN
 132094	KSOL-AS-AP Kritikos Solutions Pty Ltd,AU
 132095	HP-ECS-JAPAN HEWLETT PACKARD-SHINSUNA COLO,JP
@@ -64339,7 +64345,6 @@
 132623	TWENTYX20NET-AS-AP 20x20 Pty Ltd,AU
 132624	NNC-AS-AP NexGen Networks Corporation,JP
 132625	VTELECOMS1-AS-AP VTelecoms Singapore Pte Ltd,SG
-132626	,
 132627	CONNEKTNET-AS-AP ConnektNet Pty. Ltd.,AU
 132628	LISTCOLTD-AS-AP LIST Co,.Ltd.,JP
 132629	PC24NET-AS-ID PT PC24 Telekomunikasi Indonesia,ID
@@ -65467,6 +65472,8 @@
 133832	IDNIC-MERCUBUANAYOGYA-AS-ID Universitas Mercu Buana Yogyakarta,ID
 133833	IDNIC-UOB-AS-ID Bank UOB Indonesia,ID
 133834	IDNIC-ICBC-AS-ID Bank ICBC Indonesia,ID
+133835	IDNIC-XOFAST-AS-ID CV Xtra Prosolusindo,ID
+133836	VNTNET-AS-ID PT Jaringan VNT Indonesia,ID
 133847	ICT-AS-AP Anpple Tech Enterprise,MY
 133848	AWN-IDC-AS Internet Datacenter Network,TH
 133849	HKBN-AS Hong Kong Broadband Network Ltd,HK
@@ -65625,6 +65632,7 @@
 134010	BALAJIONLINE-AS BALAJIONLINE,IN
 134011	YASHINFORMATICS-AS-IN YASH INFORMATICS,IN
 134012	LAXMIINTERNETSERVICES-AS-IN Laxmi Internet Services Pvt Ltd,IN
+134013	STARCJ-AS-IN STARCJ NETWORK INDIA PVT LTD,IN
 134018	DATAWAVEIT-AS Data Wave It Solutions Pvt Ltd,IN
 134019	AIRWAVESINTERNET-AS AIRWAVES INTERNET PRIVATE LIMITED,IN
 134020	SKYNETBROADBANDPVTLTD-AS-IN SKYNET BROADBAND PVT LTD,IN
@@ -65636,6 +65644,7 @@
 134026	ULTRANET-AS Ultranet services private limited,IN
 134028	SUNRAYINFONET-AS sunray infonet pvt ltd,IN
 134029	UIDAI-AS-IN Unique Identification Authority of India,IN
+134030	SKVISION-AS SKVISION MULTITRADE PRIVATE LIMITED,IN
 134032	ICENET-AS-IN INFONET COMM ENTERPRISES,IN
 134033	HIREACH-BROADBAND-AS HIREACH BROADBAND PRIVATE LTD,IN
 134052	LANCEFIBERNET-AS LANCEFIBERNET PVT LTD,IN
@@ -65800,6 +65809,8 @@
 134215	GIC-AS-AP GALACE INDUSTRIAL CO.,LIMITED,HK
 134216	HTCL-AS-AP HUIHINGLOI TECHNOLOGY CO., LIMITED,HK
 134217	ASIT-AS-AP Australian Support Pty Ltd,AU
+134218	GAMING-AS-AP Gaming Investments Pty Ltd,AU
+134219	BETL-HK BLUE ENERGY TECHNOLOGY LIMITED,HK
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -69257,6 +69268,11 @@
 200189	BNM Banca Nationala a Moldovei,MD
 200190	VIPTEL-AS VIP IT Telecom LLC,RU
 200191	RAFFEL-INTERNET Raffel Internet B.V.,NL
+200594	ASN-SOFT-PARTNER SOFT PARTNER SZCZYPIORSKI SPOLKA JAWNA,PL
+200595	CLOUDNET Cloud Networking Communications S.L.,ES
+200596	ADYEN Adyen B.V.,NL
+200597	DIGITALK-SG1 DIGITALK Limited,SG
+200598	LAHTIE-AS Lahti Energia Oy,FI
 200599	IGRASERVICE-UL-AS Igra-Service LLC,RU
 200600	SEZNAM-CZ-DC Seznam.cz datova centra, s.r.o.,CZ
 200601	NEOLINK Neolink group LLC,RU
@@ -73134,6 +73150,7 @@
 327887	Liberia-IXP-Management,LR
 327888	NMB-BANK,TZ
 327889	WATCHTOWER-RSA,ZA
+327890	GHANA-IXP-MNGNT,GH
 393216	B6 - B.Root-Servers-OPS,US
 393217	ASN4-TELUS - TELUS Communications Inc.,CA
 393218	HOSTLEASING - Host Leasing Corporation,US
@@ -73939,3 +73956,12 @@
 394018	ARIN - ARIN Operations,US
 394019	FIBERSPARK - FiberSpark Inc.,US
 394020	LFUCG - Lexington-Fayette Urban County Government,US
+394021	FIBER-GALAXY - Fiber Galaxy,US
+394022	TRIJITNET-US - TRIJIT CORPORATION,US
+394023	OLDS-COLLEGE - Olds College,CA
+394024	ASHA-HQ - American Speech-Language-Hearing Association,US
+394025	ATHOME - At Home Stores LLC,US
+394026	VOS-ASN1 - Village of Schaumburg,US
+394027	BDS-NET - Black Duck Software, Inc,US
+394028	DLVR - DLVR, Inc.,US
+394029	LUBBOCK911 - Lubbock Emergency Communication District,US
