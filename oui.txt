@@ -1,4 +1,4 @@
-  Generated: Wed, 10 Jun 2015 05:00:03 -0400
+  Generated: Thu, 11 Jun 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -7065,8 +7065,8 @@
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
-  00-04-4F   (hex)		Leukhardt Systemelektronik GmbH
-  00044F     (base 16)		Leukhardt Systemelektronik GmbH
+  00-04-4F   (hex)		Schubert System Elektronik Gmbh
+  00044F     (base 16)		Schubert System Elektronik Gmbh
   				Rudolf-Diesel-Str. 17
 				78532 Tuttlingen
 				GERMANY
@@ -74726,8 +74726,8 @@
   00-A0-DE   (hex)		YAMAHA CORPORATION
   00A0DE     (base 16)		YAMAHA CORPORATION
   				ELECTRONIC DEVICES DIVISION
-				203 MATSUNOKIJIMA TOYOOKA-MURA IWATA-GUN
-				438-01
+				10-1 Nakazawa-cho, Naka-ku
+				Hamamatsu Shizuoka 430-8650
 				JAPAN
 
   00-A0-DF   (hex)		STS TECHNOLOGIES, INC.
@@ -79341,10 +79341,10 @@
 				ARNPRIOR, ONTARIO    K7S 3G9  
 				CANADA
 
-  00-E0-5C   (hex)		MATSUSHITA KOTOBUKI ELECTRONICS INDUSTRIES, LTD.
-  00E05C     (base 16)		MATSUSHITA KOTOBUKI ELECTRONICS INDUSTRIES, LTD.
-  				247, FUKUTAKE SAIJO
-				EHIME, 793  
+  00-E0-5C   (hex)		Panasonic Healthcare Co., Ltd.
+  00E05C     (base 16)		Panasonic Healthcare Co., Ltd.
+  				 2131-1 Minamikata
+				Toon City Ehime 
 				JAPAN
 
   00-E0-5D   (hex)		UNITEC CO., LTD.
@@ -82722,6 +82722,12 @@
 				DongGuan GuangDong 523711
 				CHINA
 
+  08-9B-4B   (hex)		iKuai Networks
+  089B4B     (base 16)		iKuai Networks
+  				So Boss Tech Center 2 # 716
+				Fengtai District Beijing 100068
+				CHINA
+
   08-9E-01   (hex)		QUANTA COMPUTER INC.
   089E01     (base 16)		QUANTA COMPUTER INC.
   				No.211, Wen Hwa 2nd Rd., Kuei Shan Hsiang,Tao Yuan Shien, Taiwan, R. O. C.
@@ -84739,6 +84745,12 @@
   				2-268 Sobudai
 				Zama Kanagawa 252-8550
 				JAPAN
+
+  14-18-77   (hex)		Dell Inc
+  141877     (base 16)		Dell Inc
+  				One Dell Way
+				Round Rock Texas 78682
+				UNITED STATES
 
   14-1A-51   (hex)		Treetech Sistemas Digitais
   141A51     (base 16)		Treetech Sistemas Digitais
@@ -91647,8 +91659,8 @@
 				Suwon Gyeonggi-Do 443742
 				KOREA, REPUBLIC OF
 
-  38-01-97   (hex)		Toshiba Samsung Storage Technolgoy Korea Corporation
-  380197     (base 16)		Toshiba Samsung Storage Technolgoy Korea Corporation
+  38-01-97   (hex)		TSST Global,Inc
+  380197     (base 16)		TSST Global,Inc
   				14 Floor, Bldg. No. 102, Digital Empire2, 486, Sin-dong, Yeongtong-gu, Suwon-si,
 				Su-won Gyeonggi 443-734
 				KOREA, REPUBLIC OF
@@ -98760,6 +98772,13 @@
 				Shenzhen Guangdong 518057
 				CHINA
 
+  5C-83-8F   (hex)		Cisco Systems
+  5C838F     (base 16)		Cisco Systems
+  				80 West Tasman Dr.
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
+
   5C-84-86   (hex)		Brightsource Industries Israel LTD
   5C8486     (base 16)		Brightsource Industries Israel LTD
   				11 Kiryat Mada st
@@ -100562,6 +100581,13 @@
 				Staffanstorp  24534
 				SWEDEN
 
+  64-9A-12   (hex)		P2 Mobile Technologies Limited
+  649A12     (base 16)		P2 Mobile Technologies Limited
+  				Unit 708, 7/F, Bio-Informatics Centre, No.2 Science Park West Avenue,
+				Hong Kong Science Park, Shatin, N.T.
+				Hong Kong Hong Kong 00000
+				HONG KONG
+
   64-9A-BE   (hex)		Apple
   649ABE     (base 16)		Apple
   				1 Infinite Loop
@@ -100993,6 +101019,12 @@
 				Bao Chiao Road
 				Hsin Tien Taipei Hsien 231
 				TAIWAN, PROVINCE OF CHINA
+
+  68-12-95   (hex)		Lupine Lighting Systems GmbH
+  681295     (base 16)		Lupine Lighting Systems GmbH
+  				Winnberger Weg 11
+				Neumarkt Bavaria 92318
+				GERMANY
 
   68-15-90   (hex)		SAGEMCOM SAS
   681590     (base 16)		SAGEMCOM SAS
@@ -102543,6 +102575,13 @@
   				1 Infinite Loop
 				Cupertino CA 95014
 				UNITED STATES
+
+  70-11-AE   (hex)		Music Life LTD
+  7011AE     (base 16)		Music Life LTD
+  				Unit E, 31/F, Billion Centre Tower A
+				N. 1 Wang Kwong Road, Kowloon Bay
+				Kowloon N/A 00000
+				HONG KONG
 
   70-14-04   (hex)		Limited Liability Company
   701404     (base 16)		Limited Liability Company
@@ -107725,6 +107764,13 @@
   				1385,Hasunuma, Minuma-ku
 				Saitama-shi Saitama 337-8556
 				JAPAN
+
+  88-1B-99   (hex)		SHENZHEN XIN FEI JIA ELECTRONIC CO. LTD.
+  881B99     (base 16)		SHENZHEN XIN FEI JIA ELECTRONIC CO. LTD.
+  				#4 BULIDING, HIGH TECH INDUSTRIAL PARK, HE PING COMMUNITY
+				FU YONG ,BAO AN DISTRICT,SHENZHEN
+				GUANGDONG  518000
+				CHINA
 
   88-1D-FC   (hex)		Cisco
   881DFC     (base 16)		Cisco
@@ -113822,6 +113868,12 @@
 				TaiPei  23585
 				TAIWAN, PROVINCE OF CHINA
 
+  A4-DC-BE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+  A4DCBE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+  				D1,Huawei Industrial Base,Bantian,Longgang,Shenzhen
+				Shenzhen Guangdong 518129
+				CHINA
+
   A4-DE-50   (hex)		Total Walther GmbH
   A4DE50     (base 16)		Total Walther GmbH
   				Frankfurter Ring 17
@@ -115002,6 +115054,13 @@
 				Kulim Hi-Tech Park
 				Kulim Kedah 09000
 				MALAYSIA
+
+  AC-7E-8A   (hex)		Cisco Systems
+  AC7E8A     (base 16)		Cisco Systems
+  				80 West Tasman Dr.
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
   AC-7F-3E   (hex)		Apple
   AC7F3E     (base 16)		Apple
@@ -123227,10 +123286,11 @@
 				Cupertino CA 95014
 				UNITED STATES
 
-  D4-9C-28   (hex)		JayBird Gear LLC
-  D49C28     (base 16)		JayBird Gear LLC
-  				2825 East Cottonwood Parkway #500
-				Salt Lake City UT 84121
+  D4-9C-28   (hex)		JayBird LLC
+  D49C28     (base 16)		JayBird LLC
+  				3676 California Ave
+				Suite A-111
+				Salt Lake City UT 84104
 				UNITED STATES
 
   D4-9C-8E   (hex)		University of FUKUI
@@ -126378,6 +126438,12 @@
 				Madrid 28017
 				SPAIN
 
+  E4-C2-D1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+  E4C2D1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+  				D1,Huawei Industrial Base,Bantian,Longgang,Shenzhen
+				Shenzhen Guangdong 518129
+				CHINA
+
   E4-C6-2B   (hex)		Airware
   E4C62B     (base 16)		Airware
   				1045 Bryant St.
@@ -127859,6 +127925,13 @@
   				5511-6 Wada
 				Matsumoto City Nagano 390-1242
 				JAPAN
+
+  EC-B8-70   (hex)		Beijing Heweinet Technology Co.,Ltd.
+  ECB870     (base 16)		Beijing Heweinet Technology Co.,Ltd.
+  				1514 Room,15F,No.2 Building
+				No.1 ,Shangdi ten Street
+				Haidian District Beijing 100085
+				CHINA
 
   EC-B9-07   (hex)		CloudGenix Inc
   ECB907     (base 16)		CloudGenix Inc
