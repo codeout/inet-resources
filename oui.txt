@@ -1,4 +1,4 @@
-  Generated: Mon, 15 Jun 2015 05:00:03 -0400
+  Generated: Tue, 16 Jun 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -50705,8 +50705,8 @@
 				Los Angeles Ca 90025
 				UNITED STATES
 
-  00-1F-49   (hex)		Manhattan Technology Limited
-  001F49     (base 16)		Manhattan Technology Limited
+  00-1F-49   (hex)		Manhattan TV Ltd
+  001F49     (base 16)		Manhattan TV Ltd
   				3 Phoenix Park,
 				Apsley Way
 				London  NW2 7LN
@@ -74725,8 +74725,7 @@
 
   00-A0-DE   (hex)		YAMAHA CORPORATION
   00A0DE     (base 16)		YAMAHA CORPORATION
-  				ELECTRONIC DEVICES DIVISION
-				10-1 Nakazawa-cho, Naka-ku
+  				10-1 Nakazawa-cho, Naka-ku
 				Hamamatsu Shizuoka 430-8650
 				JAPAN
 
@@ -76862,8 +76861,8 @@
 
   00-C0-F2   (hex)		TRANSITION NETWORKS
   00C0F2     (base 16)		TRANSITION NETWORKS
-  				6475 CITY WEST PARKWAY
-				MINNEAPOLIS MN 55344
+  				10900 Red Circle Dr.
+				MInnetonka MN 55343
 				UNITED STATES
 
   00-C0-F3   (hex)		NETWORK COMMUNICATIONS CORP.
@@ -86693,8 +86692,11 @@
 				Songpa-gu Seoul 138-961
 				KOREA, REPUBLIC OF
 
-  1C-87-2C   (hex)		PRIVATE
-  1C872C     (base 16)		 
+  1C-87-2C   (hex)		ASUSTek  COMPUTER INC
+  1C872C     (base 16)		ASUSTek  COMPUTER INC
+  				15,Li-Te Rd.., Peitou,
+				Taipei  112
+				TAIWAN, PROVINCE OF CHINA
 
   1C-8E-5C   (hex)		Huawei Technologies Co., Ltd
   1C8E5C     (base 16)		Huawei Technologies Co., Ltd
@@ -89388,6 +89390,12 @@
   2C2172     (base 16)		Juniper Networks
   				1194 N Mathilda Avenue
 				Sunnyvale CA 94089
+				UNITED STATES
+
+  2C-23-3A   (hex)		Hewlett Packard
+  2C233A     (base 16)		Hewlett Packard
+  				11445 Compaq Center Drive
+				Houston Tx 77070
 				UNITED STATES
 
   2C-24-5F   (hex)		Babolat VS
@@ -117239,6 +117247,13 @@
 				Calgary Alberta T2G 1P5
 				CANADA
 
+  B8-3A-9D   (hex)		FIVE INTERACTIVE, LLC
+  B83A9D     (base 16)		FIVE INTERACTIVE, LLC
+  				200 SOUTH ANDREWS AVENUE
+				SUITE 301
+				FORT LAUDERDALE FL 33301
+				UNITED STATES
+
   B8-3D-4E   (hex)		Shenzhen Cultraview Digital Technology Co.,Ltd Shanghai Branch
   B83D4E     (base 16)		Shenzhen Cultraview Digital Technology Co.,Ltd Shanghai Branch
   				2/F,Building#5,1690Cailun Road,Zhangjiang Hi-tech Park,
@@ -123118,10 +123133,10 @@
 
   D4-67-61   (hex)		SAHAB TECHNOLOGY
   D46761     (base 16)		SAHAB TECHNOLOGY
-  				OFFICE 31 , BUILDING 134 , ROAD 39 , BLOCK 335
-				UMM AL-HASSAM
-				MANAMA 26584
-				BAHRAIN
+  				Office 20 - Qibla Tower
+				Fahad Al Salem St
+				Qibla 
+				KUWAIT
 
   D4-67-E7   (hex)		Fiberhome Telecommunication Tech.Co.,Ltd.
   D467E7     (base 16)		Fiberhome Telecommunication Tech.Co.,Ltd.
@@ -124714,6 +124729,13 @@
   				Joensuunkatu 7
 				Salo  24101
 				FINLAND
+
+  DC-44-27   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  DC4427     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  				
+				445 HOES LANE
+				PISCATAWAY NJ 08854
+				UNITED STATES
 
   DC-45-17   (hex)		ARRIS Group, Inc.
   DC4517     (base 16)		ARRIS Group, Inc.
@@ -131281,11 +131303,8 @@
 				Shenzhen Guangdong 518066
 				CHINA
 
-  FC-C2-33   (hex)		ASUSTek COMPUTER INC.
-  FCC233     (base 16)		ASUSTek COMPUTER INC.
-  				15,Li-Te Rd.., Peitou,
-				Taipei Taiwan 112
-				TAIWAN, PROVINCE OF CHINA
+  FC-C2-33   (hex)		PRIVATE
+  FCC233     (base 16)		 
 
   FC-C2-3D   (hex)		Atmel Corporation
   FCC23D     (base 16)		Atmel Corporation
