@@ -1,4 +1,4 @@
-  Generated: Thu, 25 Jun 2015 05:00:03 -0400
+  Generated: Fri, 26 Jun 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -86394,6 +86394,13 @@
 				San Jose CA 95134
 				UNITED STATES
 
+  1C-21-D1   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  1C21D1     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
+  				
+				445 HOES LANE
+				PISCATAWAY NJ 08854
+				UNITED STATES
+
   1C-33-4D   (hex)		ITS Telecom
   1C334D     (base 16)		ITS Telecom
   				29 Hametzuda st.
@@ -90715,6 +90722,12 @@
   				Via Toscana, 3
 				Castiglione dei Pepoli Bologna 40035
 				ITALY
+
+  30-E0-90   (hex)		Linctronix Ltd,
+  30E090     (base 16)		Linctronix Ltd,
+  				​9F-1, No.66, Chongqing Rd.,
+				Banqiao Dist., China 22063
+				TAIWAN, PROVINCE OF CHINA
 
   30-E4-8E   (hex)		Vodafone UK
   30E48E     (base 16)		Vodafone UK
@@ -98219,6 +98232,12 @@
 				Nanshan District
 				Shenzhen Guangdong 518057
 				CHINA
+
+  58-8B-F3   (hex)		ZyXEL Communications Corporation
+  588BF3     (base 16)		ZyXEL Communications Corporation
+  				No. 6 Innovation Road 2, Science Park,
+				Hsin-Chu TAIWAN 300
+				TAIWAN, PROVINCE OF CHINA
 
   58-8D-09   (hex)		CISCO SYSTEMS, INC.
   588D09     (base 16)		CISCO SYSTEMS, INC.
@@ -119429,6 +119448,12 @@
   C0847A     (base 16)		Apple
   				1 Infinite Loop
 				Cupertino CA 95014
+				UNITED STATES
+
+  C0-84-88   (hex)		Finis Inc
+  C08488     (base 16)		Finis Inc
+  				7085-E Las Positas Rd
+				Livermore CA 94551
 				UNITED STATES
 
   C0-88-5B   (hex)		SnD Tech Co., Ltd.
