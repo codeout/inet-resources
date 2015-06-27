@@ -1,4 +1,4 @@
-  Generated: Fri, 26 Jun 2015 05:00:03 -0400
+  Generated: Sat, 27 Jun 2015 05:00:02 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -89397,6 +89397,12 @@
 				HONGKONG 999077
 				CHINA
 
+  2C-08-1C   (hex)		OVH
+  2C081C     (base 16)		OVH
+  				2, rue Kellermann
+				Roubaix Nord 59100
+				FRANCE
+
   2C-10-C1   (hex)		Nintendo Co., Ltd.
   2C10C1     (base 16)		Nintendo Co., Ltd.
   				11-1 HOKOTATE-CHO
@@ -97597,6 +97603,12 @@
 				The Synergy
 				609917
 				SINGAPORE
+
+  54-BE-53   (hex)		zte corporation
+  54BE53     (base 16)		zte corporation
+  				12/F.,zte R&D building,kejinan Road,Shenzhen,P.R.China
+				shenzhen guangdong 518057
+				CHINA
 
   54-BE-F7   (hex)		PEGATRON CORPORATION
   54BEF7     (base 16)		PEGATRON CORPORATION
@@ -114526,6 +114538,12 @@
 				Chung-Ho City Taipei Hsien 23500
 				TAIWAN, PROVINCE OF CHINA
 
+  A8-72-85   (hex)		IDT, INC.
+  A87285     (base 16)		IDT, INC.
+  				6024 SILVER CREEK VALLEY RD
+				SAN JOSE CA 95138
+				UNITED STATES
+
   A8-74-1D   (hex)		PHOENIX CONTACT Electronics GmbH
   A8741D     (base 16)		PHOENIX CONTACT Electronics GmbH
   				Dringenauer Str. 30
@@ -115262,6 +115280,12 @@
   AC620D     (base 16)		Jabil Circuit (Wuxi) Co. LTD
   				Lot J9, J10 Export Processing Zone
 				Wuxi City Jiangsu 214028
+				CHINA
+
+  AC-64-62   (hex)		zte corporation
+  AC6462     (base 16)		zte corporation
+  				12/F.,zte R&D building,kejinan Road,Shenzhen,P.R.China
+				shenzhen guangdong 518057
 				CHINA
 
   AC-67-06   (hex)		Ruckus Wireless
