@@ -6401,7 +6401,7 @@
 6481	SWRI - Southwest Research Institute,US
 6482	SUPER-AS1 - SuperMedia LLC,US
 6483	DIGEX-AS3 - Digital Express Group, Inc.,US
-6484	SOC - ServerOrigin Communications LLC,US
+6484	SOC - Black Lotus Communications,US
 6485	TDSC1-ASN - Track Data Corp,US
 6486	NEWREACH - NewReach Communications,US
 6487	CyberNet de Guatemala S.A.,GT
@@ -11284,7 +11284,7 @@
 11501	VISTAASN - Vista Radiology, P.C.,US
 11502	NETTUNER-AS - NetTuner Corp. dba Webmasters.com,US
 11504	WHITE-CASE-1155 - White & Case,US
-11505	-Reserved AS-,ZZ
+11505	BCUSA3 - DART INDUSTRIES INC.,US
 11506	XSIGO-HQ-ASN - Xsigo Systems, Inc,US
 11507	COBALTNAP - Cobalt Data Centers,US
 11508	AS-CHOOPA2 - Choopa, LLC,US
@@ -25950,7 +25950,7 @@
 26524	BUDCO - BUDCO,US
 26525	NYCSCA - NYC SCHOOL CONSTRUCTION AUTHORITY,US
 26526	ENVESTNETPMC - ENV,US
-26527	WISCONSIN-RSA-7-LIMITED-PARTNERSHIP - Wisconsin RSA #7,US
+26527	-Reserved AS-,ZZ
 26528	HPES - Hewlett-Packard Company,US
 26529	HHC-CORP - Hilton Hotels Corporation,US
 26530	SIRUS-AS1 - Sirus, Inc,US
@@ -35172,7 +35172,7 @@
 35845	MEDIVATION-BGP - Medivation,US
 35846	XIOTECH - Xiotech,US
 35847	AS-ICTX - Interfacing Company of Texas, Inc.,US
-35848	PALMERASN - Palmer Holland Inc.,US
+35848	-Reserved AS-,ZZ
 35849	MTOLA - Munger Tolles & Olson LLP,US
 35850	SCLS - Suffolk Cooperative Library System,US
 35851	BANKERSBANKOFKANSAS - Bankers Bank of Kansas,US
@@ -36412,7 +36412,7 @@
 37092	-Reserved AS-,ZZ
 37093	-Reserved AS-,ZZ
 37094	CELLCOM,LR
-37095	AIS-15-CONFERENCE,MU
+37095	-Reserved AS-,ZZ
 37096	ITHL-AS,NA
 37097	-Reserved AS-,ZZ
 37098	globe-as,MW
@@ -39444,7 +39444,7 @@
 40225	-Reserved AS-,ZZ
 40226	AKUSA - Alaska USA Federal Credit Union,US
 40227	IPNS-LAB - IP Networked Services Inc.,US
-40228	-Reserved AS-,ZZ
+40228	LLL-NBRK - Levin & Levy, LLP,US
 40229	MAINEHEALTH-MAINE-MEDICAL-CENTER - MaineHealth Maine Medical Center,US
 40230	COLUMBUS-TEL-KS - Columbus Telephone Company Incorporated,US
 40231	ETHRN1 - Ethr.Net LLC,US
@@ -39565,7 +39565,7 @@
 40346	ACADIAN-AMBULANCE-SERVICE - Acadian Ambulance Service, Inc.,US
 40347	EAUCLAIRE-COUNTY - Eau Claire County,US
 40348	NUVIO-CORPORATION - NVO Holdings, Inc.,US
-40349	-Reserved AS-,ZZ
+40349	ISAGENIX - Isagenix International LLC,US
 40350	-Reserved AS-,ZZ
 40351	AS-PLDPC - Pennsylvania Legislative Data Processing Center,US
 40352	BFM - BF&M Limited,BM
@@ -44639,7 +44639,7 @@
 45479	MATHLETICS-AS-AP 3P Learning Pty Ltd,AU
 45480	DIACCU-NZ PO Box 805,NZ
 45481	DIGITALSENSE-AS-AP Digital Sense Data Centre Hosting Brisbane,AU
-45482	WEBSLICE-AS-AP Webslice Anycast Networks,AU
+45482	WEBSLICE-AS-AP WEBSLICE PTY LTD,AU
 45483	E3NETWORKS-AS-AP E3 Networks,AU
 45484	ANZ_BANKING_GROUP ANZ Banking Group,AU
 45485	CARGOSMARTNET-AS-AP 5th Floor, Lakeside 2,HK
@@ -44782,7 +44782,7 @@
 45642	JASTEL-NETWORK-TH-NIX-AP Jasmine International Tower,TH
 45644	SBI-EMS-NET-IN IT-Networking Department,IN
 45645	TTA-APNIC-AS-AP TransLink Transit Authority,AU
-45646	WEBSLICE-AS-AP iQ Networks,AU
+45646	WEBSLICE-AS-AP WEBSLICE PTY LTD,AU
 45648	BELLTELE-AS-IN Bell Teleservices India Pvt Ltd., ISP having own OFC network in Bangalore, India.,IN
 45649	DSTWS-IN DST Worldwide Services,IN
 45650	VIANET-NP Vianet Communications Pvt. Ltd.,NP
@@ -62260,12 +62260,12 @@
 63825	CHINANET-HUBEI-XIANTAO-MAN CHINANET Hubei province Xiantao network,CN
 63826	CPTU-BD Ministry of Planning, Planning Commission Chatter,BD
 63827	ECONDELIGHT PT Econdelight,ID
-63828	CHINAIXP Aiyun Technology Co.,Ltd,CN
+63828	BILIBILI bilibili.com,CN
 63829	MTS-INDIA-IN Sistema Shyam Teleservices Ltd.,IN
 63830	AKLIX-AS-AP IX New Zealand,NZ
 63831	CCHVC-AS-AP Beijing Network Video Communications Technology Co,. Ltd.,CN
 63832	MEGA-SG 10 Collyer Quay,SG
-63833	CHINAIXP-BJ Aiyun Technology Co.,Ltd,CN
+63833	CHINAIXP Aiyun Technology Co.,Ltd,CN
 63834	PRIMEXM-GS-GSM PrimeXM Technologies Ltd,HK
 63835	CT-HUNAN-CHANGSHA-IDC No.293,Wanbao Avenue,CN
 63836	UNICOM-CN China Unicom IP network,CN
@@ -62403,6 +62403,7 @@
 63996	MNL-AS-AP Neamul Haque Khan t/a Mazeda Networks Limited,BD
 63997	TSUKAERUNET Tsukaeru.net, Web Hosting Company, Japan,JP
 63998	KMTCL-MM No (797/A) MAC Tower II, Lanmadaw Tsp,MM
+63999	CLOUD-CN Aiyun Technology Co.,Ltd,CN
 64496	-Reserved AS-,ZZ
 64497	-Reserved AS-,ZZ
 64498	-Reserved AS-,ZZ
@@ -73532,6 +73533,9 @@
 327900	SIMPLYCONNECT-Simply-Computers,TZ
 327901	NET1337,ZA
 327902	VPS-TECHNOLOGIES-LTD,NG
+327903	MICG,SL
+327904	ZICTA,ZM
+327905	TTCL,TZ
 393216	B6 - B.Root-Servers-OPS,US
 393217	ASN4-TELUS - TELUS Communications Inc.,CA
 393218	HOSTLEASING - Host Leasing Corporation,US
@@ -74441,7 +74445,7 @@
 394122	DEBEVOISE - Debevoise and Plimpton LLP,US
 394123	AMERGENT - Amergent,US
 394124	SHOESHOW-AS-1 - SHOE SHOW Inc.,US
-394125	LLL-NBRK - Levin & Levy, LLP,US
+394125	-Reserved AS-,ZZ
 394126	ECSD-PUBLIC-ASN - The School District of Escambia County,US
 394127	ALACRITYSERVICES - Alacrity Services,US
 394128	CHP-CONSULTING - CHP Consulting Inc,GB
@@ -74482,3 +74486,7 @@
 394163	CLOUD-XPRESS - Cloud Xpress,US
 394164	POCKETGEMS - Pocket Gems, Inc.,US
 394165	COGNC - City of Greenville, NC,US
+394166	GSWC-GGO - Golden State Water Compay,US
+394167	DALLASISD - Dallas Independent School District,US
+394168	VIRACOR-IBT - Viracor-IBT Laboratories, Inc,US
+394169	NASSAU-COMMUNITY-COLLEGE - Nassau Community College,US
