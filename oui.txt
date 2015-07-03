@@ -1,4 +1,4 @@
-  Generated: Thu, 02 Jul 2015 05:00:03 -0400
+  Generated: Fri, 03 Jul 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -93000,6 +93000,12 @@
 				Houston Texas 77077
 				UNITED STATES
 
+  3C-A3-48   (hex)		vivo Mobile Communication Co., Ltd.
+  3CA348     (base 16)		vivo Mobile Communication Co., Ltd.
+  				#283,BBK Road
+				Wusha,Chang'An DongGuan City,Guangdong, 523860
+				CHINA
+
   3C-A7-2B   (hex)		MRV Communications (Networks) LTD
   3CA72B     (base 16)		MRV Communications (Networks) LTD
   				P.O Box 614
@@ -93497,6 +93503,12 @@
   40406B     (base 16)		Icomera
   				Vikingsgatan 3
 				Göteborg  41104
+				SWEDEN
+
+  40-40-A7   (hex)		Sony Mobile Communications AB
+  4040A7     (base 16)		Sony Mobile Communications AB
+  				Nya Vattentornet
+				Lund SE 22188
 				SWEDEN
 
   40-45-DA   (hex)		Spreadtrum Communications (Shanghai) Co., Ltd.
