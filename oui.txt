@@ -1,4 +1,4 @@
-  Generated: Tue, 07 Jul 2015 05:00:03 -0400
+  Generated: Wed, 08 Jul 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -28045,8 +28045,9 @@
 
   00-11-57   (hex)		Oki Electric Industry Co., Ltd.
   001157     (base 16)		Oki Electric Industry Co., Ltd.
-  				1-16-8 Chuou
-				Warabi City Saitama 335-8510 
+  				1-7-12 Toranomon
+				Minato-ku
+				Tokyo 105-8460  
 				JAPAN
 
   00-11-58   (hex)		Nortel Networks
@@ -83396,6 +83397,12 @@
 				SAN JOSE CA 95134-1706
 				UNITED STATES
 
+  0C-86-10   (hex)		Juniper networks
+  0C8610     (base 16)		Juniper networks
+  				1133 Innovation Way
+				Sunnyvale CA 94089
+				UNITED STATES
+
   0C-89-10   (hex)		Samsung Electronics Co.,LTD
   0C8910     (base 16)		Samsung Electronics Co.,LTD
   				416,Maetan 3Dong,Yeongtong-Gu
@@ -87677,6 +87684,9 @@
 				Taipei  112
 				TAIWAN, PROVINCE OF CHINA
 
+  20-D1-60   (hex)		PRIVATE
+  20D160     (base 16)		 
+
   20-D2-1F   (hex)		Wincal Technology Corp.
   20D21F     (base 16)		Wincal Technology Corp.
   				1028 South Greenwood Ave.
@@ -91865,6 +91875,13 @@
 				Changning District
 				Shanghai 200335
 				CHINA
+
+  38-20-56   (hex)		Cisco Systems
+  382056     (base 16)		Cisco Systems
+  				80 West Tasman Dr.
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
   38-21-87   (hex)		Midea Group Co., Ltd.
   382187     (base 16)		Midea Group Co., Ltd.
@@ -128479,6 +128496,13 @@
 				Parnell
 				Auckland  1151
 				NEW ZEALAND
+
+  EC-BD-1D   (hex)		Cisco Systems
+  ECBD1D     (base 16)		Cisco Systems
+  				80 West Tasman Dr.
+				SJCM/2
+				San Jose CA 95134
+				UNITED STATES
 
   EC-C3-8A   (hex)		Accuenergy (CANADA) Inc
   ECC38A     (base 16)		Accuenergy (CANADA) Inc
