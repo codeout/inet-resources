@@ -3213,7 +3213,6 @@
 3233	RNC Institutul National de Cercetare-Dezvoltare in informatica - ICI Bucuresti,RO
 3234	Parliament of the Czech Republic,CZ
 3235	GOLDENISP-AS OJSC "Vimpelcom",RU
-3236	,
 3237	MANDR10-AS M & R 10 EOOD.,BG
 3238	ALCOM Alands Datakommunikation Ab,FI
 3239	RU-SURNET OJSC Rostelecom,RU
@@ -11223,7 +11222,7 @@
 11438	LEMANS-1 - LeMans Corporation,US
 11439	CANERIS - Caneris Inc.,CA
 11440	NETSVILLE - Netsville, Inc.,US
-11441	FREDERICK-MEMORIAL-HOSPITAL - Frederick Memorial Healthcare System,US
+11441	-Reserved AS-,ZZ
 11442	NCSU - North Carolina State University,US
 11443	OLM - OLM, LLC,US
 11444	PRIMUSTEL - Primus Telecommunications, Inc.,US
@@ -11240,7 +11239,7 @@
 11457	TEXLINK - Tex-Link Communications, Inc.,US
 11458	ANM-AS01 - Advanced Network Management, Inc,US
 11459	THE-TENNESSEAN-GANNETT-SATELLITE-NASHVILLE - the Tennessean, a division of Gannett Satellite Information Network, Inc.,US
-11460	ZALE-NET - Zale Delaware, Inc.,US
+11460	-Reserved AS-,ZZ
 11461	SPRINTBWG - Sprint Communications, Inc.,US
 11462	FAPVPS1 - FAPVPS INC.,US
 11463	KINDREDHEALTHCARE - Kindred Healthcare, Inc.,US
@@ -12247,7 +12246,6 @@
 12474	VIVELAVIE Elsynet S.r.l.,IT
 12475	-Reserved AS-,ZZ
 12476	ASTER-CITY-CABLE-AS ASTER Sp. z.o.o.,PL
-12477	,
 12478	SITEKSPB-AS Digit One LLC,RU
 12479	UNI2-AS France Telecom Espana SA,ES
 12480	ASILK ILK Internet.Gmbh,DE
@@ -13501,7 +13499,7 @@
 13766	BRADFORD-REGIONAL-MC - Bradford Regional Medical Center,US
 13767	DBANK - DataBank Holdings, Ltd.,US
 13768	PEER1 - Peer 1 Network (USA) Inc.,US
-13769	TRUSTEDID - TrustedID, Inc.,US
+13769	-Reserved AS-,ZZ
 13770	HFXIX - Halifax Internet Exchange Inc.,CA
 13771	BOOMERANG - Boomerang.com,INC. ,US
 13772	THINKTECH-3 - ThinkTech, Inc,US
@@ -13558,7 +13556,7 @@
 13823	MESH-NET - Mesh.Net,US
 13824	AZCI-NET - AZCI.net, LLC,US
 13825	TROYCABLE-NET - Troy Cablevision, Inc.,US
-13826	TRGO-DBA-DATA-CENTERS-CANADA - TeraGo Networks Inc.,CA
+13826	TERAGO-DATA-CENTER-VAUGHAN - TeraGo Networks Inc.,CA
 13827	WPNI-AS - Washingtonpost.Newsweek Interactive Company, LLC,US
 13828	I2K - Internet 2000, Inc.,US
 13829	PIMACOUNTY - Pima County,US
@@ -17936,7 +17934,7 @@
 18304	KKUNET-AS-KR KONKUK UNIVERSTY CHUNGJUCAMPUS COMPUTER CENTER,KR
 18305	POSNET POSDATA Co.,Ltd,KR
 18306	MASANHANANET-AS-KR HANANET,KR
-18307	HTS-AS-KR National Tax Service,KR
+18307	SRAIL-AS-KR SR,KR
 18308	BUCHEONSI-AS-KR BUCHEONSI,KR
 18309	KOVAN-AS-KR Korea VAn Service Co.LTD,KR
 18310	VITSSEN-AS-KR TBROAD ABC BROADCASTING CO.,LTD.,KR
@@ -18782,7 +18780,7 @@
 19155	VYSTARCU - Vystar Credit Union,US
 19156	-Reserved AS-,ZZ
 19157	CHARTER-TN - Charter Communications,US
-19158	USCARRIER - USCARRIER TELECOM, LLC.,US
+19158	-Reserved AS-,ZZ
 19159	AFFINITIPA - Affiniti, LLC,US
 19160	ATGL-AS - Apex Tool Group LLC,US
 19161	-Reserved AS-,ZZ
@@ -19137,7 +19135,7 @@
 19510	HUM-19510 - HUMANA,US
 19511	ELECTROLUX-NA - Electrolux Home Products, Inc.,US
 19512	LYONDELL - Lyondell Chemical Company,US
-19513	-Reserved AS-,ZZ
+19513	BOX-VIP - Box.com,US
 19514	MAGTEK-HQ - MagTek Inc.,US
 19515	ORICOM-QUEBEC1 - Oricom Internet,CA
 19516	SMITH - Smith International, Inc.,US
@@ -19330,7 +19328,7 @@
 19703	VALUELINE - Value Line Publishing Inc.,US
 19704	-Reserved AS-,ZZ
 19705	ERX-NEXTED-USA NextEd Limited,AU
-19706	SOS116W23 - Select Office Suites,US
+19706	-Reserved AS-,ZZ
 19707	SETL-1-AS-00 - Summit Energy Tech LLC,US
 19708	SLEHS - St. Luke's Episcopal Hospital,US
 19709	HX-ISP-CHO - Helix Computer Systems, Inc.,US
@@ -19382,7 +19380,7 @@
 19755	KIMBANET - KIMBANET,US
 19756	ACCS-AB - Alberta Communication Cable Services Inc,CA
 19757	NODESERV - NodeServ, LLC,US
-19758	STERLINGFINANCIALNET - STERLING NATIONAL BANK,US
+19758	-Reserved AS-,ZZ
 19759	REALD-ARIN-ASN - REALD INC.,US
 19760	CALPINECORP-1 - CALPINE CORP,US
 19761	SLEDGE - Sledge Telephone Company, Inc.,US
@@ -19437,7 +19435,7 @@
 19810	ASNBLK-VTLA2 - Virtela Technology Services Incorporated,US
 19811	ELEMICA-PACOLO - ELEMICA, Inc.,US
 19812	RADIANZ-NUTLEY - RADIANZ Americas, Inc.,US
-19813	EXCALIBUR - Excalibur Entertainment Inc.,US
+19813	-Reserved AS-,ZZ
 19814	FQLP-SAVOC2 - First Quadrant L.P.,US
 19815	DIGITECH-ASN1 - Digitech Systems, Inc.,US
 19816	NCSDATACOM - NCS DataCom, Inc.,US
@@ -19475,7 +19473,7 @@
 19848	EMERGIS-AS-2 - Emergis Inc.,CA
 19849	ARBITRON - THE NIELSEN COMPANY (US)  LLC,US
 19850	RYLAND-GROUP - THE RYLAND GROUP,US
-19851	BRE-PROPERTIES - BRE Properties, Inc.,US
+19851	-Reserved AS-,ZZ
 19852	INTERTEL-INC-ASN - Intertel, Inc.,US
 19853	USONL-2 - US Online Sales, Inc.,US
 19854	LOS-ANGELES-NETWORK - CAAL Enterprise,US
@@ -19499,7 +19497,7 @@
 19872	CUSTOM-76 - CUSTOM SOFTWARE INC,US
 19873	S C SOLUCOES EM TECNOLOGIA S A,BR
 19874	CASTLE-ACCESS-AZ - Castle Access Inc,US
-19875	TERAGO - TeraGo Networks Inc.,CA
+19875	TERAGO-RACKFORCE - TeraGo Networks Inc.,CA
 19876	HYPERSURF - HyperSurf Internet Services, Inc.,US
 19877	LORE-NET - Lore Systems, Inc.,US
 19878	MEDIMPACT - MedImpact Healthcare Systems, Inc.,US
@@ -21209,7 +21207,7 @@
 21653	CIMCO3 - CIMCO Communications, Inc.,US
 21654	PHLIX - Inerail,US
 21655	BTR - Blogtalkradio, Inc.,US
-21656	CLOUDSCALING - Cloudscaling,US
+21656	-Reserved AS-,ZZ
 21657	LYCOM - Lycom Communications, Inc.,US
 21658	TENASN1 - TENSILICA, INC.,US
 21659	UCULET - Ucluelet Video Services Ltd.,CA
@@ -21253,7 +21251,7 @@
 21697	-Reserved AS-,ZZ
 21698	GCG - Giovine Capital Group, LLC,US
 21699	IO - IO INC,US
-21700	FRSL-3 - Flint River Services LLC.,US
+21700	-Reserved AS-,ZZ
 21701	TRUVEN-HEALTH-ANALYTICS-AS - Solucient, LLC,US
 21702	HADDAD - The Haddad Organization Ltd.,US
 21703	NETWORKS-AND-MORE - Networks & More! Inc.,US
@@ -22761,7 +22759,7 @@
 23210	DISD-7-ARIN - Denton Independent School District,US
 23211	JCOM-2 - J2 Global Inc.,US
 23212	LININ1950-1 - LIN Media,US
-23213	ASAMXP - American Express Publishing Corporation,US
+23213	-Reserved AS-,ZZ
 23214	CESD-1 - Chinook's Edge School Division No. 73,CA
 23215	MEGAPATH-US - MegaPath Networks Inc.,US
 23216	MEGADATOS S.A.,EC
@@ -22770,7 +22768,7 @@
 23219	MICROCERV - MicroCerv,US
 23220	NASHFINCH - Nash-Finch Company,US
 23221	JLBJH - JACK LINK'S BEEF JERKY,US
-23222	CBS-INC - Computerized Business Solutions, Inc.,US
+23222	-Reserved AS-,ZZ
 23223	TOTAL-QUALITY-LOGISTICS-INC - Total Quality Logistics,US
 23224	PARDUS - Pardus Capital Management L.P.,US
 23225	NORTH-CAROLINA-WIRELESS - North Carolina Wireless, LLC,US
@@ -22881,7 +22879,7 @@
 23330	OMEGA-ADVISORS - Omega Advisors, Inc,US
 23331	EQT - Equitable Resources,US
 23332	AS-JDASOFTRCKVLLE - JDA Software Group Inc.,US
-23333	NSPARC - NSPARC,US
+23333	-Reserved AS-,ZZ
 23334	COMM-OF-BASEBALL - Major League Baseball,US
 23335	GRAVITAS-TECHNOLOGY-SERVICES-LLC - Gravitas Technology Services, LLC,US
 23336	SOLIDSPACE-ASN - SolidSpace LLC,US
@@ -22954,7 +22952,7 @@
 23403	THE-COURIER-JOURNAL-AS - The Courier-Journal, inc.,US
 23404	RITTERNET - Ritter Communications, Inc.,US
 23405	COMMERZBANKUSA - Commerzbank AG,US
-23406	CHOATEHALLSTEWART - CHOATE, HALL & STEWART, LLP,US
+23406	-Reserved AS-,ZZ
 23407	ALT-N - Alt-N Technologies, Ltd.,US
 23408	TBI-001 - Trail Blazers, Inc.,US
 23409	AS-FOFCOS - Focus on the Family,US
@@ -24279,6 +24277,7 @@
 24830	INTEREC-AS CIRCUITOS ALJARAFE, S.L.,ES
 24832	TCU-COM-AS Territorial Control Centre of Communications Ltd.,RU
 24833	LBS-WEST-NET LBS Westdeutsche Landesbausparkasse,DE
+24834	CIRRUSDEFEND CIRRUSDEFEND Sp. z o.o.,PL
 24835	RAYA-AS,EG
 24836	PKIT-ASN pk-itservices GmbH,DE
 24837	MEGALINK-AS MegaLink Ltd.,RU
@@ -24287,6 +24286,7 @@
 24840	NICOS-AG NICOS AG,DE
 24841	SUPERNEWS-NL Supernews Inc.,NL
 24842	DHMS-NET DHMS Ltd,GB
+24843	ASFTVEN FRANCE TELEVISIONS SA,FR
 24844	EUROFORUM-ASN Euroforum Deutschland SE,DE
 24845	LHM-AS Landeshauptstadt Muenchen,Direktorium,Hauptabteilung III,DE
 24846	BANCORP-AS IFC "BanCorp" Electronic Banking & Financial Services,RU
@@ -24977,7 +24977,7 @@
 25531	INTFRM-AS Intinform Ltd.,RU
 25532	MASTERHOST-AS CJSC "MasterHost",RU
 25533	FAUST-ASN FAUST ISP LTD.,UA
-25534	INTELSOFT-AS Intelsoft Kazakstan Ltd,RU
+25534	INTELSOFT-AS 1-gigabit LLC,RU
 25535	ASN-RUCENTER-HOSTING Autonomous Non-commercial Organization 'Regional Network Information Center',RU
 25536	ASN-METAV Metav SA,RO
 25537	RU-CENTER-AS CJSC Regional Network Information Center,RU
@@ -25177,7 +25177,7 @@
 25731	AEREO-BOS - Aereo, Inc.,US
 25732	TOTALCARDINC - Total Card, Inc.,US
 25733	EAGLENET - Eagle Ottawa, LLC,US
-25735	MDCPA-NY - MDC PARTNERS, INC.,US
+25735	-Reserved AS-,ZZ
 25736	TRADEONEMKTG - TradeOne Marketing, Inc,US
 25737	ENFRA-AV - Enfrastructure, Inc.,US
 25738	HERZING-UNIVERSITY - Herzing INC,US
@@ -25276,7 +25276,7 @@
 25831	-Reserved AS-,ZZ
 25832	Cia. de Processamento de Dados do Estado da Bahia,BR
 25833	TOCT - The Ontario College of Teachers,CA
-25834	NETQUINCY - City of Quincy,US
+25834	-Reserved AS-,ZZ
 25835	RBH-CLT-NET1 - Robinson, Bradshaw & Hinson, P.A.,US
 25836	STERLING-JEWELERS - Sterling Jewelers Inc.,US
 25837	DATALINK-IT - DATALINK INFORMATION TECHNOLOGIES INC.,US
@@ -25731,7 +25731,7 @@
 26288	KNET-1 - Keewaytinook Okimakanak,CA
 26289	TEXAS-ENERGY-NETWORK - Texas Energy Network LLC,US
 26290	VALIANT-COMM - Valiant Solutions Inc.,US
-26291	-Reserved AS-,ZZ
+26291	TELEGO-NET - Tele Go, Inc,US
 26292	ASN-SHREWS - Shrewsbury Electric and Cable Operations,US
 26293	DATE-COM - Date.com, Inc.,US
 26294	MILLENIANET - KEYSTONE DIGITAL IMAGING INCORPORATED,US
@@ -25848,7 +25848,7 @@
 26405	HDCS - HORIZON DATA SOLUTIONS, LLC,US
 26406	CMIHUB - National Center for Supercomputing Applications,US
 26407	GUILFORD-COMMUNICATIONS - Guilford Communications, Inc.,US
-26408	EAGLE-RIVER-ASSET-MANAGEMENT - Eagle River Asset Management, LLC,US
+26408	-Reserved AS-,ZZ
 26409	PULTEMORTGAGE - Pulte Mortgage, LLC,US
 26410	PTPA - Point To Point Access.Com,US
 26411	STRASZ-AS1 - Strasz Computer Consulting, Inc.,US
@@ -25885,7 +25885,7 @@
 26442	DNB-US - Dun & Bradstreet,US
 26443	QIAGEN-GERMANTOWN - QIAGEN Shared Services, Inc.,US
 26444	PAYDIANT - Paydiant, Inc.,US
-26445	VCAL-ASN - Vision Capital Americas LLC,US
+26445	-Reserved AS-,ZZ
 26446	STOUFFER-COMMUNICATIONS-INC - Stouffer Communications, Inc.,US
 26447	SHUTTERFLY - Shutterfly, Inc.,US
 26448	CBD - Christian Book Distributors, LLC,US
@@ -26242,7 +26242,7 @@
 26801	ZITOMEDIA611 - Zito Media, L.P.,US
 26802	OTN - Ontario Telemedicine Network,CA
 26803	FIBERNOC - Fiber Internet Center,US
-26804	INTERTECH-USA - Intertech USA, Inc.,US
+26804	-Reserved AS-,ZZ
 26805	FHLB - Federal Home Loan Bank of San Francisco,US
 26806	-Reserved AS-,ZZ
 26807	LANDAM - LandAmerica Financial Group, Inc.,US
@@ -26424,7 +26424,7 @@
 26983	HPES - Hewlett-Packard Company,US
 26984	MONTE-25-AS - Monte Carlo Online llc,US
 26985	MACERICH - THE MACERICH COMPANY,US
-26986	ASN1 - ESI Canada,CA
+26986	-Reserved AS-,ZZ
 26987	LAURUSINTL - Laurus International,US
 26988	ADAGE-TECH - Adage Technologies, Inc,US
 26989	HR-WORLD-HEADQUARTERS - H&R Block,US
@@ -26749,7 +26749,7 @@
 27308	INTELEMAGE - Intelemage, LLC,US
 27309	TCC - The Computer Company, Inc.,US
 27310	180SERVERS - 180Servers.com,US
-27311	BIOGEN - Biogen Inc.,US
+27311	-Reserved AS-,ZZ
 27312	CARSWELL - Carswell, a division of Thomson Canada Ltd,CA
 27313	SPENCER-STUART - Spencer Stuart,US
 27314	HIU - Hope International University,US
@@ -26765,7 +26765,7 @@
 27324	CBC-ASN - Canadian Broadcasting Corporation,CA
 27325	CORENAP-AS - Core NAP, L.P.,US
 27326	VHSA-AS - VCU HEALTH SYSTEM AUTHORITY,US
-27327	INSINC - Dowco Computer Systems Ltd.,CA
+27327	INSINC - Dowco Computer Systems Ltd.,US
 27328	DUQUESNE-CAPITAL-MANAGEMENT-LLC-PA - DUQUESNE CAPITAL MANAGEMENT LLC,US
 27329	DUANE-MORRIS-PHILADELPHIA - Duane Morris,US
 27330	EQUINIX-MA-SV8 - Equinix, Inc.,US
@@ -26819,7 +26819,7 @@
 27378	GARDEREWYNNESEWELL - Gardere Wynne Sewell LLP,US
 27379	SELECT-STAFFING - Select Staffing,US
 27380	UNISYS-CA - Unisys Inc.,CA
-27381	CASALE-MEDIA - Casale Media,CA
+27381	CASALE-MEDIA - Index Exchange Inc.,CA
 27382	COLOSPACE - ColoSpace, Inc.,US
 27383	ALLSCRIPTS-HEALTHCARE-SOLUTIONS - Allscripts Healthcare Solutions, Inc.,US
 27384	UNITED-DYNACARE - UNITED DYNACARE, LLC,US
@@ -30243,7 +30243,7 @@
 30897	PENTAGON-SYSTEMS Pentagon Development Systems Limited,GB
 30898	CRSR-AS DataCentrum,SK
 30899	-Reserved AS-,ZZ
-30900	WEBWORLD-AS Sternforth Ltd.,IE
+30900	WEBWORLD-AS Sternforth Ltd t/a Web World Ireland,IE
 30901	-Reserved AS-,ZZ
 30902	NEDA-AS neda rayaneh,IR
 30903	VTL-AS-01 Ventelo Netherland BV,NL
@@ -31091,7 +31091,7 @@
 31745	SPIRETECH - Spire Technologies,US
 31746	FANDM - Franklin and Marshall College,US
 31747	BLACKROCK-FINANCIAL-MANAGEMENT-2 - BlackRock Financial Management, Inc.,US
-31748	ALTERIAN - Alterian, Inc.,US
+31748	-Reserved AS-,ZZ
 31749	FKNC-AS - Fort Knox National Company,US
 31750	METHODIST-HEALTHCARE - Methodist Hospital of Memphis,US
 31751	AS-MB-1 - The Market Builder, Inc,US
@@ -31355,7 +31355,7 @@
 32009	PERFECTSERVE-INC - PERFECTSERVE, INC.,US
 32010	TSIS-LLC - Top Speed Internet Service, LLC,US
 32011	JOHO-NYC - Joho Capital, LLC,US
-32012	CCI - Corinthian College,US
+32012	-Reserved AS-,ZZ
 32013	CATHOLIC-HEALTH-CARE-WEST - Dignity Health,US
 32014	FASTROOT - Steadfast Networks,US
 32015	ONYXLIGHT - OnyxLight Communications, Inc.,US
@@ -33022,7 +33022,7 @@
 33676	TELX-MIAMI - Telx,US
 33677	SIROTA-CONSULTING-LLC - Sirota Consulting,US
 33678	NETWORTH-SERVICES - NetWorth Services, Inc,US
-33679	AS-HFMA - Healthcare Financial Management Association,US
+33679	-Reserved AS-,ZZ
 33680	TELEPERFORMANCE-USA - TELEPERFORMANCE USA,US
 33681	COMPTRK - Competitrack Inc.,US
 33682	WEBERHS - Weber Human Services Foundation,US
@@ -34704,7 +34704,7 @@
 35359	ADRTEL-AS AS for ORG-ATs6-RIPE,IT
 35360	-Reserved AS-,ZZ
 35361	GREPNET GREPA Networks s.r.o.,CZ
-35362	BEST "BEST" Company with additional responsibility,UA
+35362	BEST Company with additional responsibility "Company "BEST",UA
 35363	ADEC ASSOCIATION POUR LE DEVELOPPEMENT DES ENTREPRISES ET DES COMPETENCES (ADEC),FR
 35364	-Reserved AS-,ZZ
 35365	VICATV TOV Vica-TV,UA
@@ -35470,7 +35470,7 @@
 36125	PTLP-CORE - People's Tel Limited Partnership,CA
 36126	-Reserved AS-,ZZ
 36127	ONEWEBHOSTING - OneWebHosting, Inc.,US
-36128	SOUTHWEST-WIRELESS-GRP-LLC-DBA-TRANSCEND-BROADBAND - Southwest Wireless Group, L.L.C. dba Transcend Broadband,US
+36128	-Reserved AS-,ZZ
 36129	YAHOO-MAVEN - Yahoo,US
 36130	HUDSON-RIVER-PARK-TRUST - Hudson River Park Trust,US
 36131	IMO - PageBites, Inc.,US
@@ -39566,7 +39566,7 @@
 40330	LSNB - Lone Star National Bank,US
 40331	MRCYHQ - Mercury Systems, Inc.,US
 40332	MONTRE-AS - Montreal Exchange,CA
-40333	AMEXP-AS - American Express Publishing Corporation,US
+40333	-Reserved AS-,ZZ
 40334	GSC-SANANTONIOTX - Gannett Supply Corp. - San Antonio, TX,US
 40335	WBTSNY-AS - Watchtower Bible and Tract Society of New York, Inc.,US
 40336	UNISKY-MIA - Jacobi International Inc.,US
@@ -39589,7 +39589,7 @@
 40353	LUNEXGROUP - Lunex Group Inc,US
 40354	LOCKTONKC-INTERNET - Lockton Companies,US
 40355	SUNDANCE-NET - Sundance International LLC,US
-40356	ERCNORWALK - ERC DATAPLUS,US
+40356	-Reserved AS-,ZZ
 40357	ETMC - East Texas Medical Center,US
 40358	TFCU-BLK-1 - Tinker Credit Union, Inc.,US
 40359	SOUTHEASTERNMILLS-ROME - Southeastern Mills, Inc.,US
@@ -39873,9 +39873,9 @@
 40637	MAILROUTE - MailRoute, Inc.,US
 40638	GAW-WMA-AS - GAW High-Speed Internet Inc,US
 40639	KORBELINC - F Korbel & Bros Inc,US
-40640	AMERICAN-BROADBAND-INC - American Broadband, Inc,US
+40640	-Reserved AS-,ZZ
 40641	MGWTEL - MGW Telephone Company, Inc.,US
-40642	INSURITY-LLC - Insurity LLC,US
+40642	-Reserved AS-,ZZ
 40643	BAYSHORE-SOLUTIONS - Bayshore Solutions,US
 40644	IFS - Integra Financial Services, LLC,US
 40645	AS-HRS - Heffler, Radetich & Saitta LLP,US
@@ -52525,13 +52525,13 @@
 53423	BRAZOSWIFI - Brazos WiFi,US
 53424	PUREPAGES - Pure Pages Inc.,CA
 53425	NEMC-WAN - North Carolina Electric Membership Corp,US
-53426	DNC - Delaware North Companies,US
+53426	-Reserved AS-,ZZ
 53427	CORNE-58 - Cornerstone Trading, L.L.C,US
 53428	ISCS - ISCS, Inc.,US
 53429	FREEDOMVOICE - FreedomVOICE Systems,US
 53430	AMERINET-GPO - Amerinet,US
 53431	BIOTRONIC-NEURO-NETWORK - Biotronic NeuroNetwork,US
-53432	MEMORIALHEALTHCARESYSTEM - Memorial Hospital,US
+53432	-Reserved AS-,ZZ
 53433	YODLE-AS-1 - Yodle, Inc,US
 53434	SRI-INTERNATIONAL-PRINCETON - SRI International,US
 53435	JACKSONENERGY-EPLUS - JACKSON ENERGY AUTHORITY,US
@@ -52548,7 +52548,7 @@
 53446	EVMS - Eastern Virginia Medical School,US
 53447	PIX-ESD1 - PIX System, LLC,US
 53448	GAMES-ASN - GAMEHOUSE INC,US
-53449	NETWORKINTL - Network International, Inc.,US
+53449	-Reserved AS-,ZZ
 53450	UAAM-ASN - University of Arkansas at Monticello,US
 53451	NETX-INTERNET - NetX Internet, LLC.,US
 53452	UHC-4 - United Hospital Center,US
@@ -52571,7 +52571,7 @@
 53469	KPBSD - Kenai Peninsula Borough School District,US
 53470	FAYETTECO-TX - Fayette County, Texas,US
 53471	COLORADO-TELEHEALTH-NETWORK - Colorado Telehealth Network,US
-53472	US-ICLK - InterCLICK Inc,US
+53472	-Reserved AS-,ZZ
 53473	CHANNEL-CLARITY - Channel Clarity Holdings, LLC,US
 53474	AOAM-TOR - Alpine Electronics of America, Inc.,US
 53475	MAHER-TERMINALS - Maher Terminals LLC,US
@@ -53504,7 +53504,7 @@
 54402	AS-SILICA - Silica Networks, LLC,US
 54403	HDI-LV - Health Data Insights, INC,US
 54404	EL-ORLANDO-FL - Ellucian Company LP,US
-54405	ROGEND - Rogend Communications Corp.,US
+54405	-Reserved AS-,ZZ
 54406	ASN-CCML-29 - Clovis Capital Management L.P.,US
 54407	ARENT-FOX-LLP - ARENT FOX LLP,US
 54408	FICOH - First Insurance Company of Hawaii,US
@@ -54081,13 +54081,13 @@
 54979	ZEECON - Zeecon Wireless Internet L.L.C.,US
 54980	RBCOMM-1 - Redbird Communications Inc,CA
 54981	CMS-AS - Cisco Managed Solutions, Inc,US
-54982	ALBERTAIX - AlbertaIX,CA
+54982	-Reserved AS-,ZZ
 54983	FSRLAS-01 - FirstService Residential Management, Inc.,US
 54984	FSRMIA-01 - FirstService Residential Management, Inc.,US
 54985	AS-PIN - PIN LLC,US
 54986	FLOWERS - 1-800-Flowers.com, Inc.,US
 54987	VEGAS-CLOUD - Xenigy LLC,US
-54988	NTPG - The Nightingale Group, LLC,US
+54988	-Reserved AS-,ZZ
 54989	DUNCAN-TV - DUNCAN TELECOMMUNICATIONS LLC,US
 54990	AS-1337 - 1337 Services LLC,KN
 54991	CADENCE-BANK-BHM - Cadence Bank, N.A.,US
@@ -54096,7 +54096,7 @@
 54994	WANGSU-US - MILEWEB, INC.,US
 54995	NEOLANE-INC - NEOLANE, Inc.,US
 54996	SCRIPPSHEALTH - Scripps Health,US
-54997	ACQUINITY - Acquinity Interactive, LLC,US
+54997	-Reserved AS-,ZZ
 54998	COLLECTIVE-NY7 - Collective,  Inc.,US
 54999	TENARIS-NA - Tenaris Global Services (USA) Corp.,US
 55000	SANDERSNET - Sanders Group of Indianapolis, Inc.,US
@@ -59709,7 +59709,7 @@
 60875	-Reserved AS-,ZZ
 60876	GIGABIT-DK Gigabit ApS,DK
 60877	ITCARD-AS IT Card Centrum Technologii Platniczych SA,PL
-60878	HCLASS LLC "Company Holiday",RU
+60878	HCLASS-AS LLC "Company Holiday",RU
 60879	SYSTEMPROJECTS-AS System Projects, LLC,RU
 60880	SEVEN-WAY-SRL Seven Way SRL,RO
 60881	AFAD-NET T.C. Basbakanlik Afet ve Acil Durum Yonetim Baskanligi,TR
@@ -60016,7 +60016,7 @@
 61182	DPE The State Company "Energorynok",UA
 61183	INTEGRATION-AS Luithle Luithle GmbH,DE
 61184	GIDE-HU-AS Gide Loyrette Nouel - d'Ornano Iroda,HU
-61185	INTELSOFT-WIFI-AS Intelsoft Kazakstan Ltd,KZ
+61185	INTELSOFT-WIFI-AS 1-gigabit LLC,KZ
 61186	ZENDESK-INTL Zendesk International Limited,EU
 61187	MGIGANET-AS JSC Moscow Gigabit network,RU
 61188	ASN-HOTWIRE Hotwire,NO
@@ -62426,6 +62426,7 @@
 63998	KMTCL-MM No (797/A) MAC Tower II, Lanmadaw Tsp,MM
 63999	CLOUD-CN Aiyun Technology Co.,Ltd,CN
 64000	ATOS-AS-AP Atos (Australia) Pty Ltd,AU
+64002	WITHTEL-AS-AP DAVIS, DEAN ANTHONY (Trading as: withtel),AU
 64496	-Reserved AS-,ZZ
 64497	-Reserved AS-,ZZ
 64498	-Reserved AS-,ZZ
@@ -65997,6 +65998,9 @@
 134369	ATOS-AS-AP Atos (Australia) Pty Ltd,AU
 134370	GAMELINE-AS-AP Gameline Limited,HK
 134371	CIRCLENETWORK-AS-AP Mahbub Alam T/A CIRCLE NETWORK,BD
+134372	SOCIALISLAMIBANKLIMITED-AS-AP Social Islami Bank Limited,BD
+134373	SULOONG-AS-AP SULOONG (HONGKONG) CO., LIMITED,HK
+134374	PDL-AS-AP PRAISE DRAGON LIMITED,HK
 134557	IIX-IIX-CR1 IIX-IIX-CR1,AU
 134558	IIX-IIX-CR2 IIX-IIX-CR2,AU
 196608	INTERNIC2 INTERNET AG Global Network,DE
@@ -67875,7 +67879,6 @@
 198513	SE-NORRAN Norra Vasterbotten Tidnings AB,SE
 198514	NERVOGRID Nervogrid Oy,FI
 198515	MULTICOM-NET Multicom LLC,RU
-198516	,
 198517	DOLNET-AS Dolnet Group Sp. z o.o.,PL
 198518	MILICHSOFT-NET-AS Milichsoft Rafal Miliszewski,PL
 198519	AM-NETSOFT-AS Netsoft LLC,AM
@@ -69193,7 +69196,6 @@
 199909	ELITETELE ELITETELE.COM PLC,GB
 199910	APATOR-AS Apator SA,PL
 199911	-Reserved AS-,ZZ
-199912	,
 199913	SOYTIC SoyTIC Tecnica e Innovaciones S.L.,ES
 199915	PWSZ_NET Panstwowa Wyzsza Szkola Zawodowa im. Jana Amosa Komenskiego,PL
 199916	-Reserved AS-,ZZ
@@ -69453,6 +69455,10 @@
 200189	BNM Banca Nationala a Moldovei,MD
 200190	VIPTEL-AS VIP IT Telecom LLC,RU
 200191	RAFFEL-INTERNET Raffel Internet B.V.,NL
+200413	PURESTI-RIPE Pure Storage, Inc.,IE
+200414	MULTIPLAYPL-AS Multiplay Sp. z o.o. Sp. K.,PL
+200415	STREAMPAY1 StreamPay SIA,LV
+200416	BG-TAL Betgenius Limited,EE
 200417	KAVOSHGARNOVIN Kavoshgar Novin Karamad Ltd,IR
 200418	UK-DAO DAO CLEANERS LTD,GB
 200419	COMFORT21-AS Comfort XXI Century Ltd.,RU
@@ -70100,7 +70106,7 @@
 201061	COMBAHTON Thomas Brodkorb,DE
 201062	HQ-BP-IRAQ-NV BP Iraq NV,GB
 201063	AMERIA-AS Ameriabank CJSC,AM
-201064	IDEAL IDEAL HOSTING SUNUCUNINTERNET HIZ. TIC. LTDSTI,TR
+201064	IDEAL IDEALHOSTING SUNUCU INTERNET HIZ. TIC. LTD. STI.,TR
 201065	WFC-AS LLC Wholesale Flowers Company,RU
 201066	SIMPLY-AS Simply Managed Ltd,GB
 201067	IMMOWEB-BE Immoweb S.A.,BE
@@ -71075,7 +71081,7 @@
 202036	KAI-INFO Krajowa Agencja Informacyjna "INFO" Sp. z o.o.,PL
 202037	INGISP-AS ING Services Polska Sp. z o.o.,PL
 202038	IMERJA-COMPLEX-HOSTING Imerja Ltd,GB
-202039	STDD-AS ST-DD Solutions Telecommunication & Development Durable SA,CH
+202039	-Reserved AS-,ZZ
 202040	SCT SCT Schiele GmbH,DE
 202041	ADMC-AS Abu Dhabi Media Company PJSC,AE
 202042	SKROUTZ-GR Skroutz Internet Services S.A.,GR
@@ -71414,7 +71420,7 @@
 262281	M.M.V.A do Brasil Multimidia Ltda.,BR
 262282	MARIA LUCIANA MACHADO E CIA LTDA-ME,BR
 262283	CI CENTRO DE INFORMAÇÕES LTDA,BR
-262284	Tecwave Telecom,BR
+262284	Centranet Internet Ltda,BR
 262285	Vivas Network Ltda-ME,BR
 262286	Netw Telecom,BR
 262287	Maxihost Hospedagem de Sites Ltda,BR
@@ -72062,7 +72068,7 @@
 262943	INFO NET PROVEDOR DE COMUNICACAO LTDA,BR
 262944	Spectro Networks, S. de R.L. de C.V.,MX
 262945	Golden Line Telecom Ltda,BR
-262946	SOLNET - SOLTV - TARSILA SIMOES,BR
+262946	SOLTELECOM SOLTV,BR
 262947	MEGALYNK SERVIÇOS DE TELECOMUNICAÇÕES LTDA,BR
 262948	LD Telecomunicações LTDA,BR
 262949	Icone Telecom,BR
@@ -72904,6 +72910,7 @@
 263792	IN.PLANET S. A,EC
 263793	TECNET ARGENTINA S.A.,AR
 263794	Hondutel,HN
+263795	PaNETma S.A.,PA
 263837	G. Bernardino de Souza - Eireli,BR
 263838	E&F TECNOLOGIA LTDA ME,BR
 263839	CENTRAL NACIONAL UNIMED - COOP. CENTRAL,BR
@@ -72912,6 +72919,9 @@
 263842	UNIVERSIDADE FEDERAL DE MINAS GERAIS,BR
 263843	UNIVERSIDADE FEDERAL DE MINAS GERAIS,BR
 263844	UNIVERSIDADE FEDERAL DE MINAS GERAIS,BR
+263845	EVERALDO RODRIGUES MENEZES - ME,BR
+263846	Planeta Cyber Telecomunicações LTDA,BR
+263847	BS CONECT TELECOMUNICAÇOES LTDA,BR
 264093	Inet Pro Distribuição de Dados Ltda,BR
 264094	MARTIN-BROWER COMERCIO TRANSPORTES E SERVICOS LTDA,BR
 264095	Saneamento de Goias S.A.,BR
@@ -74635,3 +74645,9 @@
 394198	RSI-AS - Retail Solutions Inc,US
 394199	CEPC-AS1 - Central Electric Power Cooperative,US
 394200	VALICE - Valice,US
+394201	BLS - Blackline Systems, Inc.,US
+394202	CSMIII-GREENBRIER-AR - CableSouth Media III LLC,US
+394203	FROST-AND-SULLIVAN-AS302 - Frost & Sullivan,US
+394204	CHEROKEE-CABLEVISION - Cherokee Cablevision,US
+394205	AS5THCO1 - 5th Column LLC,US
+394206	DHLC-AS - Deborah Heart and Lung Center,US
