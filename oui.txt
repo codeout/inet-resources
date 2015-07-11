@@ -1,4 +1,4 @@
-  Generated: Fri, 10 Jul 2015 05:00:03 -0400
+  Generated: Sat, 11 Jul 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -51951,10 +51951,11 @@
 				COSTA MESA CA 92626
 				UNITED STATES
 
-  00-20-0F   (hex)		TANBAC CO., LTD.
-  00200F     (base 16)		TANBAC CO., LTD.
-  				SAKURAI DAI 2 BG
-				27-4 IRIYA 1-CHOME TAITO-KU TOKYO 110
+  00-20-0F   (hex)		EBRAINS Inc
+  00200F     (base 16)		EBRAINS Inc
+  				Tachibana Bldg
+				3-1-22 Negishi
+				Taito-ku Tokyo 110-0003
 				JAPAN
 
   00-20-10   (hex)		JEOL SYSTEM TECHNOLOGY CO. LTD
@@ -71626,6 +71627,9 @@
 				300 LEO-PARISTAU    SUITE 725 MONTREAL (
 				CANADA H2W 2N1
 				CANADA
+
+  00-84-ED   (hex)		PRIVATE
+  0084ED     (base 16)		 
 
   00-86-A0   (hex)		PRIVATE
   0086A0     (base 16)		 
@@ -92442,6 +92446,12 @@
 				Tokyo 108-8520
 				JAPAN
 
+  38-F5-57   (hex)		JOLATA, INC.
+  38F557     (base 16)		JOLATA, INC.
+  				2262 N. FIRST ST.
+				SAN JOSE CA 95134
+				UNITED STATES
+
   38-F5-97   (hex)		home2net GmbH
   38F597     (base 16)		home2net GmbH
   				Im Haslet 42
@@ -103962,6 +103972,12 @@
   				Messitytonkatu 8 C 39
 				Helsinki  00180
 				FINLAND
+
+  74-67-F7   (hex)		Zebra Technologoes
+  7467F7     (base 16)		Zebra Technologoes
+  				1 Zebra Plaza
+				Holtsville NY 11742
+				UNITED STATES
 
   74-6A-3A   (hex)		Aperi Corporation
   746A3A     (base 16)		Aperi Corporation
