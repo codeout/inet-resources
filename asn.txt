@@ -3722,7 +3722,7 @@
 3761	ACCLARIS-BGP-AS - Acclaris Inc,US
 3762	INSTINET-AS - Instinet,US
 3763	LINEARTECH-INC - LINEAR TECHNOLOGIES INC.,US
-3764	IA-HOU-AS - Internet America, Inc.,US
+3764	IA-HOU-AS - JAB Wireless, INC.,US
 3765	DNDCFNET1 - Department of National Defence/DISEM,CA
 3766	DNDCFNET2 - Department of National Defence/DISEM,CA
 3767	SOSCORP-AS - SOS Corp.,US
@@ -14390,7 +14390,7 @@
 14664	IFX NETWORKS COLOMBIA,CO
 14665	-Reserved AS-,ZZ
 14666	SPIRIT1 - SpiritBank,US
-14667	IA-CORS-AS - Internet America, Inc.,US
+14667	IA-CORS-AS - JAB Wireless, INC.,US
 14668	COMCAST-TELECOMM-6 - Comcast Telecommunications, Inc.,US
 14669	RGTS-NY - Rockefeller Group Technology Solutions, Inc.,US
 14670	SOLAR-VPS - Solar VPS,US
@@ -25550,7 +25550,7 @@
 26071	LAKEHEAD - Lakehead University,CA
 26072	FIRSTENERGY - FirstEnergy,US
 26073	QSIAL-ASN - Quadrant Structured Investment Advisers, LLC,US
-26074	FRESHDIRECTINC - Fresh Direct, Inc.,US
+26074	FRESHDIRECTLLC - Fresh Direct, LLC,US
 26075	MCUNY-01 - Municipal Credit Union of NY,US
 26076	INFINITECOM - Infinite Communication, LLC,US
 26077	NEXTLINK-TEXAS - Nextlink Broadband,US
@@ -32246,7 +32246,7 @@
 32863	NEWSPAPERCLIPS - NewspaperClips.com,US
 32864	BOALASN - Bedford Oak Advisors, LLC,US
 32865	MONTANA-OPTICOM-AS32865 - Montana Opticom, LLC,US
-32866	CJGAMESUS01 - CJ Games, Inc,US
+32866	-Reserved AS-,ZZ
 32867	LLI-BLK1 - Long Lines Internet,US
 32868	DS-DALLAS - Dataside, LLC,US
 32869	SILVERSTAR-NET - Silver Star Telecom, LLC,US
@@ -35994,7 +35994,7 @@
 36612	CLARKCOUNTYWA - Clark County WA,US
 36613	TRADER1-CHICAGO - York Business Associates, LLC,US
 36614	VIZADA-INC-AS1 - Airbus DS Satcom Government Inc.,US
-36615	SGM - Sack Goldblatt Mitchell LLP,CA
+36615	SGM - Goldblatt Partners LLP,CA
 36616	AGTLD - VeriSign Global Registry Services,US
 36617	AGTLD - VeriSign Global Registry Services,US
 36618	FGTLD - VeriSign Global Registry Services,US
@@ -37855,7 +37855,6 @@
 38551	JPMORGAN-TRANSIT-AS-AU JPMORGAN Australia,AU
 38553	DCTECHDVO-AS-AP Internet Service Provider and Data Center,PH
 38554	ICL-TH-AS-AP ICL (THAILAND),TH
-38555	,
 38556	MIRAE-BD-AP SK Networks (previously Mirae Co., Ltd.) Internet Service Provider,System Integrator,Telecommunication Solution Provider, Dhaka, Bangladesh,BD
 38557	NTTDATA-GDS-IN NTT Data Global Delivery Services Limited,IN
 38558	ISPROS-AS-AP IS Pros Limited,BD
@@ -52892,7 +52891,7 @@
 53754	LCPA-AS - Lincoln Center for the Performing Arts, Inc.,US
 53755	IOFLOOD - Input Output Flood LLC,US
 53756	AS-PROSPECTION-QC - Prospection Inc.,CA
-53757	UNILINK-NETWORKS - Unilink Networks Inc.,CA
+53757	UNILINK - Unilink Networks Inc.,CA
 53758	STANACARD - Stanacard LLC,US
 53759	VND - Visual Net Design LC,US
 53760	XT-NEWORLEANS - Xenir, LLC,US
@@ -61519,7 +61518,7 @@
 62770	MPI-ON - Manitoba Public Insurance,CA
 62771	DUCOM - Drexel University College of Medicine,US
 62772	NLPOWER - Newfoundland Power Inc.,CA
-62773	CJGAMESUS02 - CJ Games, Inc,US
+62773	-Reserved AS-,ZZ
 62774	CDGL-EXAMINER-AS - Examiner.com,US
 62775	SIMCO-AS - SIMCO Electronics,US
 62776	HEALTH-DIALOG - Health Dialog Services Corporation,US
@@ -72997,7 +72996,7 @@
 263589	MGP TELECOM,BR
 263590	ALLIN TECNOLOGIA DA COMUNICAÇÃO LTDA,BR
 263591	DTC Informatica e Telecomunicações LTDA,BR
-263592	FRANCISCO MARQUES VIEIRA GONÇALVES ME,BR
+263592	FRANCISCO MARQUES VIEIRA GONCALVES ME,BR
 263593	Net 6 Provedor e Informatica LTDA ME,BR
 263594	INFORMAX ON LINE INFORMATICA E TELECOM LTDA,BR
 263595	ALB Internet & Informatica Ltda - ME,BR
@@ -75039,3 +75038,6 @@
 394267	EVISIONSRS - Evisions,US
 394268	SIHC - Sonesta International Hotels Corporation,US
 394269	BRLI - Bio-Reference Laboratories, Inc.,US
+394270	ISG-NET - ISG Solutions,US
+394271	SPS-157-246-0-0 - Springfield Public Schools,US
+394272	SP-ASN01 - Servpro Industries, Inc.,US
