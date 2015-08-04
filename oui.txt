@@ -1,4 +1,4 @@
-  Generated: Mon, 03 Aug 2015 05:00:03 -0400
+  Generated: Tue, 04 Aug 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -71040,10 +71040,10 @@
 				WEST 
 				GERMANY
 
-  00-80-9F   (hex)		Alcatel-Lucent Enterprise
-  00809F     (base 16)		Alcatel-Lucent Enterprise
+  00-80-9F   (hex)		ALE International
+  00809F     (base 16)		ALE International
   				32 avenue Kléber
-				92707 COLOMBES CEDEX
+				92700 Colombes cedex
 				FRANCE
 
   00-80-A0   (hex)		EDISA HEWLETT PACKARD S/A
@@ -88144,8 +88144,8 @@
 
   24-62-78   (hex)		sysmocom - systems for mobile communications GmbH
   246278     (base 16)		sysmocom - systems for mobile communications GmbH
-  				Schievelbeiner Str. 5
-				Berlin 10439
+  				Alt-Moabit 93
+				Berlin 10559
 				GERMANY
 
   24-64-EF   (hex)		CYG SUNRI CO.,LTD.
@@ -91272,6 +91272,12 @@
 				Chongqing  401332
 				CHINA
 
+  34-69-87   (hex)		zte corporation
+  346987     (base 16)		zte corporation
+  				12/F.,zte R&D building,kejinan Road,Shenzhen,P.R.China
+				shenzhen guangdong 518057
+				CHINA
+
   34-6B-D3   (hex)		Huawei Technologies Co., Ltd
   346BD3     (base 16)		Huawei Technologies Co., Ltd
   				Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,
@@ -91672,6 +91678,13 @@
   34C99D     (base 16)		EIDOLON COMMUNICATIONS TECHNOLOGY CO. LTD.
   				Room 603, 6/F., Wanchai Central Building, 89 Lockhart Road, Wanchai,
 				HONG KONG
+
+  34-C9-F0   (hex)		LM Technologies Ltd
+  34C9F0     (base 16)		LM Technologies Ltd
+  				Unit 19 Spectrum House
+				32-34 Gordon House Road
+				London England NW5 1LP
+				UNITED KINGDOM
 
   34-CC-28   (hex)		Nexpring Co. LTD.,
   34CC28     (base 16)		Nexpring Co. LTD.,
@@ -101212,6 +101225,12 @@
 				Simi Valley CA 93065
 				UNITED STATES
 
+  64-BC-0C   (hex)		LG Electronics
+  64BC0C     (base 16)		LG Electronics
+  				60-39, Gasan-dong, Geumcheon-gu
+				Seoul Seoul 153-801
+				KOREA, REPUBLIC OF
+
   64-BC-11   (hex)		CombiQ AB
   64BC11     (base 16)		CombiQ AB
   				Science Park
@@ -101499,6 +101518,12 @@
   				Winnberger Weg 11
 				Neumarkt Bavaria 92318
 				GERMANY
+
+  68-14-01   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+  681401     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+  				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District,Chongqing,China
+				Chongqing Chongqing 401332
+				CHINA
 
   68-15-90   (hex)		SAGEMCOM SAS
   681590     (base 16)		SAGEMCOM SAS
@@ -106020,6 +106045,13 @@
   				1725 Brannum Lane
 				Yellow Springs Ohio 45387
 				UNITED STATES
+
+  7C-5A-67   (hex)		JNC Systems, Inc.
+  7C5A67     (base 16)		JNC Systems, Inc.
+  				#611, Gyeonggi Venture Yeonsung University
+				111, Anyang-ro, Manan-gu
+				Anyang-si Gyeonggi-do 430731
+				KOREA, REPUBLIC OF
 
   7C-5C-F8   (hex)		Intel Corporate
   7C5CF8     (base 16)		Intel Corporate
@@ -112106,6 +112138,12 @@
 				Nagaokakyo-shi Kyoto 617-8555
 				JAPAN
 
+  98-F4-28   (hex)		zte corporation
+  98F428     (base 16)		zte corporation
+  				12/F.,zte R&D building,kejinan Road,Shenzhen,P.R.China
+				shenzhen guangdong 518057
+				CHINA
+
   98-F5-37   (hex)		zte corporation
   98F537     (base 16)		zte corporation
   				12/F.,zte R&D building,kejinan Road,
@@ -114901,6 +114939,12 @@
   				10F., No. 75, Sec. 1, Xintai 5th Rd., Xizhi Dist.
 				New Taipei City Taiwan (R.O.C.) 886
 				TAIWAN, PROVINCE OF CHINA
+
+  A8-47-4A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+  A8474A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+  				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District,Chongqing,China
+				Chongqing Chongqing 401332
+				CHINA
 
   A8-49-A5   (hex)		Lisantech Co., Ltd.
   A849A5     (base 16)		Lisantech Co., Ltd.
@@ -120342,6 +120386,13 @@
 				Madri
 				UDAIPUR RAJASTHAN 313003
 				INDIA
+
+  C4-00-49   (hex)		Kamama
+  C40049     (base 16)		Kamama
+  				100 Enterprise Way
+				STE C250
+				Scotts Valley CA 95066
+				UNITED STATES
 
   C4-01-42   (hex)		MaxMedia Technology Limited
   C40142     (base 16)		MaxMedia Technology Limited
@@ -126326,6 +126377,12 @@
 				Shenzhen Guangdong 518172
 				CHINA
 
+  E0-34-E4   (hex)		Feit Electric Company, Inc.
+  E034E4     (base 16)		Feit Electric Company, Inc.
+  				4901 Gregg Road
+				Pico Rivera CA 90660
+				UNITED STATES
+
   E0-35-60   (hex)		Challenger Supply Holdings, LLC
   E03560     (base 16)		Challenger Supply Holdings, LLC
   				4500 Mercantile Plaza Dr.
@@ -127870,6 +127927,13 @@
 				San Diego CA 92121
 				UNITED STATES
 
+  E8-34-3E   (hex)		Beijing Infosec Technologies Co., LTD.
+  E8343E     (base 16)		Beijing Infosec Technologies Co., LTD.
+  				Floor 4, Tower C, Global Finance and News Center
+				Xuanwumenwai Street, No.A1, Xicheng District, Beijing
+				Beijing Beijing 100052
+				CHINA
+
   E8-37-7A   (hex)		ZyXEL Communications Corporation
   E8377A     (base 16)		ZyXEL Communications Corporation
   				No. 6 Innovation Road II, Science Park
@@ -128473,8 +128537,8 @@
 
   E8-E8-75   (hex)		iS5 Communications Inc.
   E8E875     (base 16)		iS5 Communications Inc.
-  				8 Quatro Crescent
-				Brampton Ontario L6P 2T4
+  				#3-7490 Pacific Circle
+				Mississauga Ontario L5T 2A3
 				CANADA
 
   E8-EA-6A   (hex)		StarTech.com
