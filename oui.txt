@@ -1,4 +1,4 @@
-  Generated: Tue, 04 Aug 2015 05:00:03 -0400
+  Generated: Wed, 05 Aug 2015 05:00:03 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -543,8 +543,8 @@
 				SANTA MONICA CA 90404
 				UNITED STATES
 
-  00-00-54   (hex)		Schnieder Electric
-  000054     (base 16)		Schnieder Electric
+  00-00-54   (hex)		Schneider Electric
+  000054     (base 16)		Schneider Electric
   				35 rue Joseph Monier
 				92500 Rueil Malmaison
 				FRANCE
@@ -93439,6 +93439,12 @@
 				Wohlen AG 5610
 				SWITZERLAND
 
+  3C-EF-8C   (hex)		ZHEJIANG DAHUA TECHNOLOGY CO.,LTD.
+  3CEF8C     (base 16)		ZHEJIANG DAHUA TECHNOLOGY CO.,LTD.
+  				NO.1199 Bin An Road,Binjiang District,HangZhou,P.R.China
+				HangZhou ZheJiang 310053
+				CHINA
+
   3C-F3-92   (hex)		Virtualtek. Co. Ltd
   3CF392     (base 16)		Virtualtek. Co. Ltd
   				12F, ShinhanDm Bldg.,
@@ -108069,6 +108075,12 @@
 				Hsinchu Taiwan 30078
 				TAIWAN, PROVINCE OF CHINA
 
+  84-A4-23   (hex)		Sagemcom Broadband SAS
+  84A423     (base 16)		Sagemcom Broadband SAS
+  				250 route de l'Empereur
+				Rueil Malmaison Cedex hauts de seine 92848
+				FRANCE
+
   84-A4-66   (hex)		Samsung Electronics Co.,Ltd
   84A466     (base 16)		Samsung Electronics Co.,Ltd
   				129, Samsung-ro, Youngtongl-Gu
@@ -118496,6 +118508,13 @@
 				197-10, Guro-3dong, Guro-Gu,
 				Seoul  152-719
 				KOREA, REPUBLIC OF
+
+  B8-B2-EB   (hex)		Googol Technology (HK) Limited
+  B8B2EB     (base 16)		Googol Technology (HK) Limited
+  				Unit 1008-09, 10/F C-Bons International Center
+				108 Wai Yip Street
+				Kwun Tong Kowloon nil
+				HONG KONG
 
   B8-B3-DC   (hex)		DEREK (SHAOGUAN) LIMITED
   B8B3DC     (base 16)		DEREK (SHAOGUAN) LIMITED
