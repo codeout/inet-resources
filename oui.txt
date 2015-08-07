@@ -1,4 +1,4 @@
-  Generated: Thu, 06 Aug 2015 05:00:03 -0400
+  Generated: Fri, 07 Aug 2015 05:00:06 -0400
 
   OUI/MA-L			Organization
   company_id			Organization
@@ -76993,6 +76993,9 @@
 				Cupertino CA 95014
 				UNITED STATES
 
+  00-CB-00   (hex)		PRIVATE
+  00CB00     (base 16)		 
+
   00-CB-BD   (hex)		Cambridge Broadband Networks Ltd.
   00CBBD     (base 16)		Cambridge Broadband Networks Ltd.
   				Selwyn House Cambridge Business Park
@@ -100929,6 +100932,12 @@
   646A52     (base 16)		Avaya, Inc
   				211 Mount Airy Road
 				Basking Ridge NJ 07920-2311
+				UNITED STATES
+
+  64-6A-74   (hex)		AUTH-SERVERS, LLC
+  646A74     (base 16)		AUTH-SERVERS, LLC
+  				43479 Stukely Dr
+				Sterling VA 20166
 				UNITED STATES
 
   64-6C-B2   (hex)		Samsung Electronics Co.,Ltd
