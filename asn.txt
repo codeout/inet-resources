@@ -31775,7 +31775,7 @@
 32336	IPASS-2 - iPass Incorporated,US
 32337	NOWCOM-BGP - Nowcom Corporation,US
 32338	HOSTISERVER - Hostiserver Ltd,AI
-32339	ACTIVE-NA1 - The Active Network Inc.,US
+32339	ACTIVE-NA1 - Active Network LLC,US
 32340	SPECIALTY-RETAILERS - Specialty Retailers,US
 32341	-Reserved AS-,ZZ
 32342	GENEXSERVICES - Genex Services Inc,US
@@ -32165,7 +32165,7 @@
 32726	LIBERTY - Liberty University,US
 32727	-Reserved AS-,ZZ
 32728	PALOMA-PARTNERS - Paloma Partners,US
-32729	THE-ACTIVE-NETWORK-01 - The Active Network Inc.,US
+32729	THE-ACTIVE-NETWORK-01 - Active Network LLC,US
 32730	-Reserved AS-,ZZ
 32731	AS-CBTS - Code Blue Technology Solutions,US
 32732	DCT-TELECOM - DCT Telecom Group, Inc.,US
@@ -52656,7 +52656,7 @@
 53463	LOS-ANGELES - Telecom House Incorporated ,US
 53464	PARATECH - Paramount Technology,US
 53465	ANSYS - ANSYS, INC,US
-53466	THE-ACTIVE-NETWORK-01 - The Active Network Inc.,US
+53466	THE-ACTIVE-NETWORK-01 - Active Network LLC,US
 53467	NEW-COOPERATIVE-INC - NEW Cooperative Inc.,US
 53468	FWL - Cleartalk,US
 53469	KPBSD - Kenai Peninsula Borough School District,US
@@ -52994,7 +52994,7 @@
 53801	AS-SWATTRAN - Southwest Arkansas Telephone Cooperative,US
 53802	382-COM - 382 Communications Corporation,US
 53803	PARAGONARS - Paragon Asset Recovery Services, Inc.,US
-53804	ACTIVE-ASN1 - The Active Network Inc.,US
+53804	ACTIVE-ASN1 - Active Network LLC,US
 53805	WI-LINC - Wireless Linc,US
 53806	ASDUWLT - DELOITTE SERVICES - SLTC,US
 53807	SNV-CORP - Ariba Inc,US
@@ -53169,7 +53169,7 @@
 53976	CBP-ASN-2 - CONTINENTAL BROADBAND PENNSYLVANIA, INC.,US
 53977	AMERICA-FUJIKURA - AFL Telecommunications LLC,US
 53978	ACUMED - Acumed, LLC,US
-53979	BREVARD-COMMUNITY-COLLEGE - Brevard Community College,US
+53979	BREVARD-COMMUNITY-COLLEGE - Eastern Florida State College,US
 53980	MYPUBLISHER-24-246-119-BGP - MyPublisher Inc,US
 53981	GOGIINET - Gogii Inc.,US
 53982	GILTGROUPE-AS - GILT GROUPE Inc,US
@@ -53194,7 +53194,7 @@
 54001	SATELEPHONE - S & A Telephone Co. Inc,US
 54002	CRSNETWORKS - CRS Networks Inc,CA
 54003	ULS-LLC - Urban Lending Solutions,US
-54004	-Reserved AS-,ZZ
+54004	OPTIMUM-WIFI2 - Optimum WiFi,US
 54005	TUNEIN - TUNEIN, INC.,US
 54006	RANCH-WIRELESS-INC - Ranch Wireless Inc,US
 54007	WBT-ORL - Wycliffe Bible Translators,US
@@ -66111,7 +66111,7 @@
 134172	HJNTCL-CN Colocation at China Telecom Hong Kong datacenter at Shatin,CN
 134173	NSPL-AS-AP Nagarro Software Private Limited,IN
 134174	RWTS-AS-AP Real World Technology Solutions Pty Ltd,AU
-134175	DXTL-AS UNIT A17,9/F SILVERCORP INT'L TOWER 707-713 NATHAN RD,HK
+134175	SH2206-AP UNIT A17,9/F SILVERCORP INT'L TOWER 707-713 NATHAN RD,HK
 134176	HEILONG-AS Heilongjiang Province hongyi xinxi technology limited,HK
 134177	RBPL-IN Rural Broadband Pvt. Ltd,IN
 134178	UGL-AS-AP United Group Limited,AU
@@ -66288,7 +66288,6 @@
 134422	CHINATELECOM-JIANGSU-XINGANG-IDC Nanjing,CN
 134423	CHINATELECOM-JIANGSU-LONGJIANG-IDC Nanjing,CN
 134424	PAVEITSOLUTIONS-AS-AP PAVE IT SOLUTIONS PTY LTD,AU
-134425	,
 134426	MAHATAA-AS-AP Mahataa Information India Private Limited,IN
 134427	MANAGEDITPTYLTD-AS-AP Managed IT Pty Ltd,AU
 134428	UNIVERSAL-AS-AP Universal Power Systems Private Limited,IN
@@ -73508,7 +73507,7 @@
 263882	MTec Telecom LTDA.,BR
 263883	Transcabo Comunicações Ltda.,BR
 263884	Infotech de Bom Jardim C. de material de inf. Ltda,BR
-263885	JOAO PAULO MREIRA DA SILVA,BR
+263885	Central NET,BR
 263886	oliveira santos telecomunicacoes ltda,BR
 263887	DBS Soluções Empresariais LTDA-ME,BR
 263888	Venon Connect Ltda.,BR
@@ -74292,7 +74291,6 @@
 327883	EAGLE-EYE,EG
 327884	I-and-M-Bank,KE
 327885	Viettel-Tanzania,TZ
-327886	,
 327887	Liberia-IXP-Management,LR
 327888	NMB-BANK,TZ
 327889	WATCHTOWER-RSA,ZA
@@ -74329,6 +74327,7 @@
 327920	AVS-TELECOM-SARL,CM
 327921	Bait-Ashames-for-Data-Communication,LY
 327922	Perlcom-iSPOT,ZA
+327923	South-African-Bankers-Services,ZA
 393216	B6 - B.Root-Servers-OPS,US
 393217	ASN4-TELUS - TELUS Communications Inc.,CA
 393218	-Reserved AS-,ZZ
@@ -75488,3 +75487,5 @@
 394372	INTELLIGRATED-ASN - Intelligrated Systems, LLC.,US
 394373	QUENTUSTECH - Quentus Technologies,US
 394374	FCS-INTL - First Carbon Solutions,US
+394375	TOPGUNSPS - Top gun sales performance Inc,US
+394376	SEQUENOM - Sequenom,US
