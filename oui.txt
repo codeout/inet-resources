@@ -25133,42 +25133,6 @@ A0BB3E     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				CUPERTINO  CA  95014
 				US
 
-08-00-65   (hex)		GENRAD INC.
-080065     (base 16)		GENRAD INC.
-				300 BAKER AVENUE
-				CONCORD  MA  01742
-				US
-
-00-80-0F   (hex)		STANDARD MICROSYSTEMS
-00800F     (base 16)		STANDARD MICROSYSTEMS
-				300 KENNEDY DRIVE
-				HAUPPAUGE  NY  11788
-				US
-
-02-BB-01   (hex)		OCTOTHORPE CORP.
-02BB01     (base 16)		OCTOTHORPE CORP.
-				285 WEST GREEN STREET
-				PASADENA  CA  91105
-				US
-
-00-DD-06   (hex)		UNGERMANN-BASS INC.
-00DD06     (base 16)		UNGERMANN-BASS INC.
-				3900 FREEDOM CIRCLE
-				SANTA CLARA  CA  95054
-				US
-
-00-DD-0B   (hex)		UNGERMANN-BASS INC.
-00DD0B     (base 16)		UNGERMANN-BASS INC.
-				3900 FREEDOM CIRCLE
-				SANTA CLARA  CA  95054
-				US
-
-00-00-07   (hex)		XEROX CORPORATION
-000007     (base 16)		XEROX CORPORATION
-				M/S 105-50C
-				WEBSTER  NY  14580
-				US
-
 08-00-13   (hex)		Exxon
 080013     (base 16)		Exxon
 				
@@ -25265,35 +25229,41 @@ A0BB3E     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				WILLOW GROVE  PA  19090
 				US
 
-84-77-78   (hex)		Cochlear Limited
-847778     (base 16)		Cochlear Limited
-				1 University Avenue
-				Sydney  New South Wales  2109
-				AU
-
-04-53-D5   (hex)		Sysorex Global Holdings
-0453D5     (base 16)		Sysorex Global Holdings
-				Suite 195 2479 E. Bayshore Road
-				Palo Alto  CA  94303
+08-00-65   (hex)		GENRAD INC.
+080065     (base 16)		GENRAD INC.
+				300 BAKER AVENUE
+				CONCORD  MA  01742
 				US
 
-CC-44-63   (hex)		Apple, Inc.
-CC4463     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
+00-80-0F   (hex)		STANDARD MICROSYSTEMS
+00800F     (base 16)		STANDARD MICROSYSTEMS
+				300 KENNEDY DRIVE
+				HAUPPAUGE  NY  11788
 				US
 
-6C-72-E7   (hex)		Apple, Inc.
-6C72E7     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
+02-BB-01   (hex)		OCTOTHORPE CORP.
+02BB01     (base 16)		OCTOTHORPE CORP.
+				285 WEST GREEN STREET
+				PASADENA  CA  91105
 				US
 
-E0-05-C5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-E005C5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 7, Second Part, Honghualing Industrial Zone
-				Shenzhen  Guangdong  518000
-				CN
+00-DD-06   (hex)		UNGERMANN-BASS INC.
+00DD06     (base 16)		UNGERMANN-BASS INC.
+				3900 FREEDOM CIRCLE
+				SANTA CLARA  CA  95054
+				US
+
+00-DD-0B   (hex)		UNGERMANN-BASS INC.
+00DD0B     (base 16)		UNGERMANN-BASS INC.
+				3900 FREEDOM CIRCLE
+				SANTA CLARA  CA  95054
+				US
+
+00-00-07   (hex)		XEROX CORPORATION
+000007     (base 16)		XEROX CORPORATION
+				M/S 105-50C
+				WEBSTER  NY  14580
+				US
 
 A0-F3-C1   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 A0F3C1     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -25337,10 +25307,46 @@ EC888F     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Shennan Rd, Nanshan  Shenzhen,Guangdong Province  518057
 				CN
 
+84-77-78   (hex)		Cochlear Limited
+847778     (base 16)		Cochlear Limited
+				1 University Avenue
+				Sydney  New South Wales  2109
+				AU
+
+04-53-D5   (hex)		Sysorex Global Holdings
+0453D5     (base 16)		Sysorex Global Holdings
+				Suite 195 2479 E. Bayshore Road
+				Palo Alto  CA  94303
+				US
+
 BC-46-99   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 BC4699     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24 (floors 1,3,4,5) and 28 (floors1-4)
 				Shennan Rd, Nanshan  Shenzhen,Guangdong Province  518057
+				CN
+
+E0-05-C5   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+E005C5     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 7, Second Part, Honghualing Industrial Zone
+				Shenzhen  Guangdong  518000
+				CN
+
+CC-44-63   (hex)		Apple, Inc.
+CC4463     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+6C-72-E7   (hex)		Apple, Inc.
+6C72E7     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+0C-45-BA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+0C45BA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				D1,Huawei Industrial Base
+				SHENZHEN  GUANGDONG  518129
 				CN
 
 2C-5B-B8   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -50363,12 +50369,6 @@ DC4427     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				MOUNTAIN VIEW  CA  94043-4082
 				US
 
-94-2C-B3   (hex)		HUMAX Co., Ltd.
-942CB3     (base 16)		HUMAX Co., Ltd.
-				HUMAX Village, 216, Hwangsaeul-ro, Bu
-				Seongnam-si  Gyeonggi-do  463-875
-				KR
-
 04-52-F3   (hex)		Apple, Inc.
 0452F3     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -50439,6 +50439,48 @@ B0487A     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 6CE873     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24 (floors 1,3,4,5) and 28 (floors1-4)  Central Science and Technology Park
 				Shenzhen  Guangdong  518057
+				CN
+
+6C-E3-B6   (hex)		Nera Telecommunciations Ltd
+6CE3B6     (base 16)		Nera Telecommunciations Ltd
+				109 Defu Lane 10
+				Singapore  Singapore  539225
+				SG
+
+94-2C-B3   (hex)		HUMAX Co., Ltd.
+942CB3     (base 16)		HUMAX Co., Ltd.
+				HUMAX Village, 216, Hwangsaeul-ro, Bu
+				Seongnam-si  Gyeonggi-do  463-875
+				KR
+
+80-30-DC   (hex)		Texas Instruments
+8030DC     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+CC-78-AB   (hex)		Texas Instruments
+CC78AB     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+A4-D5-78   (hex)		Texas Instruments
+A4D578     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+EC-4D-47   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+EC4D47     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				D1,Huawei Industrial Base
+				SHENZHEN  GUANGDONG  518129
+				CN
+
+88-CF-98   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+88CF98     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				D1,Huawei Industrial Base
+				SHENZHEN  GUANGDONG  518129
 				CN
 
 E4-22-A5   (hex)		PLANTRONICS, INC.
@@ -75245,12 +75287,6 @@ DC330D     (base 16)		Qingdao Haier Telecom Co.，Ltd
 				Shenzhen  Guangdong  518000
 				CN
 
-74-EA-3A   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-74EA3A     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 7, Second Part, Honghualing Industrial Zone
-				Shenzhen  Guangdong  518000
-				CN
-
 90-F6-52   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 90F652     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24 (floors 1,3,4,5) and 28 (floors1-4)  Central Science and Technology Park,Shennan Rd, Nanshan,
@@ -75298,6 +75334,18 @@ F483CD     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24 (floors 1,3,4,5) and 28 (floors1-4) 
 				Shennan Rd, Nanshan  Shenzhen,Guangdong Province  518057
 				CN
+
+74-EA-3A   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+74EA3A     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 7, Second Part, Honghualing Industrial Zone
+				Shenzhen  Guangdong  518000
+				CN
+
+88-C2-55   (hex)		Texas Instruments
+88C255     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 88-94-71   (hex)		Brocade Communications Systems, Inc.
 889471     (base 16)		Brocade Communications Systems, Inc.
@@ -100523,6 +100571,30 @@ AA0003     (base 16)		DIGITAL EQUIPMENT CORPORATION
 				SAN JOSE  CA  95150-6685
 				US
 
+D8-1F-CC   (hex)		Brocade Communications Systems, Inc.
+D81FCC     (base 16)		Brocade Communications Systems, Inc.
+				130 Holger Way
+				San Jose    95134
+				US
+
+EC-5F-23   (hex)		Kimascend Electronics and Technology Ltd.
+EC5F23     (base 16)		Kimascend Electronics and Technology Ltd.
+				2F,Building 6,J6 Science&Tech Park, No.6 Jiangjun Rd., Jiangning District
+				Nanjing  Jiangsu  211100
+				CN
+
+14-04-67   (hex)		SNK Technologies Co.,Ltd.
+140467     (base 16)		SNK Technologies Co.,Ltd.
+				#1001, Byuksan Sunyoung Technopia, A-dong, 13
+				Ojeongongeop-gil, Uiwang-si,  Gyeonggi-do  16072
+				KR
+
+04-7D-50   (hex)		Shenzhen Kang Ying Technology Co.Ltd.
+047D50     (base 16)		Shenzhen Kang Ying Technology Co.Ltd.
+				Units 608,Saiba Electronic tower,NO.6, Langshan 2 Rd., Hi-Tech Industrial Park North , Nanshan, Shenzhen City
+				Shenzhen  Guangdong  518057
+				CN
+
 54-EF-FE   (hex)		Fullpower Technologies, Inc.
 54EFFE     (base 16)		Fullpower Technologies, Inc.
 				1200 Pacific Avenue
@@ -100534,24 +100606,6 @@ EC52DC     (base 16)		WORLD MEDIA AND TECHNOLOGY Corp.
 				600 Brickell World Plaza, suite 1775
 				Miami    33132
 				US
-
-A4-D1-8C   (hex)		Apple, Inc.
-A4D18C     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-CC-25-EF   (hex)		Apple, Inc.
-CC25EF     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-00-21-27   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-002127     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				South Building, No.5 Keyuan Road, Central Zone,
-				Shenzhen  Guangdong  518000
-				CN
 
 54-E6-FC   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 54E6FC     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -100571,10 +100625,22 @@ F81A67     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				shenzhen  guangdong Province  518057
 				CN
 
-F0-F3-36   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-F0F336     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24 (floors 1,3,4,5) and 28 (floors1-4)
-				Shennan Rd, Nanshan  Shenzhen,Guangdong Province  518057
+A4-D1-8C   (hex)		Apple, Inc.
+A4D18C     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+CC-25-EF   (hex)		Apple, Inc.
+CC25EF     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-21-27   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+002127     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				South Building, No.5 Keyuan Road, Central Zone,
+				Shenzhen  Guangdong  518000
 				CN
 
 44-B3-2D   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -100587,6 +100653,24 @@ FC-D7-33   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 FCD733     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24 (floors 1,3,4,5) and 28 (floors1-4) 
 				Shennan Rd, Nanshan  Shenzhen,Guangdong Province  518057
+				CN
+
+F0-F3-36   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+F0F336     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24 (floors 1,3,4,5) and 28 (floors1-4)
+				Shennan Rd, Nanshan  Shenzhen,Guangdong Province  518057
+				CN
+
+CD-67-54   (hex)		Fengfan (BeiJing) Technology Co., Ltd.
+CD6754     (base 16)		Fengfan (BeiJing) Technology Co., Ltd.
+				Room518,Dianzichengdasha Town,No12,Jiuxianqiao Road,Chaoyang District,Beijing
+				Beijing  Beijing  100016
+				CN
+
+E8-4D-D0   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E84DD0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				D1,Huawei Industrial Base
+				SHENZHEN  GUANGDONG  518129
 				CN
 
 00-01-0F   (hex)		Brocade Communications Systems, Inc.
@@ -126068,18 +126152,6 @@ A4516F     (base 16)		Microsoft Mobile Oy
 				Espoo    02150
 				FI
 
-FC-64-BA   (hex)		Xiaomi Communications Co Ltd
-FC64BA     (base 16)		Xiaomi Communications Co Ltd
-				Qinghe Middle street
-				Beijing    100085
-				CN
-
-24-60-81   (hex)		razberi technologies
-246081     (base 16)		razberi technologies
-				13755 Hutton Drive Suite 500
-				Farmers Branch  TX  75234
-				US
-
 90-60-F1   (hex)		Apple, Inc.
 9060F1     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -126116,11 +126188,17 @@ F4EC38     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518000
 				CN
 
-20-DC-E6   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-20DCE6     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24 (floors 1,3,4,5) and 28 (floors1-4)
-				shenzhen  guangdong Province  518057
+FC-64-BA   (hex)		Xiaomi Communications Co Ltd
+FC64BA     (base 16)		Xiaomi Communications Co Ltd
+				Qinghe Middle street
+				Beijing    100085
 				CN
+
+24-60-81   (hex)		razberi technologies
+246081     (base 16)		razberi technologies
+				13755 Hutton Drive Suite 500
+				Farmers Branch  TX  75234
+				US
 
 EC-26-CA   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 EC26CA     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -126132,4 +126210,16 @@ EC26CA     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 001FE1     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				No.2, 2nd DONGHUAN Road,10Th YouSong
 				ShenZhen  GuangDong  518109
+				CN
+
+20-DC-E6   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+20DCE6     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24 (floors 1,3,4,5) and 28 (floors1-4)
+				shenzhen  guangdong Province  518057
+				CN
+
+20-90-6F   (hex)		Shenzhen Tencent Computer System Co., Ltd.
+20906F     (base 16)		Shenzhen Tencent Computer System Co., Ltd.
+				5-10 Building High-tech Zone, Nanshan District, 
+				Shenzhen  Guangdong Province  518057
 				CN
