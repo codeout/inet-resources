@@ -4502,12 +4502,6 @@ ACE42E     (base 16)		SK hynix
 				Seongnam-si  Gyeonggi-do  463-844
 				KR
 
-18-AF-61   (hex)		A, Inc
-18AF61     (base 16)		A, Inc
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 40-74-96   (hex)		aFUN TECHNOLOGY INC.
 407496     (base 16)		aFUN TECHNOLOGY INC.
 				2F.,No.3,Lane29,HuLu ST.,Shihlin District,
@@ -25397,6 +25391,12 @@ AC06C7     (base 16)		ServerNet S.r.l.
 				Espoo    02150
 				FI
 
+18-AF-61   (hex)		Apple, Inc.
+18AF61     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 2C-5B-B8   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 2C5BB8     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,WUSHA,CHANG'AN,DONGGUAN,GUANGDONG,CHINA
@@ -29024,22 +29024,10 @@ F85C45     (base 16)		IC Nexus Co. Ltd.
 				  Seoul  153-760
 				KR
 
-60-69-44   (hex)		A, Inc
-606944     (base 16)		A, Inc
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 28-57-67   (hex)		Echostar Technologies Corp
 285767     (base 16)		Echostar Technologies Corp
 				94 Inverness Terrace E
 				Englewood  CO  80112
-				US
-
-E4-98-D6   (hex)		A, Inc
-E498D6     (base 16)		A, Inc
-				1 Infinite Loop
-				Cupertino  CA  95014
 				US
 
 B0-79-08   (hex)		Cummings Engineering
@@ -50489,12 +50477,6 @@ B0487A     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518057
 				CN
 
-6C-E3-B6   (hex)		Nera Telecommunciations Ltd
-6CE3B6     (base 16)		Nera Telecommunciations Ltd
-				109 Defu Lane 10
-				Singapore  Singapore  539225
-				SG
-
 94-2C-B3   (hex)		HUMAX Co., Ltd.
 942CB3     (base 16)		HUMAX Co., Ltd.
 				HUMAX Village, 216, Hwangsaeul-ro, Bu
@@ -50560,6 +50542,42 @@ F4CA24     (base 16)		FreeBit Co., Ltd.
 				Sitio dos Barrabés, Armazém Nave Y,
 				São Brás de Alportel  Faro  8150-016
 				PT
+
+6C-E3-B6   (hex)		Nera Telecommunications Ltd.
+6CE3B6     (base 16)		Nera Telecommunications Ltd.
+				109 Defu Lane 10
+				Singapore  Singapore  539225
+				SG
+
+E4-98-D6   (hex)		Apple, Inc.
+E498D6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-69-44   (hex)		Apple, Inc.
+606944     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C8-47-8C   (hex)		Beken Corporation
+C8478C     (base 16)		Beken Corporation
+				Building 41, Capital of Tech Leaders, 1387 Zhangdong Road, Zhangjiang High-Tech Park, Pudong New District
+				Shanghai    201203
+				CN
+
+38-97-D6   (hex)		Hangzhou H3C Technologies Co., Limited
+3897D6     (base 16)		Hangzhou H3C Technologies Co., Limited
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang, P.R.China  310052
+				CN
+
+C8-66-5D   (hex)		Aerohive Networks Inc.
+C8665D     (base 16)		Aerohive Networks Inc.
+				330 Gibraltar Drive
+				Sunnyvale  CA  94089
+				US
 
 E4-22-A5   (hex)		PLANTRONICS, INC.
 E422A5     (base 16)		PLANTRONICS, INC.
@@ -54415,12 +54433,6 @@ D46867     (base 16)		Neoventus Design Group
 				Barsebäcksvägen 27
 				Löddeköpinge    24630
 				SE
-
-5C-F9-38   (hex)		A, Inc
-5CF938     (base 16)		A, Inc
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
 
 9C-BB-98   (hex)		Shen Zhen RND Electronic Co.,LTD
 9CBB98     (base 16)		Shen Zhen RND Electronic Co.,LTD
@@ -75484,6 +75496,18 @@ DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				60-39, Gasan-dong, Geumcheon-gu
 				Seoul  Seoul  153-801
 				KR
+
+5C-F9-38   (hex)		Apple, Inc.
+5CF938     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+9C-DF-B1   (hex)		Shenzhen Crave Communication Co., LTD
+9CDFB1     (base 16)		Shenzhen Crave Communication Co., LTD
+				F3,8Building,DongFangMing IndustryZone,No.83 DabaoRD.,33 District BaoAn
+				Shenzhen  Guangdong  518000
+				CN
 
 00-26-E8   (hex)		Murata Manufacturing Co., Ltd.
 0026E8     (base 16)		Murata Manufacturing Co., Ltd.
@@ -100721,12 +100745,6 @@ EC52DC     (base 16)		WORLD MEDIA AND TECHNOLOGY Corp.
 				Miami    33132
 				US
 
-EC-5F-23   (hex)		Kimascend Electronics and Technology Ltd.
-EC5F23     (base 16)		Kimascend Electronics and Technology Ltd.
-				2F,Building 6,J6 Science&Tech Park, No.6 Jiangjun Rd., Jiangning District
-				Nanjing  Jiangsu  211100
-				CN
-
 14-04-67   (hex)		SNK Technologies Co.,Ltd.
 140467     (base 16)		SNK Technologies Co.,Ltd.
 				#1001, Byuksan Sunyoung Technopia, A-dong, 13
@@ -100861,6 +100879,24 @@ A468BC     (base 16)		Private
 				15559 Union Ave, Suite 300
 				Los Gatos  CA  95032
 				US
+
+EC-5F-23   (hex)		Qinghai Kimascend Electronics Technology Co. Ltd.
+EC5F23     (base 16)		Qinghai Kimascend Electronics Technology Co. Ltd.
+				2F,Building 6,J6 Science&Tech Park, No.6 Jiangjun Rd., Jiangning District
+				Nanjing  Jiangsu  211100
+				CN
+
+C8-67-5E   (hex)		Aerohive Networks Inc.
+C8675E     (base 16)		Aerohive Networks Inc.
+				330 Gibraltar Drive
+				Sunnyvale  CA  94089
+				US
+
+38-98-D8   (hex)		MERITECH CO.,LTD
+3898D8     (base 16)		MERITECH CO.,LTD
+				52-17 Sinjeon-Ro 41beon-gil
+				Giheung-gu, Yongin-City Kyungki-do    446-599
+				KR
 
 00-01-0F   (hex)		Brocade Communications Systems, Inc.
 00010F     (base 16)		Brocade Communications Systems, Inc.
@@ -120566,12 +120602,6 @@ D4C766     (base 16)		Acentic GmbH
 				San Diego  CA  92127
 				US
 
-00-05-94   (hex)		IXXAT Automation GmbH
-000594     (base 16)		IXXAT Automation GmbH
-				Leibnizstraße 15
-				    
-				DE
-
 00-05-8E   (hex)		Flextronics International GmbH & Co. Nfg. KG
 00058E     (base 16)		Flextronics International GmbH & Co. Nfg. KG
 				Schrackgasse 9-15
@@ -126478,3 +126508,21 @@ A42BB0     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
+
+00-05-94   (hex)		HMS Technology Center Ravensburg GmbH
+000594     (base 16)		HMS Technology Center Ravensburg GmbH
+				Helmut-Vetter-Straße 2
+				Ravensburg    88213
+				DE
+
+94-86-CD   (hex)		SEOUL ELECTRONICS&TELECOM
+9486CD     (base 16)		SEOUL ELECTRONICS&TELECOM
+				709, Namkwangcentrex 440-4, Cheongcheon-dong, 
+				Bupyeong-gu  Incheon  403-030
+				KR
+
+94-AB-DE   (hex)		OMX Technology - FZE
+94ABDE     (base 16)		OMX Technology - FZE
+				Dubai Silicon Oasis - THUB - 1-D-OFF-124
+				Dubai    65673
+				AE
