@@ -16607,12 +16607,6 @@ C417FE     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Shinagawa-ku,  Tokyo  140-0013
 				JP
 
-00-0F-B7   (hex)		Cavium Networks
-000FB7     (base 16)		Cavium Networks
-				2610 Augustine Drive
-				Santa Clara  California  95054
-				US
-
 00-0F-A4   (hex)		Sprecher Automation GmbH
 000FA4     (base 16)		Sprecher Automation GmbH
 				Franckstrasse 51
@@ -25390,6 +25384,18 @@ AC06C7     (base 16)		ServerNet S.r.l.
 				Keilalahdentie 4
 				Espoo    02150
 				FI
+
+74-AC-5F   (hex)		Qiku Internet Network Scientific (Shenzhen) Co., Ltd.
+74AC5F     (base 16)		Qiku Internet Network Scientific (Shenzhen) Co., Ltd.
+				Cyber Harbor, 2nd Mengxi Road, Hi-Tech Industrial Park (North), NanShan District
+				ShenZhen  GuangDong  518000
+				CN
+
+00-0F-B7   (hex)		Cavium
+000FB7     (base 16)		Cavium
+				2315 N First Street
+				San Jose  CA  95131
+				US
 
 18-AF-61   (hex)		Apple, Inc.
 18AF61     (base 16)		Apple, Inc.
@@ -50579,6 +50585,12 @@ C8665D     (base 16)		Aerohive Networks Inc.
 				Sunnyvale  CA  94089
 				US
 
+7C-18-CD   (hex)		E-TRON Co.,Ltd.
+7C18CD     (base 16)		E-TRON Co.,Ltd.
+				66-11, Nonhyeon 2-dong, Gangnam-gu
+				Seoul    06049
+				KR
+
 E4-22-A5   (hex)		PLANTRONICS, INC.
 E422A5     (base 16)		PLANTRONICS, INC.
 				345 ENCINAL STREET
@@ -65417,12 +65429,6 @@ E4FFDD     (base 16)		ELECTRON INDIA
 				Ösmo    610 60
 				SE
 
-00-14-2F   (hex)		WildPackets
-00142F     (base 16)		WildPackets
-				1340 Treat Boulevard, Suite 500
-				Walnut Creek  CA  94597
-				US
-
 00-14-2A   (hex)		Elitegroup Computer System Co., Ltd
 00142A     (base 16)		Elitegroup Computer System Co., Ltd
 				No.22, Alley 38, Lane 91, Sec. 1,
@@ -75508,6 +75514,12 @@ DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				F3,8Building,DongFangMing IndustryZone,No.83 DabaoRD.,33 District BaoAn
 				Shenzhen  Guangdong  518000
 				CN
+
+00-14-2F   (hex)		Savvis
+00142F     (base 16)		Savvis
+				1340 Treat Boulevard, Suite 500
+				Walnut Creek  CA  94597
+				US
 
 00-26-E8   (hex)		Murata Manufacturing Co., Ltd.
 0026E8     (base 16)		Murata Manufacturing Co., Ltd.
@@ -126509,12 +126521,6 @@ A42BB0     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518057
 				CN
 
-00-05-94   (hex)		HMS Technology Center Ravensburg GmbH
-000594     (base 16)		HMS Technology Center Ravensburg GmbH
-				Helmut-Vetter-Straße 2
-				Ravensburg    88213
-				DE
-
 94-86-CD   (hex)		SEOUL ELECTRONICS&TELECOM
 9486CD     (base 16)		SEOUL ELECTRONICS&TELECOM
 				709, Namkwangcentrex 440-4, Cheongcheon-dong, 
@@ -126526,3 +126532,9 @@ A42BB0     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Dubai Silicon Oasis - THUB - 1-D-OFF-124
 				Dubai    65673
 				AE
+
+00-05-94   (hex)		HMS Technology Center Ravensburg GmbH
+000594     (base 16)		HMS Technology Center Ravensburg GmbH
+				Helmut-Vetter-Straße 2
+				Ravensburg    88213
+				DE
