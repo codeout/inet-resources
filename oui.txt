@@ -25415,6 +25415,12 @@ AC06C7     (base 16)		ServerNet S.r.l.
 				Beijing    100101
 				CN
 
+28-BC-18   (hex)		SourcingOverseas Co. Ltd
+28BC18     (base 16)		SourcingOverseas Co. Ltd
+				2F., No.616, Sec.5, Zhongshan N. Rd., Shilin Dist.,
+				Taipei City    111
+				TW
+
 2C-5B-B8   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 2C5BB8     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,WUSHA,CHANG'AN,DONGGUAN,GUANGDONG,CHINA
@@ -75548,12 +75554,6 @@ DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Shenzhen  Guangdong  518000
 				CN
 
-00-14-2F   (hex)		Savvis
-00142F     (base 16)		Savvis
-				1340 Treat Boulevard, Suite 500
-				Walnut Creek  CA  94597
-				US
-
 00-17-35   (hex)		Intel Wireless Network Group
 001735     (base 16)		Intel Wireless Network Group
 				2111 NE 25th Ave
@@ -75571,6 +75571,12 @@ DCC0EB     (base 16)		ASSA ABLOY CÔTE PICARDE
 				rue Alexandre Fichet
 				Oust-Marest    80460
 				FR
+
+00-14-2F   (hex)		Savvius
+00142F     (base 16)		Savvius
+				1340 Treat Boulevard, Suite 500
+				Walnut Creek  CA  94597
+				US
 
 88-94-71   (hex)		Brocade Communications Systems, Inc.
 889471     (base 16)		Brocade Communications Systems, Inc.
