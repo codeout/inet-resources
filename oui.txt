@@ -21974,12 +21974,6 @@ E4956E     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				PISCATAWAY  NJ  08854
 				US
 
-00-50-C2   (hex)		IEEE REGISTRATION AUTHORITY  - Please see IAB public listing for more information.
-0050C2     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see IAB public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
 14-1F-BA   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
 141FBA     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
 				
@@ -25420,6 +25414,18 @@ AC06C7     (base 16)		ServerNet S.r.l.
 				2F., No.616, Sec.5, Zhongshan N. Rd., Shilin Dist.,
 				Taipei City    111
 				TW
+
+00-CD-FE   (hex)		Apple, Inc.
+00CDFE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-50-C2   (hex)		IEEE Registration Authority
+0050C2     (base 16)		IEEE Registration Authority
+				
+				PISCATAWAY  NJ  08854
+				US
 
 2C-5B-B8   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 2C5BB8     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -50633,6 +50639,18 @@ AC9A22     (base 16)		NXP Semiconductors
 				    
 				NL
 
+0C-D7-46   (hex)		Apple, Inc.
+0CD746     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-00-10   (hex)		Apple, Inc.
+440010     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 E4-22-A5   (hex)		PLANTRONICS, INC.
 E422A5     (base 16)		PLANTRONICS, INC.
 				345 ENCINAL STREET
@@ -75576,6 +75594,24 @@ DCC0EB     (base 16)		ASSA ABLOY CÔTE PICARDE
 00142F     (base 16)		Savvius
 				1340 Treat Boulevard, Suite 500
 				Walnut Creek  CA  94597
+				US
+
+0C-C7-31   (hex)		Currant, Inc.
+0CC731     (base 16)		Currant, Inc.
+				927 Industrial Ave
+				Palo Alto  CA  94303
+				US
+
+38-71-DE   (hex)		Apple, Inc.
+3871DE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+BC-54-36   (hex)		Apple, Inc.
+BC5436     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
 
 88-94-71   (hex)		Brocade Communications Systems, Inc.
@@ -100979,6 +101015,30 @@ B436A9     (base 16)		Fibocom Wireless Inc.
 				Shenzhen  GuangDong  518000
 				CN
 
+04-4B-ED   (hex)		Apple, Inc.
+044BED     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+6C-8D-C1   (hex)		Apple, Inc.
+6C8DC1     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+38-CA-DA   (hex)		Apple, Inc.
+38CADA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+68-DB-CA   (hex)		Apple, Inc.
+68DBCA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 00-14-C9   (hex)		Brocade Communications Systems, Inc.
 0014C9     (base 16)		Brocade Communications Systems, Inc.
 				1745 Technology Dr.
@@ -123245,12 +123305,6 @@ E81863     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				PISCATAWAY  NJ  08854
 				US
 
-70-B3-D5   (hex)		IEEE REGISTRATION AUTHORITY  - Please see OUI36 public listing for more information.
-70B3D5     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see OUI36 public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
 0C-EF-AF   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
 0CEFAF     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
 				
@@ -123259,12 +123313,6 @@ E81863     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 
 74-F8-DB   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
 74F8DB     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-40-D8-55   (hex)		IEEE REGISTRATION AUTHORITY - Please see IAB public listing for more information.
-40D855     (base 16)		IEEE REGISTRATION AUTHORITY - Please see IAB public listing for more information.
 				
 				PISCATAWAY  NJ  08854
 				US
@@ -126630,4 +126678,58 @@ FCFFAA     (base 16)		IEEE Registration Authority
 34BA75     (base 16)		Tembo Systems, Inc.
 				2933 Bunker Hill Ln., Suite 100
 				Santa Clara  CA  95054
+				US
+
+70-81-EB   (hex)		Apple, Inc.
+7081EB     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+08-66-98   (hex)		Apple, Inc.
+086698     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+78-8B-77   (hex)		Standar Telecom
+788B77     (base 16)		Standar Telecom
+				Sadovnicheskaya 44 s.4
+				Moscow    115035
+				RU
+
+28-ED-6A   (hex)		Apple, Inc.
+28ED6A     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+34-AB-37   (hex)		Apple, Inc.
+34AB37     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+60-A3-7D   (hex)		Apple, Inc.
+60A37D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-56-CD   (hex)		Apple, Inc.
+0056CD     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+70-B3-D5   (hex)		IEEE Registration Authority
+70B3D5     (base 16)		IEEE Registration Authority
+				
+				PISCATAWAY  NJ  08854
+				US
+
+40-D8-55   (hex)		IEEE Registration Authority
+40D855     (base 16)		IEEE Registration Authority
+				
+				PISCATAWAY  NJ  08854
 				US
