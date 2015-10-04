@@ -32095,7 +32095,7 @@
 32576	LOANMART - 1-800LoanMart,US
 32577	KROGER - The Kroger Co.,US
 32578	KC-EURON-1 - Euronet Worldwide, Inc.,US
-32579	ETG-AS - eVolution Technology Group, LLC.,US
+32579	ETG-AS - Varay,US
 32580	AS-YAK - Yak Communications (Canada) Corp,CA
 32581	FVTECH-AS1 - FVTech,US
 32582	VOLCANO - Volcano Corporation,US
@@ -41524,7 +41524,7 @@
 42117	INOLIA-AS INOLIA S.A.,FR
 42118	CUPL-AS Aviva sp. z o.o.,PL
 42119	-Reserved AS-,ZZ
-42120	MODIT MODIT Datacenter Informatikai es Szolgaltato KFT,HU
+42120	MODIT MODIT Datacenter Kft.,HU
 42121	RSNET1-AS The Federal Guard Service of the Russian Federation,RU
 42122	NETHIT Nethit Networks Oy,FI
 42123	IQM-AS IQ Management SRL,RO
@@ -59269,7 +59269,7 @@
 60265	MORE-AS More Ltd,RU
 60266	EMBEDIT-AS Home Credit International a.s.,CZ
 60267	CABLERWORLD-MURCIA-AS CABLEWORLD SL,ES
-60268	DIGICOMM-AS Digital Communication ltd.,PS
+60268	DCC-ASN Digital Communication ltd.,PS
 60269	XYLEMINC-AS XYLEM WATER SOLUTIONS GLOBAL SERVICES AB,SE
 60270	ASN-JUSTIS Justis- og beredskapsdepartementet,NO
 60271	MARSOFT-AS Marcin Dawidowicz,PL
@@ -60913,7 +60913,7 @@
 62024	PACS SIHTASUTUS EESTI TERVISHOIU PILDIPANK,EE
 62025	KGPSP-AS Komenda Glowna Panstwowej Strazy Pozarnej,PL
 62026	SKYPARKCDN-AS SkyparkCDN Ltd.,RU
-62027	HOTNET-PALESTINE Digital Communication ltd.,PS
+62027	HOTNET-PALESTINE HOTNET-Palestine,PS
 62028	DOMTELE-AS PE Bedniy Alexander Sergeevich,UA
 62029	CCIRF-AS Chamber of Commerce and Industry of the Russian Federation,RU
 62030	FMC-AS FRESENIUS MEDICAL CARE ROMANIA SRL,RO
@@ -65685,7 +65685,6 @@
 133621	RUNGE-AS-AP Runge ICT Pty Ltd,AU
 133623	PLANETCABLETV-AS-AP Planet Cable, Inc.,PH
 133624	EVOLUTIONSYSTEMS-AS-AP EVOLUTION SYSTEMS PTY LIMITED,AU
-133625	,
 133626	BECTCL-AS-AP Beijing Expo Cloud Technology Co., Ltd.,CN
 133627	APEAGERSLTD-AS-AP A.P.Eagers Ltd,AU
 133628	NETCLOUDBDLTD-AS-AP Net Cloud Limited,BD
@@ -74798,7 +74797,7 @@
 327879	AJYWA-TELECOM,CD
 327880	Multichoice-Support-Services,ZA
 327881	NICDC,SD
-327882	RPKI-AFRINIC-TEST,MU
+327882	-Reserved AS-,ZZ
 327883	EAGLE-EYE,EG
 327884	I-and-M-Bank,KE
 327885	Viettel-Tanzania,TZ
@@ -74852,6 +74851,9 @@
 327934	Tunisie-Telecom,TN
 327935	iSPACE,ZA
 327936	KiboConnect,ZA
+327937	Smile-Communication-DRC,CD
+327938	I-HUB-LIMITED,KE
+327939	CLAROTECH,ZA
 393216	B6 - B.Root-Servers-OPS,US
 393217	ASN4-TELUS - TELUS Communications Inc.,CA
 393218	-Reserved AS-,ZZ
@@ -76102,7 +76104,7 @@
 394463	VEROS - Veros Software,US
 394464	SCC-SUTTER - Superior Court of California, County of Sutter,US
 394465	SUSSEXDE-GOV - Sussex County Government,US
-394466	FIBER-HOSTING - Hurricane Group,CA
+394466	FIBER-HOSTING - Fiber Hosting Canada,CA
 394467	IDERS - Iders Incorporated,CA
 394468	WAVE-WIRELESS-LLC - Wave Wireless LLC,US
 394469	DIGICEL-GROUP-BUSINESS - Digicel Caribbean Limited,LC
@@ -76150,3 +76152,8 @@
 394511	EFATL - eFolder, Inc,US
 394512	MOSAIC-NETWORX - Mosaic Networx, LLC,US
 394513	AWESOMENET-CORPUS - Awesome Net, Inc.,US
+394514	WACT-ASN - Car Toys, Inc.,US
+394515	MKT-CH2-NOC - Market Track LLC,US
+394516	COUNTYOFNAPAAS - County of Napa MIS,US
+394517	KNOLL-INC - Knoll Inc.,US
+394518	CHSD230 - Consolidated High School District 230,US
