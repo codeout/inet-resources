@@ -25475,18 +25475,6 @@ C83E99     (base 16)		Texas Instruments
 				Smørum    2765
 				DK
 
-18-62-2C   (hex)		Sagemcom Broadband SAS
-18622C     (base 16)		Sagemcom Broadband SAS
-				250 route de l'Empereur
-				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
-				FR
-
-7C-03-D8   (hex)		Sagemcom Broadband SAS
-7C03D8     (base 16)		Sagemcom Broadband SAS
-				250 route de l'Empereur
-				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
-				FR
-
 E8-F1-B0   (hex)		Sagemcom Broadband SAS
 E8F1B0     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -25495,6 +25483,18 @@ E8F1B0     (base 16)		Sagemcom Broadband SAS
 
 34-8A-AE   (hex)		Sagemcom Broadband SAS
 348AAE     (base 16)		Sagemcom Broadband SAS
+				250 route de l'Empereur
+				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
+				FR
+
+18-62-2C   (hex)		Sagemcom Broadband SAS
+18622C     (base 16)		Sagemcom Broadband SAS
+				250 route de l'Empereur
+				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
+				FR
+
+7C-03-D8   (hex)		Sagemcom Broadband SAS
+7C03D8     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
 				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
 				FR
@@ -34879,12 +34879,6 @@ D44CA7     (base 16)		Informtekhnika & Communication, LLC
 
 C0-22-50   (hex)		Private
 C02250     (base 16)		Private
-
-18-01-E3   (hex)		Elektrobit Wireless Communications Ltd
-1801E3     (base 16)		Elektrobit Wireless Communications Ltd
-				Tutkijantie 8
-				Oulu    90570
-				FI
 
 64-BC-11   (hex)		CombiQ AB
 64BC11     (base 16)		CombiQ AB
@@ -50741,11 +50735,11 @@ B8FFFE     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-44-E9-DD   (hex)		SAGEMCOM SAS
-44E9DD     (base 16)		SAGEMCOM SAS
-				250 route de l'Empereur
-				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
-				FR
+18-01-E3   (hex)		Bittium Wireless Ltd
+1801E3     (base 16)		Bittium Wireless Ltd
+				Tutkijantie 8
+				Oulu    90570
+				FI
 
 C0-AC-54   (hex)		Sagemcom Broadband SAS
 C0AC54     (base 16)		Sagemcom Broadband SAS
@@ -50763,6 +50757,18 @@ C8-91-F9   (hex)		Sagemcom Broadband SAS
 C891F9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
 				Rueil Malmaison  HAUTS DE SEINE  92848
+				FR
+
+0C-6F-9C   (hex)		Shaw Communications Inc.
+0C6F9C     (base 16)		Shaw Communications Inc.
+				Suite 900, 630 3rd Avenue S.W.
+				CALGARY  ALBERTA  T2P 4L4
+				CA
+
+44-E9-DD   (hex)		SAGEMCOM SAS
+44E9DD     (base 16)		SAGEMCOM SAS
+				250 route de l'Empereur
+				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
 				FR
 
 E4-22-A5   (hex)		PLANTRONICS, INC.
@@ -75710,18 +75716,6 @@ B4EED4     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-58-46-E1   (hex)		Baxter International Inc
-5846E1     (base 16)		Baxter International Inc
-				25212 W. Illinois Route 120
-				Round Lake  IL  60073
-				US
-
-00-D0-BD   (hex)		Lattice Semiconductor Corp. (LPA)
-00D0BD     (base 16)		Lattice Semiconductor Corp. (LPA)
-				Garbsener Landstraße 10
-				    
-				DE
-
 00-18-31   (hex)		Texas Instruments
 001831     (base 16)		Texas Instruments
 				12500 TI Boulevard, MS 8723
@@ -75788,12 +75782,6 @@ B0B448     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-E0-C7-9D   (hex)		Texas Instruments
-E0C79D     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
 D0-84-B0   (hex)		Sagemcom Broadband SAS
 D084B0     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -75805,6 +75793,24 @@ F08261     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
 				Rueil Malmaison  HAUTS DE SEINE  92848
 				FR
+
+00-D0-BD   (hex)		Lattice Semiconductor Corp. (LPA)
+00D0BD     (base 16)		Lattice Semiconductor Corp. (LPA)
+				2115 O’Nel Drive
+				San Jose  CA  95131
+				US
+
+E0-C7-9D   (hex)		Texas Instruments
+E0C79D     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+58-46-E1   (hex)		Baxter International Inc
+5846E1     (base 16)		Baxter International Inc
+				One Baxter Parkway
+				Deerfield  IL  60015
+				US
 
 88-94-71   (hex)		Brocade Communications Systems, Inc.
 889471     (base 16)		Brocade Communications Systems, Inc.
@@ -101266,6 +101272,12 @@ D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
 				Rueil Malmaison  HAUTS DE SEINE  92848
 				FR
+
+00-31-46   (hex)		Juniper networks
+003146     (base 16)		Juniper networks
+				1194 N. Mathilda Avenue
+				Sunnyvale  CA  94089
+				US
 
 00-14-C9   (hex)		Brocade Communications Systems, Inc.
 0014C9     (base 16)		Brocade Communications Systems, Inc.
@@ -126884,12 +126896,6 @@ B8AF67     (base 16)		Hewlett Packard
 				Houston  Texas  77070
 				US
 
-58-42-E4   (hex)		Baxter International Inc
-5842E4     (base 16)		Baxter International Inc
-				711 Park Avenue
-				Medina  NY  14103
-				US
-
 2C-FD-37   (hex)		Blue Calypso, Inc.
 2CFD37     (base 16)		Blue Calypso, Inc.
 				101 West Renner RD Suite 280
@@ -126991,3 +126997,9 @@ C0E422     (base 16)		Texas Instruments
 				250 route de l'Empereur
 				Rueil Malmaison  HAUTS DE SEINE  92848
 				FR
+
+58-42-E4   (hex)		Baxter International Inc
+5842E4     (base 16)		Baxter International Inc
+				One Baxter Parkway
+				Deerfield  IL  60015
+				US
