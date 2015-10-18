@@ -9812,7 +9812,7 @@
 9981	SAERONET-AS-KR Saero Network Service LTD,KR
 9982	PAICHAI-AS PAICHAI UNIVERSITY,KR
 9983	ABS-AS-AP Australian Bureau of Statistics.,AU
-9984	MICROSOFT-TECHED-AS-AP Microsoft Tech Ed Australia,AU
+9984	MICROSOFT-IGNITE-AS-AP Microsoft Ignite Australia,AU
 9985	NIAUSAS-AP News Interactive (NI) australian AS number,AU
 9986	TMTAPS-AS-AP Telekom Malaysia Access Point Service.,MY
 9987	EXPRESSBBS-AS-AP Express BBS,AU
@@ -16394,7 +16394,7 @@
 16597	SPC - South Plains College,US
 16598	BCAA-AS - BCAA,CA
 16599	BENTLEY-SYSTEMS - Bentley Systems,US
-16600	-Reserved AS-,ZZ
+16600	UTHEALTHCENTER-TYLER - University of Texas Health Science Center at Tyler,US
 16601	SRF-AS-LA-MC - Self-Realization Fellowship Church,US
 16602	LA-BROADBAND - LA Broadband LLC,US
 16603	BELLAMIA - Bella Mia, Inc.,US
@@ -32974,7 +32974,7 @@
 33415	PERKINSCOIE-ASN - Perkins Coie, LLP,US
 33416	JMCGH-WTH-1950 - West Tennessee Healthcare,US
 33417	-Reserved AS-,ZZ
-33418	-Reserved AS-,ZZ
+33418	HRNIT - HRN IT Co.,US
 33419	TRIBAL-FUSION - Exponential Interactive, Inc.,US
 33420	TCDI - Technology Concepts & Design, Inc.,US
 33421	SEEDCO915 - SEEDCO,US
@@ -60951,7 +60951,7 @@
 62024	PACS SIHTASUTUS EESTI TERVISHOIU PILDIPANK,EE
 62025	KGPSP-AS Komenda Glowna Panstwowej Strazy Pozarnej,PL
 62026	SKYPARKCDN-AS SkyparkCDN Ltd.,RU
-62027	HOTNET-ASN Digital Communication ltd.,PS
+62027	HOTNET-ASN HOTNET Palestine,PS
 62028	DOMTELE-AS PE Bedniy Alexander Sergeevich,UA
 62029	CCIRF-AS Chamber of Commerce and Industry of the Russian Federation,RU
 62030	FMC-AS FRESENIUS MEDICAL CARE ROMANIA SRL,RO
@@ -66639,6 +66639,7 @@
 134730	EDMICLOUD-AS-AP EDMI NZ Limited,NZ
 134731	PLESIPTYLTD-AS-AP Plesi Pty Ltd,AU
 134732	DOTINTERNET-AS-AP Prodip Dhali t/a Dot Internet,BD
+134733	CENTRALWEST-AS-AP CENTRALWEST NETWORKS PTY LTD,AU
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -71944,7 +71945,7 @@
 203902	-Reserved AS-,ZZ
 203903	-Reserved AS-,ZZ
 203904	DECBS Domain Earth for Communication and Banking Solutions with Limited Liability,IQ
-203905	GAZANET-ASN Digital Communication ltd.,PS
+203905	GAZANET-ASN Gaza-Net WiFi Service,PS
 203906	DIGINET Diginet shpk,AL
 203907	RUSANOVA-AS Rusanova A.A. PE,RU
 203908	-Reserved AS-,ZZ
@@ -73330,7 +73331,6 @@
 263163	JR LINK PROVEDOR DE INTERNET VIA RARIO LTDA,BR
 263164	Office Master Com. e Prestação de Serviços LTDA,BR
 263165	MARVITEL TELECOMUNICACOES LTDA,BR
-263166	,
 263167	COMUNICALO DE MEXICO S.A. DE C.V,MX
 263169	Vision Banco,PY
 263170	Netsys,HN
@@ -73838,7 +73838,6 @@
 263676	NetMG Informática Ltda.,BR
 263677	Net Gloria Internet Banda Larga,BR
 263678	serverloft, Infraestrutura e Datacenter.,BR
-263679	,
 263680	THOMAS GREG & SONS LIMITED (GUERNSEY) S.A.,CO
 263681	IPTRIPLEPLAY LTD,BZ
 263682	CHILENETWORKS SPA,CL
@@ -74730,7 +74729,6 @@
 264596	ALFA TELECOMUNICACOES,BR
 264597	Via Sul Provedor de Acesso a Internet LTDA,BR
 264598	DELTA TELECOMUNICACAO LTDA - ME,BR
-264599	,
 264600	uznet provedora de internet ltda-me,BR
 264601	NAVEX Telecom,BR
 264602	M.C.R. CAMPOS INFORMATICA E TELECOMUNICAÇÕES-ME,BR
@@ -76364,3 +76362,7 @@
 394562	STRIPE2 - Stripe, Inc.,US
 394563	ATSG-REDICLOUD - ATSG,US
 394564	SPECTROTEL-INC - Spectrotel Inc,US
+394565	SNCDSB-ORION-COGENT - Superior North Catholic District School Board,CA
+394566	ALEGEUS-AS - ALEGEUS TECHNOLOGIES, LLC,US
+394567	COUNTY-OF-SIMCOE - Corporation of the County of Simcoe,CA
+394568	MOUNTAINBROADBANDNETWORKS - McGrange Technologies, LLC,US
