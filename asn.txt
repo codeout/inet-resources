@@ -1,3 +1,4 @@
+0	-Reserved AS-,ZZ
 1	LVLT-1 - Level 3 Communications, Inc.,US
 2	UDEL-DCN - University of Delaware,US
 3	MIT-GATEWAYS - Massachusetts Institute of Technology,US
@@ -3290,6 +3291,7 @@
 3328	-Reserved AS-,ZZ
 3329	HOL-GR hellas online Electronic Communications S.A.,GR
 3330	PROFINET-AT eww ag,AT
+3331	OPENXS-AS OpenXS GmbH,DE
 3332	HANSA-AS Swedbank AS,EE
 3333	RIPE-NCC-AS Reseaux IP Europeens Network Coordination Centre (RIPE NCC),NL
 3334	VTX-NETWORK VTX Services SA,CH
@@ -10085,7 +10087,7 @@
 10220	SNET-ID-AP PT. Sejahtera  Globalindo,ID
 10221	HEWLETT-PACKARD Multi-homed connections to multiple ISP's providing,AU
 10223	UECOMM-AU Uecomm Ltd,AU
-10224	BROADBAND-PH-AP BROADBAND PHILIPPINES,PH
+10224	ABS-CBN ABS-CBN Convergence, Inc,PH
 10225	NETTLINX-IN-AP Nettlinx Limited,IN
 10226	ETL-IX-AS-AP Enterprise of Telecommunications Lao,LA
 10227	SUANDUSIT Institute Rajabhat Suandusit,TH
@@ -15480,7 +15482,7 @@
 15642	GURAL INTERNET VE BILGISAYAR HIZMETLERI TOPRAK SANAYI VE TICARET ANONIM SIRKETI,TR
 15643	ITONLINE IT Online LTD,IL
 15644	FRESENIUS Fresenius SE & Co. KGaA,DE
-15645	AS15645 DE "Ukrainian Internet Exchange" (UA-IX),UA
+15645	AS15645 Ukrainian National Internet Exchange Autonomous System,UA
 15646	ING Belgium NV,BE
 15647	BANIFSERV Banif - Banco International Do Funchal S.A.,PT
 15648	-Reserved AS-,ZZ
@@ -17816,7 +17818,7 @@
 18006	BSPG-AS-AP Blue Star Print Group,NZ
 18007	INHERENT-AS-ID-AP INHERENT,ID
 18008	QUATRRO Quatrro Network Border AS,IN
-18009	BROADBAND-PH-AS-AP BROADBAND PHILIPPINES,PH
+18009	ABS-CBN ABS-CBN Convergence, Inc,PH
 18010	NFLNET-AS-AP NATIONAL FOODS LTD.,AU
 18011	CERNET-3TN-AS-AP CERNET 863 3TNET Terabit Regional Network (CERNET-3TN),CN
 18012	ACCESSTEL-AS-AP Access Telecom (BD) Ltd.,BD
@@ -30452,7 +30454,7 @@
 30855	TELE-PLUS-AS Tele-plus LLC,RU
 30856	RU-NTMK-AS OJSC "EVRAZ Nizhny Tagil Metallurgical Plant",RU
 30857	CITC-AS Communications and Information Technology Commission (CITC),SA
-30858	GLOBALNETWORKS-AS Papadopoulos Charalampos & SIA E.E. , GLOBAL NETWORKS,GR
+30858	TRIGONON-AS TRIGONON DATA SERVICES LTD,BG
 30859	FOZZYLTD-AS Fozzy-food ltd,UA
 30860	YURTEH-AS FOP Smirnov V'yacheslav Valentunovuch,UA
 30861	BMTRANS-AS Corporation BM Group,UA
@@ -31918,7 +31920,7 @@
 32321	BCGI-AS - Boston Communications Group Incorporated,US
 32322	ASN-YUKONWALTZ - YukonWaltz,US
 32323	EQUINIX-MA-TR - Equinix, Inc.,US
-32324	UNIFIED - Unified Social, Inc.,US
+32324	-Reserved AS-,ZZ
 32325	EJC-100 - James Campbell Company LLC,US
 32326	MORPHOTRUST-USA - MorphoTrust USA, Inc.,US
 32327	ZAYOB-NE - Zayo Bandwidth NorthEast LLC,US
@@ -36398,7 +36400,7 @@
 36802	WCT-AUS2 - Webcore Technologies, Inc.,US
 36803	U-46 - Illinois School District U-46,US
 36804	XAXIS-AS4 - xaxis, inc.,US
-36805	247REALMEDIA-EU - 24/7 Real Media, Inc.,US
+36805	ASN-APPNEXUS-OAS - AppNexus Resources Inc.,US
 36806	AERIS-SJCORP-BGPNET - Aeris Communications, Inc.,US
 36807	-Reserved AS-,ZZ
 36808	PPHS-PALOMAR-POMERADO-HEALTH - Palomar Pomerado Health,US
@@ -38829,7 +38831,7 @@
 39344	-Reserved AS-,ZZ
 39345	BTS-AS BTS TELECOM & Hosting SRL,RO
 39346	OPALID-AS Asociatia Pentru Accesul Liber la Informatia Digitalizata "OPALID",RO
-39347	SELL-AS Stylish by A & L SRL,RO
+39347	SELL-AS STYLISH BY A&L SRL,RO
 39348	TYACHIV-AS Initiativa Ltd.,UA
 39349	TVKDIANA-AS Multimedia Polska S.A.,PL
 39350	VB7-AS OAO Bank Vozrozhdenie,RU
@@ -52589,7 +52591,7 @@
 53241	Mcnet Serviços de Comunicações Ltda,BR
 53242	NOGUEIRA & DANTAS LTDA,BR
 53243	Brasil Site Informatica LTDA,BR
-53244	PRIMEHOST do BRASIL Ltda,BR
+53244	PRIMEHOST DO BRASIL LTDA,BR
 53245	Action Communications, Security Brazil.,BR
 53246	Cyber Info Provedor de Acesso LTDA ME,BR
 53247	Nolasco & Nonnenmacher Comercio e Rep. Ltda.,BR
@@ -54060,7 +54062,7 @@
 54712	CI-100-43-212-0 - Color Image Apparel, Inc.,US
 54713	CAMC - CAMC Health System, Inc.,US
 54714	SECGLOBE - Secure Global Solutions LLC,US
-54715	FKKSBGP - Frankfurt Kurnit Klein & Selz pc,US
+54715	-Reserved AS-,ZZ
 54716	SHIC - Sunshine Holdings I Corp.,US
 54717	CROSSLINK-SF-ASN - Crosslink Capital, Inc,US
 54718	SYNAPTICA-NA - Synaptica,CA
@@ -62502,6 +62504,8 @@
 63544	WINSPEED WinSpeed Network Technology (Shanghai) Co., Ltd.,CN
 63545	SPEEDYCLOUD Beijing SpeedyCloud Technologies Co.,Ltd.,CN
 63553	BOCI-NET Shanghai boci Environmental Protection Technology Co., Ltd.,CN
+63554	JPXXJSFW JiuPeng Network Co.Ltd,CN
+63556	MDJYLWL YiLian Network Co.Ltd,CN
 63573	ZENLAYER Zenlayer Network Technologies Inc,CN
 63574	BYDANET Beijing Bydanet Technologies Limited,CN
 63575	KHTECH Shanghai Kuanhui Tech. Co.,ltd,CN
@@ -64348,6 +64352,7 @@
 131902	SNEI-NP Sony Corporation,JP
 131903	NRI-IVPN Nomura Research Institute,Ltd.,JP
 131904	CF-NET Cyber Feel Inc,JP
+131905	JPRS-GTLD Japan Registry Services Co., Ltd.,JP
 131993	QUINNOX-IN UNIT 107 MULTISTORIED BUILDING, SEEPZ,IN
 131994	DBINDIA-IN Deutsche Bank AG,HK
 131995	XLPROG-AS-AP XLPM,NC
@@ -65791,7 +65796,7 @@
 133634	CHUNWONHK-AS-AP CHUNWON(HK) TECHNOLOGY CO., LIMITED,HK
 133635	OITCL-AS-AP ONWAH INFORMATION TECHNOLOGY CO., LIMITED,HK
 133636	FISHEYELIMITED-AS-AP Fisheye Limited,NZ
-133637	ZENO-AS-AP Zeno,AU
+133637	,
 133638	TRACKNET-AS-IN TrackNet services Pvt Ltd,IN
 133639	SEVENELEVEN-AS-IN SEVEN ELEVEN COMMUNICATION PRIVATE LIMITED,IN
 133640	INDIANOVERSEASBANK-AS INDIAN OVERSEAS BANK,IN
@@ -66646,6 +66651,7 @@
 134625	MMS-AS-ID PT. Maxindo Mitra Solusi,ID
 134626	IDNIC-ARISTI-AS-ID PT. Aristi Jasadata,ID
 134627	IDNIC-UKSW-AS-ID Universitas Kristen Satya Wacana,ID
+134628	IDNIC-BIOS-AS-ID PT Bina Informasi Optima Solusindo,ID
 134662	DELORA-AS-AP PT Delora Hosting Media,ID
 134664	LAYER1-AS-AP LayerOne Network Limited,HK
 134665	PMTL-AS-AP PROFIT MAKING TRADING LIMITED,HK
@@ -66770,6 +66776,8 @@
 134788	PARASATCABLETV-AS-AP Parasat Cable TV, Inc,PH
 134789	PTPL-AS-AP PRAMODANJALI TECHNOLOGIES PRIVATE LIMITED,IN
 134790	MONOTT-AS-AP Monott LLC.,MN
+134791	ACS-AS-AP AUSTRALIAN COMPUTER SOLUTIONS PTY LTD,AU
+134792	QIANYUNTIMES-AS QIANYUN TIMES,CN
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -67076,7 +67084,7 @@
 196920	-Reserved AS-,ZZ
 196921	WIMD-KUWAIT Wireless Mobile Data Company,KW
 196922	HOFMEIR-AS Hofmeir Media GmbH,DE
-196923	ALLIANZ-RU-AS196923 OJSC IC ROSNO,RU
+196923	ALLIANZ-RU-AS196923 OJSC IC Allianz,RU
 196924	SDLAN-AS PE Ruzhic'kij Svyatoslav Georgievich; PE Ruzhitsky Svyatoslav Georgievich,UA
 196925	AZRT-AS Azertelekom,AZ
 196926	BITRON-POLAND-AS Bitron Poland Sp. z o.o.,PL
@@ -70335,7 +70343,7 @@
 200533	INITLAB Civil associaton Init Lab,BG
 200534	RELAX-LLC-AS LLC Relax,RU
 200535	LEANOR Leanor Communications Ltd.,GB
-200536	SGBR SG Bank Republic,GE
+200536	SGBR JSC Bank Republic,GE
 200537	R152SU LLC MikroGate,RU
 200538	DK-RUDERSDAL Rudersdal Kommune,DK
 200539	INTELLY-AS INTELLY J.NISKI SPOLKA JAWNA,PL
@@ -72024,6 +72032,7 @@
 203261	ASCOR-AS ASCOR Kordian Zaprzalski,PL
 203262	INNOVATEBT-AS Innovate Business Technology Ltd,IE
 203263	MFNETCOM-AS ADAM KRAWCEWICZ MAGAZYN FABRYCZNY NETCOM,PL
+203754	ASPHONEPULSE Phone Pulse Ltd,IE
 203755	CADOIL Cadoil Trading SA,CH
 203756	TECHALND Techland Sp. z o.o.,PL
 203757	AVENNSIS-AS Avennsis Ltd.,BG
@@ -75018,6 +75027,7 @@
 264631	RED PARAGUAYA DE TELECOMUNICACIONES SA,PY
 264632	Tecnopan S.R.L.,AR
 264633	BANCO GNB PARAGUAY S.A,PY
+264634	Coop de Prov.Serv.Telef.Obras y Serv Púb y Soc Virrey del Pino Ltda,AR
 265117	Complexa Tecnologia da Informação,BR
 265118	Diego Kremer dos Santos ME,BR
 265119	DATACI - COMPANHIA DE TEC. DE INFORM. DE C.I.,BR
@@ -75033,6 +75043,7 @@
 265129	Duarte & Dias Eletroeletronicos Ltda ME,BR
 265130	ultraconexão soluçoes eireli,BR
 265131	GP4 TELECOM LTDA - ME,BR
+265132	TELEMOS MULTIMIDIA LTDA,BR
 265501	CONVERGIA DE MEXICO S.A. DE C.V.,MX
 265502	CENTRAL DE CORRETAJES SA DE CV,MX
 265575	Tecnologías Avanzadas S. de R.L. de C.V.,MX
@@ -76719,3 +76730,6 @@
 394628	SQUARE-CORP - Square, Inc.,US
 394629	MWIECOM - MWI Veterinary Supply Co.,US
 394630	BUZZMAX - BUZZMAX.CA,CA
+394631	SHS-NET-1 - SAMARITAN HEALTH SERVICES,US
+394632	CMC - Catholic Medical Center,US
+394633	ASCENSIONHEALTH-MINISTRYSERVICECENTER - Ascension Health Ministry Service Center,US
