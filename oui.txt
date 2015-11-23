@@ -2810,12 +2810,6 @@ D4522A     (base 16)		TangoWiFi.com
 B0-EC-E1   (hex)		Private
 B0ECE1     (base 16)		Private
 
-AC-9B-0A   (hex)		Sony Corporation
-AC9B0A     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 40-7F-E0   (hex)		Glory Star Technics (ShenZhen) Limited
 407FE0     (base 16)		Glory Star Technics (ShenZhen) Limited
 				4/f, West Block, Xi Li Village, Xin Wu Industry Bldg., Nan Shan District, ShenZhen, China
@@ -24797,18 +24791,6 @@ B8F934     (base 16)		Sony Mobile Communications AB
 				Lund  SE  22188
 				SE
 
-70-9E-29   (hex)		Sony Corporation
-709E29     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
-FC-0F-E6   (hex)		Sony Corporation
-FC0FE6     (base 16)		Sony Corporation
-				1-7-1 Konan 
-				Minato-ku   Tokyo  108-0075 
-				JP
-
 B0-05-94   (hex)		Liteon Technology Corporation
 B00594     (base 16)		Liteon Technology Corporation
 				4F,90,Chien 1 Road,ChungHo
@@ -25493,47 +25475,17 @@ A45C27     (base 16)		Nintendo Co., Ltd.
 				KYOTO  KYOTO  601-8501
 				JP
 
-54-44-08   (hex)		Nokia Corporation
-544408     (base 16)		Nokia Corporation
-				Joensuunkatu 7
-				Salo  Varsinais-Suomi  24101
-				FI
-
 D8-FB-5E   (hex)		ASKEY COMPUTER CORP
 D8FB5E     (base 16)		ASKEY COMPUTER CORP
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
 
-18-86-AC   (hex)		Nokia Danmark A/S
-1886AC     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790V
-				DK
-
-00-21-FE   (hex)		Nokia Danmark A/S
-0021FE     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790V
-				DK
-
-00-1D-FD   (hex)		Nokia Danmark A/S
-001DFD     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-1E-A3   (hex)		Nokia Danmark A/S
-001EA3     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-22-66   (hex)		Nokia Danmark A/S
-002266     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
+54-44-08   (hex)		Nokia Corporation
+544408     (base 16)		Nokia Corporation
+				Joensuunkatu 7
+				Salo  Varsinais-Suomi  24101
+				FI
 
 00-17-B0   (hex)		Nokia Danmark A/S
 0017B0     (base 16)		Nokia Danmark A/S
@@ -25547,11 +25499,29 @@ D8FB5E     (base 16)		ASKEY COMPUTER CORP
 				Copenhagen V    DK-1790
 				DK
 
-00-25-48   (hex)		Nokia Danmark A/S
-002548     (base 16)		Nokia Danmark A/S
+18-86-AC   (hex)		Nokia Danmark A/S
+1886AC     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790V
+				DK
+
+00-21-FE   (hex)		Nokia Danmark A/S
+0021FE     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790V
+				DK
+
+00-22-66   (hex)		Nokia Danmark A/S
+002266     (base 16)		Nokia Danmark A/S
 				Frederikskaj
 				Copenhagen V    DK-1790
 				DK
+
+DC-B3-B4   (hex)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+				158 Nan Hai Road, TEDA
+				Tianjin    300457
+				CN
 
 C8-D1-0B   (hex)		Nokia Corporation
 C8D10B     (base 16)		Nokia Corporation
@@ -25571,23 +25541,11 @@ F4F5A5     (base 16)		Nokia Corporation
 				Salo    24101
 				FI
 
-DC-B3-B4   (hex)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
-DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
-				158 Nan Hai Road, TEDA
-				Tianjin    300457
-				CN
-
-00-1D-98   (hex)		Nokia Danmark A/S
-001D98     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-11-9F   (hex)		Nokia Danmark A/S
-00119F     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
+3C-C2-43   (hex)		Nokia Corporation
+3CC243     (base 16)		Nokia Corporation
+				Joensuunkatu 7
+				Salo  NA  24101
+				FI
 
 00-15-A0   (hex)		Nokia Danmark A/S
 0015A0     (base 16)		Nokia Danmark A/S
@@ -25607,11 +25565,35 @@ DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co
 				Copenhagen V    DK-1790
 				DK
 
-3C-C2-43   (hex)		Nokia Corporation
-3CC243     (base 16)		Nokia Corporation
-				Joensuunkatu 7
-				Salo  NA  24101
-				FI
+00-25-48   (hex)		Nokia Danmark A/S
+002548     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1D-FD   (hex)		Nokia Danmark A/S
+001DFD     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1E-A3   (hex)		Nokia Danmark A/S
+001EA3     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1D-98   (hex)		Nokia Danmark A/S
+001D98     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-11-9F   (hex)		Nokia Danmark A/S
+00119F     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
 
 18-A6-F7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 18A6F7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -25655,6 +25637,12 @@ AC61EA     (base 16)		Apple, Inc.
 				Seongnam-si  Gyeonggi-do  463-867
 				KR
 
+F4-ED-5F   (hex)		SHENZHEN KTC TECHNOLOGY GROUP 
+F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP 
+				Wuhe Street
+				Shenzhen  Guangdong  518129
+				CN
+
 94-76-B7   (hex)		Samsung Electronics Co.,Ltd
 9476B7     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -25673,23 +25661,17 @@ B47443     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
-30CBF8     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 00-0B-A2   (hex)		Sumitomo Electric Industries,Ltd
 000BA2     (base 16)		Sumitomo Electric Industries,Ltd
 				1-1-3, Shimaya, Konohana-ku
 				Osaka    554-0024
 				JP
 
-F4-ED-5F   (hex)		SHENZHEN KTC TECHNOLOGY GROUP 
-F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP 
-				Wuhe Street
-				Shenzhen  Guangdong  518129
-				CN
+30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
+30CBF8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 2C-4D-79   (hex)		GoerTek Inc.
 2C4D79     (base 16)		GoerTek Inc.
@@ -25702,6 +25684,30 @@ F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP
 				Room 6, 20F, No. 77, section 1, Xintai 5th Rd. Xizhi District
 				New Taipei City  Taiwan  22101
 				TW
+
+F0-34-04   (hex)		TCT mobile ltd
+F03404     (base 16)		TCT mobile ltd
+				NO.86 hechang 7th road, zhongkai hi-tech distrct
+				Hui Zhou  Guang Dong  516006
+				CN
+
+AC-9B-0A   (hex)		Sony Computer Entertainment Inc.
+AC9B0A     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+FC-0F-E6   (hex)		Sony Computer Entertainment Inc.
+FC0FE6     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+70-9E-29   (hex)		Sony Computer Entertainment Inc.
+709E29     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -51131,12 +51137,6 @@ A87E33     (base 16)		Nokia Danmark A/S
 				MianYang  SiChuan  PRC 621000
 				CN
 
-10-4F-A8   (hex)		Sony Corporation
-104FA8     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 1C-23-4F   (hex)		EDMI  Europe Ltd
 1C234F     (base 16)		EDMI  Europe Ltd
 				The Grainger  Suite, Dobson House
@@ -51191,6 +51191,18 @@ A0C589     (base 16)		Intel Corporate
 				Sunnyvale  CA  94089
 				US
 
+74-BF-B7   (hex)		Nusoft Corporation
+74BFB7     (base 16)		Nusoft Corporation
+				3F.-1, No. 880, Zhongzheng Rd.,
+				Zhonghe Dist., New Taipei City  Taiwan (R.O.C.)   235-86
+				TW
+
+50-DA-00   (hex)		Hangzhou H3C Technologies Co., Limited
+50DA00     (base 16)		Hangzhou H3C Technologies Co., Limited
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang, P.R.China  310052
+				CN
+
 9C-2A-83   (hex)		Samsung Electronics Co.,Ltd
 9C2A83     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -51203,17 +51215,23 @@ E45D75     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-74-BF-B7   (hex)		Nusoft Corporation
-74BFB7     (base 16)		Nusoft Corporation
-				3F.-1, No. 880, Zhongzheng Rd.,
-				Zhonghe Dist., New Taipei City  Taiwan (R.O.C.)   235-86
-				TW
+3C-BE-E1   (hex)		NIKON CORPORATION
+3CBEE1     (base 16)		NIKON CORPORATION
+				Shinagawa Intercity Tower C, 2-15-3, Konan
+				Minato-ku  Tokyo  108-6290
+				JP
 
-50-DA-00   (hex)		Hangzhou H3C Technologies Co., Limited
-50DA00     (base 16)		Hangzhou H3C Technologies Co., Limited
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang, P.R.China  310052
+04-7E-4A   (hex)		moobox CO., Ltd.
+047E4A     (base 16)		moobox CO., Ltd.
+				No 801, Yanchang Zhong Road
+				Shanghai  Shanghai  200072
 				CN
+
+10-4F-A8   (hex)		Sony Computer Entertainment Inc.
+104FA8     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
 
 F0-82-61   (hex)		Sagemcom Broadband SAS
 F08261     (base 16)		Sagemcom Broadband SAS
@@ -58102,12 +58120,6 @@ A84041     (base 16)		Dragino Technology Co., Limited
 				303, Block B, No 8; 349, Jian'An 1 Road,Bao'An
 				Shenzhen  GuangDong  518101
 				CN
-
-68-6E-23   (hex)		Wi3 Inc.
-686E23     (base 16)		Wi3 Inc.
-				7620 Omnitech Place
-				Victor  NY  14564
-				US
 
 DC-F0-5D   (hex)		Letta Teknoloji
 DCF05D     (base 16)		Letta Teknoloji
@@ -73931,12 +73943,6 @@ BC3400     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				    
 				DK
 
-00-80-E5   (hex)		NetApp, Inc
-0080E5     (base 16)		NetApp, Inc
-				3718 N. Rock Road
-				Wichita  KS  67226-1397
-				US
-
 00-80-BC   (hex)		HITACHI ENGINEERING CO., LTD
 0080BC     (base 16)		HITACHI ENGINEERING CO., LTD
 				4-8-26, OMIKACHO
@@ -75278,29 +75284,11 @@ E8F724     (base 16)		Hewlett Packard Enterprise
 				Shinagawa-ku  Tokyo  141-0001
 				JP
 
-0C-FE-45   (hex)		Sony Corporation
-0CFE45     (base 16)		Sony Corporation
-				1-7-1, Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
-F8-D0-AC   (hex)		Sony Corporation
-F8D0AC     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 70-1A-04   (hex)		Liteon Technology Corporation
 701A04     (base 16)		Liteon Technology Corporation
 				4F 90 Chien 1 Rd.ChungHo
 				Taipei    23585
 				TW
-
-00-D9-D1   (hex)		Sony Corporation
-00D9D1     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
 
 48-D2-24   (hex)		Liteon Technology Corporation
 48D224     (base 16)		Liteon Technology Corporation
@@ -75349,18 +75337,6 @@ B8EE65     (base 16)		Liteon Technology Corporation
 				Nya Vattentornet 
 				Lund  SE  22188
 				SE
-
-3C-07-71   (hex)		Sony Corporation
-3C0771     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Tokyo    108-0075
-				JP
-
-D8-D4-3C   (hex)		Sony Corporation
-D8D43C     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Tokyo    108-0075
-				JP
 
 04-E6-76   (hex)		AMPAK Technology, Inc.
 04E676     (base 16)		AMPAK Technology, Inc.
@@ -76418,6 +76394,12 @@ B462AD     (base 16)		Elysia Germany GmbH
 				Straubenhardt  Baden-Wuerttemberg  75334
 				DE
 
+74-78-18   (hex)		Jurumani Solutions
+747818     (base 16)		Jurumani Solutions
+				321 14th Road
+				Midrand    1685
+				ZA
+
 A0-CB-FD   (hex)		Samsung Electronics Co.,Ltd
 A0CBFD     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -76436,11 +76418,59 @@ A0CBFD     (base 16)		Samsung Electronics Co.,Ltd
 				Osaka-City  Osaka-Prefecture  545-8522
 				JP
 
-74-78-18   (hex)		Jurumani Solutions
-747818     (base 16)		Jurumani Solutions
-				321 14th Road
-				Midrand    1685
-				ZA
+00-80-E5   (hex)		NetApp
+0080E5     (base 16)		NetApp
+				3718 N. Rock Road
+				Wichita  KS  67226-1397
+				US
+
+B8-A1-75   (hex)		Roku, Inc.
+B8A175     (base 16)		Roku, Inc.
+				12980 Saratoga Ave
+				Saratoga  CA  95070
+				US
+
+80-D1-60   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+80D160     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+00-D9-D1   (hex)		Sony Computer Entertainment Inc.
+00D9D1     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+F8-D0-AC   (hex)		Sony Computer Entertainment Inc.
+F8D0AC     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+0C-FE-45   (hex)		Sony Computer Entertainment Inc.
+0CFE45     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+D8-D4-3C   (hex)		Sony Computer Entertainment Inc.
+D8D43C     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+3C-07-71   (hex)		Sony Computer Entertainment Inc.
+3C0771     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+68-6E-23   (hex)		Wi3 Inc.
+686E23     (base 16)		Wi3 Inc.
+				P.O. Box 1123
+				Pittsford  NY  14534
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -101096,12 +101126,6 @@ B4527D     (base 16)		Sony Mobile Communications AB
 				Lund  SE  22188
 				SE
 
-28-0D-FC   (hex)		Sony Corporation
-280DFC     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 E0-63-E5   (hex)		Sony Mobile Communications AB
 E063E5     (base 16)		Sony Mobile Communications AB
 				Nya Vattentornet 
@@ -102088,6 +102112,24 @@ A41588     (base 16)		ARRIS Group, Inc.
 				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
 				Taipei  Taiwan  112
 				TW
+
+10-2A-B3   (hex)		Xiaomi Communications Co Ltd
+102AB3     (base 16)		Xiaomi Communications Co Ltd
+				Qinghe Middle street
+				Beijing    100085
+				CN
+
+70-88-4D   (hex)		JAPAN RADIO CO., LTD.
+70884D     (base 16)		JAPAN RADIO CO., LTD.
+				5-1-1 SHIMORENJYAKU,
+				MITAKA-SHI, TOKYO    181-8510
+				JP
+
+28-0D-FC   (hex)		Sony Computer Entertainment Inc.
+280DFC     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -105844,12 +105886,6 @@ DC663A     (base 16)		Apacer Technology Inc.
 				1F., No.32, Zhongcheng Rd., Tucheng Dist.,
 				New Taipei City  Taiwan R.O.C.  236
 				TW
-
-FC-F1-52   (hex)		Sony Corporation
-FCF152     (base 16)		Sony Corporation
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
 
 B0-09-D3   (hex)		Avizia
 B009D3     (base 16)		Avizia
@@ -128023,3 +128059,21 @@ C0C522     (base 16)		ARRIS Group, Inc.
 				Telestenkatu 1
 				LITTOINEN    FI-20660
 				FI
+
+BC-44-B0   (hex)		Elastifile
+BC44B0     (base 16)		Elastifile
+				Abba Even 8
+				Herzlia    4672526
+				IL
+
+78-64-E6   (hex)		Green Motive Technology Limited
+7864E6     (base 16)		Green Motive Technology Limited
+				Room 1106,11 Floor，The XinYuan Square, No 418 Gui ping Road
+				shanghai  shanghai  20233
+				CN
+
+FC-F1-52   (hex)		Sony Computer Entertainment Inc.
+FCF152     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
