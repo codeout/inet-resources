@@ -42494,12 +42494,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				An-Yang City  Kyong-Gi Do  431-080
 				KR
 
-00-0C-C1   (hex)		Cooper Industries Inc.
-000CC1     (base 16)		Cooper Industries Inc.
-				600 Travis, Suite 5800
-				Houston  TX  77002
-				US
-
 00-0C-A3   (hex)		Rancho Technology, Inc.
 000CA3     (base 16)		Rancho Technology, Inc.
 				10783 Bell Court
@@ -51311,6 +51305,12 @@ E4B318     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
+CC-B3-AB   (hex)		shenzhen Biocare Bio-Medical Equipment Co.,Ltd.
+CCB3AB     (base 16)		shenzhen Biocare Bio-Medical Equipment Co.,Ltd.
+				#A735, 7/F, Block A, Shenzhen Mingyou Industrial Products Exhibition & Procurement  Center, Baoyuan Road, Xixiang Sub-district, Bao'an District, 518102 Shenzhen, P.R. China
+				Shenzhen    518000
+				CN
+
 4C-C9-4F   (hex)		Alcatel-Lucent
 4CC94F     (base 16)		Alcatel-Lucent
 				600 March Road
@@ -51323,11 +51323,17 @@ E4B318     (base 16)		Intel Corporate
 				Kanata  Ontario  K2K 2E6
 				CA
 
-CC-B3-AB   (hex)		shenzhen Biocare Bio-Medical Equipment Co.,Ltd.
-CCB3AB     (base 16)		shenzhen Biocare Bio-Medical Equipment Co.,Ltd.
-				#A735, 7/F, Block A, Shenzhen Mingyou Industrial Products Exhibition & Procurement  Center, Baoyuan Road, Xixiang Sub-district, Bao'an District, 518102 Shenzhen, P.R. China
-				Shenzhen    518000
-				CN
+A8-5E-E4   (hex)		12Sided Technology, LLC
+A85EE4     (base 16)		12Sided Technology, LLC
+				1 Penn Plaza, 36th Floor
+				New York  NY  10119
+				US
+
+00-0C-C1   (hex)		Eaton Corporation
+000CC1     (base 16)		Eaton Corporation
+				2300 Badger Drive
+				Waukesha  WI  53188
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -76650,6 +76656,18 @@ B0-7F-B9   (hex)		NETGEAR
 B07FB9     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose    95134
+				US
+
+70-66-1B   (hex)		Sonova AG
+70661B     (base 16)		Sonova AG
+				Laubisruetistrasse 28
+				Staefa    8712
+				CH
+
+9C-9D-5D   (hex)		Raden Inc
+9C9D5D     (base 16)		Raden Inc
+				15 Maiden Lane
+				New York  NY  10038
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
