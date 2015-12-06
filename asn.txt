@@ -4271,7 +4271,7 @@
 4292	QC-MOE-ROCHESTER - Savvis,US
 4293	QC-MOE-DULUTH - Savvis,US
 4294	QC-MOE-ST-CLOUD - Savvis,US
-4295	RESERVED-IPADMIN - Savvis,US
+4295	QC-MOE-DAVENPORT - Savvis,US
 4296	RESERVED-IPADMIN - Savvis,US
 4297	RESERVED-IPADMIN - Savvis,US
 4298	SAVVIS - Savvis,US
@@ -6937,7 +6937,7 @@
 7042	OLYMPUSNET - Townsend Communications, Inc,US
 7043	FASEB-AS - FASEB,US
 7044	CSACNETWORKS - Computer Systems Authority,US
-7045	WEATHER - THE WEATHER CHANNEL,US
+7045	WEATHER - THE WEATHER CHANNEL, LLC,US
 7046	RFC2270-UUNET-CUSTOMER - MCI Communications Services, Inc. d/b/a Verizon Business,US
 7047	TDSYS - Trident Data Sytems,US
 7048	Linha Livre Internet Ltda,BR
@@ -7407,7 +7407,7 @@
 7526	MIND-US Mitsubishi Electric Information Network Corporation,JP
 7527	JPIX Japan Internet Exchange Co., Ltd.,JP
 7529	NETIRD NetIRD Inc.,JP
-7530	IRI BroadBand Tower, Inc.,JP
+7530	BBTOWER-LAB BroadBand Tower, Inc.,JP
 7531	GENOME GenomeNet Project,JP
 7532	GAMANIA-TW Gamania Digital Entertainment Network,TW
 7533	NETO Neto Corporation,TW
@@ -10067,7 +10067,7 @@
 10380	NETXS - Net XS Communications,US
 10381	SWCP-AS - Southwest Cyberport,US
 10382	NPTI - Northwest Pennsylvania Technical Institute,US
-10383	QC-MOE-RESERVED - Qwest Corporation,US
+10383	QC-MOE-GRAND-ISLAND - Qwest Corporation,US
 10384	TVA - Tennessee Valley Authority,US
 10385	EIGER - eiger,US
 10386	IC-ASN - VoyageurWeb,US
@@ -34788,7 +34788,7 @@
 36344	ADVAN-CAST - Advan Technologies LLC,US
 36345	SOAPWAREINC - SOAPware, Inc.,US
 36346	RETAILDATA-RVA - Retail Data, LLC,US
-36347	WUNDERGROUND - THE WEATHER CHANNEL,US
+36347	WUNDERGROUND - THE WEATHER CHANNEL, LLC,US
 36348	WPC-ASN1 - Winter Park Construction,US
 36349	3ESSENTIALS - 3Essentials Inc.,US
 36350	AS-DEVEREUX - The Devereux Foundation,US
@@ -66989,7 +66989,7 @@
 198608	SYMBION-AS Symbion A/S,DK
 198609	BFA-AS Baltic Financial Agency Bank Opened-Joint Stock Company,RU
 198610	BEGET-AS Beget Ltd,RU
-198611	SYS-COM-AS M-Networks Sp. z o.o.,PL
+198611	M-NETWORKS-AS M-Networks Sp. z o.o.,PL
 198612	WEKUDATA Wekudata AB,SE
 198613	UMG-AS GMINA MIASTA GDANSKA URZAD MIEJSKI W GDANSKU,PL
 198614	AZERO Azero A/S,DK
@@ -70418,7 +70418,7 @@
 203731	DKT Decathlon SA,FR
 203732	DVBERN DV Bern AG,CH
 203733	ITPARTNER-NO IT Partner Tromso AS,NO
-203734	HOSTSHIELD-AS Bandaryk Pavel,RU
+203734	HOSTSHIELD-AS Hostshield AS,RU
 203735	-Reserved AS-,ZZ
 203736	AFA AFA Sjukforsakringsaktiebolag,SE
 203737	NOVAMEDIA-AS OU NOVAMEDIA,FI
@@ -73067,7 +73067,7 @@
 264265	a-guedes propaganda,BR
 264266	L & K INFORMATICA LTDA - ME,BR
 264267	TaboadoNET Comunicação e Multimídia LTDA-ME,BR
-264268	Teleturbo Servicos de Telecomunicacoes LTDA,BR
+264268	Teleturbo Telecomunicacoes,BR
 264269	L & G COMERCIO E SERVIÇO LTDA ME,BR
 264270	NETCOL - SERVIÇO DE PROVEDORES DE ACESSO LTDA,BR
 264271	Tribunal Regional Eleitoral do Rio Grande do Norte,BR
@@ -75295,3 +75295,10 @@
 394721	MINI-CIRCUITS - MINI-CIRCUITS,US
 394722	NIMBIX-1 - Nimbix, Inc.,US
 394723	FCS-AS-1 - Fulton County Schools,US
+394724	TRAVELPORT - Travelport Operations, Inc.,US
+394725	CALICO - Calico Life Sciences LLC,US
+394726	TRAVELPORT - Travelport Operations, Inc.,US
+394727	NODISTO - Nodisto IT, LLC,US
+394728	CRESTVIEW - Crestview Cable Communications,US
+394729	NPIASN - NeoPollard Interactive LLC,US
+394730	LEADFUSION - Leadfusion, Inc.,US
