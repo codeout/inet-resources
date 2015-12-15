@@ -373,7 +373,7 @@
 372	AS372 - National Aeronautics and Space Administration,US
 373	MITRE-AS-4 - The MITRE Corporation,US
 374	BROOKS-AS - 754th Electronic Systems Group,US
-375	TIETOTIE-AS Tieto Finland Oy, P.O.Box 38. FI-00441 Helsinki Finland.,FI
+375	TIETOTIE-AS Tieto Oyj,FI
 376	RISQ-AS - Reseau  d'informations scientifiques du Quebec (RISQ),CA
 377	SNLA-NET-AS - Sandia National Laboratories,US
 378	MACHBA-AS ILAN,IL
@@ -2030,9 +2030,9 @@
 2035	ATK-AS2 - Alliant Techsystems,US
 2036	JOANNEUM RESEARCH,AT
 2037	CSUFRESNO - California State University at Fresno,US
-2038	IT-HEP Italian Hepnet,EU
-2039	INFN-AS2 Instituto Nazionale Fisica Nucleare (INFN),EU
-2040	INFN-AS3 Instituto Nazionale Fisica Nucleare (INFN),EU
+2038	HEPNET Istituto Nazionale di Fisica Nucleare (INFN),IT
+2039	INFN-AS2 Instituto Nazionale Fisica Nucleare (INFN),IT
+2040	INFN-AS3 Instituto Nazionale Fisica Nucleare (INFN),IT
 2041	STNORBERTCOLLEGE - St. Norbert College,US
 2043	CIS-NET CIS-NET TESTNETWORK,NL
 2044	IINET-2044 - Infinity Internet, Inc.,US
@@ -6793,7 +6793,7 @@
 6893	SAITIS-NETWORK Saitis Network, N.Desir,CH
 6894	KDDI KDDI Europe Ltd,GB
 6895	ESPANIX ASOCIACION ESPANIX,ES
-6898	INTERNETONE_CH InternetONE SA,CH
+6898	INTERNETONE_CH Swiss Engineering Laboratories SA,CH
 6899	NETSTORE-AS Daisy Data Centre Solutions Limited,GB
 6900	AS6900 Hewlett Packard GmbH,DE
 6903	ZENON-AS ZENON N.S.P.,RU
@@ -9794,7 +9794,7 @@
 10103	HKBN-AS-AP HK Broadband Network Ltd.,HK
 10104	INTERNETDEPOT Internet Depot,AU
 10105	OMNI OMNIconnect Pty Ltd,AU
-10106	GIPPSTAFE-AS-AP Central Gippsland Institute of TAFE,AU
+10106	GIPPSTAFE-AS-AP Federation Training,AU
 10107	AASTARNET-PH 141 Ayala Street  11th Floor  Unit 1108,PH
 10108	DRESDNERHK-AP DRESDNER KLEINWORT WASSERSTEIN,HK
 10109	TOPNET-AS-MN-AP Topica LLC, Internet Service Provider,Ulaanbaatar, Mongolia,MN
@@ -15188,7 +15188,7 @@
 15731	RELCOM "Relcom Group" PJSC,RU
 15732	IBERBANDA-SPAIN Iberbanda S.A.,ES
 15733	ZUMTOBEL-AS Zumtobel Group AG,AT
-15734	IDH Telvent Global Services S.A.,ES
+15734	IDH Itconic, S.A.,ES
 15735	DATASTREAM-NET GO p.l.c.,MT
 15736	ARNA-AS JSC "Arna",KZ
 15738	UAEXPRESS TOV BF Express Ltd,UA
@@ -32590,7 +32590,7 @@
 33938	DIGITALSAFE-AS ICT Concept BV,FR
 33939	GREENERY-AS The Greenery BV,NL
 33940	WICHMANN-AS Wichmann Internet Services GmbH,DE
-33941	GCONNECT Challenger Technology Ltd,GB
+33941	GCONNECT GConnect Technology Ltd,GB
 33942	AGACTEL-AS AGACTEL S.p.a.,IT
 33943	CBEZDRAT-AS Cesky Bezdrat, s.r.o.,CZ
 33944	FOKUS-SATCOM Fraunhofer FOKUS CC SatCom,DE
@@ -33035,7 +33035,7 @@
 34433	UTEL-AS UTEL SAS,FR
 34434	RU-SCX-AS Server-Center JSC,RU
 34435	EVERNET-AS Tomasz Tomaszewski EVERNET,PL
-34436	-Reserved AS-,ZZ
+34436	,
 34437	CALLCOMM04 Vyke Telecoms Limited,GB
 34438	PROFZONE Erich Hohermuth,CH
 34439	GFD-AS OBI Smart Technologies GmbH,DE
@@ -34055,7 +34055,7 @@
 35581	SEASUNTEL Seasuntel, S.L.,ES
 35583	UKRTVIN-AS UKRTVIN LLC,UA
 35584	MILLENNIUM-IT-AS Millennium IT SRL,RO
-35585	KOMNET-AS FHU KOMNET,PL
+35585	KOMNET-AS FHU Komnet Grzegorz Poltorak,PL
 35587	ASBELRW Public Association "Belarusian Railways",BY
 35588	LIS Telecompany LiS LTD,UA
 35589	NIANET-AS-L3-CUST Nianet A/S,DK
@@ -42064,7 +42064,7 @@
 44104	LCJ-AS LCJ s.r.o.,CZ
 44105	DROSIBA-AS LF Dati SIA,LV
 44106	VIO-NET-INTERNET-PROVIDER-AS Vio-Net SRL,RO
-44109	PROJECT-A-AS Stroy-Industria-1 LLC,UA
+44109	PROJECT-A-AS Stroy-Industriya-1 LLC,UA
 44110	WALSALL Walsall Metropolitan Borough Council,GB
 44111	CGI-NET CGI Sverige AB,SE
 44112	SWEB-AS SpaceWeb Ltd,RU
@@ -43193,7 +43193,7 @@
 45344	IIUM-MY International Islamic University Of Malaysia,MY
 45345	NAUTILE-NC-AS-AP Nautile,NC
 45346	CVT95013-AS-AP China Virtual Telecom (Hong Kong) Limited,HK
-45347	UGL-AS-AP UGL Limited,AU
+45347	DTZAPL-AS-AP DTZ Australia Pty Ltd,AU
 45348	CHUANWEI-AS-KH Regency Square, Complex B,KH
 45349	TFL-AS-AP Telecom Fiji Ltd,FJ
 45350	HCCBPL-AS Hindustan Coca-Cola Beverages Pvt Ltd,IN
@@ -47436,7 +47436,7 @@
 49803	PERMTELECOM-AS Permtelecom LTD,UA
 49804	ENTER-AS ZAO Prestige-Internet,RU
 49805	MOLSA-AS Minstry Of Labour for Kingdom of Saudi Arabia,SA
-49806	-Reserved AS-,ZZ
+49806	,
 49807	LANDMARK-PLC LANDMARK PLC,GB
 49808	POWERSPEED-AS Energie AG Oberoesterreich Data GmbH,AT
 49809	WEBIT WebIT AS,RU
@@ -48108,7 +48108,7 @@
 50497	ORLICOM-AS Orlicom Ltd,CZ
 50498	LIPETSK-AS JSC "ER-Telecom Holding",RU
 50499	TELEPARK-AS Telepark LLC,UA
-50500	-Reserved AS-,ZZ
+50500	,
 50501	KTIMATOLOGIO-AS Ktimatologio SA,GR
 50502	GSRAN-AS Kamchatka Branch, Geophysical Service, Russian Academy of Science,RU
 50503	TP-AS Tampereen Puhelin Oy,FI
@@ -50283,7 +50283,7 @@
 52737	Floriani Informatica Ltda ME,BR
 52738	-Reserved AS-,ZZ
 52739	PROVEDOR INTERSOUSA LTDA,BR
-52740	Centro deGestão da Tecnologia da Informação-PRODAP,BR
+52740	PRODAP - C. de Gestão da Tecnologia da Informação,BR
 52741	Macedo e Castro Informática LTDA,BR
 52742	HELP INTERNET,BR
 52743	Twister Soft Net Ltda,BR
@@ -53186,6 +53186,7 @@
 55704	WIDEOUT-AS-AP WIDEOUT Technology Services, Inc.,PH
 55705	INDIATIMES-IN I World Tower, DLF CITY,IN
 55707	SIMTRONIC-AS-AP Simtronic Technologies Pty Ltd,AU
+55708	SADIATEC-BD House# 2, Road# 7, Sector# 3,BD
 55709	CHN-LYCA-BPO-IN Block 7, 1st Floor, DLF - IT- SEZ,IN
 55710	PNB-NET-MY 201-A, JALAN TUN RAZAK,MY
 55711	BRAINPULSE-IN Brainpulse Technologies Pvt. Ltd.,IN
@@ -53859,7 +53860,7 @@
 56450	ALBERON_AS Alberon Letohrad s.r.o.,CZ
 56451	TELEKEY-S-AS Telekey-S Ltd,RU
 56452	BEONET Beonet,RS
-56453	SMA Secure Hosting Media B.V.,NL
+56453	-Reserved AS-,ZZ
 56454	TILDE Tilde SIA,LV
 56455	TECHNIPNET TECHNIPNET SAS,FR
 56456	C2NET C2NET s.r.o.,CZ
@@ -54042,6 +54043,7 @@
 56640	BAIN-AND-COMPANY-INC-UNITED-KINGDOM BAIN AND COMPANY INC. UNITED KINGDOM,GB
 56641	ANIMASGR ANIMA SGR S.P.A.,IT
 56642	-Reserved AS-,ZZ
+56643	UZAKNET Uzak Yazilim Ve Bilisim Sistemleri Tic. Ltd. Sti.,TR
 56644	SYNFS-AS Synergy Financial Systems Ltd,GB
 56645	VLINE-PL Vline SC,PL
 56646	SSINET-AS SLASKIE SIECI INTERNETOWE Sp. z o.o.,PL
@@ -54058,6 +54060,7 @@
 56657	WANBOUND-AS Wanbound BV,NL
 56658	ISI-AS ISI Sp. z o.o.,PL
 56659	-Reserved AS-,ZZ
+56660	POOYANPISHROLARESTAN Pooyan Pishro Larestan Technical Engineering Company Ltd,IR
 56661	SOFICA-AS Sofica Group JSC,BG
 56662	EUTPNET e-utp.net Marcin Gondek,PL
 56663	BEREJNOY-AS Svarog LLC,UA
@@ -57505,7 +57508,7 @@
 60239	FIRMTRADE-AS Firm Trade Corporation Ltd.,NL
 60240	VINGE-AS Advokatfirman Vinge KB,SE
 60241	HUBS-EDIN High-Speed Universal Broadband Services C.I.C.,GB
-60242	CHALLENGER Challenger Technology Ltd,GB
+60242	CHALLENGER GConnect Technology Ltd,GB
 60243	GM-RADOM Gmina Miasta Radomia,PL
 60244	DK-SOSI SOS International A/S,DK
 60245	NET-23NET-AS Sannikov Kirill Vladimirovich,RU
@@ -57721,7 +57724,7 @@
 60455	ABC "ABC" UCRANIAN-FRANCH JOINT VENTURE,UA
 60456	ONE-TELECOM-AS One Telecom SRL,MD
 60457	MTITC-BG Ministry of Transport, Information Technology and Communications,BG
-60458	ASN-XTUDIONET XTUDIO NETWORKS SLU,ES
+60458	ASN-XTUDIONET XTUDIO NETWORKS S.L.U,ES
 60459	FLEXLINE-AS OOO Flexline-N,RU
 60460	ASN-DOTNICE dotNice Italia srl,IT
 60461	COMBAHTON Maxim Gade PE,DE
@@ -60962,6 +60965,7 @@
 64071	DCPL-IN DEV COLLECTION PRIVATE LIMITED,IN
 64072	EVOLUTIONNET-BD MD. Majethul Hoque Maruf t/a EVOLUTION NET,BD
 64073	VETTA Vetta Technologies Ltd,NZ
+64074	ABS-AS-AP Golam Mostofa t/a Alpha Broadway System,BD
 64198	ESET-LLC - ESET LLC,US
 64199	JNK-AS - JNK Securities Corp.,US
 64200	VIVIDHOSTING - Vivid Hosting,US
@@ -65065,6 +65069,7 @@
 134939	VIJAYAHIRE2012-AS Lionet Solutions,IN
 134940	FBDNETCOM-AS Faridabad Netcom Pvt. Ltd.,IN
 134941	ICN-AS INSTANT CABLE NETWORK PVT LTD,IN
+134944	RAFT-AS RAFTAAR INFRA SERVICES PVT LTD,IN
 134948	DATACOM-AS-CCAAS Datacom CCaas ASN,AU
 134949	ALLCOMNETWORKS-AS-AP ALLCOM NETWORKS PTY LTD,AU
 134950	MONTE-AS-AP MONTE SANT' ANGELO MERCY COLLEGE LIMITED,AU
@@ -65090,7 +65095,10 @@
 134970	TUHINENTERPRISE-AS-AP Raisul Islam Tuhin t/a Tuhin Enterprise,BD
 134971	DOLYITCORNER-AS-AP Md. Maniruzzaman Manir t/a Doly IT Corner,BD
 134972	OMEGA-AS-AP Tanvir Shakil Joy t/a Omega Technologies,BD
-134973	XTECH-AS-AP Nazmul Ahsan t/a X-Press Technology,BD
+134973	XTECH-AS-AP X-Press Technology,BD
+134974	OAKLEIGH-AS-FOR-HK2 Oakleigh Networks,PH
+134975	RTT-AS-AP RateGain Travel Technologies Private Limited,IN
+134976	MATL-AS-AP Myint & Associates Telecommunications Ltd,MM
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -66510,7 +66518,7 @@
 198053	AMTEL VECTRA S.A.,PL
 198054	IXX-IT IXX IT-partner AB,SE
 198055	NEONET-AS NEONET SA,PL
-198056	TELEOKAKOM LLC "Teleoka Com",RU
+198056	TELEOKA-KOM-AS TeleOka Kom Ltd.,RU
 198057	-Reserved AS-,ZZ
 198058	-Reserved AS-,ZZ
 198059	CMEDIA-AS C-media LLC,RU
@@ -69135,7 +69143,7 @@
 201030	GKOVD Federal state unitary enterprise "Public corporation for organisation of air traffic in Russian Federation",RU
 201031	SMARTWAVESNETWORK Smart Waves for Information Technology Ltd,IQ
 201032	ASPASIFIK PASIFIK TELEKOM ILETICIM SANAYI TICARET LTD STI,TR
-201033	THEHOSTGUYS JJ&D Limited,GB
+201033	THEHOSTGUYS Onion Solutions Limited,GB
 201034	RUTEL-AS OOO "RuTel",RU
 201035	REISENBAUEREDV Stefan Reisenbauer,AT
 201036	SYSTEMYDK-AS Systemy Dawid Kretkowski,PL
@@ -70336,6 +70344,11 @@
 203261	ASCOR-AS ASCOR Kordian Zaprzalski,PL
 203262	INNOVATEBT-AS Innovate Business Technology Ltd,IE
 203263	MFNETCOM-AS ADAM KRAWCEWICZ MAGAZYN FABRYCZNY NETCOM,PL
+203545	SHIRSHOVAAO-AS Shirshova Alina Oleksandrovna FOP,UA
+203546	NAEGELE-AS Naegele IT-Service GmbH,DE
+203547	NEXT2I NEXT2i SARL,FR
+203548	QAVAT N4 Qavat AB,SE
+203549	ASSECO-AS S.C. Asseco See SRL,RO
 203550	I2NET i2net cz s.r.o.,CZ
 203551	-Reserved AS-,ZZ
 203552	NOINTERNET Internet Elephants LTD,NO
@@ -73248,7 +73261,7 @@
 264342	UPNET PROVEDOR DE ACESSO E TELECOM,BR
 264343	Empasoft Ltda .Me,BR
 264344	AMAZONET SERVICOS DE INFORMATICA LTDA - ME,BR
-264345	BRUNO ARAUJO SILVA - ME,BR
+264345	CONECTA PROVEDOR DE INTERNET LTDA. - ME,BR
 264346	SOFTWAY INFORMATICA S/C LTDA,BR
 264347	Agora Soluções em Telecomunicações Ltda,BR
 264348	Webcenter Informática,BR
@@ -73627,6 +73640,11 @@
 265190	Instituto Brasileiro de Planejamento Tributário,BR
 265191	Sapucaia Comercio e informatica ltda - me,BR
 265192	F. A. ROCHA E COMERCIO,BR
+265193	CMPC CELULOSE DO BRASIL LTDA,BR
+265194	Arlindo Francisco de Souza Junior ME,BR
+265195	NEUZA BENEDITO DA SILVA ME,BR
+265196	GLOBAL SUL INFORMÁTICA LTDA - ME,BR
+265197	são miguel telecomunicações e informatica ltda - m,BR
 265501	CONVERGIA DE MEXICO S.A. DE C.V.,MX
 265502	CENTRAL DE CORRETAJES SA DE CV,MX
 265517	ESTRATEGIAS DE COMUNICACIÓN SATELITAL SA DE CV,MX
