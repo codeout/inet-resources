@@ -25403,47 +25403,17 @@ A45C27     (base 16)		Nintendo Co., Ltd.
 				KYOTO  KYOTO  601-8501
 				JP
 
-54-44-08   (hex)		Nokia Corporation
-544408     (base 16)		Nokia Corporation
-				Joensuunkatu 7
-				Salo  Varsinais-Suomi  24101
-				FI
-
 D8-FB-5E   (hex)		ASKEY COMPUTER CORP
 D8FB5E     (base 16)		ASKEY COMPUTER CORP
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
 
-18-86-AC   (hex)		Nokia Danmark A/S
-1886AC     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790V
-				DK
-
-00-21-FE   (hex)		Nokia Danmark A/S
-0021FE     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790V
-				DK
-
-00-1D-FD   (hex)		Nokia Danmark A/S
-001DFD     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-1E-A3   (hex)		Nokia Danmark A/S
-001EA3     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-22-66   (hex)		Nokia Danmark A/S
-002266     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
+54-44-08   (hex)		Nokia Corporation
+544408     (base 16)		Nokia Corporation
+				Joensuunkatu 7
+				Salo  Varsinais-Suomi  24101
+				FI
 
 00-17-B0   (hex)		Nokia Danmark A/S
 0017B0     (base 16)		Nokia Danmark A/S
@@ -25457,11 +25427,29 @@ D8FB5E     (base 16)		ASKEY COMPUTER CORP
 				Copenhagen V    DK-1790
 				DK
 
-00-25-48   (hex)		Nokia Danmark A/S
-002548     (base 16)		Nokia Danmark A/S
+18-86-AC   (hex)		Nokia Danmark A/S
+1886AC     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790V
+				DK
+
+00-21-FE   (hex)		Nokia Danmark A/S
+0021FE     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790V
+				DK
+
+00-22-66   (hex)		Nokia Danmark A/S
+002266     (base 16)		Nokia Danmark A/S
 				Frederikskaj
 				Copenhagen V    DK-1790
 				DK
+
+DC-B3-B4   (hex)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+				158 Nan Hai Road, TEDA
+				Tianjin    300457
+				CN
 
 C8-D1-0B   (hex)		Nokia Corporation
 C8D10B     (base 16)		Nokia Corporation
@@ -25481,23 +25469,11 @@ F4F5A5     (base 16)		Nokia Corporation
 				Salo    24101
 				FI
 
-DC-B3-B4   (hex)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
-DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
-				158 Nan Hai Road, TEDA
-				Tianjin    300457
-				CN
-
-00-1D-98   (hex)		Nokia Danmark A/S
-001D98     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-11-9F   (hex)		Nokia Danmark A/S
-00119F     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
+3C-C2-43   (hex)		Nokia Corporation
+3CC243     (base 16)		Nokia Corporation
+				Joensuunkatu 7
+				Salo  NA  24101
+				FI
 
 00-15-A0   (hex)		Nokia Danmark A/S
 0015A0     (base 16)		Nokia Danmark A/S
@@ -25517,11 +25493,35 @@ DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co
 				Copenhagen V    DK-1790
 				DK
 
-3C-C2-43   (hex)		Nokia Corporation
-3CC243     (base 16)		Nokia Corporation
-				Joensuunkatu 7
-				Salo  NA  24101
-				FI
+00-25-48   (hex)		Nokia Danmark A/S
+002548     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1D-FD   (hex)		Nokia Danmark A/S
+001DFD     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1E-A3   (hex)		Nokia Danmark A/S
+001EA3     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1D-98   (hex)		Nokia Danmark A/S
+001D98     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-11-9F   (hex)		Nokia Danmark A/S
+00119F     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
 
 18-A6-F7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 18A6F7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -25565,6 +25565,12 @@ AC61EA     (base 16)		Apple, Inc.
 				Seongnam-si  Gyeonggi-do  463-867
 				KR
 
+F4-ED-5F   (hex)		SHENZHEN KTC TECHNOLOGY GROUP 
+F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP 
+				Wuhe Street
+				Shenzhen  Guangdong  518129
+				CN
+
 94-76-B7   (hex)		Samsung Electronics Co.,Ltd
 9476B7     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -25583,23 +25589,17 @@ B47443     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
-30CBF8     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 00-0B-A2   (hex)		Sumitomo Electric Industries,Ltd
 000BA2     (base 16)		Sumitomo Electric Industries,Ltd
 				1-1-3, Shimaya, Konohana-ku
 				Osaka    554-0024
 				JP
 
-F4-ED-5F   (hex)		SHENZHEN KTC TECHNOLOGY GROUP 
-F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP 
-				Wuhe Street
-				Shenzhen  Guangdong  518129
-				CN
+30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
+30CBF8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 2C-4D-79   (hex)		GoerTek Inc.
 2C4D79     (base 16)		GoerTek Inc.
@@ -25625,12 +25625,6 @@ F03404     (base 16)		TCT mobile ltd
 				Hui Zhou  Guang Dong  516006
 				CN
 
-AC-9B-0A   (hex)		Sony Computer Entertainment Inc.
-AC9B0A     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 FC-0F-E6   (hex)		Sony Computer Entertainment Inc.
 FC0FE6     (base 16)		Sony Computer Entertainment Inc.
 				1-7-1 Konan
@@ -25643,10 +25637,22 @@ FC0FE6     (base 16)		Sony Computer Entertainment Inc.
 				Minato-ku  Tokyo  108-0075
 				JP
 
+AC-9B-0A   (hex)		Sony Computer Entertainment Inc.
+AC9B0A     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
 00-35-1A   (hex)		Cisco Systems, Inc
 00351A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+00-A0-B8   (hex)		NetApp
+00A0B8     (base 16)		NetApp
+				2001 Danfield Ct.
+				Fort Collins  CO  80525
 				US
 
 9C-D4-8B   (hex)		Innolux Technology Europe BV
@@ -25655,11 +25661,11 @@ FC0FE6     (base 16)		Sony Computer Entertainment Inc.
 				Heerlen    6411NK
 				NL
 
-00-A0-B8   (hex)		NetApp
-00A0B8     (base 16)		NetApp
-				2001 Danfield Ct.
-				Fort Collins  CO  80525
-				US
+54-5A-A6   (hex)		Espressif Inc.
+545AA6     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 DC-E8-38   (hex)		CK Telecom (Shenzhen) Limited
 DCE838     (base 16)		CK Telecom (Shenzhen) Limited
@@ -25667,11 +25673,11 @@ DCE838     (base 16)		CK Telecom (Shenzhen) Limited
 				Shenzhen  Guangdong  518057
 				CN
 
-54-5A-A6   (hex)		Espressif Inc.
-545AA6     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Road, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
+B0-75-4D   (hex)		Alcatel-Lucent
+B0754D     (base 16)		Alcatel-Lucent
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 BC-8D-0E   (hex)		Alcatel-Lucent
 BC8D0E     (base 16)		Alcatel-Lucent
@@ -25711,12 +25717,6 @@ A47B2C     (base 16)		Alcatel-Lucent
 
 BC-6B-4D   (hex)		Alcatel-Lucent
 BC6B4D     (base 16)		Alcatel-Lucent
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-B0-75-4D   (hex)		Alcatel-Lucent
-B0754D     (base 16)		Alcatel-Lucent
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
@@ -25769,12 +25769,6 @@ D8803C     (base 16)		Anhui Huami Information Technology Company Limited
 				Hefei  Anhui  230088
 				CN
 
-A8-E3-EE   (hex)		Sony Computer Entertainment Inc.
-A8E3EE     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama,
-				Minato-ku  Tokyo  107-0062
-				JP
-
 00-1F-A7   (hex)		Sony Computer Entertainment Inc.
 001FA7     (base 16)		Sony Computer Entertainment Inc.
 				2-6-21 Minami-Aoyama,
@@ -25785,6 +25779,12 @@ A8E3EE     (base 16)		Sony Computer Entertainment Inc.
 001315     (base 16)		Sony Computer Entertainment Inc.
 				2-6-21 Minami-Aoyama,
 				Minato-Ku  Tokyo  107-0062
+				JP
+
+A8-E3-EE   (hex)		Sony Computer Entertainment Inc.
+A8E3EE     (base 16)		Sony Computer Entertainment Inc.
+				2-6-21 Minami-Aoyama,
+				Minato-ku  Tokyo  107-0062
 				JP
 
 70-3C-03   (hex)		RadiAnt Co.,Ltd
@@ -25803,6 +25803,12 @@ F0D2F1     (base 16)		Amazon Technologies Inc.
 583277     (base 16)		Reliance Communications LLC
 				555 Wireless Blvd
 				Hauppauge  NY  11788
+				US
+
+00-8E-73   (hex)		Cisco Systems, Inc
+008E73     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -76806,6 +76812,18 @@ CCB11A     (base 16)		Samsung Electronics Co.,Ltd
 40476A     (base 16)		AG Acquisition Corp. d.b.a. ASTRO Gaming
 				655 4th St.
 				San Francisco  CA  94107
+				US
+
+A4-BF-01   (hex)		Intel Corporate
+A4BF01     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+7C-47-7C   (hex)		IEEE Registration Authority
+7C477C     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -128598,4 +128616,16 @@ DC4D23     (base 16)		MRV Comunications
 0C5A9E     (base 16)		Wi-SUN Alliance
 				275 Tennant Avenue, Suite 202
 				Morgan Hill  CA  95037
+				US
+
+9C-25-50   (hex)		Toptech Systems, Inc.
+9C2550     (base 16)		Toptech Systems, Inc.
+				1124 Florida Central Parkway
+				Longwood  FL  32750
+				US
+
+00-C1-64   (hex)		Cisco Systems, Inc
+00C164     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
