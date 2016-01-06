@@ -102884,7 +102884,13 @@ E85659     (base 16)		Advanced-Connectek Inc.
 88-01-F2   (hex)		Vitec System Engineering Inc.
 8801F2     (base 16)		Vitec System Engineering Inc.
 				203203 Kita-shinagawa
-				Shinagawa-ku    140-0001
+				Shinagawa-ku  Tokyo  140-0001
+				JP
+
+FC-08-4A   (hex)		FUJITSU LIMITED
+FC084A     (base 16)		FUJITSU LIMITED
+				Mushashi-kosuge Tower Place 13F
+				Kawasaki  Kanagawa  211-0063
 				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -128989,3 +128995,9 @@ C4BED4     (base 16)		Avaya Inc
 				Keilalahdentie 4
 				Espoo    02150
 				FI
+
+EC-13-DB   (hex)		Juniper Networks
+EC13DB     (base 16)		Juniper Networks
+				1194 N. Mathilda Avenue
+				Sunnyvale  CA  94089
+				US
