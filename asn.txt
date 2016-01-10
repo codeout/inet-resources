@@ -14425,7 +14425,7 @@
 14916	SUNGARDAS - SunGard Computer Services LLC,US
 14917	FBS-NET - Future Business Solutions, Inc.,US
 14918	UNISERVE-EAST - Uniserve On Line,CA
-14919	NETLEDGER - Netsuite Inc.,US
+14919	NETSUITE-PROD - Netsuite Inc.,US
 14920	BPOP - Banco Popular,PR
 14921	EMBARQ-HDRV - Embarq Corporation,US
 14922	IPSOFT-US-ASN1 - IPsoft,US
@@ -16008,7 +16008,7 @@
 16647	PERIMETERWATCH - Perimeterwatch Technologies, INC,US
 16648	PCSIA-NET - Professional Computer Solutions, Inc.,US
 16649	IUPR-AS - Interamerican University of Puerto Rico,PR
-16650	-Reserved AS-,ZZ
+16650	AS-MERCHANTS-GATE - Merchants Gate Capital, L.P.,US
 16651	SOCKET-2 - Socket Internet Services Corporation,US
 16652	RISEUP - Riseup Networks,US
 16653	CVENT - Cvent, Inc.,US
@@ -25404,7 +25404,7 @@
 26430	LASHGROUP-A - Lash Group,US
 26431	SDS-WDFC - Spectrum Data Services,US
 26432	HSBGROUP - Hartford Steam Boiler Inspection & Insurance Company,US
-26433	-Reserved AS-,ZZ
+26433	ETP-19-26433 - ERGOS Technology Partners,US
 26434	Dynamic Air Spectrum N.V.,CW
 26435	LITLECO1 - Litle & Co.,US
 26436	-Reserved AS-,ZZ
@@ -34513,7 +34513,7 @@
 36077	DYNAMICHOSTINGBIZ - Dynamic ASP Inc.,CA
 36078	-Reserved AS-,ZZ
 36079	RESULTS - Results,US
-36080	TAGGED-ASN - Tagged Inc.,US
+36080	TAGGED-ASN - IFWE INC,US
 36081	STATE-OF-COLORADO-MNT-NETWORK - State of Colorado General Government Computer,US
 36082	BIDS - BIDS Trading L.P.,US
 36083	ADVISERCOMP - Adviser Compliance Associates LLC,US
@@ -56546,7 +56546,6 @@
 59237	HKNIS-AS-AP Hong Kong Network Information Service,HK
 59238	INOX-TH Innovative Extremist Co., Ltd.,TH
 59239	ITELLIMITED-AS-AP iTel Limited,BD
-59240	,
 59241	GSALLC-AS-SG Goldman Sachs (Asia) L.L.C.,SG
 59242	TBL-AS-AP Tullow Bangladesh Ltd.,BD
 59243	ASI-PH 3rd Floor, Kings Court 1, Chino Roces Avenue,PH
@@ -65204,7 +65203,7 @@
 135019	AMARNETSYSTEM-AS-AP Ashiqur Rahaman t/a Amar Net System,BD
 135020	AURORATECHNOLOGIES-AS-AP Redwan Un Noor T/A Aurora Technologies,BD
 135021	STTCONNECT-AS-AP GLOBALROAM PTE LTD,SG
-135022	AVETRIA-AS-AP ARNOLD JOSEFS TOLL t/a AVETRIA WIRELESS,AU
+135022	AVETRIA-AS-AP AVETRIA WIRELESS,AU
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -75768,3 +75767,5 @@
 394806	LITESTREAM-ASBGP112315 - Litestream Holdings, LLC.,US
 394807	PGAC-ASN1 - Permanent General Companies, Inc,US
 394808	DEMAN-AS - DEMANDWARE,US
+394809	PHRD - PHRD,CA
+394810	IVIE-FM-ASN - Ivie & Associates, Inc,US
