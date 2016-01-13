@@ -13541,12 +13541,6 @@ A8CE90     (base 16)		CVC
 				Sungnam  Kyunggi-do  463-825
 				KR
 
-00-17-06   (hex)		Techfaith Wireless Communication Technology Limited.
-001706     (base 16)		Techfaith Wireless Communication Technology Limited.
-				2/F M8 West No.1 Jiu Xian Qiao Dong Road,
-				Beijing    100016
-				CN
-
 00-16-FA   (hex)		ECI Telecom Ltd.
 0016FA     (base 16)		ECI Telecom Ltd.
 				30 Hasivim St.
@@ -25919,11 +25913,29 @@ A0043E     (base 16)		Parker Hannifin Manufacturing Germany GmbH & Co. KG
 				Kaarst  Select State  41564
 				DE
 
+00-17-06   (hex)		Techfaithwireless Communication Technology Limited.
+001706     (base 16)		Techfaithwireless Communication Technology Limited.
+				2/F M8 West No.1 Jiu Xian Qiao Dong Road,
+				Beijing    100016
+				CN
+
 30-F6-B9   (hex)		Ecocentric Energy
 30F6B9     (base 16)		Ecocentric Energy
 				E3 The Innovation Centre, 9 De Laeter Way, Technology Park
 				Bentley  Western Australia  6102
 				AU
+
+1C-3A-DE   (hex)		Samsung Electronics Co.,Ltd
+1C3ADE     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  443742
+				KR
+
+00-42-68   (hex)		Cisco Systems, Inc
+004268     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -48188,12 +48200,6 @@ A03E6B     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				WESTERN  AUSTRALIA  6021
 				AU
 
-00-A0-F4   (hex)		GE
-00A0F4     (base 16)		GE
-				W-657
-				WAUKESHA  WI  53188
-				US
-
 00-A0-08   (hex)		NETCORP
 00A008     (base 16)		NETCORP
 				8 PLACE OF COMMERCE--STE #200
@@ -51639,6 +51645,24 @@ F0-C7-7F   (hex)		Texas Instruments
 F0C77F     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+48-83-C7   (hex)		Sagemcom Broadband SAS
+4883C7     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+00-A0-F4   (hex)		GE
+00A0F4     (base 16)		GE
+				W-657
+				WAUKESHA  WI  53188
+				US
+
+00-CA-E5   (hex)		Cisco Systems, Inc
+00CAE5     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -66233,12 +66257,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Flawil  9230  SG
 				CH
 
-00-11-74   (hex)		Wibhu Technologies, Inc.
-001174     (base 16)		Wibhu Technologies, Inc.
-				1561 Blackhawk Drive
-				Sunnyvale  CA  94087
-				US
-
 00-11-6F   (hex)		Netforyou Co., LTD.
 00116F     (base 16)		Netforyou Co., LTD.
 				1121-4 3F,  Kwanyang-dong, Dongan-gu
@@ -77114,17 +77132,23 @@ D463FE     (base 16)		Arcadyan Corporation
 				Hsinchu City  Hsinchu  30071
 				TW
 
+94-66-E7   (hex)		WOM Engineering
+9466E7     (base 16)		WOM Engineering
+				13F., No. 192, Sec. 2, Zhongxing Rd., Xindian Dist.
+				New Taipei City  Taiwan  231
+				TW
+
 F8-A1-88   (hex)		LED Roadway Lighting
 F8A188     (base 16)		LED Roadway Lighting
 				115 Chain Lake Dr.
 				Halifax  NS  B3S 1B3
 				CA
 
-94-66-E7   (hex)		WOM Engineering
-9466E7     (base 16)		WOM Engineering
-				13F., No. 192, Sec. 2, Zhongxing Rd., Xindian Dist.
-				New Taipei City  Taiwan  231
-				TW
+00-11-74   (hex)		 Mojo Networks, Inc.
+001174     (base 16)		 Mojo Networks, Inc.
+				339 N.Bernardo Ave
+				Mountain View  CA  94043
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -87007,12 +87031,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				NO. 211, WEN HWA 2RD., KUEI SHAN HSIANG, TAIPEI, SHIEN
 				TAO YUAN    333
 				TW
-
-00-26-97   (hex)		Cheetah Technologies, L.P.
-002697     (base 16)		Cheetah Technologies, L.P.
-				381 Mansfield Avenue
-				Pittsburgh  PA  15220
-				US
 
 00-26-98   (hex)		Cisco Systems, Inc
 002698     (base 16)		Cisco Systems, Inc
@@ -102995,6 +103013,18 @@ A082AC     (base 16)		Linear DMS Solutions Sdn. Bhd.
 				Indianapolis  IN  46290
 				US
 
+00-26-97   (hex)		Alpha  Technologies Inc.
+002697     (base 16)		Alpha  Technologies Inc.
+				3767 Alpha Way
+				Bellingham  WA  98226 
+				US
+
+4C-B8-B5   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+4CB8B5     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -107199,12 +107229,6 @@ D86194     (base 16)		Objetivos y Sevicios de Valor Añadido
 085DDD     (base 16)		Mercury Corporation
 				531-6, Gajwadong, Seogu
 				Incheon    404-250
-				US
-
-88-B1-E1   (hex)		AirTight Networks, Inc.
-88B1E1     (base 16)		AirTight Networks, Inc.
-				339 N.Bernardo Ave,
-				Mountain View  CA  94043
 				US
 
 98-34-9D   (hex)		Krauss Maffei Technologies GmbH
@@ -129122,6 +129146,12 @@ A86AC1     (base 16)		HanbitEDS Co., Ltd.
 				Daejeon  Daejeon  34027
 				KR
 
+40-16-3B   (hex)		Samsung Electronics Co.,Ltd
+40163B     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  443742
+				KR
+
 00-1B-F3   (hex)		TRANSRADIO SenderSysteme Berlin AG
 001BF3     (base 16)		TRANSRADIO SenderSysteme Berlin AG
 				Mertensstrasse 63
@@ -129132,4 +129162,10 @@ E0-07-1B   (hex)		Hewlett Packard Enterprise
 E0071B     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
+				US
+
+88-B1-E1   (hex)		 Mojo Networks, Inc.
+88B1E1     (base 16)		 Mojo Networks, Inc.
+				339 N.Bernardo Ave
+				Mountain View  CA  94043
 				US
