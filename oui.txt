@@ -25937,6 +25937,18 @@ A0043E     (base 16)		Parker Hannifin Manufacturing Germany GmbH & Co. KG
 				San Jose  CA  94568
 				US
 
+00-BD-82   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+00BD82     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+60-3E-CA   (hex)		Cambridge Medical Robotics Ltd
+603ECA     (base 16)		Cambridge Medical Robotics Ltd
+				Unit 2, Crome Lea Business Park
+				Cambridge  Cambridgeshire  CB23 7PH
+				GB
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -51647,12 +51659,6 @@ F0C77F     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-48-83-C7   (hex)		Sagemcom Broadband SAS
-4883C7     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
 00-A0-F4   (hex)		GE
 00A0F4     (base 16)		GE
 				W-657
@@ -51663,6 +51669,30 @@ F0C77F     (base 16)		Texas Instruments
 00CAE5     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+48-83-C7   (hex)		Sagemcom Broadband SAS
+4883C7     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+0C-BF-3F   (hex)		Shenzhen Lencotion Technology Co.,Ltd
+0CBF3F     (base 16)		Shenzhen Lencotion Technology Co.,Ltd
+				LongGang,Buji Xia Shuijing,Hubei Baofeng Lndustrial Area,2/F,TowerB
+				shenzhen  Guangdong  518112
+				CN
+
+84-FE-DC   (hex)		Borqs Beijing Ltd.
+84FEDC     (base 16)		Borqs Beijing Ltd.
+				Tower A, Building B23, Universal Business Park, No.10 Jiuxianqiao Road
+				Chaoyang District  Beijing  100015
+				CN
+
+F0-3E-90   (hex)		Ruckus Wireless
+F03E90     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -77149,6 +77179,12 @@ F8A188     (base 16)		LED Roadway Lighting
 				339 N.Bernardo Ave
 				Mountain View  CA  94043
 				US
+
+BC-15-AC   (hex)		Vodafone Italia S.p.A.
+BC15AC     (base 16)		Vodafone Italia S.p.A.
+				Via Lorenteggio nr. 240
+				Milan  Italy  20147
+				IT
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
