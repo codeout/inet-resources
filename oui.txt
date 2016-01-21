@@ -3455,12 +3455,6 @@ F42853     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
 				Shenzhen  Guangdong  518000
 				CN
 
-60-02-92   (hex)		PEGATRON CORPORATION
-600292     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
-
 2C-FA-A2   (hex)		Alcatel-Lucent
 2CFAA2     (base 16)		Alcatel-Lucent
 				26801 West Agoura Rd
@@ -3682,12 +3676,6 @@ E036E3     (base 16)		Stage One International Co., Ltd.
 				168# First Avenue,Kunshan Integrated Free Trade Zone,Kunshan,Jiangsu,China
 				Kunshan  Jiangsu  215300
 				CN
-
-20-25-64   (hex)		PEGATRON CORPORATION
-202564     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 60-81-2B   (hex)		Custom Control Concepts
 60812B     (base 16)		Custom Control Concepts
@@ -4111,12 +4099,6 @@ AC6BAC     (base 16)		Jenny Science AG
 				Sandblatte 7a
 				Rain  Luzern  6026
 				CH
-
-0C-54-A5   (hex)		PEGATRON CORPORATION
-0C54A5     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 70-7C-18   (hex)		ADATA Technology Co., Ltd
 707C18     (base 16)		ADATA Technology Co., Ltd
@@ -4798,12 +4780,6 @@ E8D4E0     (base 16)		Beijing BenyWave Technology Co., Ltd.
 				No.55, Jiachuang Road, Taihu Town
 				  Beijing  101111
 				CN
-
-54-BE-F7   (hex)		PEGATRON CORPORATION
-54BEF7     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 38-89-DC   (hex)		Opticon Sensors Europe B.V.
 3889DC     (base 16)		Opticon Sensors Europe B.V.
@@ -25385,47 +25361,17 @@ A45C27     (base 16)		Nintendo Co., Ltd.
 				KYOTO  KYOTO  601-8501
 				JP
 
-54-44-08   (hex)		Nokia Corporation
-544408     (base 16)		Nokia Corporation
-				Joensuunkatu 7
-				Salo  Varsinais-Suomi  24101
-				FI
-
 D8-FB-5E   (hex)		ASKEY COMPUTER CORP
 D8FB5E     (base 16)		ASKEY COMPUTER CORP
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
 
-18-86-AC   (hex)		Nokia Danmark A/S
-1886AC     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790V
-				DK
-
-00-21-FE   (hex)		Nokia Danmark A/S
-0021FE     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790V
-				DK
-
-00-1D-FD   (hex)		Nokia Danmark A/S
-001DFD     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-1E-A3   (hex)		Nokia Danmark A/S
-001EA3     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-22-66   (hex)		Nokia Danmark A/S
-002266     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
+54-44-08   (hex)		Nokia Corporation
+544408     (base 16)		Nokia Corporation
+				Joensuunkatu 7
+				Salo  Varsinais-Suomi  24101
+				FI
 
 00-17-B0   (hex)		Nokia Danmark A/S
 0017B0     (base 16)		Nokia Danmark A/S
@@ -25439,11 +25385,29 @@ D8FB5E     (base 16)		ASKEY COMPUTER CORP
 				Copenhagen V    DK-1790
 				DK
 
-00-25-48   (hex)		Nokia Danmark A/S
-002548     (base 16)		Nokia Danmark A/S
+18-86-AC   (hex)		Nokia Danmark A/S
+1886AC     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790V
+				DK
+
+00-21-FE   (hex)		Nokia Danmark A/S
+0021FE     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790V
+				DK
+
+00-22-66   (hex)		Nokia Danmark A/S
+002266     (base 16)		Nokia Danmark A/S
 				Frederikskaj
 				Copenhagen V    DK-1790
 				DK
+
+DC-B3-B4   (hex)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+				158 Nan Hai Road, TEDA
+				Tianjin    300457
+				CN
 
 C8-D1-0B   (hex)		Nokia Corporation
 C8D10B     (base 16)		Nokia Corporation
@@ -25463,23 +25427,11 @@ F4F5A5     (base 16)		Nokia Corporation
 				Salo    24101
 				FI
 
-DC-B3-B4   (hex)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
-DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
-				158 Nan Hai Road, TEDA
-				Tianjin    300457
-				CN
-
-00-1D-98   (hex)		Nokia Danmark A/S
-001D98     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-11-9F   (hex)		Nokia Danmark A/S
-00119F     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
+3C-C2-43   (hex)		Nokia Corporation
+3CC243     (base 16)		Nokia Corporation
+				Joensuunkatu 7
+				Salo  NA  24101
+				FI
 
 00-15-A0   (hex)		Nokia Danmark A/S
 0015A0     (base 16)		Nokia Danmark A/S
@@ -25499,11 +25451,35 @@ DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co
 				Copenhagen V    DK-1790
 				DK
 
-3C-C2-43   (hex)		Nokia Corporation
-3CC243     (base 16)		Nokia Corporation
-				Joensuunkatu 7
-				Salo  NA  24101
-				FI
+00-25-48   (hex)		Nokia Danmark A/S
+002548     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1D-FD   (hex)		Nokia Danmark A/S
+001DFD     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1E-A3   (hex)		Nokia Danmark A/S
+001EA3     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1D-98   (hex)		Nokia Danmark A/S
+001D98     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-11-9F   (hex)		Nokia Danmark A/S
+00119F     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
 
 18-A6-F7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 18A6F7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -25547,6 +25523,12 @@ AC61EA     (base 16)		Apple, Inc.
 				Seongnam-si  Gyeonggi-do  463-867
 				KR
 
+F4-ED-5F   (hex)		SHENZHEN KTC TECHNOLOGY GROUP 
+F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP 
+				Wuhe Street
+				Shenzhen  Guangdong  518129
+				CN
+
 94-76-B7   (hex)		Samsung Electronics Co.,Ltd
 9476B7     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -25565,23 +25547,17 @@ B47443     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
-30CBF8     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 00-0B-A2   (hex)		Sumitomo Electric Industries,Ltd
 000BA2     (base 16)		Sumitomo Electric Industries,Ltd
 				1-1-3, Shimaya, Konohana-ku
 				Osaka    554-0024
 				JP
 
-F4-ED-5F   (hex)		SHENZHEN KTC TECHNOLOGY GROUP 
-F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP 
-				Wuhe Street
-				Shenzhen  Guangdong  518129
-				CN
+30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
+30CBF8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 2C-4D-79   (hex)		GoerTek Inc.
 2C4D79     (base 16)		GoerTek Inc.
@@ -25607,12 +25583,6 @@ F03404     (base 16)		TCT mobile ltd
 				Hui Zhou  Guang Dong  516006
 				CN
 
-AC-9B-0A   (hex)		Sony Computer Entertainment Inc.
-AC9B0A     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 FC-0F-E6   (hex)		Sony Computer Entertainment Inc.
 FC0FE6     (base 16)		Sony Computer Entertainment Inc.
 				1-7-1 Konan
@@ -25625,10 +25595,22 @@ FC0FE6     (base 16)		Sony Computer Entertainment Inc.
 				Minato-ku  Tokyo  108-0075
 				JP
 
+AC-9B-0A   (hex)		Sony Computer Entertainment Inc.
+AC9B0A     (base 16)		Sony Computer Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
 00-35-1A   (hex)		Cisco Systems, Inc
 00351A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+00-A0-B8   (hex)		NetApp
+00A0B8     (base 16)		NetApp
+				2001 Danfield Ct.
+				Fort Collins  CO  80525
 				US
 
 9C-D4-8B   (hex)		Innolux Technology Europe BV
@@ -25637,11 +25619,11 @@ FC0FE6     (base 16)		Sony Computer Entertainment Inc.
 				Heerlen    6411NK
 				NL
 
-00-A0-B8   (hex)		NetApp
-00A0B8     (base 16)		NetApp
-				2001 Danfield Ct.
-				Fort Collins  CO  80525
-				US
+54-5A-A6   (hex)		Espressif Inc.
+545AA6     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 DC-E8-38   (hex)		CK Telecom (Shenzhen) Limited
 DCE838     (base 16)		CK Telecom (Shenzhen) Limited
@@ -25649,11 +25631,11 @@ DCE838     (base 16)		CK Telecom (Shenzhen) Limited
 				Shenzhen  Guangdong  518057
 				CN
 
-54-5A-A6   (hex)		Espressif Inc.
-545AA6     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Road, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
+B0-75-4D   (hex)		Alcatel-Lucent
+B0754D     (base 16)		Alcatel-Lucent
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 BC-8D-0E   (hex)		Alcatel-Lucent
 BC8D0E     (base 16)		Alcatel-Lucent
@@ -25693,12 +25675,6 @@ A47B2C     (base 16)		Alcatel-Lucent
 
 BC-6B-4D   (hex)		Alcatel-Lucent
 BC6B4D     (base 16)		Alcatel-Lucent
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-B0-75-4D   (hex)		Alcatel-Lucent
-B0754D     (base 16)		Alcatel-Lucent
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
@@ -25751,12 +25727,6 @@ D8803C     (base 16)		Anhui Huami Information Technology Company Limited
 				Hefei  Anhui  230088
 				CN
 
-A8-E3-EE   (hex)		Sony Computer Entertainment Inc.
-A8E3EE     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama,
-				Minato-ku  Tokyo  107-0062
-				JP
-
 00-1F-A7   (hex)		Sony Computer Entertainment Inc.
 001FA7     (base 16)		Sony Computer Entertainment Inc.
 				2-6-21 Minami-Aoyama,
@@ -25767,6 +25737,12 @@ A8E3EE     (base 16)		Sony Computer Entertainment Inc.
 001315     (base 16)		Sony Computer Entertainment Inc.
 				2-6-21 Minami-Aoyama,
 				Minato-Ku  Tokyo  107-0062
+				JP
+
+A8-E3-EE   (hex)		Sony Computer Entertainment Inc.
+A8E3EE     (base 16)		Sony Computer Entertainment Inc.
+				2-6-21 Minami-Aoyama,
+				Minato-ku  Tokyo  107-0062
 				JP
 
 70-3C-03   (hex)		RadiAnt Co.,Ltd
@@ -25847,12 +25823,6 @@ DCEE06     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-84-00-2D   (hex)		PEGATRON CORPORATION
-84002D     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou,
-				Taipei    112
-				TW
-
 AC-44-F2   (hex)		YAMAHA CORPORATION
 AC44F2     (base 16)		YAMAHA CORPORATION
 				10-1 Nakazawa-cho, Naka-ku
@@ -25901,17 +25871,17 @@ AC0D1B     (base 16)		LG Electronics (Mobile Communications)
 				Seoul  Seoul  153-801
 				KR
 
-5C-C7-D7   (hex)		AZROAD TECHNOLOGY COMPANY LIMITED
-5CC7D7     (base 16)		AZROAD TECHNOLOGY COMPANY LIMITED
-				Block B2, No.14 Jian'an rd. Shajing, Bao'an District,
-				Shenzhen    518104
-				CN
-
 A0-04-3E   (hex)		Parker Hannifin Manufacturing Germany GmbH & Co. KG
 A0043E     (base 16)		Parker Hannifin Manufacturing Germany GmbH & Co. KG
 				Gutenbergstrasse 38
 				Kaarst  Select State  41564
 				DE
+
+5C-C7-D7   (hex)		AZROAD TECHNOLOGY COMPANY LIMITED
+5CC7D7     (base 16)		AZROAD TECHNOLOGY COMPANY LIMITED
+				Block B2, No.14 Jian'an rd. Shajing, Bao'an District,
+				Shenzhen    518104
+				CN
 
 00-17-06   (hex)		Techfaithwireless Communication Technology Limited.
 001706     (base 16)		Techfaithwireless Communication Technology Limited.
@@ -25960,6 +25930,42 @@ E4A1E6     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
 				11F.-6, No. 7,Sec. 3, New Taipei Blvd., Xinzhuang Dist.
 				New Taipei City    24250
 				TW
+
+54-BE-F7   (hex)		PEGATRON CORPORATION
+54BEF7     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+0C-54-A5   (hex)		PEGATRON CORPORATION
+0C54A5     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+20-25-64   (hex)		PEGATRON CORPORATION
+202564     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+60-02-92   (hex)		PEGATRON CORPORATION
+600292     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+84-00-2D   (hex)		PEGATRON CORPORATION
+84002D     (base 16)		PEGATRON CORPORATION
+				No. 76, Ligong St., Beitou,
+				Taipei    112
+				TW
+
+58-60-5F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+58605F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -28204,12 +28210,6 @@ B88687     (base 16)		Liteon Technology Corporation
 				c/Monte Esquinza, 28 1ºD
 				MADRID  MADRID  28010
 				ES
-
-C0-7C-D1   (hex)		PEGATRON CORPORATION
-C07CD1     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 58-B6-33   (hex)		Ruckus Wireless
 58B633     (base 16)		Ruckus Wireless
@@ -31115,12 +31115,6 @@ F80DEA     (base 16)		ZyCast Technology Inc.
 				Hsin Chu    30060
 				TW
 
-7C-05-07   (hex)		PEGATRON CORPORATION
-7C0507     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
-
 18-00-DB   (hex)		Fitbit Inc.
 1800DB     (base 16)		Fitbit Inc.
 				150 Spear St Ste 200
@@ -31324,12 +31318,6 @@ D40FB2     (base 16)		Applied Micro Electronics AME bv
 				NO.1, Alley 20, Lane 26
 				  TAIPEI  231
 				TW
-
-70-54-D2   (hex)		PEGATRON CORPORATION
-7054D2     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 D0-B4-98   (hex)		Robert Bosch LLC Automotive Electronics
 D0B498     (base 16)		Robert Bosch LLC Automotive Electronics
@@ -32230,12 +32218,6 @@ F05F5A     (base 16)		Getriebebau NORD GmbH and Co. KG
 				1769 E. Paul Dirac Ave.
 				Tallahassee  Florida  32310
 				US
-
-E8-40-F2   (hex)		PEGATRON CORPORATION
-E840F2     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 50-05-3D   (hex)		CyWee Group Ltd
 50053D     (base 16)		CyWee Group Ltd
@@ -51725,17 +51707,65 @@ F4EF9E     (base 16)		SGSG SCIENCE & TECHNOLOGY CO. LTD
 				Zhuhai  Guangdong  519085
 				CN
 
+D8-D7-23   (hex)		IDS, Inc
+D8D723     (base 16)		IDS, Inc
+				6801 15 Mile Rd.
+				Sterling Heights  MI  48312
+				US
+
 70-3A-0E   (hex)		Aruba Networks
 703A0E     (base 16)		Aruba Networks
 				1344 Crossman Ave
 				Sunnyvale  CA  94089
 				US
 
-D8-D7-23   (hex)		IDS, Inc
-D8D723     (base 16)		IDS, Inc
-				6801 15 Mile Rd.
-				Sterling Heights  MI  48312
-				US
+E8-40-F2   (hex)		PEGATRON CORPORATION
+E840F2     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+70-54-D2   (hex)		PEGATRON CORPORATION
+7054D2     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+7C-05-07   (hex)		PEGATRON CORPORATION
+7C0507     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+C0-7C-D1   (hex)		PEGATRON CORPORATION
+C07CD1     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+94-DB-DA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+94DBDA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+38-4C-4F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+384C4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+E4-A8-B6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4A8B6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+24-4C-07   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+244C07     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -53927,12 +53957,6 @@ E03676     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				New Taipei City  Taiwan  23585
 				TW
 
-DC-FE-07   (hex)		PEGATRON CORPORATION
-DCFE07     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
-
 B8-B2-EB   (hex)		Googol Technology (HK) Limited
 B8B2EB     (base 16)		Googol Technology (HK) Limited
 				Unit 1008-09, 10/F C-Bons International Center
@@ -54507,12 +54531,6 @@ B856BD     (base 16)		ITT LLC
 3C8C40     (base 16)		Hangzhou H3C Technologies Co., Limited
 				466 Changhe Road, Binjiang District,
 				Hangzhou  Zhejiang, P.R.China  310052
-				
-
-00-71-C2   (hex)		PEGATRON CORPORATION
-0071C2     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
 				
 
 D4-55-56   (hex)		Fiber Mountain Inc.
@@ -57358,12 +57376,6 @@ C438D3     (base 16)		TAGATEC CO.,LTD
 				1860-38, Simoakasaka
 				Kawagoe  Saitama  3501155
 				JP
-
-4C-72-B9   (hex)		PEGATRON CORPORATION
-4C72B9     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 E0-AA-B0   (hex)		GENERAL VISION ELECTRONICS CO. LTD.
 E0AAB0     (base 16)		GENERAL VISION ELECTRONICS CO. LTD.
@@ -77234,11 +77246,11 @@ BC15AC     (base 16)		Vodafone Italia S.p.A.
 				Milan  Italy  20147
 				IT
 
-D0-B0-CD   (hex)		Moen
-D0B0CD     (base 16)		Moen
-				25300 Al Moen Dr
-				North Olmstead  OH  44070-8022
-				US
+14-0C-5B   (hex)		PLNetworks
+140C5B     (base 16)		PLNetworks
+				B-613, Tancheonsang-ro 164(Sigma 2)
+				Seongnam-si  Bundang-gu, Gyeonggi-do  13631
+				KR
 
 50-FF-99   (hex)		IEEE Registration Authority
 50FF99     (base 16)		IEEE Registration Authority
@@ -77246,11 +77258,47 @@ D0B0CD     (base 16)		Moen
 				Piscataway  NJ  08554
 				US
 
-14-0C-5B   (hex)		PLNetworks
-140C5B     (base 16)		PLNetworks
-				B-613, Tancheonsang-ro 164(Sigma 2)
-				Seongnam-si  Bundang-gu, Gyeonggi-do  13631
-				KR
+D0-B0-CD   (hex)		Moen
+D0B0CD     (base 16)		Moen
+				25300 Al Moen Dr
+				North Olmstead  OH  44070-8022
+				US
+
+00-71-C2   (hex)		PEGATRON CORPORATION
+0071C2     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+DC-FE-07   (hex)		PEGATRON CORPORATION
+DCFE07     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+E4-7E-66   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E47E66     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+9C-74-1A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9C741A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+EC-93-ED   (hex)		DDoS-Guard LTD
+EC93ED     (base 16)		DDoS-Guard LTD
+				goroda Volos, 6, 904
+				Rostov-on-Don    344010
+				RU
+
+4C-72-B9   (hex)		PEGATRON CORPORATION
+4C72B9     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -80308,12 +80356,6 @@ DCDA4F     (base 16)		GETCK TECHNOLOGY,  INC
 				Josef-Wuerth-Str. 3
 				Gruenwald  Bavaria  82031
 				DE
-
-D8-97-BA   (hex)		PEGATRON CORPORATION
-D897BA     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 04-9B-9C   (hex)		Eadingcore  Intelligent Technology Co., Ltd.
 049B9C     (base 16)		Eadingcore  Intelligent Technology Co., Ltd.
@@ -85289,12 +85331,6 @@ F05849     (base 16)		CareView Communications
 				Lewisville   Texas  75067
 				US
 
-E0-69-95   (hex)		PEGATRON CORPORATION
-E06995     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
-
 BC-15-A6   (hex)		Taiwan Jantek Electronics,Ltd.
 BC15A6     (base 16)		Taiwan Jantek Electronics,Ltd.
 				6F-1,No.1 Wu-Chuan 1St. Rd,Wu-Ku Industrial Park,
@@ -86386,12 +86422,6 @@ E0BC43     (base 16)		C2 Microsystems, Inc.
 				2833 Junction Avenue
 				San Jose  California  95134
 				US
-
-70-71-BC   (hex)		PEGATRON CORPORATION
-7071BC     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 78-84-EE   (hex)		INDRA ESPACIO S.A.
 7884EE     (base 16)		INDRA ESPACIO S.A.
@@ -103139,6 +103169,30 @@ A082AC     (base 16)		Linear DMS Solutions Sdn. Bhd.
 				Kuala Lumpur    59100
 				MY
 
+70-71-BC   (hex)		PEGATRON CORPORATION
+7071BC     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+E0-69-95   (hex)		PEGATRON CORPORATION
+E06995     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+D8-97-BA   (hex)		PEGATRON CORPORATION
+D897BA     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+44-65-0D   (hex)		Amazon Technologies Inc.
+44650D     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -105943,12 +105997,6 @@ C8458F     (base 16)		Wyler AG
 				Im Hoelderli 13
 				Winterthur  ZH  8405
 				CH
-
-74-85-2A   (hex)		PEGATRON CORPORATION
-74852A     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 14-9A-10   (hex)		Microsoft Corporation
 149A10     (base 16)		Microsoft Corporation
@@ -110572,12 +110620,6 @@ C0E54E     (base 16)		DENX Computer Systems GmbH
 				Innsbrucker Str. 84
 				Groebenzell    82194
 				DE
-
-38-60-77   (hex)		PEGATRON CORPORATION
-386077     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou
-				Taipei  Taiwan  112
-				
 
 E4-35-FB   (hex)		Sabre Technology (Hull) Ltd
 E435FB     (base 16)		Sabre Technology (Hull) Ltd
@@ -129289,3 +129331,45 @@ E0071B     (base 16)		Hewlett Packard Enterprise
 				7F, Bldg, C, 90, Chien 1 Road
 				Taipei  Taiwan  23585
 				TW
+
+38-60-77   (hex)		PEGATRON CORPORATION
+386077     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+74-85-2A   (hex)		PEGATRON CORPORATION
+74852A     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+FC-3F-7C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FC3F7C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+60-83-34   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+608334     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+84-AD-58   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+84AD58     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+74-6F-F7   (hex)		Wistron Neweb Corporation
+746FF7     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
+
+B0-1B-D2   (hex)		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
+B01BD2     (base 16)		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
+				,Le Shi Building, No.105 Yaojiayuan Road,Chaoyang District,Beijing,China
+				beijing  beijing  100025
+				CN
