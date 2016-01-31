@@ -3425,7 +3425,7 @@
 3447	CENTURYLINK-LEGACY-EMBARQ-CMDS - Embarq Corporation,US
 3448	AWS-AS - AT&T Wireless Services,US
 3449	Universidad Nacional de Buenos Aires,AR
-3450	UTK - The University of Tennessee Health Science Center,US
+3450	UTK - University of Tennessee, Knoxville,US
 3451	DTD-AS - Downtown Digital,US
 3452	UAB-AS - University of Alabama at Birmingham,US
 3453	COMMNET - Board of Trustees of Community-Technical College,US
@@ -4870,7 +4870,7 @@
 4919	CONSOLIDATED - Consolidated Access & Networks, Inc.,CA
 4920	CYBERPORTS - Cyberports, Inc.,US
 4921	EX-SV-GW5 - Exodus Communiations, Inc.,US
-4922	GLOBALCOM - Shentel Service Company,US
+4922	SHENTEL - Shentel Service Company,US
 4923	HOYT - MCIX, Inc.,US
 4924	NIIA-NET - Northern Indiana Internet Access, Inc.,US
 4925	FIRSTDATA - First Data Corp.,US
@@ -24141,7 +24141,7 @@
 25105	-Reserved AS-,ZZ
 25106	MTSBY-AS Mobile TeleSystems JLLC,BY
 25107	MULTIBANKA-AS AS SMP Bank,LV
-25108	BLACKCAT-AS Iomart Hosting Limited,FR
+25108	IOMART-APAC-AS iomart Hosting Limited - APAC and Middle East,FR
 25109	HUK-COBURG HUK-Coburg Haftpflicht-Unterstuetzungs-Kasse kraftfahrender Beamter Deutschlands a.G. in Coburg,DE
 25111	COLOP-AS Coloplast A/S,DK
 25113	GLOBECAST Orange S.A.,FR
@@ -57219,7 +57219,7 @@
 59892	IT-ECOSERV-AS IT EcoServ SRL,RO
 59893	NEXMART nexMart GmbH & Co. KG,DE
 59894	INSTINETEUROPE-AS Instinet Europe Ltd,GB
-59895	CITYNET-TR CityNet Telekom Ltd.,TR
+59895	CITYNETHOST-AS CityNet Telekom Ltd.,TR
 59896	ROMSAN-AS Romsan International Company SRL,RO
 59897	SCHOLAR-AS Scholar Web Services Limited,GB
 59898	GCSNET-AS GCSnet GmbH,DE
@@ -59583,7 +59583,7 @@
 62357	MEDNET Medbit Oy,FI
 62358	-Reserved AS-,ZZ
 62359	SDN-3QMEDIENGMBH 3Q Medien GmbH,DE
-62360	-Reserved AS-,ZZ
+62360	,
 62361	VIPES Easy Vipes Ltd.,BG
 62362	AHS-AS Aria Hamrah Samaneh PJSC,IR
 62363	EGW-AS Ertl & Gross OG,AT
@@ -70606,7 +70606,6 @@
 203442	LOVEPLANET-AS Loveplanet LLC,RU
 203443	INDERTCONNECTION INDERT CONNECTION LP,GB
 203444	MAPMAKERSGROUP "MapMakers Group" Ltd,RU
-203445	,
 203446	EXTRAHOST-SK Extrahost s.r.o,SK
 203447	CENTERTPA-AS PRIVATE ENTERPRISE "CENTER TPA",UA
 203448	DATACOMM DataComm LTD,GE
@@ -70766,7 +70765,7 @@
 203602	FIABLEVDS-AS Benoit Housez,FR
 203603	INTERNETDIRECTO Internet Directo Lineless, S.L.,ES
 203604	SOLUVIA-IT-AS Soluvia IT-Services GmbH,DE
-203605	ANGRYINFRA-AS Angry Infrastructure AB,SE
+203605	SYNOTIO-AS Synotio AB,SE
 203606	TDBSIGORTA TDB Sigorta Brokerlik A.S.,TR
 203607	KMAG KMAG d.d.,SI
 203608	ASORGDS234 DELETEC SARL,FR
@@ -72452,7 +72451,6 @@
 263164	Office Master Com. e Prestação de Serviços LTDA,BR
 263165	MARVITEL TELECOM,BR
 263166	Murbach Muchelin LTDA,BR
-263167	,
 263169	Vision Banco,PY
 263170	Netsys,HN
 263172	HORAS LENIO ARIEL,AR
@@ -73880,7 +73878,6 @@
 264600	uznet provedora de internet ltda-me,BR
 264601	NAVEX Telecom,BR
 264602	M.C.R. CAMPOS INFORMATICA E TELECOMUNICAÇÕES-ME,BR
-264603	,
 264604	Unixsis Servicos de Unix e Cloud - ME,BR
 264605	TELEVIADUCTO S.R.L.,DO
 264606	ENLACEVISION,SV
@@ -73919,7 +73916,6 @@
 264639	CLOUD2NUBE, S.A.,GT
 264640	Alternative Networks Ltd,BZ
 264641	LanProject SPA,CL
-264642	,
 264643	Enredes S.A.,AR
 264644	INFORMATION TECHNOLOGIES OUTSOURCING,CR
 264645	NEW MILLENNIUM TELECOM SERVICES N.V.,AW
@@ -76085,3 +76081,7 @@
 394864	PCO-AS - PC OPEN Incorporated,US
 394865	CHESAPEAKE-BAY-COMMUNICATIONS-LLC - Chesapeake Bay Communications, LLC,US
 394866	CORNERSTONE-HOME-LENDING-INC - Cornerstone Home Lending, Inc.,US
+394867	KONSULTEK-NETWORK-SERVICES - Konsultek,US
+394868	VOAB-COMMUNICATIONS - Voab Communications LLC,US
+394869	APNC - Asia Pacific Network Corporation,US
+394870	ASSURITY - Assurity Group Inc,US
