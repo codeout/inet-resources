@@ -25979,6 +25979,18 @@ E80959     (base 16)		Guoguang Electric Co.,Ltd
 				Redwood Shores  CA  94065
 				US
 
+00-90-AE   (hex)		ITALTEL S.p.A/RF-UP-I
+0090AE     (base 16)		ITALTEL S.p.A/RF-UP-I
+				LOCALITA' BOSCHETTO
+				67100 L'AQUILA    
+				IT
+
+00-1E-33   (hex)		INVENTEC Corporation
+001E33     (base 16)		INVENTEC Corporation
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
+
 00-1A-29   (hex)		Johnson Outdoors Marine Electronics d/b/a Minnkota
 001A29     (base 16)		Johnson Outdoors Marine Electronics d/b/a Minnkota
 				1220 Old Alpharetta Rd
@@ -25991,17 +26003,11 @@ E80959     (base 16)		Guoguang Electric Co.,Ltd
 				Boondang-gu,    463-804
 				KR
 
-00-90-AE   (hex)		ITALTEL S.p.A/RF-UP-I
-0090AE     (base 16)		ITALTEL S.p.A/RF-UP-I
-				LOCALITA' BOSCHETTO
-				67100 L'AQUILA    
-				IT
-
-00-1E-33   (hex)		INVENTEC Corporation
-001E33     (base 16)		INVENTEC Corporation
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
+D0-A4-B1   (hex)		Sonifex Ltd.
+D0A4B1     (base 16)		Sonifex Ltd.
+				61 Station Road
+				Irthlingborough  Northamptonshire  NN9 5QE
+				GB
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -47402,12 +47408,6 @@ A03E6B     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				Detroit  MI  48226
 				US
 
-00-E0-E6   (hex)		INCAA DATACOM B.V.
-00E0E6     (base 16)		INCAA DATACOM B.V.
-				P.O. BOX 211
-				7300 AE APELDOORN    
-				NL
-
 00-E0-74   (hex)		TIERNAN COMMUNICATIONS, INC.
 00E074     (base 16)		TIERNAN COMMUNICATIONS, INC.
 				11025 ROSELLE ST.
@@ -51851,12 +51851,6 @@ FCBC9C     (base 16)		Vimar Spa
 				Round Rock  TX  78682
 				US
 
-00-08-B9   (hex)		Kaonmedia CO., LTD.
-0008B9     (base 16)		Kaonmedia CO., LTD.
-				#113 Imae 1-Dong, Bundang-Gu
-				Sungnam-City  Kyungki-Do  463-829
-				KR
-
 AC-62-0D   (hex)		Jabil Circuit(Wuxi) Co.,Ltd
 AC620D     (base 16)		Jabil Circuit(Wuxi) Co.,Ltd
 				Lot J9, J10 Export Processing Zone
@@ -51868,6 +51862,18 @@ AC620D     (base 16)		Jabil Circuit(Wuxi) Co.,Ltd
 				No. 255, Jen-Ho Road Sec. 2, 33547,
 				Tachi  Taoyuan  33547
 				TW
+
+00-08-B9   (hex)		Kaonmedia CO., LTD.
+0008B9     (base 16)		Kaonmedia CO., LTD.
+				#113 Imae 1-Dong, Bundang-Gu
+				Sungnam-City  Kyungki-Do  463-829
+				KR
+
+00-E0-E6   (hex)		INCAA Computers
+00E0E6     (base 16)		INCAA Computers
+				P.O. BOX 211
+				7300 AE APELDOORN    
+				NL
 
 F0-82-61   (hex)		Sagemcom Broadband SAS
 F08261     (base 16)		Sagemcom Broadband SAS
@@ -77462,6 +77468,12 @@ A4E597     (base 16)		Gessler GmbH
 				Valence cedex 9    26958
 				FR
 
+48-C0-49   (hex)		Broad Telecom SA
+48C049     (base 16)		Broad Telecom SA
+				c/ Margarita Salas, 22
+				Leganes  Madrid  28918
+				ES
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -93920,12 +93932,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Camarillo  CA  93010
 				US
 
-00-0C-49   (hex)		Dangaard Telecom RTC Division A/S
-000C49     (base 16)		Dangaard Telecom RTC Division A/S
-				Industrivej 1
-				Padborg    DK-6330
-				DK
-
 00-0C-BA   (hex)		Jamex, Inc.
 000CBA     (base 16)		Jamex, Inc.
 				2415 N Triphammer Rd
@@ -103367,18 +103373,6 @@ E42F56     (base 16)		OptoMET GmbH
 				    
 				DE
 
-00-C0-F0   (hex)		Kingston Technology Company, Inc.
-00C0F0     (base 16)		Kingston Technology Company, Inc.
-				17600 NEWHOPE STREET
-				FOUNTAIN VALLEY  CA  92708
-				US
-
-4C-8F-A5   (hex)		Jastec
-4C8FA5     (base 16)		Jastec
-				Jastec B/D 2F, 92-7 Kumgok-dong, 
-				Boondang-gu,    463-804
-				KR
-
 00-26-6C   (hex)		INVENTEC Corporation
 00266C     (base 16)		INVENTEC Corporation
 				Inventec Building, 66 Hou-Kang Street Shih-Lin District,
@@ -103396,6 +103390,24 @@ A0B662     (base 16)		Acutvista Innovation Co., Ltd.
 				2F-1, No. 20 Alley 1, Lane 768, Sec. 4
 				Taipei City    11577
 				TW
+
+00-C0-F0   (hex)		Kingston Technology Company, Inc.
+00C0F0     (base 16)		Kingston Technology Company, Inc.
+				17600 NEWHOPE STREET
+				FOUNTAIN VALLEY  CA  92708
+				US
+
+4C-8F-A5   (hex)		Jastec
+4C8FA5     (base 16)		Jastec
+				Jastec B/D 2F, 92-7 Kumgok-dong, 
+				Boondang-gu,    463-804
+				KR
+
+00-0C-49   (hex)		Dangaard Telecom Denmark A/S
+000C49     (base 16)		Dangaard Telecom Denmark A/S
+				Industrivej 1
+				Padborg    DK-6330
+				DK
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
