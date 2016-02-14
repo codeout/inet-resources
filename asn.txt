@@ -4293,7 +4293,7 @@
 4315	DNIC-AS-04315 - Headquarters, USAISC,US
 4316	DSI-CUST-BLK - Houston Associates, Inc.,US
 4317	MLECNET - Mille Lacs Energy Cooperative,US
-4318	ADC-ASN - Freeport McMoRan Copper & Gold Inc.,US
+4318	ADC-ASN - Freeport-McMoRan Inc.,US
 4319	CORTLAND - Cortland Electronics Corp.,US
 4320	TASA-GW - Television Audio Support Activity,US
 4321	INSINC2 - Intergrated Network Services Inc.,CA
@@ -17583,7 +17583,7 @@
 18263	MEINET MEITETSUCOM Co., Ltd.,JP
 18264	SEN Seikei Eizo Network Inc.,JP
 18265	TWIN ZEXIS CORPORATION,JP
-18266	ATNAP Datacoa Co., Ltd.,JP
+18266	ATNAP Datacore Works Co.,Ltd.,JP
 18267	DOSHISHA Doshisha University,JP
 18268	JANIS Naganoken Kyodou Densan Co.Ltd.,JP
 18269	KAI Kai Creates Inc.,JP
@@ -17908,7 +17908,7 @@
 18591	NYFH - New York Foundling,US
 18592	Corporacion Universitaria para el Desarrollo de Internet, A.C.,MX
 18593	GSHULLGR - The Goldman Sachs Group, Inc.,US
-18594	FTPS-LLC - Fifth Third Processing Solutions, LLC,US
+18594	FTPS-LLC - Vantiv, LLC,US
 18595	FPC-ASN - The Findlay Publishing Company,US
 18596	MADISONTELCO - Madison Telephone Company,US
 18597	RVBD - RIVERBED TECHNOLOGY, INC.,US
@@ -17973,7 +17973,7 @@
 18656	TELESIGN01 - Telesign Corp.,US
 18657	MEETUP - Meetup, Inc.,US
 18658	ECHD-AS1 - ECTOR COUNTY HOSPITAL DISTRICT,US
-18659	FTPS-LLC - Fifth Third Processing Solutions, LLC,US
+18659	FTPS-LLC - Vantiv, LLC,US
 18660	KSUONLINE-I2 - Kentucky State University,US
 18661	DCA-BGP - Dunn Carney Allen Higgins & Tongue, LLP,US
 18662	AFLAC - Aflac,US
@@ -24771,7 +24771,7 @@
 25801	AUTOMATED-FINANCIAL - Automated Financial Systems,US
 25802	-Reserved AS-,ZZ
 25803	AECE - Aequitas Innovations Inc.,CA
-25804	LLNW-TLV - Limelight Networks, Inc.,US
+25804	LLNW-IL-TLV - Limelight Networks, Inc.,US
 25805	STIKEMAN - Stikeman Elliott, LLP,CA
 25806	RALEYNET - Raleys,US
 25807	ARLINGTONVA - Arlington County Government,US
@@ -49452,7 +49452,7 @@
 51825	TELZAR-ASN TELZAR INTERNATIONAL TELECOMINICATIONS LTD,IL
 51826	N24-GESELLSCHAFT-FUER-NACHRICHTEN-UND-ZEITGESCHEHEN-MBH-AS N24 Gesellschaft fuer Nachrichten und Zeitgeschehen mbH,DE
 51827	FREMAKS LWLcom GmbH,DE
-51828	-Reserved AS-,ZZ
+51828	,
 51829	KUKL-AS Kukl Ehf,IS
 51830	C3I-AS C3i Europe EOOD,BG
 51831	TRETYAKOV-AS The State Tretyakov Gallery,RU
@@ -52825,7 +52825,7 @@
 55222	9219-1568QUEBEC-NET7777 - 9219-1568 Quebec Inc.,CA
 55223	S7CLOUD-EQ7 - S7 Technology Group, LLC,US
 55224	MCS-AS - Marietta City Schools,US
-55225	ILIKA - ilika.net LLC,US
+55225	ILIKA - velia.net (USA) Inc.,US
 55226	WELLP-10-FRONT1 - Wellpartner, Inc,US
 55227	H9S-TROY - Hangar9 Solutions,US
 55228	NTC-AS - National TeleConsultants LLC,US
@@ -75147,7 +75147,7 @@
 393774	NNB-ASN - Nicolet National Bank,US
 393775	IPP-AS-393775 - IP Pathways, LLC,US
 393776	COMMUNITYSOUTHERNBANK-AS - Community & Southern Bank,US
-393777	PWCSA - Prince William County Service Authority,US
+393777	-Reserved AS-,ZZ
 393778	UIM-8 - Universal Insurance Managers, Inc.,US
 393779	TSMI - Thermal Solutions Manufacturing, Inc,US
 393780	HYPER-ASNET - Hyper Networks LLC,US
@@ -76282,3 +76282,5 @@
 394909	SCASDAL - SQUARE COMPUTE LLP,US
 394910	SUNEDISON-SEMI-US - SunEdison Semiconductor, LLC,US
 394911	COM1-ASN - Comm1,US
+394912	ALL-IN-1 - Act 1 Group, Inc.,US
+394913	AIRGRIDS - AirGrids,US
