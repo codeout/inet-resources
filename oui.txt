@@ -32351,12 +32351,6 @@ B48255     (base 16)		Research Products Corporation
 				Madison  WI  53703
 				US
 
-C8-45-44   (hex)		Shanghai Enlogic Electric Technology Co., Ltd.
-C84544     (base 16)		Shanghai Enlogic Electric Technology Co., Ltd.
-				Room 1104-1106, Building A, No. 391 Guiping Road
-				Xuhui Distric  Shanghai  200233
-				CN
-
 2C-75-0F   (hex)		Shanghai Dongzhou-Lawton Communication Technology Co. Ltd.
 2C750F     (base 16)		Shanghai Dongzhou-Lawton Communication Technology Co. Ltd.
 				NO.188,FengyeRoad,BaoshanDistrict
@@ -52024,6 +52018,18 @@ D8209F     (base 16)		Cubro Acronet GesmbH
 				Geiselberstraße 17 / 6 Floor
 				Vienna  Vienna  1110
 				AT
+
+78-B8-4B   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+78B84B     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
+
+C8-45-44   (hex)		Asia Pacific CIS (Wuxi) Co, Ltd
+C84544     (base 16)		Asia Pacific CIS (Wuxi) Co, Ltd
+				No 11, Xikun Road, Wuxi New District
+				Wuxi  Jiangsu  214028
+				CN
 
 F0-82-61   (hex)		Sagemcom Broadband SAS
 F08261     (base 16)		Sagemcom Broadband SAS
@@ -129848,12 +129854,6 @@ FC3D93     (base 16)		Longcheer Technology (Shanghai) Co.,Ltd.
 				Shanghai  ,Xuhui District,  200233
 				CN
 
-00-0A-ED   (hex)		HARTING Electronics GmbH
-000AED     (base 16)		HARTING Electronics GmbH
-				Wilhelm Harting Str.1
-				Espelkamp  NRW/OWL  32339
-				DE
-
 70-BA-EF   (hex)		Hangzhou H3C Technologies Co., Limited
 70BAEF     (base 16)		Hangzhou H3C Technologies Co., Limited
 				466 Changhe Road, Binjiang District,
@@ -129913,6 +129913,12 @@ D09DAB     (base 16)		TCT mobile ltd
 				No.86 hechang 7th road, zhongkai, Hi-Tech District
 				Hui Zhou  Guang Dong  516006
 				CN
+
+00-0A-ED   (hex)		HARTING Electronics GmbH
+000AED     (base 16)		HARTING Electronics GmbH
+				Wilhelm Harting Str.1
+				Espelkamp  NRW/OWL  32339
+				DE
 
 44-A4-2D   (hex)		TCT mobile ltd
 44A42D     (base 16)		TCT mobile ltd
