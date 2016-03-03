@@ -26111,6 +26111,12 @@ D8E56D     (base 16)		TCT mobile ltd
 				Bayan Lepas  Penang  11900
 				MY
 
+C4-1C-FF   (hex)		Vizio, Inc
+C41CFF     (base 16)		Vizio, Inc
+				39 Tesla
+				Irvine  CA  92618
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -52151,6 +52157,36 @@ A0415E     (base 16)		Opsens Solution Inc.
 				Hong Kong  Hong Kong  999077
 				HK
 
+08-C0-21   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+08C021     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+48-43-5A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+48435A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+9C-E3-74   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9CE374     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+6C-0E-E6   (hex)		Chengdu Xiyida Electronic Technology Co,.Ltd
+6C0EE6     (base 16)		Chengdu Xiyida Electronic Technology Co,.Ltd
+				Room 408,Building A,No.33 Wuqing South Road,Wuhou District
+				Chengdu  Sichuan  610000
+				CN
+
+40-F4-20   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+40F420     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -77858,6 +77894,18 @@ B8BBAF     (base 16)		Samsung Electronics Co.,Ltd
 				Guro-gu  Seoul  KS013
 				KR
 
+04-27-58   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+042758     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+3C-92-DC   (hex)		Octopod Technology Co. Ltd.
+3C92DC     (base 16)		Octopod Technology Co. Ltd.
+				822 Lane Zhennan Road
+				Shanghai    200331
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -79029,12 +79077,6 @@ BCC810     (base 16)		Cisco SPVTG
 00E036     (base 16)		PIONEER CORPORATION
 				2610 Hanazono 4-Chome
 				Saitama Prefecture, 359-8    34567
-				JP
-
-C8-3D-FC   (hex)		PIONEER CORPORATION
-C83DFC     (base 16)		PIONEER CORPORATION
-				1-1 Shin-Ogura,Saiwai-ku,
-				Kawasaki  Kanagawa  212-0031
 				JP
 
 E0-AE-5E   (hex)		ALPS ELECTRIC CO.,LTD.
@@ -103876,6 +103918,42 @@ C02FF1     (base 16)		Volta Networks
 				333 Research Ct NW Ste 230
 				Norcross  GA  30092
 				US
+
+34-A2-A2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34A2A2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+20-F1-7C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20F17C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+34-B3-54   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34B354     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+74-9D-8F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+749D8F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+34-6A-C2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+346AC2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+C8-3D-FC   (hex)		Pioneer DJ Corporation
+C83DFC     (base 16)		Pioneer DJ Corporation
+				1-1 Shin-Ogura,Saiwai-ku,
+				Kawasaki  Kanagawa  212-0031
+				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -130182,4 +130260,16 @@ CC-16-7E   (hex)		Cisco Systems, Inc
 CC167E     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+60-08-10   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+600810     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+CC-D3-1E   (hex)		IEEE Registration Authority
+CCD31E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
