@@ -6414,7 +6414,7 @@
 6485	TDSC1-ASN - Track Data Corp,US
 6486	NEWREACH - NewReach Communications,US
 6487	CyberNet de Guatemala S.A.,GT
-6488	FSAM4131-0 - Arizona Macintosh Users Group,US
+6488	FSAM4131-0 - AMUG,US
 6489	INOW-AS - Network Solutions, Inc. (INOW-DOM),US
 6490	DESERTEYE - DesertEye Publishing,US
 6491	TELEKACHINA - TeleKachina,US
@@ -43513,7 +43513,7 @@
 45782	PHILIPPINEAIRLINES-PH-AP Philippine Airlines Inc.,PH
 45783	CIGNAHLA-HK Suite 1001,10/F, One Landmark East,HK
 45784	MULTINET-HERAT-AS-AP Multinet Afghanistan AS in Herat,AF
-45785	TECHAVENUE-AP Techavenue Data Center, Global IP Transit, KL, Malaysia,MY
+45785	TECHAVENUE-AP TechAvenue Malaysia,MY
 45786	HTSNET-AS-ID HTSNET - ISP,ID
 45787	WHITIREIA-AC-AS-AP Whitireia Community Polytechnic,NZ
 45788	BCN-IX-TH-AP BB Connect Co.,Ltd.,TH
@@ -52217,7 +52217,7 @@
 54609	TRACE3 - Trace3, Inc.,US
 54610	EASTERN-MAINE-HEALTHCARE-SYSTEMS-MERCY-HOSPITAL - Eastern Maine Healthcare Systems,US
 54611	REMLY - Intelligent Technology Solutions, Inc.,US
-54612	HOLLANDBEAUTY - Holland Beauty Flower & Bulb Corporation,US
+54612	-Reserved AS-,ZZ
 54613	-Reserved AS-,ZZ
 54614	CIKTELECOM-CABLE - CIK Telecom INC,CA
 54615	ACLENS-PROD - Arlington Contact Lens Service, Inc,US
@@ -53331,7 +53331,7 @@
 55796	PROPEXDERIVATIVES-AS-AP PROPEX DERIVATIVES PTY LTD,AU
 55797	HOYTS-AS-AP The Hoyts Corporation Pty Ltd,AU
 55798	RCGIT-ODC-NON-AS-AP RCG Information Technology,PH
-55799	TECHAVENUE-HK KDIDC Hong Kong,MY
+55799	TECHAVENUE-HK TechAvenue Global,MY
 55801	OPTINET-LLC-MN OPTINET LLC,MN
 55802	ISSP-AS-AP Internet Solution & Service Provider Co., Ltd.,TH
 55803	DIGITALPACIFIC-AU Digital Pacific Pty Ltd Australia,AU
@@ -60942,7 +60942,7 @@
 63913	IMPL-AU Ingram Micro Pty Ltd,AU
 63914	STEL-BD SB TEL ENTERPRISES LIMITED,BD
 63915	XIAOMIHKLIMITED-HK FLAT/RM C 21/F CMA BUILDING 64 CONNAUGHT ROAD CENTRAL,HK
-63916	TECHAVENUE-AP KDIDC Hong Kong,HK
+63916	IPTELECOM-AP IPTELECOM NETWORKS,HK
 63917	AMWAYJAPANGK-JP 7-1, Udagawacho,JP
 63918	CNISP-AS-AP CNISP-Union Technology (Beijing) Co., Ltd.,CN
 63919	JETP-AU Jeanneret Electrical Technologies P/L,AU
@@ -65491,6 +65491,7 @@
 135144	DATAMAXOSILIMITED-AS-AP Datamax OSI Limited,HK
 135145	EISP-AS-AP elasticISP - eintellego Networks Pty Ltd,AU
 135146	PCCW-BIA-HK PCCW IMS Ltd (PCCW Business Internet Access),HK
+135147	ROOTLIMITEDNEW-AS-AP Root Limited,HK
 196608	INTERNIC2 INTERNET AG Global Network,DE
 196609	PCS PCS Professional Communication Systems GmbH,DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange,DE
@@ -73285,7 +73286,7 @@
 263674	JSneT- Joao S Viana Junior ME,BR
 263675	Jair Aparecido Casarotte-EPP,BR
 263676	NetMG Informática Ltda.,BR
-263677	Net Gloria Internet Banda Larga,BR
+263677	NetGloria Internet Banda Larga,BR
 263678	serverloft, Infraestrutura e Datacenter.,BR
 263679	Servidor na Web Data Center Ltda,BR
 263680	THOMAS GREG & SONS LIMITED (GUERNSEY) S.A.,CO
@@ -74457,7 +74458,7 @@
 265286	Megas Net Provedor de Internet,BR
 265287	ANDREVERSOM MOREIRA GODINHO MEI,BR
 265288	GIOVANI ROCHA FERREIRA - ME,BR
-265289	Jose Maria Moschem me,BR
+265289	MP INFOTELECOM,BR
 265290	Uplink Internet e Cursos,BR
 265291	Pgnet Provedor,BR
 265292	Ava Telecomunicações LTDA,BR
@@ -76575,3 +76576,12 @@
 394958	WELLINGTON-COUNTY - County of Wellington,CA
 394959	POINT360 - Point.360,US
 394960	WORKSIGHTED - Worksighted Inc,US
+394961	SAINT-ANSELM-COLLEGE - Saint Anselm College,US
+394962	PCT-ASN1 - PENNSYLVANIA COLLEGE OF TECHNOLOGY,US
+394963	MLIC-AS01 - Multinational Life Insurance Company,PR
+394964	MARTINMARIETTA-AS1 - Martin Marietta Inc.,US
+394965	MLCC - Microland Computer Center,US
+394966	DFCU - Direct Federal Credit Union,US
+394967	USG-11 - ULTIMATE SOFTWARE GROUP, INC,US
+394968	QTS-CHI - QTS INVESTMENT PROPERTIES CHICAGO, LLC,US
+394969	LOLAWIRELESS - Lola Wireless,US
