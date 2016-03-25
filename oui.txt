@@ -26177,16 +26177,22 @@ C449BB     (base 16)		MITSUMI ELECTRIC CO.,LTD.
 				Dover  NH  03820
 				US
 
+C0-A1-A2   (hex)		MarqMetrix
+C0A1A2     (base 16)		MarqMetrix
+				410 West Harrison ST #200
+				Seattle  WA  98119
+				US
+
 00-F6-63   (hex)		Cisco Systems, Inc
 00F663     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
-C0-A1-A2   (hex)		MarqMetrix
-C0A1A2     (base 16)		MarqMetrix
-				410 West Harrison ST #200
-				Seattle  WA  98119
+B0-91-22   (hex)		Texas Instruments
+B09122     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -52343,12 +52349,6 @@ A009ED     (base 16)		Avaya Inc
 				shenzhen    518100
 				CN
 
-BC-60-10   (hex)		Qingdao Hisense Communications Co.,Ltd.
-BC6010     (base 16)		Qingdao Hisense Communications Co.,Ltd.
-				Qianwangang Road 218
-				Qingdao  Shandong  266510
-				CN
-
 24-E2-71   (hex)		Qingdao Hisense Communications Co.,Ltd.
 24E271     (base 16)		Qingdao Hisense Communications Co.,Ltd.
 				Qianwangang Road 218
@@ -52359,6 +52359,24 @@ BC6010     (base 16)		Qingdao Hisense Communications Co.,Ltd.
 603197     (base 16)		ZyXEL Communications Corporation
 				No. 6 Innovation Road II, Science Park
 				Hsichu  Taiwan  300
+				TW
+
+BC-60-10   (hex)		Qingdao Hisense Communications Co.,Ltd.
+BC6010     (base 16)		Qingdao Hisense Communications Co.,Ltd.
+				Qianwangang Road 218
+				Qingdao  Shandong  266510
+				CN
+
+F4-5E-AB   (hex)		Texas Instruments
+F45EAB     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+AC-37-43   (hex)		HTC Corporation
+AC3743     (base 16)		HTC Corporation
+				No. 23, Xinghua Rd., Taoyuan City
+				Taoyuan County  Taiwan  330
 				TW
 
 58-46-E1   (hex)		Baxter International Inc
@@ -78181,6 +78199,18 @@ F8A097     (base 16)		ARRIS Group, Inc.
 				Qianwangang Road 218
 				Qingdao  Shandong  266510
 				CN
+
+40-F4-13   (hex)		Rubezh
+40F413     (base 16)		Rubezh
+				Ulyanovskaya str. 28
+				Saratov    410056
+				RU
+
+50-65-83   (hex)		Texas Instruments
+506583     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -104398,6 +104428,12 @@ F85A00     (base 16)		Sanford LP
 				6655 Peachtree Dunwoody Road
 				Atlanta  GA  30228
 				US
+
+D8-E0-B8   (hex)		BULAT LLC
+D8E0B8     (base 16)		BULAT LLC
+				Zagorievsiy proezd 1, room 7
+				Moscow    115547
+				RU
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
