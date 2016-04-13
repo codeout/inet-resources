@@ -269,12 +269,6 @@ CC46D6     (base 16)		Cisco Systems, Inc
 				Dongguan  Guangdong  523808 
 				CN
 
-00-50-C2   (hex)		IEEE Registration Authority
-0050C2     (base 16)		IEEE Registration Authority
-				445
-				PISCATAWAY  NJ  08854
-				US
-
 00-CD-FE   (hex)		Apple, Inc.
 00CDFE     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -346,9 +340,6 @@ CCA462     (base 16)		ARRIS Group, Inc.
 				jiahua Mansion 3F, 133 North 4th Ring Road East, Chaoyang District
 				Beijing    100101
 				CN
-
-54-4E-45   (hex)		Private
-544E45     (base 16)		Private
 
 3C-5A-B4   (hex)		Google, Inc.
 3C5AB4     (base 16)		Google, Inc.
@@ -1651,12 +1642,6 @@ CCC760     (base 16)		Apple, Inc.
 				10350 Science Center Dr
 				San Diego  CA  92121
 				US
-
-CC-79-CF   (hex)		Shenzhen RF-LINK Elec&Technology Co.Ltd
-CC79CF     (base 16)		Shenzhen RF-LINK Elec&Technology Co.Ltd
-				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,Shenzhen,P.R.C
-				ShenZhen  Guangdong  518000
-				CN
 
 44-D8-84   (hex)		Apple, Inc.
 44D884     (base 16)		Apple, Inc.
@@ -20354,47 +20339,11 @@ A8CE90     (base 16)		CVC
 				BERKSHIRE SL1 4UH    
 				GB
 
-3C-39-E7   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-3C39E7     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-88-5D-90   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-885D90     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
 00-50-B2   (hex)		BRODEL GmbH
 0050B2     (base 16)		BRODEL GmbH
 				Distelbusch 24
 				Velbert  NRW  42549
 				DE
-
-78-C2-C0   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-78C2C0     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-C8-8E-D1   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-C88ED1     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-E4-95-6E   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-E4956E     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-64-FB-81   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-64FB81     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
 
 00-D0-81   (hex)		RTD Embedded Technologies, Inc.
 00D081     (base 16)		RTD Embedded Technologies, Inc.
@@ -23660,30 +23609,6 @@ B870F4     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
 				DONGGUAN  GUANGDONG  523860
 				CN
 
-A4-4F-29   (hex)		IEEE Registration Authority
-A44F29     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-80-0A-80   (hex)		IEEE Registration Authority
-800A80     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-14-1F-BA   (hex)		IEEE Registration Authority
-141FBA     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-A0-BB-3E   (hex)		IEEE Registration Authority
-A0BB3E     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
 88-4A-EA   (hex)		Texas Instruments
 884AEA     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -25157,18 +25082,6 @@ A4F1E8     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-FC-0F-E6   (hex)		Sony Computer Entertainment Inc.
-FC0FE6     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
-70-9E-29   (hex)		Sony Computer Entertainment Inc.
-709E29     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 00-35-1A   (hex)		Cisco Systems, Inc
 00351A     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -25265,12 +25178,6 @@ DC2DCB     (base 16)		Beijing Unis HengYue Technology Co., Ltd.
 				Beijing    100190
 				CN
 
-5C-F2-86   (hex)		IEEE Registration Authority
-5CF286     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 38-10-D5   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 3810D5     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 				Alt-Moabit 95
@@ -25294,24 +25201,6 @@ D8803C     (base 16)		Anhui Huami Information Technology Company Limited
 				Building A4, 12th Floor, No. 800, Wangjiang Road
 				Hefei  Anhui  230088
 				CN
-
-00-1F-A7   (hex)		Sony Computer Entertainment Inc.
-001FA7     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama,
-				Minato-ku  Tokyo  107-0062
-				JP
-
-00-13-15   (hex)		Sony Computer Entertainment Inc.
-001315     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama,
-				Minato-Ku  Tokyo  107-0062
-				JP
-
-A8-E3-EE   (hex)		Sony Computer Entertainment Inc.
-A8E3EE     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama,
-				Minato-ku  Tokyo  107-0062
-				JP
 
 70-3C-03   (hex)		RadiAnt Co.,Ltd
 703C03     (base 16)		RadiAnt Co.,Ltd
@@ -26272,6 +26161,117 @@ F09FC2     (base 16)		Ubiquiti Networks
 				60-39, Gasan-dong, Geumcheon-gu
 				Seoul  Seoul  153-801
 				KR
+
+00-13-15   (hex)		Sony Interactive Entertainment Inc.
+001315     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+00-1F-A7   (hex)		Sony Interactive Entertainment Inc.
+001FA7     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+A8-E3-EE   (hex)		Sony Interactive Entertainment Inc.
+A8E3EE     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+70-9E-29   (hex)		Sony Interactive Entertainment Inc.
+709E29     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+FC-0F-E6   (hex)		Sony Interactive Entertainment Inc.
+FC0FE6     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+00-50-C2   (hex)		IEEE Registration Authority
+0050C2     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+CC-79-CF   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+CC79CF     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,Shenzhen,P.R.C
+				ShenZhen  Guangdong  518000
+				CN
+
+54-4E-45   (hex)		Private
+544E45     (base 16)		Private
+
+A0-BB-3E   (hex)		IEEE Registration Authority
+A0BB3E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+14-1F-BA   (hex)		IEEE Registration Authority
+141FBA     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+80-0A-80   (hex)		IEEE Registration Authority
+800A80     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+A4-4F-29   (hex)		IEEE Registration Authority
+A44F29     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+5C-F2-86   (hex)		IEEE Registration Authority
+5CF286     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+64-FB-81   (hex)		IEEE Registration Authority
+64FB81     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+E4-95-6E   (hex)		IEEE Registration Authority
+E4956E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+C8-8E-D1   (hex)		IEEE Registration Authority
+C88ED1     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+78-C2-C0   (hex)		IEEE Registration Authority
+78C2C0     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+88-5D-90   (hex)		IEEE Registration Authority
+885D90     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+3C-39-E7   (hex)		IEEE Registration Authority
+3C39E7     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -29803,12 +29803,6 @@ C4626B     (base 16)		ZPT Vigantice
 				2955 Kerner Blvd #D
 				San Rafael  California  94901
 				US
-
-08-D8-33   (hex)		Shenzhen RF Technology Co,.Ltd
-08D833     (base 16)		Shenzhen RF Technology Co,.Ltd
-				5/F,Building 4 ,Baokun science and Technology Industrial Park,Dalang Street,Baoan District,Shenzhen,China
-				Shenzhen  Guangdong  518109
-				CN
 
 48-EE-07   (hex)		Silver Palm Technologies LLC
 48EE07     (base 16)		Silver Palm Technologies LLC
@@ -38378,12 +38372,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				D-10587  Berlin  
 				DE
 
-00-1B-C5   (hex)		IEEE REGISTRATION AUTHORITY  - Please see OUI36/MA-S public listing for more information.
-001BC5     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see OUI36/MA-S public listing for more information.
-				445 Hoes Lane
-				Piscataway  NJ  08854
-				US
-
 00-1B-BB   (hex)		RFTech Co.,Ltd
 001BBB     (base 16)		RFTech Co.,Ltd
 				339-17 Jwahang-Ri,Wonsam-Myun,
@@ -46625,30 +46613,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				TAIPEI    
 				TW
 
-90-C6-82   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-90C682     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-00-55-DA   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-0055DA     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-DC-44-27   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-DC4427     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-A0-3E-6B   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-A03E6B     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
 00-90-34   (hex)		IMAGIC, INC.
 009034     (base 16)		IMAGIC, INC.
 				235 West Road #7
@@ -49892,18 +49856,6 @@ FC4596     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
 				Wong Chuk Hang    -
 				HK
 
-10-07-23   (hex)		IEEE Registration Authority
-100723     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-AC-DE-48   (hex)		Private
-ACDE48     (base 16)		Private
-
-00-A0-85   (hex)		Private
-00A085     (base 16)		Private
-
 18-03-73   (hex)		Dell Inc.
 180373     (base 16)		Dell Inc.
 				One Dell Way
@@ -51452,12 +51404,6 @@ D017C2     (base 16)		ASUSTek COMPUTER INC.
 				Shenzhen  Guangdong  518057
 				CN
 
-BC-60-A7   (hex)		Sony Computer Entertainment Inc.
-BC60A7     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 58-D6-7A   (hex)		TCPlink
 58D67A     (base 16)		TCPlink
 				Daerungpost tower 1-cha 1720, 288 digital-ro,Guro-gu
@@ -51475,12 +51421,6 @@ BC60A7     (base 16)		Sony Computer Entertainment Inc.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
-
-98-6D-35   (hex)		IEEE Registration Authority
-986D35     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
 
 2C-2D-48   (hex)		bct electronic GesmbH
 2C2D48     (base 16)		bct electronic GesmbH
@@ -51684,12 +51624,6 @@ C825E1     (base 16)		Lemobile Information Technology (Beijing) Co., Ltd
 0090FA     (base 16)		Emulex Corporation
 				3333 Susan Street
 				Costa Mesa  CA  92626
-				US
-
-E0-B6-F5   (hex)		IEEE Registration Authority
-E0B6F5     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
 				US
 
 50-C9-71   (hex)		GN Netcom A/S
@@ -52029,12 +51963,6 @@ E47B3F     (base 16)		BEIJING CO-CLOUD TECHNOLOGY LTD.
 483B38     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
-				US
-
-C4-7C-8D   (hex)		IEEE Registration Authority
-C47C8D     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
 				US
 
 A0-41-5E   (hex)		Opsens Solution Inc.
@@ -52492,6 +52420,90 @@ B86B23     (base 16)		Toshiba
 				2-20-9 Nishiwaseda
 				Shinjuku-ku  Tokyo  169-0051
 				JP
+
+D0-05-2A   (hex)		Arcadyan Corporation
+D0052A     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+F4-85-C6   (hex)		FDT Technologies
+F485C6     (base 16)		FDT Technologies
+				14027 Memorial Drive #132
+				Houston  TX  77024
+				US
+
+BC-60-A7   (hex)		Sony Interactive Entertainment Inc.
+BC60A7     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+08-D8-33   (hex)		Shenzhen RF Technology Co., Ltd
+08D833     (base 16)		Shenzhen RF Technology Co., Ltd
+				5/F,Building 4 ,Baokun science and Technology Industrial Park,Dalang Street,Baoan District,Shenzhen,China
+				Shenzhen  Guangdong  518109
+				CN
+
+00-A0-85   (hex)		Private
+00A085     (base 16)		Private
+
+AC-DE-48   (hex)		Private
+ACDE48     (base 16)		Private
+
+10-07-23   (hex)		IEEE Registration Authority
+100723     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+98-6D-35   (hex)		IEEE Registration Authority
+986D35     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+E0-B6-F5   (hex)		IEEE Registration Authority
+E0B6F5     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+C4-7C-8D   (hex)		IEEE Registration Authority
+C47C8D     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-1B-C5   (hex)		IEEE Registration Authority
+001BC5     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+A0-3E-6B   (hex)		IEEE Registration Authority
+A03E6B     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+DC-44-27   (hex)		IEEE Registration Authority
+DC4427     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-55-DA   (hex)		IEEE Registration Authority
+0055DA     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+90-C6-82   (hex)		IEEE Registration Authority
+90C682     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 F0-82-61   (hex)		Sagemcom Broadband SAS
 F08261     (base 16)		Sagemcom Broadband SAS
@@ -55179,12 +55191,6 @@ B856BD     (base 16)		ITT LLC
 107873     (base 16)		Shenzhen Jinkeyi Communication Co., Ltd.
 				No. 10 Shun King Road, Zhen Ping Xi Cun,
 				Shenzhen  Guangdong  518117
-				CN
-
-7C-C7-09   (hex)		Shenzhen RF-LINK Elec&Technology.,Ltd
-7CC709     (base 16)		Shenzhen RF-LINK Elec&Technology.,Ltd
-				Bldg56A, 6/F, Baotian Rd3, Baoan District, Shenzhen, P.R.C
-				Shenzhen  Guangdong  518100
 				CN
 
 D4-55-56   (hex)		Fiber Mountain Inc.
@@ -58660,12 +58666,6 @@ BC4B79     (base 16)		SensingTek
 				Khemka Square, A-12, Sector-4,
 				Noida  Uttar Pradesh  201301
 				IN
-
-90-03-B7   (hex)		PARROT
-9003B7     (base 16)		PARROT
-				174 quai de jemmapes
-				PARIS    7510
-				FR
 
 84-49-15   (hex)		vArmour Networks, Inc.
 844915     (base 16)		vArmour Networks, Inc.
@@ -72101,54 +72101,6 @@ A06A00     (base 16)		Verilink Corporation
 				DRYDEN  NY  13053
 				US
 
-2C-6A-6F   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-2C6A6F     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-1C-CA-E3   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-1CCAE3     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-54-9A-11   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-549A11     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-B8-D8-12   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-B8D812     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-1C-21-D1   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-1C21D1     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-74-19-F8   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-7419F8     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-B4-37-D1   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-B437D1     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-BC-34-00   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-BC3400     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
 00-90-2C   (hex)		DATA & CONTROL EQUIPMENT LTD.
 00902C     (base 16)		DATA & CONTROL EQUIPMENT LTD.
 				COUNTY FARM, WENDOVER RD.
@@ -72333,18 +72285,6 @@ BC3400     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 0050BC     (base 16)		HAMMER STORAGE SOLUTIONS
 				8450 CENTRAL AVENUE
 				NEWARK  CA  94560
-				US
-
-2C-D1-41   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-2CD141     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-80-E4-DA   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-80E4DA     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
 				US
 
 00-90-0F   (hex)		KAWASAKI HEAVY INDUSTRIES, LTD
@@ -75515,30 +75455,6 @@ DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-80-7B-85   (hex)		IEEE Registration Authority
-807B85     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-CC-1B-E0   (hex)		IEEE Registration Authority
-CC1BE0     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-A4-3B-FA   (hex)		IEEE Registration Authority
-A43BFA     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-F4-0E-11   (hex)		IEEE Registration Authority
-F40E11     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
 94-C1-50   (hex)		2Wire Inc
 94C150     (base 16)		2Wire Inc
 				1764 Automation Parkway
@@ -77072,12 +76988,6 @@ E04FBD     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
 				Minato-ku  Tokyo  108-0022
 				JP
 
-38-B8-EB   (hex)		IEEE Registration Authority
-38B8EB     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 9C-4F-DA   (hex)		Apple, Inc.
 9C4FDA     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -77124,24 +77034,6 @@ A0CBFD     (base 16)		Samsung Electronics Co.,Ltd
 803896     (base 16)		SHARP Corporation
 				22-22,Nagaike-Cho
 				Osaka-City  Osaka-Prefecture  545-8522
-				JP
-
-00-D9-D1   (hex)		Sony Computer Entertainment Inc.
-00D9D1     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
-F8-D0-AC   (hex)		Sony Computer Entertainment Inc.
-F8D0AC     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
-0C-FE-45   (hex)		Sony Computer Entertainment Inc.
-0CFE45     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
 				JP
 
 68-6E-23   (hex)		Wi3 Inc.
@@ -77240,12 +77132,6 @@ AC5F3E     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Espoo    02150
 				FI
 
-38-FD-FE   (hex)		IEEE Registration Authority
-38FDFE     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 D4-E3-3F   (hex)		Alcatel-Lucent
 D4E33F     (base 16)		Alcatel-Lucent
 				600 March Road
@@ -77306,18 +77192,6 @@ E8FD72     (base 16)		SHANGHAI LINGUO TECHNOLOGY CO., LTD.
 				Shanghai  Shanghai  201203
 				CN
 
-00-1D-0D   (hex)		Sony Computer Entertainment Inc.
-001D0D     (base 16)		Sony Computer Entertainment Inc.
-				6-21,2Chome
-				Minato-Ku  Tokyo  107-0062
-				JP
-
-00-04-1F   (hex)		Sony Computer Entertainment Inc.
-00041F     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama
-				Minato-ku  Tokyo  107-0062
-				JP
-
 CC-B1-1A   (hex)		Samsung Electronics Co.,Ltd
 CCB11A     (base 16)		Samsung Electronics Co.,Ltd
 				129, Samsung-ro, Youngtongl-Gu
@@ -77347,12 +77221,6 @@ A4BF01     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
-
-7C-47-7C   (hex)		IEEE Registration Authority
-7C477C     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
 
 00-04-C6   (hex)		YAMAHA MOTOR CO.,LTD
 0004C6     (base 16)		YAMAHA MOTOR CO.,LTD
@@ -77485,12 +77353,6 @@ BC15AC     (base 16)		Vodafone Italia S.p.A.
 				B-613, Tancheonsang-ro 164(Sigma 2)
 				Seongnam-si  Bundang-gu, Gyeonggi-do  13631
 				KR
-
-50-FF-99   (hex)		IEEE Registration Authority
-50FF99     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
 
 D0-B0-CD   (hex)		Moen
 D0B0CD     (base 16)		Moen
@@ -77790,12 +77652,6 @@ E0A3AC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 044E5A     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
-				US
-
-68-91-D0   (hex)		IEEE Registration Authority
-6891D0     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
 				US
 
 E0-0E-DA   (hex)		Cisco Systems, Inc
@@ -78380,12 +78236,6 @@ D8EB97     (base 16)		TRENDnet, Inc.
 				Tsao-Tuen   Nan-Tou  54261
 				TW
 
-24-A4-3C   (hex)		Ubiquiti Networks
-24A43C     (base 16)		Ubiquiti Networks
-				91 E. Tasman Dr.
-				San Jose  California  95134
-				US
-
 E4-50-9A   (hex)		HW Communications Ltd
 E4509A     (base 16)		HW Communications Ltd
 				Parkfield
@@ -78398,6 +78248,12 @@ E4509A     (base 16)		HW Communications Ltd
 				Shenzhen    518000
 				CN
 
+24-A4-3C   (hex)		Ubiquiti Networks
+24A43C     (base 16)		Ubiquiti Networks
+				91 E. Tasman Dr.
+				San Jose  California  95134
+				US
+
 20-4C-03   (hex)		Aruba Networks
 204C03     (base 16)		Aruba Networks
 				1344 Crossman Ave
@@ -78409,6 +78265,174 @@ E4509A     (base 16)		HW Communications Ltd
 				MEIZU Tech Bldg., Technology & Innovation Coast
 				Zhuhai  Guangdong  519085
 				CN
+
+14-61-02   (hex)		Alpine Electronics, Inc.
+146102     (base 16)		Alpine Electronics, Inc.
+				20-1, Yoshima Industrial Park
+				Iwaki  Fukushima  970-1192
+				JP
+
+90-03-B7   (hex)		PARROT SA
+9003B7     (base 16)		PARROT SA
+				174 Quai de Jemmapes
+				Paris    75010
+				FR
+
+0C-FE-45   (hex)		Sony Interactive Entertainment Inc.
+0CFE45     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+F8-D0-AC   (hex)		Sony Interactive Entertainment Inc.
+F8D0AC     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+00-D9-D1   (hex)		Sony Interactive Entertainment Inc.
+00D9D1     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+00-04-1F   (hex)		Sony Interactive Entertainment Inc.
+00041F     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+00-1D-0D   (hex)		Sony Interactive Entertainment Inc.
+001D0D     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+7C-C7-09   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+7CC709     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+				Bldg56A, 6/F, Baotian Rd3, Baoan District, Shenzhen, P.R.C
+				Shenzhen  Guangdong  518100
+				CN
+
+F4-0E-11   (hex)		IEEE Registration Authority
+F40E11     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+A4-3B-FA   (hex)		IEEE Registration Authority
+A43BFA     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+CC-1B-E0   (hex)		IEEE Registration Authority
+CC1BE0     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+80-7B-85   (hex)		IEEE Registration Authority
+807B85     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+38-B8-EB   (hex)		IEEE Registration Authority
+38B8EB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+38-FD-FE   (hex)		IEEE Registration Authority
+38FDFE     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+7C-47-7C   (hex)		IEEE Registration Authority
+7C477C     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+50-FF-99   (hex)		IEEE Registration Authority
+50FF99     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+68-91-D0   (hex)		IEEE Registration Authority
+6891D0     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+28-36-38   (hex)		IEEE Registration Authority
+283638     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+2C-6A-6F   (hex)		IEEE Registration Authority
+2C6A6F     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+BC-34-00   (hex)		IEEE Registration Authority
+BC3400     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+B4-37-D1   (hex)		IEEE Registration Authority
+B437D1     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+74-19-F8   (hex)		IEEE Registration Authority
+7419F8     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+1C-21-D1   (hex)		IEEE Registration Authority
+1C21D1     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+54-9A-11   (hex)		IEEE Registration Authority
+549A11     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+B8-D8-12   (hex)		IEEE Registration Authority
+B8D812     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+1C-CA-E3   (hex)		IEEE Registration Authority
+1CCAE3     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+80-E4-DA   (hex)		IEEE Registration Authority
+80E4DA     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+2C-D1-41   (hex)		IEEE Registration Authority
+2CD141     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -82732,12 +82756,6 @@ B8DF6B     (base 16)		SpotCam Co., Ltd.
 				Mushashi-kosuge Tower Place 13F
 				Kawasaki  Kanagawa  211-0063
 				JP
-
-A0-14-3D   (hex)		PARROT SA
-A0143D     (base 16)		PARROT SA
-				174, quai de Jemmapes
-				PARIS    75010
-				FR
 
 58-BD-F9   (hex)		Sigrand
 58BDF9     (base 16)		Sigrand
@@ -88051,12 +88069,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Travbaneveien 6
 				Trondheim    7044
 				NO
-
-00-26-7E   (hex)		Parrot SA
-00267E     (base 16)		Parrot SA
-				174 quai de Jemmapes
-				Paris    78100
-				FR
 
 00-26-78   (hex)		Logic Instrument SA
 002678     (base 16)		Logic Instrument SA
@@ -93457,12 +93469,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				J. Hagaru 9
 				Bratislava    830 05
 				SK
-
-00-12-1C   (hex)		PARROT S.A.
-00121C     (base 16)		PARROT S.A.
-				174, quai de Jemmapes
-				PARIS    75010
-				FR
 
 00-12-10   (hex)		WideRay Corp
 001210     (base 16)		WideRay Corp
@@ -98891,30 +98897,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				UTSUNOMIYA-SHI, TOCHIGI-KEN 320-85    
 				JP
 
-B0-1F-81   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-B01F81     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-58-FC-DB   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-58FCDB     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-7C-70-BC   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-7C70BC     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-2C-26-5F   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-2C265F     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
 00-90-71   (hex)		Applied Innovation Inc.
 009071     (base 16)		Applied Innovation Inc.
 				5800 Innovation Drive
@@ -101906,27 +101888,6 @@ C46699     (base 16)		vivo Mobile Communication Co., Ltd.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-F8-02-78   (hex)		IEEE Registration Authority
-F80278     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-D0-22-12   (hex)		IEEE Registration Authority
-D02212     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-00-20-67   (hex)		Private
-002067     (base 16)		Private
-
-74-E1-4A   (hex)		IEEE Registration Authority
-74E14A     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
 38-3B-C8   (hex)		2Wire Inc
 383BC8     (base 16)		2Wire Inc
 				1764 Automation Parkway
@@ -101938,9 +101899,6 @@ DC7FA4     (base 16)		2Wire Inc
 				1764 Automation Parkway
 				San Jose  Ca  95131
 				US
-
-11-00-AA   (hex)		Private
-1100AA     (base 16)		Private
 
 00-12-88   (hex)		2Wire Inc
 001288     (base 16)		2Wire Inc
@@ -103148,12 +103106,6 @@ C43655     (base 16)		Shenzhen Fenglian Technology Co., Ltd.
 				Shenzhen   Guangdong  518057
 				CN
 
-78-CA-83   (hex)		IEEE Registration Authority
-78CA83     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 78-CB-68   (hex)		DAEHAP HYPER-TECH
 78CB68     (base 16)		DAEHAP HYPER-TECH
 				302,Galmachiro,Woolim Lions Valley 5-cha #A-810,Jungwon-Gu
@@ -103265,6 +103217,12 @@ A87B39     (base 16)		Nokia Corporation
 				Salo  NA  24101
 				FI
 
+00-1E-A4   (hex)		Nokia Danmark A/S
+001EA4     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
 00-12-62   (hex)		Nokia Danmark A/S
 001262     (base 16)		Nokia Danmark A/S
 				Frederikskaj
@@ -103283,6 +103241,12 @@ A87B39     (base 16)		Nokia Corporation
 				Copenhagen V    DK-1790
 				DK
 
+00-1D-E9   (hex)		Nokia Danmark A/S
+001DE9     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
 00-1D-3B   (hex)		Nokia Danmark A/S
 001D3B     (base 16)		Nokia Danmark A/S
 				Frederikskaj
@@ -103295,20 +103259,8 @@ A87B39     (base 16)		Nokia Corporation
 				Copenhagen V    DK-1790
 				DK
 
-00-1E-A4   (hex)		Nokia Danmark A/S
-001EA4     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
 00-1C-D6   (hex)		Nokia Danmark A/S
 001CD6     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-1D-E9   (hex)		Nokia Danmark A/S
-001DE9     (base 16)		Nokia Danmark A/S
 				Frederikskaj
 				Copenhagen V    DK-1790
 				DK
@@ -103379,17 +103331,17 @@ A41588     (base 16)		ARRIS Group, Inc.
 				Taipei  Taiwan  112
 				TW
 
-10-2A-B3   (hex)		Xiaomi Communications Co Ltd
-102AB3     (base 16)		Xiaomi Communications Co Ltd
-				Qinghe Middle street
-				Beijing    100085
-				CN
-
 70-88-4D   (hex)		JAPAN RADIO CO., LTD.
 70884D     (base 16)		JAPAN RADIO CO., LTD.
 				5-1-1 SHIMORENJYAKU,
 				MITAKA-SHI, TOKYO    181-8510
 				JP
+
+10-2A-B3   (hex)		Xiaomi Communications Co Ltd
+102AB3     (base 16)		Xiaomi Communications Co Ltd
+				Qinghe Middle street
+				Beijing    100085
+				CN
 
 4C-55-CC   (hex)		Zentri Pty Ltd
 4C55CC     (base 16)		Zentri Pty Ltd
@@ -103415,12 +103367,6 @@ DC415F     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-28-0D-FC   (hex)		Sony Computer Entertainment Inc.
-280DFC     (base 16)		Sony Computer Entertainment Inc.
-				1-7-1 Konan
-				Minato-ku  Tokyo  108-0075
-				JP
-
 84-68-3E   (hex)		Intel Corporate
 84683E     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -103445,18 +103391,6 @@ FC1A11     (base 16)		vivo Mobile Communication Co., Ltd.
 				Gwangju  Gwangsan-gu  506-731
 				KR
 
-70-25-26   (hex)		Alcatel-Lucent
-702526     (base 16)		Alcatel-Lucent
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-90-3A-A0   (hex)		Alcatel-Lucent
-903AA0     (base 16)		Alcatel-Lucent
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 E0-CD-FD   (hex)		Beijing E3Control Technology Co, LTD
 E0CDFD     (base 16)		Beijing E3Control Technology Co, LTD
 				1 Shangdi East Rd, Building A, Rm 205
@@ -103469,17 +103403,29 @@ BC52B4     (base 16)		Alcatel-Lucent
 				Kanata  Ontario  K2K 2E6
 				CA
 
+20-8B-37   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+208B37     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+				7F,Block A,Skyworth Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 08-BE-77   (hex)		Green Electronics
 08BE77     (base 16)		Green Electronics
 				47801 Fremont Blvd
 				Fremont  CA  94538
 				US
 
-20-8B-37   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-208B37     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
-				7F,Block A,Skyworth Building,
-				Shenzhen  Guangdong  518057
-				CN
+70-25-26   (hex)		Alcatel-Lucent
+702526     (base 16)		Alcatel-Lucent
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+90-3A-A0   (hex)		Alcatel-Lucent
+903AA0     (base 16)		Alcatel-Lucent
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 28-0C-28   (hex)		Unigen DataStorage Corporation
 280C28     (base 16)		Unigen DataStorage Corporation
@@ -103529,18 +103475,6 @@ D49524     (base 16)		Clover Network, Inc.
 				Miaoli    350
 				TW
 
-00-19-C5   (hex)		Sony Computer Entertainment Inc.
-0019C5     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama,
-				Minato-Ku  Tokyo  107-0062
-				JP
-
-00-15-C1   (hex)		Sony Computer Entertainment Inc.
-0015C1     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama,
-				Minato-Ku  Tokyo  107-0062
-				JP
-
 C8-38-70   (hex)		Samsung Electronics Co.,Ltd
 C83870     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -103565,6 +103499,12 @@ C83870     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+04-52-C7   (hex)		Bose Corporation
+0452C7     (base 16)		Bose Corporation
+				The Mountain
+				Framingham  MA  01701-9168
+				US
+
 FC-2F-AA   (hex)		Alcatel-Lucent
 FC2FAA     (base 16)		Alcatel-Lucent
 				600 March Road
@@ -103582,12 +103522,6 @@ D4612E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-04-52-C7   (hex)		Bose Corporation
-0452C7     (base 16)		Bose Corporation
-				The Mountain
-				Framingham  MA  01701-9168
-				US
 
 E8-56-59   (hex)		Advanced-Connectek Inc.
 E85659     (base 16)		Advanced-Connectek Inc.
@@ -103612,6 +103546,18 @@ FC084A     (base 16)		FUJITSU LIMITED
 				Mushashi-kosuge Tower Place 13F
 				Kawasaki  Kanagawa  211-0063
 				JP
+
+D4-AD-2D   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+D4AD2D     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan City  Hubei Province  430074
+				CN
+
+48-55-5F   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+48555F     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan City  Hubei Province  430074
+				CN
 
 84-7B-EB   (hex)		Dell Inc.
 847BEB     (base 16)		Dell Inc.
@@ -103648,18 +103594,6 @@ D467E7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
 				MY
-
-D4-AD-2D   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-D4AD2D     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan City  Hubei Province  430074
-				CN
-
-48-55-5F   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-48555F     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan City  Hubei Province  430074
-				CN
 
 04-A3-16   (hex)		Texas Instruments
 04A316     (base 16)		Texas Instruments
@@ -103703,26 +103637,26 @@ A082AC     (base 16)		Linear DMS Solutions Sdn. Bhd.
 				Kuala Lumpur    59100
 				MY
 
-70-71-BC   (hex)		PEGATRON CORPORATION
-7071BC     (base 16)		PEGATRON CORPORATION
-				5F No. 76, Ligong St., Beitou District
-				Taipei City  Taiwan  112
-				TW
-
 44-65-0D   (hex)		Amazon Technologies Inc.
 44650D     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
 
-E0-69-95   (hex)		PEGATRON CORPORATION
-E06995     (base 16)		PEGATRON CORPORATION
+D8-97-BA   (hex)		PEGATRON CORPORATION
+D897BA     (base 16)		PEGATRON CORPORATION
 				5F No. 76, Ligong St., Beitou District
 				Taipei City  Taiwan  112
 				TW
 
-D8-97-BA   (hex)		PEGATRON CORPORATION
-D897BA     (base 16)		PEGATRON CORPORATION
+70-71-BC   (hex)		PEGATRON CORPORATION
+7071BC     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+E0-69-95   (hex)		PEGATRON CORPORATION
+E06995     (base 16)		PEGATRON CORPORATION
 				5F No. 76, Ligong St., Beitou District
 				Taipei City  Taiwan  112
 				TW
@@ -103738,6 +103672,12 @@ E4F3F5     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				3/F, Building R1-B, High-Tech Industrial Park, Nanshan District
 				Shenzhen  Guangdong  518057
 				CN
+
+00-08-9F   (hex)		EFM Networks
+00089F     (base 16)		EFM Networks
+				403, 4th floor Elegance 1 Bldg.
+				Sungnam-si  Kyunggi-do  463-808
+				KR
 
 00-18-5C   (hex)		EDSLAB Technologies
 00185C     (base 16)		EDSLAB Technologies
@@ -103756,12 +103696,6 @@ E4F3F5     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				30 Hasivim St
 				Petach-Tikva 49133    
 				IL
-
-00-00-C9   (hex)		Emulex Corporation
-0000C9     (base 16)		Emulex Corporation
-				3333 Susan Street
-				Costa Mesa  CA  92626
-				US
 
 00-11-5B   (hex)		Elitegroup Computer Systems Co.,Ltd.
 00115B     (base 16)		Elitegroup Computer Systems Co.,Ltd.
@@ -103793,16 +103727,10 @@ C03FD5     (base 16)		Elitegroup Computer Systems Co.,Ltd.
 				Taipei  Taiwan   11493
 				US
 
-00-08-9F   (hex)		EFM Networks
-00089F     (base 16)		EFM Networks
-				403, 4th floor Elegance 1 Bldg.
-				Sungnam-si  Kyunggi-do  463-808
-				KR
-
-04-2A-E2   (hex)		Cisco Systems, Inc
-042AE2     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
+00-00-C9   (hex)		Emulex Corporation
+0000C9     (base 16)		Emulex Corporation
+				3333 Susan Street
+				Costa Mesa  CA  92626
 				US
 
 00-1A-45   (hex)		GN Netcom A/S
@@ -103817,6 +103745,30 @@ C03FD5     (base 16)		Elitegroup Computer Systems Co.,Ltd.
 				Ballerup  Skovlunde  DK-2750
 				DK
 
+08-3F-BC   (hex)		zte corporation
+083FBC     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+04-2A-E2   (hex)		Cisco Systems, Inc
+042AE2     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+1C-1B-0D   (hex)		GIGA-BYTE TECHNOLOGY CO.,LTD.
+1C1B0D     (base 16)		GIGA-BYTE TECHNOLOGY CO.,LTD.
+				Pin-Jen City, Taoyuan, Taiwan, R.O.C.
+				Pin-Jen  Taoyuan  324
+				TW
+
+90-38-09   (hex)		Ericsson AB
+903809     (base 16)		Ericsson AB
+				Torshamnsgatan 40
+				Stockholm    164 80
+				SE
+
 00-10-4F   (hex)		Oracle Corporation 
 00104F     (base 16)		Oracle Corporation 
 				500 Oracle Parkway
@@ -103828,24 +103780,6 @@ C03FD5     (base 16)		Elitegroup Computer Systems Co.,Ltd.
 				500 Oracle Parkway
 				Redwood Shores  CA  94065
 				US
-
-08-3F-BC   (hex)		zte corporation
-083FBC     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
-				CN
-
-90-38-09   (hex)		Ericsson AB
-903809     (base 16)		Ericsson AB
-				Torshamnsgatan 40
-				Stockholm    164 80
-				SE
-
-1C-1B-0D   (hex)		GIGA-BYTE TECHNOLOGY CO.,LTD.
-1C1B0D     (base 16)		GIGA-BYTE TECHNOLOGY CO.,LTD.
-				Pin-Jen City, Taoyuan, Taiwan, R.O.C.
-				Pin-Jen  Taoyuan  324
-				TW
 
 E4-2F-56   (hex)		OptoMET GmbH
 E42F56     (base 16)		OptoMET GmbH
@@ -103943,6 +103877,18 @@ F8C001     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
+BC-75-74   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC7574     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+20-A6-80   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+20A680     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 00-19-E2   (hex)		Juniper Networks
 0019E2     (base 16)		Juniper Networks
 				1133 Innovation Way
@@ -103985,18 +103931,6 @@ F8C001     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-BC-75-74   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-BC7574     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-20-A6-80   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-20A680     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 50-DD-4F   (hex)		Automation Components, Inc
 50DD4F     (base 16)		Automation Components, Inc
 				2305 Pleasant View Rd
@@ -104009,16 +103943,16 @@ BC7574     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-7C-79-E8   (hex)		PayRange Inc.
-7C79E8     (base 16)		PayRange Inc.
-				700 NE Multnomah St. Ste 1400
-				Portland  OR  97232
-				US
-
 38-70-0C   (hex)		ARRIS Group, Inc.
 38700C     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
+				US
+
+7C-79-E8   (hex)		PayRange Inc.
+7C79E8     (base 16)		PayRange Inc.
+				700 NE Multnomah St. Ste 1400
+				Portland  OR  97232
 				US
 
 54-05-93   (hex)		WOORI ELEC Co.,Ltd
@@ -104027,17 +103961,11 @@ BC7574     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Gyeonggi-Do    14523
 				KR
 
-F8-45-AD   (hex)		Konka Group Co., Ltd.
-F845AD     (base 16)		Konka Group Co., Ltd.
-				Shenzhen Konka R & D Building, 28th floor 15-24
-				Nanshan District  Guangdong  00000
-				CN
-
-00-03-58   (hex)		Hanyang Digitech Co.Ltd
-000358     (base 16)		Hanyang Digitech Co.Ltd
-				13F, Acetwintower2, 212-30, Guro-Dong
-				Seoul    
-				KR
+A0-67-BE   (hex)		Sicon srl
+A067BE     (base 16)		Sicon srl
+				Via Sila 1/3
+				Isola Vicentina  Vicenza  36033
+				IT
 
 C4-CA-D9   (hex)		Hangzhou H3C Technologies Co., Limited
 C4CAD9     (base 16)		Hangzhou H3C Technologies Co., Limited
@@ -104051,11 +103979,11 @@ C4CAD9     (base 16)		Hangzhou H3C Technologies Co., Limited
 				Hangzhou  Zhejiang,   310053
 				CN
 
-00-07-61   (hex)		29530
-000761     (base 16)		29530
-				EPFL - Quartier de l'Innovation
-				Lausanne  CH  1015
-				CH
+70-F9-6D   (hex)		Hangzhou H3C Technologies Co., Limited
+70F96D     (base 16)		Hangzhou H3C Technologies Co., Limited
+				310 Liuhe Road, Zhijiang Science Park
+				Hangzhou  Zhejiang,   310053
+				CN
 
 00-26-0F   (hex)		Linn Products Ltd
 00260F     (base 16)		Linn Products Ltd
@@ -104063,17 +103991,23 @@ C4CAD9     (base 16)		Hangzhou H3C Technologies Co., Limited
 				Glasgow  Scotland  G76 0EQ
 				GB
 
-70-F9-6D   (hex)		Hangzhou H3C Technologies Co., Limited
-70F96D     (base 16)		Hangzhou H3C Technologies Co., Limited
-				310 Liuhe Road, Zhijiang Science Park
-				Hangzhou  Zhejiang,   310053
+F8-45-AD   (hex)		Konka Group Co., Ltd.
+F845AD     (base 16)		Konka Group Co., Ltd.
+				Shenzhen Konka R & D Building, 28th floor 15-24
+				Nanshan District  Guangdong  00000
 				CN
 
-A0-67-BE   (hex)		Sicon srl
-A067BE     (base 16)		Sicon srl
-				Via Sila 1/3
-				Isola Vicentina  Vicenza  36033
-				IT
+00-03-58   (hex)		Hanyang Digitech Co.Ltd
+000358     (base 16)		Hanyang Digitech Co.Ltd
+				13F, Acetwintower2, 212-30, Guro-Dong
+				Seoul    
+				KR
+
+00-07-61   (hex)		29530
+000761     (base 16)		29530
+				EPFL - Quartier de l'Innovation
+				Lausanne  CH  1015
+				CH
 
 60-51-2C   (hex)		TCT mobile ltd
 60512C     (base 16)		TCT mobile ltd
@@ -104099,12 +104033,6 @@ C02FF1     (base 16)		Volta Networks
 				Boston  MA  02111
 				US
 
-04-D3-CF   (hex)		Apple, Inc.
-04D3CF     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 48-82-F2   (hex)		Appel Elektronik GmbH
 4882F2     (base 16)		Appel Elektronik GmbH
 				Ludwig-Rinn-Str.10
@@ -104119,6 +104047,12 @@ C02FF1     (base 16)		Volta Networks
 
 08-6D-41   (hex)		Apple, Inc.
 086D41     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+04-D3-CF   (hex)		Apple, Inc.
+04D3CF     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -104140,6 +104074,12 @@ C02FF1     (base 16)		Volta Networks
 				333 Research Ct NW Ste 230
 				Norcross  GA  30092
 				US
+
+34-A2-A2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+34A2A2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 20-F1-7C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 20F17C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -104165,11 +104105,11 @@ C02FF1     (base 16)		Volta Networks
 				Dongguan    523808
 				CN
 
-34-A2-A2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-34A2A2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+50-F5-DA   (hex)		Amazon Technologies Inc.
+50F5DA     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
 
 8C-D2-E9   (hex)		NIPPON SMT Co.Ltｄ
 8CD2E9     (base 16)		NIPPON SMT Co.Ltｄ
@@ -104188,12 +104128,6 @@ C83DFC     (base 16)		Pioneer DJ Corporation
 				5/F BenYuan Bldg,6015 ShenNan Road
 				ShenZhen  GuangDong  518040
 				CN
-
-50-F5-DA   (hex)		Amazon Technologies Inc.
-50F5DA     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
 
 08-01-0F   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
 08010F     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
@@ -104218,6 +104152,12 @@ C83DFC     (base 16)		Pioneer DJ Corporation
 				Viale Sarca 222
 				Milan  Italy  20126
 				IT
+
+60-C0-BF   (hex)		ON Semiconductor
+60C0BF     (base 16)		ON Semiconductor
+				5005 East McDowell Road
+				Phoenix  AZ  85008
+				US
 
 98-39-8E   (hex)		Samsung Electronics Co.,Ltd
 98398E     (base 16)		Samsung Electronics Co.,Ltd
@@ -104267,12 +104207,6 @@ E4FB8F     (base 16)		MOBIWIRE MOBILES (NINGBO) CO.,LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
-60-C0-BF   (hex)		ON Semiconductor
-60C0BF     (base 16)		ON Semiconductor
-				5005 East McDowell Road
-				Phoenix  AZ  85008
-				US
-
 C8-AF-E3   (hex)		Hefei Radio Communication Technology Co., Ltd 
 C8AFE3     (base 16)		Hefei Radio Communication Technology Co., Ltd 
 				 No.108, YinXing Road, High-tech Development Zone 
@@ -104303,6 +104237,12 @@ E83A97     (base 16)		Toshiba Corporation
 				Shenzhen  Guangdong  518000
 				CN
 
+FC-A8-9A   (hex)		Sunitec Enterprise Co.,Ltd
+FCA89A     (base 16)		Sunitec Enterprise Co.,Ltd
+				3F.,No.98-1,Mincyuan Rd.Sindian City
+				Taipei County 231    231141
+				CN
+
 B8-F8-BE   (hex)		BLUECOM
 B8F8BE     (base 16)		BLUECOM
 				116, Venture-ro, Yeonsu-gu,
@@ -104315,11 +104255,11 @@ B8F8BE     (base 16)		BLUECOM
 				shenzhen  guangdong  518057
 				CN
 
-FC-A8-9A   (hex)		Sunitec Enterprise Co.,Ltd
-FCA89A     (base 16)		Sunitec Enterprise Co.,Ltd
-				3F.,No.98-1,Mincyuan Rd.Sindian City
-				Taipei County 231    231141
-				CN
+90-EE-D9   (hex)		UNIVERSAL DE DESARROLLOS ELECTRÓNICOS, SA
+90EED9     (base 16)		UNIVERSAL DE DESARROLLOS ELECTRÓNICOS, SA
+				CRTA DE CASTELLAR, 298
+				TERRASSA  BARCELONA  08226
+				ES
 
 98-FD-B4   (hex)		Primax Electronics Ltd.
 98FDB4     (base 16)		Primax Electronics Ltd.
@@ -104333,29 +104273,11 @@ FCA89A     (base 16)		Sunitec Enterprise Co.,Ltd
 				Jinan  Shandong  250101
 				CN
 
-90-EE-D9   (hex)		UNIVERSAL DE DESARROLLOS ELECTRÓNICOS, SA
-90EED9     (base 16)		UNIVERSAL DE DESARROLLOS ELECTRÓNICOS, SA
-				CRTA DE CASTELLAR, 298
-				TERRASSA  BARCELONA  08226
-				ES
-
-D0-D9-4F   (hex)		IEEE Registration Authority
-D0D94F     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 00-21-5B   (hex)		SenseAnywhere
 00215B     (base 16)		SenseAnywhere
 				Lisztlaan 2
 				Roosendaal    4702 KJ
 				NL
-
-FC-51-A4   (hex)		ARRIS Group, Inc.
-FC51A4     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
 
 C8-16-BD   (hex)		Qingdao Hisense Communications Co.,Ltd.
 C816BD     (base 16)		Qingdao Hisense Communications Co.,Ltd.
@@ -104375,17 +104297,17 @@ C816BD     (base 16)		Qingdao Hisense Communications Co.,Ltd.
 				Qingdao  Shandong  266510
 				CN
 
+FC-51-A4   (hex)		ARRIS Group, Inc.
+FC51A4     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 F8-5A-00   (hex)		Sanford LP
 F85A00     (base 16)		Sanford LP
 				6655 Peachtree Dunwoody Road
 				Atlanta  GA  30228
 				US
-
-D8-E0-B8   (hex)		BULAT LLC
-D8E0B8     (base 16)		BULAT LLC
-				Zagorievsiy proezd 1, room 7
-				Moscow    115547
-				RU
 
 50-67-F0   (hex)		ZyXEL Communications Corporation
 5067F0     (base 16)		ZyXEL Communications Corporation
@@ -104399,6 +104321,12 @@ C86C87     (base 16)		ZyXEL Communications Corporation
 				Hsichu  Taiwan  300
 				TW
 
+D8-E0-B8   (hex)		BULAT LLC
+D8E0B8     (base 16)		BULAT LLC
+				Zagorievsiy proezd 1, room 7
+				Moscow    115547
+				RU
+
 68-C4-4D   (hex)		Motorola Mobility LLC, a Lenovo Company
 68C44D     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
@@ -104410,18 +104338,6 @@ C86C87     (base 16)		ZyXEL Communications Corporation
 				UNIT L 1/F MAU LAM COMM BLDG 16-18 MAU LAM ST, JORDAN KL, HK
 				Hong kong    999077
 				CN
-
-70-5A-9E   (hex)		Technicolor CH USA Inc.
-705A9E     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-80-C6-AB   (hex)		Technicolor CH USA Inc.
-80C6AB     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 CC-35-40   (hex)		Technicolor CH USA Inc.
 CC3540     (base 16)		Technicolor CH USA Inc.
@@ -104440,6 +104356,30 @@ C42795     (base 16)		Technicolor CH USA Inc.
 				101 West 103rd St.
 				Indianapolis  IN  46290
 				US
+
+70-5A-9E   (hex)		Technicolor CH USA Inc.
+705A9E     (base 16)		Technicolor CH USA Inc.
+				101 West 103rd St.
+				Indianapolis  IN  46290
+				US
+
+80-C6-AB   (hex)		Technicolor CH USA Inc.
+80C6AB     (base 16)		Technicolor CH USA Inc.
+				101 West 103rd St.
+				Indianapolis  IN  46290
+				US
+
+90-A4-DE   (hex)		Wistron Neweb Corporation
+90A4DE     (base 16)		Wistron Neweb Corporation
+				20 Park Avenue II, Hsinchu Science Park, 
+				Hsinchu     308
+				TW
+
+3C-97-0E   (hex)		Wistron InfoComm(Kunshan)Co.,Ltd.
+3C970E     (base 16)		Wistron InfoComm(Kunshan)Co.,Ltd.
+				168# First Avence, 
+				Kunshan  JiangSu  215300
+				CN
 
 30-14-4A   (hex)		Wistron Neweb Corporation
 30144A     (base 16)		Wistron Neweb Corporation
@@ -104464,18 +104404,6 @@ A854B2     (base 16)		Wistron Neweb Corporation
 				2355 W. Chandler Blvd.
 				Chandler  AZ  85224
 				US
-
-90-A4-DE   (hex)		Wistron Neweb Corporation
-90A4DE     (base 16)		Wistron Neweb Corporation
-				20 Park Avenue II, Hsinchu Science Park, 
-				Hsinchu     308
-				TW
-
-3C-97-0E   (hex)		Wistron InfoComm(Kunshan)Co.,Ltd.
-3C970E     (base 16)		Wistron InfoComm(Kunshan)Co.,Ltd.
-				168# First Avence, 
-				Kunshan  JiangSu  215300
-				CN
 
 98-CF-53   (hex)		BBK EDUCATIONAL ELECTRONICS CORP.,LTD.
 98CF53     (base 16)		BBK EDUCATIONAL ELECTRONICS CORP.,LTD.
@@ -104507,23 +104435,35 @@ F4CB52     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dong Guan   Guang Dong  523860
 				CN
 
-00-0A-08   (hex)		Alpine Electronics, Inc.
-000A08     (base 16)		Alpine Electronics, Inc.
-				20-1 Yoshima-Kogyodanchi
-				iwaki-city  Fukushima  970-1192
-				JP
-
 8C-77-16   (hex)		LONGCHEER TELECOMMUNICATION LIMITED
 8C7716     (base 16)		LONGCHEER TELECOMMUNICATION LIMITED
 				Building 1,No.401,Caobao Rd
 				Shanghai  Xuhui District  200233
 				CN
 
-D4-04-FF   (hex)		Juniper Networks
-D404FF     (base 16)		Juniper Networks
-				1133 Innovation Way
-				Sunnyvale  CA  94089
-				US
+00-0A-08   (hex)		Alpine Electronics, Inc.
+000A08     (base 16)		Alpine Electronics, Inc.
+				20-1 Yoshima-Kogyodanchi
+				iwaki-city  Fukushima  970-1192
+				JP
+
+A0-14-3D   (hex)		PARROT SA
+A0143D     (base 16)		PARROT SA
+				174 Quai de Jemmapes
+				Paris    75010
+				FR
+
+00-26-7E   (hex)		PARROT SA
+00267E     (base 16)		PARROT SA
+				174 Quai de Jemmapes
+				Paris    75010
+				FR
+
+00-12-1C   (hex)		PARROT SA
+00121C     (base 16)		PARROT SA
+				174 Quai de Jemmapes
+				Paris    75010
+				FR
 
 B8-55-10   (hex)		Zioncom Electronics (Shenzhen) Ltd.
 B85510     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
@@ -104555,11 +104495,11 @@ B85510     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
 				Aurora  IL  60504
 				US
 
-00-1E-68   (hex)		QUANTA COMPUTER INC.
-001E68     (base 16)		QUANTA COMPUTER INC.
-				NO. 211, WEN HWA 2RD., KUEI SHAN HSIANG
-				TAIPEI  TAO YUAN SHIEN  333
-				TW
+D4-04-FF   (hex)		Juniper Networks
+D404FF     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
 
 C4-54-44   (hex)		QUANTA COMPUTER INC.
 C45444     (base 16)		QUANTA COMPUTER INC.
@@ -104589,6 +104529,12 @@ C45444     (base 16)		QUANTA COMPUTER INC.
 2C600C     (base 16)		QUANTA COMPUTER INC.
 				No.211, Wen Hwa 2nd Rd
 				Taoyuan  Taiwan  33377
+				TW
+
+00-1E-68   (hex)		QUANTA COMPUTER INC.
+001E68     (base 16)		QUANTA COMPUTER INC.
+				NO. 211, WEN HWA 2RD., KUEI SHAN HSIANG
+				TAIPEI  TAO YUAN SHIEN  333
 				TW
 
 00-A0-9B   (hex)		QPSX COMMUNICATIONS, LTD.
@@ -104675,6 +104621,96 @@ DC9FDB     (base 16)		Ubiquiti Networks
 				Cumming  GA  30041
 				US
 
+90-A4-6A   (hex)		SISNET CO., LTD
+90A46A     (base 16)		SISNET CO., LTD
+				1409, SJ Technoville 60-19, Gasan-dong, Geumcheon-Gu
+				Seoul    KS013
+				KR
+
+14-E7-C8   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+14E7C8     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+28-0D-FC   (hex)		Sony Interactive Entertainment Inc.
+280DFC     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+00-15-C1   (hex)		Sony Interactive Entertainment Inc.
+0015C1     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+00-19-C5   (hex)		Sony Interactive Entertainment Inc.
+0019C5     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+11-00-AA   (hex)		Private
+1100AA     (base 16)		Private
+
+00-20-67   (hex)		Private
+002067     (base 16)		Private
+
+D0-22-12   (hex)		IEEE Registration Authority
+D02212     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+F8-02-78   (hex)		IEEE Registration Authority
+F80278     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+74-E1-4A   (hex)		IEEE Registration Authority
+74E14A     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+78-CA-83   (hex)		IEEE Registration Authority
+78CA83     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+D0-D9-4F   (hex)		IEEE Registration Authority
+D0D94F     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+2C-26-5F   (hex)		IEEE Registration Authority
+2C265F     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+7C-70-BC   (hex)		IEEE Registration Authority
+7C70BC     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+58-FC-DB   (hex)		IEEE Registration Authority
+58FCDB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+B0-1F-81   (hex)		IEEE Registration Authority
+B01F81     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -104715,18 +104751,6 @@ A0F895     (base 16)		Shenzhen TINNO Mobile Technology Corp.
 0078CD     (base 16)		Ignition Design Labs
 				1550 Technology Drive
 				San Jose    95110
-				US
-
-40-D8-55   (hex)		IEEE Registration Authority
-40D855     (base 16)		IEEE Registration Authority
-				445
-				PISCATAWAY  NJ  08854
-				US
-
-70-B3-D5   (hex)		IEEE Registration Authority
-70B3D5     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
 				US
 
 28-ED-6A   (hex)		Apple, Inc.
@@ -105046,15 +105070,6 @@ B8FC9A     (base 16)		Le Shi Zhi Xin Electronic Technology (Tianjin) Limited
 				2933 Bunker Hill Ln., Suite 100
 				Santa Clara  CA  95054
 				US
-
-FC-FF-AA   (hex)		IEEE Registration Authority
-FCFFAA     (base 16)		IEEE Registration Authority
-				adafd
-				PISCATAWAY  NJ  08854
-				US
-
-00-CB-00   (hex)		Private
-00CB00     (base 16)		Private
 
 94-86-CD   (hex)		SEOUL ELECTRONICS&TELECOM
 9486CD     (base 16)		SEOUL ELECTRONICS&TELECOM
@@ -125378,30 +125393,6 @@ DC3350     (base 16)		TechSAT GmbH
 				IJAMSVILLE  MD  21754
 				US
 
-98-02-D8   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-9802D8     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-28-FD-80   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-28FD80     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-B0-C5-CA   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-B0C5CA     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-E8-18-63   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-E81863     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
 00-90-3D   (hex)		BIOPAC SYSTEMS, INC.
 00903D     (base 16)		BIOPAC SYSTEMS, INC.
 				42 AERO CAMINO
@@ -125479,18 +125470,6 @@ E81863     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listi
 				12 HASHARON ROAD
 				KFAR SABA 44269    
 				IL
-
-D0-76-50   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-D07650     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
-
-BC-66-41   (hex)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-BC6641     (base 16)		IEEE REGISTRATION AUTHORITY  - Please see MAM public listing for more information.
-				
-				PISCATAWAY  NJ  08854
-				US
 
 00-50-FA   (hex)		OXTEL, LTD.
 0050FA     (base 16)		OXTEL, LTD.
@@ -128492,18 +128471,6 @@ C8F230     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				Shenzhen  Guangdong  518057
 				CN
 
-74-F8-DB   (hex)		IEEE Registration Authority
-74F8DB     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
-				US
-
-00-50-79   (hex)		Private
-005079     (base 16)		Private
-
-9C-93-E4   (hex)		Private
-9C93E4     (base 16)		Private
-
 B0-D5-CC   (hex)		Texas Instruments
 B0D5CC     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -128514,12 +128481,6 @@ B0D5CC     (base 16)		Texas Instruments
 5CF821     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
-				US
-
-0C-EF-AF   (hex)		IEEE Registration Authority
-0CEFAF     (base 16)		IEEE Registration Authority
-				
-				PISCATAWAY  NJ  08854
 				US
 
 74-9D-DC   (hex)		2Wire Inc
@@ -130136,12 +130097,6 @@ DC4D23     (base 16)		MRV Comunications
 				Ra'anana    4365006
 				IL
 
-00-24-8D   (hex)		Sony Computer Entertainment Inc.
-00248D     (base 16)		Sony Computer Entertainment Inc.
-				2-6-21 Minami-Aoyama,
-				Minato-ku  Tokyo  107-0062
-				JP
-
 0C-5A-9E   (hex)		Wi-SUN Alliance
 0C5A9E     (base 16)		Wi-SUN Alliance
 				275 Tennant Avenue, Suite 202
@@ -130736,12 +130691,6 @@ CC167E     (base 16)		Cisco Systems, Inc
 				Dongguan    523808
 				CN
 
-CC-D3-1E   (hex)		IEEE Registration Authority
-CCD31E     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 C8-5B-76   (hex)		LCFC(HeFei) Electronics Technology co., ltd
 C85B76     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
 				YunGu Road 3188-1
@@ -130921,12 +130870,6 @@ B4A5EF     (base 16)		Sercomm Corporation.
 				Floor 1th, building 13, No.368 Zhangjiang Road, Pudong New District, Shanghai
 				shanghai    200000
 				CN
-
-8C-19-2D   (hex)		IEEE Registration Authority
-8C192D     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
 
 38-A2-8C   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
 38A28C     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
@@ -131185,3 +131128,126 @@ ECAAA0     (base 16)		PEGATRON CORPORATION
 				5F No. 76, Ligong St., Beitou District
 				Taipei City  Taiwan  112
 				TW
+
+54-27-6C   (hex)		Jiangsu Houge Technology Corp.
+54276C     (base 16)		Jiangsu Houge Technology Corp.
+				No.20 Xizhang North Road, Fenghuang Town
+				Zhangjiagang  Jiangsu  215614
+				CN
+
+E8-88-6C   (hex)		Shenzhen SC Technologies Co.,LTD
+E8886C     (base 16)		Shenzhen SC Technologies Co.,LTD
+				4/FL,2Block,LianChuang Industrial Park,Bulan Road,Longgang
+				Shenzhen   Guangdong Province  518112
+				CN
+
+DC-35-F1   (hex)		Positivo Informática SA.
+DC35F1     (base 16)		Positivo Informática SA.
+				Rua João Bettega, 5200
+				Curitiba  Paraná  80730000
+				BR
+
+EC-68-81   (hex)		Palo Alto Networks
+EC6881     (base 16)		Palo Alto Networks
+				4401 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+00-24-8D   (hex)		Sony Interactive Entertainment Inc.
+00248D     (base 16)		Sony Interactive Entertainment Inc.
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
+48-DF-37   (hex)		Hewlett Packard Enterprise
+48DF37     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
+00-CB-00   (hex)		Private
+00CB00     (base 16)		Private
+
+FC-FF-AA   (hex)		IEEE Registration Authority
+FCFFAA     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+70-B3-D5   (hex)		IEEE Registration Authority
+70B3D5     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+40-D8-55   (hex)		IEEE Registration Authority
+40D855     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+9C-93-E4   (hex)		Private
+9C93E4     (base 16)		Private
+
+00-50-79   (hex)		Private
+005079     (base 16)		Private
+
+74-F8-DB   (hex)		IEEE Registration Authority
+74F8DB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+0C-EF-AF   (hex)		IEEE Registration Authority
+0CEFAF     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+CC-D3-1E   (hex)		IEEE Registration Authority
+CCD31E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+8C-19-2D   (hex)		IEEE Registration Authority
+8C192D     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+E8-18-63   (hex)		IEEE Registration Authority
+E81863     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+28-FD-80   (hex)		IEEE Registration Authority
+28FD80     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+B0-C5-CA   (hex)		IEEE Registration Authority
+B0C5CA     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+98-02-D8   (hex)		IEEE Registration Authority
+9802D8     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+D0-76-50   (hex)		IEEE Registration Authority
+D07650     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+BC-66-41   (hex)		IEEE Registration Authority
+BC6641     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
