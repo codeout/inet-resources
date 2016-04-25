@@ -24686,29 +24686,17 @@ A45C27     (base 16)		Nintendo Co., Ltd.
 				KYOTO  KYOTO  601-8501
 				JP
 
-D8-FB-5E   (hex)		ASKEY COMPUTER CORP
-D8FB5E     (base 16)		ASKEY COMPUTER CORP
-				10F,No.119,JIANKANG RD,ZHONGHE DIST
-				NEW TAIPEI  TAIWAN  23585
-				TW
-
 54-44-08   (hex)		Nokia Corporation
 544408     (base 16)		Nokia Corporation
 				Joensuunkatu 7
 				Salo  Varsinais-Suomi  24101
 				FI
 
-00-17-B0   (hex)		Nokia Danmark A/S
-0017B0     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-1B-EE   (hex)		Nokia Danmark A/S
-001BEE     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
+D8-FB-5E   (hex)		ASKEY COMPUTER CORP
+D8FB5E     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
 
 18-86-AC   (hex)		Nokia Danmark A/S
 1886AC     (base 16)		Nokia Danmark A/S
@@ -24722,17 +24710,41 @@ D8FB5E     (base 16)		ASKEY COMPUTER CORP
 				Copenhagen V    DK-1790V
 				DK
 
+00-1D-FD   (hex)		Nokia Danmark A/S
+001DFD     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1E-A3   (hex)		Nokia Danmark A/S
+001EA3     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
 00-22-66   (hex)		Nokia Danmark A/S
 002266     (base 16)		Nokia Danmark A/S
 				Frederikskaj
 				Copenhagen V    DK-1790
 				DK
 
-DC-B3-B4   (hex)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
-DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
-				158 Nan Hai Road, TEDA
-				Tianjin    300457
-				CN
+00-17-B0   (hex)		Nokia Danmark A/S
+0017B0     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-1B-EE   (hex)		Nokia Danmark A/S
+001BEE     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-25-48   (hex)		Nokia Danmark A/S
+002548     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
 
 C8-D1-0B   (hex)		Nokia Corporation
 C8D10B     (base 16)		Nokia Corporation
@@ -24752,11 +24764,23 @@ F4F5A5     (base 16)		Nokia Corporation
 				Salo    24101
 				FI
 
-3C-C2-43   (hex)		Nokia Corporation
-3CC243     (base 16)		Nokia Corporation
-				Joensuunkatu 7
-				Salo  NA  24101
-				FI
+DC-B3-B4   (hex)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+DCB3B4     (base 16)		Honeywell Environmental & Combustion Controls (Tianjin) Co., Ltd.
+				158 Nan Hai Road, TEDA
+				Tianjin    300457
+				CN
+
+00-1D-98   (hex)		Nokia Danmark A/S
+001D98     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
+
+00-11-9F   (hex)		Nokia Danmark A/S
+00119F     (base 16)		Nokia Danmark A/S
+				Frederikskaj
+				Copenhagen V    DK-1790
+				DK
 
 00-15-A0   (hex)		Nokia Danmark A/S
 0015A0     (base 16)		Nokia Danmark A/S
@@ -24776,35 +24800,11 @@ F4F5A5     (base 16)		Nokia Corporation
 				Copenhagen V    DK-1790
 				DK
 
-00-25-48   (hex)		Nokia Danmark A/S
-002548     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-1D-FD   (hex)		Nokia Danmark A/S
-001DFD     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-1E-A3   (hex)		Nokia Danmark A/S
-001EA3     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-1D-98   (hex)		Nokia Danmark A/S
-001D98     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
-
-00-11-9F   (hex)		Nokia Danmark A/S
-00119F     (base 16)		Nokia Danmark A/S
-				Frederikskaj
-				Copenhagen V    DK-1790
-				DK
+3C-C2-43   (hex)		Nokia Corporation
+3CC243     (base 16)		Nokia Corporation
+				Joensuunkatu 7
+				Salo  NA  24101
+				FI
 
 18-A6-F7   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 18A6F7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -24848,12 +24848,6 @@ AC61EA     (base 16)		Apple, Inc.
 				Seongnam-si  Gyeonggi-do  463-867
 				KR
 
-F4-ED-5F   (hex)		SHENZHEN KTC TECHNOLOGY GROUP 
-F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP 
-				Wuhe Street
-				Shenzhen  Guangdong  518129
-				CN
-
 94-76-B7   (hex)		Samsung Electronics Co.,Ltd
 9476B7     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -24872,17 +24866,23 @@ B47443     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
+30CBF8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 00-0B-A2   (hex)		Sumitomo Electric Industries,Ltd
 000BA2     (base 16)		Sumitomo Electric Industries,Ltd
 				1-1-3, Shimaya, Konohana-ku
 				Osaka    554-0024
 				JP
 
-30-CB-F8   (hex)		Samsung Electronics Co.,Ltd
-30CBF8     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+F4-ED-5F   (hex)		SHENZHEN KTC TECHNOLOGY GROUP 
+F4ED5F     (base 16)		SHENZHEN KTC TECHNOLOGY GROUP 
+				Wuhe Street
+				Shenzhen  Guangdong  518129
+				CN
 
 2C-4D-79   (hex)		GoerTek Inc.
 2C4D79     (base 16)		GoerTek Inc.
@@ -24908,28 +24908,28 @@ A4F1E8     (base 16)		Apple, Inc.
 				San Jose  CA  94568
 				US
 
-00-A0-B8   (hex)		NetApp
-00A0B8     (base 16)		NetApp
-				2001 Danfield Ct.
-				Fort Collins  CO  80525
-				US
-
 9C-D4-8B   (hex)		Innolux Technology Europe BV
 9CD48B     (base 16)		Innolux Technology Europe BV
 				Stationstraat 39G
 				Heerlen    6411NK
 				NL
 
-54-5A-A6   (hex)		Espressif Inc.
-545AA6     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Road, Pudong New Area
-				Shanghai  Shanghai  201203
-				CN
+00-A0-B8   (hex)		NetApp
+00A0B8     (base 16)		NetApp
+				2001 Danfield Ct.
+				Fort Collins  CO  80525
+				US
 
 DC-E8-38   (hex)		CK Telecom (Shenzhen) Limited
 DCE838     (base 16)		CK Telecom (Shenzhen) Limited
 				Floor 9th, Building 4C,Software Industry Base, Xuefu Road, Hi-Tech Park, Nanshan Dist.
 				Shenzhen  Guangdong  518057
+				CN
+
+54-5A-A6   (hex)		Espressif Inc.
+545AA6     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
 				CN
 
 00-CC-FC   (hex)		Cisco Systems, Inc
