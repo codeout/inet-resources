@@ -26387,6 +26387,18 @@ C88D83     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Basking Ridge  NJ  07920
 				US
 
+24-F5-7E   (hex)		HWH CO., LTD.
+24F57E     (base 16)		HWH CO., LTD.
+				102-708, Digital Empire2, Sin-dong, Youngtong-gu
+				Suwon-si  Gyeonggi-do  443-734
+				KR
+
+00-56-2B   (hex)		Cisco Systems, Inc
+00562B     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -52754,6 +52766,24 @@ C81FBE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Gunpo-si  Gyeonggi-do  15808
 				KR
 
+18-99-F5   (hex)		Sichuan Changhong Electric Ltd.
+1899F5     (base 16)		Sichuan Changhong Electric Ltd.
+				No.35,East MianXin Road,MianYang,Sichaun,China.
+				MianYang  SiChuan  PRC 621000
+				CN
+
+00-81-C4   (hex)		Cisco Systems, Inc
+0081C4     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+E8-FD-90   (hex)		Turbostor
+E8FD90     (base 16)		Turbostor
+				47800 Westinghouse Drive
+				Fremont  CA  94539
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -78742,6 +78772,24 @@ D84710     (base 16)		Sichuan Changhong Electric Ltd.
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+B4-A9-84   (hex)		Symantec Corporation
+B4A984     (base 16)		Symantec Corporation
+				350 Ellis Street
+				Mountain View  CA  94043
+				US
+
+34-07-4F   (hex)		AccelStor, Inc.
+34074F     (base 16)		AccelStor, Inc.
+				10F, No. 465, Sec. 6, Zhongxiao E. Rd., Nangang Dist.
+				Taipei City    11557
+				TW
+
+58-E8-76   (hex)		IEEE Registration Authority
+58E876     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -105098,6 +105146,18 @@ F8E61A     (base 16)		Samsung Electronics Co.,Ltd
 				NAPOLI  Napoli  80146
 				IT
 
+B0-B2-8F   (hex)		Sagemcom Broadband SAS
+B0B28F     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+DC-1A-01   (hex)		Ecoliv Technology ( Shenzhen ) Ltd.
+DC1A01     (base 16)		Ecoliv Technology ( Shenzhen ) Ltd.
+				B-734, Tianhui building, Longhua Street, Pine Road, Longhua District
+				Shenzhen  Guangdong  518109
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -118066,12 +118126,6 @@ DC3350     (base 16)		TechSAT GmbH
 				Dzelzavas 120i
 				Riga    LV-1021
 				LV
-
-00-18-DA   (hex)		AMBER wireless GmbH
-0018DA     (base 16)		AMBER wireless GmbH
-				Albin-Koebis-Str. 18
-				Koeln    51147
-				DE
 
 00-18-DF   (hex)		The Morey Corporation
 0018DF     (base 16)		The Morey Corporation
@@ -131746,3 +131800,9 @@ A48269     (base 16)		Datrium, Inc.
 				22410 70Th Ave West, STE 1 
 				Mountlake Terrace  WA  98043
 				US
+
+00-18-DA   (hex)		AMBER wireless GmbH
+0018DA     (base 16)		AMBER wireless GmbH
+				Rudi-Schillings-Str. 31
+				Trier    54296
+				DE
