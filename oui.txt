@@ -26267,35 +26267,47 @@ C88D83     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Suwon-si  Gyeonggi-do  443-734
 				KR
 
-8C-8B-83   (hex)		Texas Instruments
-8C8B83     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-D0-B5-C2   (hex)		Texas Instruments
-D0B5C2     (base 16)		Texas Instruments
-				12500 TI BLVD
-				Dallas    75243
-				US
-
-20-91-48   (hex)		Texas Instruments
-209148     (base 16)		Texas Instruments
-				12500 TI BLVD
-				Dallas    75243
-				US
-
-A0-F6-FD   (hex)		Texas Instruments
-A0F6FD     (base 16)		Texas Instruments
-				12500 TI BLVD
-				Dallas    75243
-				US
-
 94-3D-C9   (hex)		Asahi Net, Inc.
 943DC9     (base 16)		Asahi Net, Inc.
 				Ginza 4-12-15 Chuo-ku
 				Tokyo    104-0061
 				JP
+
+08-00-28   (hex)		Texas Instruments
+080028     (base 16)		Texas Instruments
+				12500 TI Boulevard
+				Dallas    75243
+				US
+
+00-12-D2   (hex)		Texas Instruments
+0012D2     (base 16)		Texas Instruments
+				12500 TI Boulevard
+				Dallas    75243
+				US
+
+D4-94-A1   (hex)		Texas Instruments
+D494A1     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+78-C5-E5   (hex)		Texas Instruments
+78C5E5     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+84-7E-40   (hex)		Texas Instruments
+847E40     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+00-18-32   (hex)		Texas Instruments
+001832     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
 
 90-D7-EB   (hex)		Texas Instruments
 90D7EB     (base 16)		Texas Instruments
@@ -26333,34 +26345,22 @@ B09122     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-08-00-28   (hex)		Texas Instruments
-080028     (base 16)		Texas Instruments
-				12500 TI Boulevard
+20-91-48   (hex)		Texas Instruments
+209148     (base 16)		Texas Instruments
+				12500 TI BLVD
 				Dallas    75243
 				US
 
-00-12-D2   (hex)		Texas Instruments
-0012D2     (base 16)		Texas Instruments
-				12500 TI Boulevard
+A0-F6-FD   (hex)		Texas Instruments
+A0F6FD     (base 16)		Texas Instruments
+				12500 TI BLVD
 				Dallas    75243
 				US
 
-D4-94-A1   (hex)		Texas Instruments
-D494A1     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
-78-C5-E5   (hex)		Texas Instruments
-78C5E5     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
-84-7E-40   (hex)		Texas Instruments
-847E40     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
+D4-F5-13   (hex)		Texas Instruments
+D4F513     (base 16)		Texas Instruments
+				12500 TI BLVD
+				Dallas    75243
 				US
 
 00-17-EC   (hex)		Texas Instruments
@@ -26375,8 +26375,20 @@ D494A1     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-D4-F5-13   (hex)		Texas Instruments
-D4F513     (base 16)		Texas Instruments
+C8-3E-99   (hex)		Texas Instruments
+C83E99     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+8C-8B-83   (hex)		Texas Instruments
+8C8B83     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+D0-B5-C2   (hex)		Texas Instruments
+D0B5C2     (base 16)		Texas Instruments
 				12500 TI BLVD
 				Dallas    75243
 				US
@@ -26391,18 +26403,6 @@ D4F513     (base 16)		Texas Instruments
 6CECEB     (base 16)		Texas Instruments
 				12500 TI BLVD
 				Dallas    75243
-				US
-
-C8-3E-99   (hex)		Texas Instruments
-C83E99     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
-00-18-32   (hex)		Texas Instruments
-001832     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
 				US
 
 98-5D-AD   (hex)		Texas Instruments
@@ -52670,6 +52670,18 @@ C81FBE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				MianYang  SiChuan  PRC 621000
 				CN
 
+E4-1D-2D   (hex)		Mellanox Technologies, Inc.
+E41D2D     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+B8-00-18   (hex)		Htel
+B80018     (base 16)		Htel
+				Dunchon-dearo, Jungwon-gu
+				Seongnam-si  Gyeonggi-do  13229
+				KR
+
 00-81-C4   (hex)		Cisco Systems, Inc
 0081C4     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -52682,16 +52694,28 @@ E8FD90     (base 16)		Turbostor
 				Fremont  CA  94539
 				US
 
-B8-00-18   (hex)		Htel
-B80018     (base 16)		Htel
-				Dunchon-dearo, Jungwon-gu
-				Seongnam-si  Gyeonggi-do  13229
-				KR
+00-17-EA   (hex)		Texas Instruments
+0017EA     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
 
-E4-1D-2D   (hex)		Mellanox Technologies, Inc.
-E41D2D     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
+00-17-E3   (hex)		Texas Instruments
+0017E3     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+00-18-34   (hex)		Texas Instruments
+001834     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+00-18-2F   (hex)		Texas Instruments
+00182F     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
 				US
 
 78-DE-E4   (hex)		Texas Instruments
@@ -52709,24 +52733,6 @@ B8FFFE     (base 16)		Texas Instruments
 E0-D7-BA   (hex)		Texas Instruments
 E0D7BA     (base 16)		Texas Instruments
 				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
-F0-C7-7F   (hex)		Texas Instruments
-F0C77F     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-F4-5E-AB   (hex)		Texas Instruments
-F45EAB     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-20-CD-39   (hex)		Texas Instruments
-20CD39     (base 16)		Texas Instruments
-				12500 TI Blvd
 				Dallas  TX  75243
 				US
 
@@ -52754,18 +52760,6 @@ A4D578     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-24-71-89   (hex)		Texas Instruments
-247189     (base 16)		Texas Instruments
-				12500 TI BLVD
-				Dallas    75243
-				US
-
-EC-11-27   (hex)		Texas Instruments
-EC1127     (base 16)		Texas Instruments
-				12500 TI BLVD
-				Dallas    75243
-				US
-
 54-4A-16   (hex)		Texas Instruments
 544A16     (base 16)		Texas Instruments
 				12500 TI BLVD
@@ -52778,27 +52772,39 @@ D8DDFD     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-00-17-EA   (hex)		Texas Instruments
-0017EA     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
+20-CD-39   (hex)		Texas Instruments
+20CD39     (base 16)		Texas Instruments
+				12500 TI Blvd
 				Dallas  TX  75243
 				US
 
-00-17-E3   (hex)		Texas Instruments
-0017E3     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
+98-7B-F3   (hex)		Texas Instruments
+987BF3     (base 16)		Texas Instruments
+				12500 TI BLVD
+				Dallas    75243
+				US
+
+24-71-89   (hex)		Texas Instruments
+247189     (base 16)		Texas Instruments
+				12500 TI BLVD
+				Dallas    75243
+				US
+
+EC-11-27   (hex)		Texas Instruments
+EC1127     (base 16)		Texas Instruments
+				12500 TI BLVD
+				Dallas    75243
+				US
+
+F0-C7-7F   (hex)		Texas Instruments
+F0C77F     (base 16)		Texas Instruments
+				12500 TI Blvd
 				Dallas  TX  75243
 				US
 
-00-18-34   (hex)		Texas Instruments
-001834     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
-00-18-2F   (hex)		Texas Instruments
-00182F     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
+F4-5E-AB   (hex)		Texas Instruments
+F45EAB     (base 16)		Texas Instruments
+				12500 TI Blvd
 				Dallas  TX  75243
 				US
 
@@ -52808,10 +52814,10 @@ D8DDFD     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-98-7B-F3   (hex)		Texas Instruments
-987BF3     (base 16)		Texas Instruments
-				12500 TI BLVD
-				Dallas    75243
+40-0D-10   (hex)		ARRIS Group, Inc.
+400D10     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
 				US
 
 A8-1B-6A   (hex)		Texas Instruments
@@ -52842,12 +52848,6 @@ C8FD19     (base 16)		Texas Instruments
 508CB1     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
-				US
-
-40-0D-10   (hex)		ARRIS Group, Inc.
-400D10     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -78725,30 +78725,6 @@ B4A984     (base 16)		Symantec Corporation
 				Sunnyvale  CA  94085
 				US
 
-B0-B4-48   (hex)		Texas Instruments
-B0B448     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
-50-56-63   (hex)		Texas Instruments
-505663     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
-3C-7D-B1   (hex)		Texas Instruments
-3C7DB1     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
-40-98-4E   (hex)		Texas Instruments
-40984E     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
-				Dallas  TX  75243
-				US
-
 3C-2D-B7   (hex)		Texas Instruments
 3C2DB7     (base 16)		Texas Instruments
 				12500 TI Boulevard, MS 8723
@@ -78797,21 +78773,39 @@ CC8CE3     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-50-65-83   (hex)		Texas Instruments
-506583     (base 16)		Texas Instruments
-				12500 TI Blvd
+00-17-E8   (hex)		Texas Instruments
+0017E8     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
 				Dallas  TX  75243
 				US
 
-B4-99-4C   (hex)		Texas Instruments
-B4994C     (base 16)		Texas Instruments
-				12500 TI Blvd
+00-17-E6   (hex)		Texas Instruments
+0017E6     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
 				Dallas  TX  75243
 				US
 
-70-FF-76   (hex)		Texas Instruments
-70FF76     (base 16)		Texas Instruments
-				12500 TI Blvd
+B0-B4-48   (hex)		Texas Instruments
+B0B448     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+50-56-63   (hex)		Texas Instruments
+505663     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+3C-7D-B1   (hex)		Texas Instruments
+3C7DB1     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
+				Dallas  TX  75243
+				US
+
+40-98-4E   (hex)		Texas Instruments
+40984E     (base 16)		Texas Instruments
+				12500 TI Boulevard, MS 8723
 				Dallas  TX  75243
 				US
 
@@ -78839,16 +78833,22 @@ E0C79D     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-00-17-E8   (hex)		Texas Instruments
-0017E8     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
+B4-99-4C   (hex)		Texas Instruments
+B4994C     (base 16)		Texas Instruments
+				12500 TI Blvd
 				Dallas  TX  75243
 				US
 
-00-17-E6   (hex)		Texas Instruments
-0017E6     (base 16)		Texas Instruments
-				12500 TI Boulevard, MS 8723
+70-FF-76   (hex)		Texas Instruments
+70FF76     (base 16)		Texas Instruments
+				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+50-72-24   (hex)		Texas Instruments
+507224     (base 16)		Texas Instruments
+				12500 TI BLVD
+				Dallas    75243
 				US
 
 44-04-44   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -78857,17 +78857,17 @@ E0C79D     (base 16)		Texas Instruments
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+50-65-83   (hex)		Texas Instruments
+506583     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
 BC-28-2C   (hex)		e-Smart Systems Pvt. Ltd
 BC282C     (base 16)		e-Smart Systems Pvt. Ltd
 				483 FIE, , Patparganj Industrial Area
 				Delhi  Delhi  110092
 				IN
-
-50-72-24   (hex)		Texas Instruments
-507224     (base 16)		Texas Instruments
-				12500 TI BLVD
-				Dallas    75243
-				US
 
 F8-5C-4D   (hex)		NOKIA
 F85C4D     (base 16)		NOKIA
@@ -105260,17 +105260,17 @@ C4EDBA     (base 16)		Texas Instruments
 				San Diego  CA  92121
 				US
 
-EC-8E-AE   (hex)		Nagravision SA
-EC8EAE     (base 16)		Nagravision SA
-				Route de Geneve 22-24, PO 7980
-				Cheseaux  Vaud  1033
-				CH
-
 A4-0D-BC   (hex)		Xiamen Intretech Inc.
 A40DBC     (base 16)		Xiamen Intretech Inc.
 				 FL 7 NO 588 JIAHE RD TORCH CARDEN HIGH-TECH ZONE
 				Xiamen  FUJIAN  361006
 				CN
+
+EC-8E-AE   (hex)		Nagravision SA
+EC8EAE     (base 16)		Nagravision SA
+				Route de Geneve 22-24, PO 7980
+				Cheseaux  Vaud  1033
+				CH
 
 60-64-05   (hex)		Texas Instruments
 606405     (base 16)		Texas Instruments
