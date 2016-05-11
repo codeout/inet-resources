@@ -8687,12 +8687,6 @@ C417FE     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Shenzhen  Guangdong  518057
 				CN
 
-04-9F-81   (hex)		Netscout Systems, Inc.
-049F81     (base 16)		Netscout Systems, Inc.
-				45999 Center Oak Plaza
-				Sterling  Virginia  20166
-				US
-
 50-93-4F   (hex)		Gradual Tecnologia Ltda.
 50934F     (base 16)		Gradual Tecnologia Ltda.
 				Rua Attilio Giaretta, 110
@@ -10225,12 +10219,6 @@ A8CE90     (base 16)		CVC
 				121 Theory Drive
 				Irvine  California  92612
 				US
-
-00-22-61   (hex)		Frontier Silicon Ltd
-002261     (base 16)		Frontier Silicon Ltd
-				Gleneagles, The Belfry
-				Watford  Hertfordshire  WD24 4WH
-				GB
 
 00-22-5D   (hex)		Digicable Network India Pvt. Ltd.
 00225D     (base 16)		Digicable Network India Pvt. Ltd.
@@ -22655,12 +22643,6 @@ A8CE90     (base 16)		CVC
 				ORLANDO  FL  32810
 				US
 
-00-80-8C   (hex)		NetScout Systems, Inc.
-00808C     (base 16)		NetScout Systems, Inc.
-				1501 MAIN STREET
-				TEWKSBURY  MA  01876
-				US
-
 00-00-52   (hex)		Intrusion.com, Inc.
 000052     (base 16)		Intrusion.com, Inc.
 				1101 E. ARAPAHO ROAD
@@ -26421,6 +26403,60 @@ D4-36-39   (hex)		Texas Instruments
 D43639     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
+A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
+				Jiangxi Road
+				Qingdao  Shandong  266071
+				CN
+
+A0-43-DB   (hex)		Sitael S.p.A.
+A043DB     (base 16)		Sitael S.p.A.
+				Via San Sabino, 21
+				Mola di Bari  BA  70042
+				IT
+
+E4-BE-ED   (hex)		Netcore Technology Inc.
+E4BEED     (base 16)		Netcore Technology Inc.
+				ORIENTAL CYBERPORT,HIGHTECH 6 ROAD
+				Shenzhen    518057
+				CN
+
+84-EF-18   (hex)		Intel Corporate
+84EF18     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+84-C1-C1   (hex)		Juniper Networks
+84C1C1     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
+30-58-90   (hex)		Frontier Silicon Ltd
+305890     (base 16)		Frontier Silicon Ltd
+				137 Euston Road
+				London    NW12AA
+				GB
+
+00-22-61   (hex)		Frontier Silicon Ltd
+002261     (base 16)		Frontier Silicon Ltd
+				137 Euston Road
+				London    NW12AA
+				GB
+
+04-9F-81   (hex)		NetScout Systems, Inc.
+049F81     (base 16)		NetScout Systems, Inc.
+				310 Littleton Road
+				Westford  MA  01886
+				US
+
+00-80-8C   (hex)		NetScout Systems, Inc.
+00808C     (base 16)		NetScout Systems, Inc.
+				310 Littleton Road
+				Westford  MA  01886
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -48407,12 +48443,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				    ENGLAND
 				GB
 
-00-C0-17   (hex)		Fluke Corporation
-00C017     (base 16)		Fluke Corporation
-				6920 Seaway Blvd.
-				Everett  WA  98203
-				US
-
 00-C0-86   (hex)		THE LYNK CORPORATION
 00C086     (base 16)		THE LYNK CORPORATION
 				101 QUEENS DRIVE
@@ -52848,6 +52878,18 @@ C8FD19     (base 16)		Texas Instruments
 508CB1     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+04-BB-F9   (hex)		Pavilion Data Systems Inc
+04BBF9     (base 16)		Pavilion Data Systems Inc
+				2560 N 1st St, #220
+				San Jose  CA  95131
+				US
+
+00-C0-17   (hex)		NetScout Systems, Inc.
+00C017     (base 16)		NetScout Systems, Inc.
+				310 Littleton Road
+				Westford  MA  01886
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -61134,12 +61176,6 @@ FC-CF-62   (hex)		IBM Corp
 FCCF62     (base 16)		IBM Corp
 				2051 Mission College Blvd 
 				Santa Clara  CA  95054
-				US
-
-D8-E7-2B   (hex)		NetScout Systems, Inc.
-D8E72B     (base 16)		NetScout Systems, Inc.
-				2000 Lincoln Drive East
-				Marlton  New Jersey  08053
 				US
 
 B0-90-74   (hex)		Fulan Electronics Limited
@@ -78869,16 +78905,28 @@ BC282C     (base 16)		e-Smart Systems Pvt. Ltd
 				Delhi  Delhi  110092
 				IN
 
+54-6C-0E   (hex)		Texas Instruments
+546C0E     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
 F8-5C-4D   (hex)		NOKIA
 F85C4D     (base 16)		NOKIA
 				1 Robbins Road
 				Westford    01886-4113
 				US
 
-54-6C-0E   (hex)		Texas Instruments
-546C0E     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
+BC-64-4B   (hex)		ARRIS Group, Inc.
+BC644B     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+D8-E7-2B   (hex)		NetScout Systems, Inc.
+D8E72B     (base 16)		NetScout Systems, Inc.
+				310 Littleton Road
+				Westford  MA  01886
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -99926,12 +99974,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				STAMFORD  CT  06905
 				US
 
-00-A0-0E   (hex)		VISUAL NETWORKS, INC.
-00A00E     (base 16)		VISUAL NETWORKS, INC.
-				2092 GAITHER ROAD- STE #220
-				ROCKVILLE  MD  20850
-				US
-
 00-A0-7C   (hex)		TONYANG NYLON CO., LTD.
 00A07C     (base 16)		TONYANG NYLON CO., LTD.
 				ELECTRONIC RESEARCH LAB
@@ -105276,6 +105318,24 @@ EC8EAE     (base 16)		Nagravision SA
 606405     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
+				US
+
+70-8B-CD   (hex)		ASUSTek COMPUTER INC.
+708BCD     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
+00-A0-0E   (hex)		NetScout Systems, Inc.
+00A00E     (base 16)		NetScout Systems, Inc.
+				310 Littleton Road
+				Westford  MA  01886
+				US
+
+1C-33-0E   (hex)		PernixData
+1C330E     (base 16)		PernixData
+				1745 Technology Drive, Suite 800
+				San Jose  CA  95110
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -131943,4 +132003,28 @@ C0E422     (base 16)		Texas Instruments
 1CBA8C     (base 16)		Texas Instruments
 				12500 TI Boulevard, MS 8723
 				Dallas  TX  75243
+				US
+
+7C-A9-7D   (hex)		Objenious
+7CA97D     (base 16)		Objenious
+				20 rue de Troyon
+				SEVRES    92310
+				FR
+
+58-FB-84   (hex)		Intel Corporate
+58FB84     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+E0-E7-BB   (hex)		Nureva, Inc.
+E0E7BB     (base 16)		Nureva, Inc.
+				1000, 1221 8th Street SW
+				Calgary  AB  T2R 0L4
+				CA
+
+5C-B0-66   (hex)		ARRIS Group, Inc.
+5CB066     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
 				US
