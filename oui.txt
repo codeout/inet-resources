@@ -26405,12 +26405,6 @@ D43639     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
-A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
-				Jiangxi Road
-				Qingdao  Shandong  266071
-				CN
-
 A0-43-DB   (hex)		Sitael S.p.A.
 A043DB     (base 16)		Sitael S.p.A.
 				Via San Sabino, 21
@@ -26435,6 +26429,12 @@ E4BEED     (base 16)		Netcore Technology Inc.
 				Sunnyvale  CA  94089
 				US
 
+A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
+A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
+				Jiangxi Road
+				Qingdao  Shandong  266071
+				CN
+
 30-58-90   (hex)		Frontier Silicon Ltd
 305890     (base 16)		Frontier Silicon Ltd
 				137 Euston Road
@@ -26457,6 +26457,12 @@ E4BEED     (base 16)		Netcore Technology Inc.
 00808C     (base 16)		NetScout Systems, Inc.
 				310 Littleton Road
 				Westford  MA  01886
+				US
+
+98-F0-58   (hex)		Lynxspring, Incl.
+98F058     (base 16)		Lynxspring, Incl.
+				1210 NE Windsor Drive
+				Lees Summit  MO  64086
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -52892,6 +52898,12 @@ C8FD19     (base 16)		Texas Instruments
 				Westford  MA  01886
 				US
 
+B0-F8-93   (hex)		Shanghai MXCHIP Information Technology Co., Ltd.
+B0F893     (base 16)		Shanghai MXCHIP Information Technology Co., Ltd.
+				9th Floor, No. 5 Building, 2145 Jinshajiang Rd., Putuo District
+				Shanghai    200333
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -78917,16 +78929,22 @@ F85C4D     (base 16)		NOKIA
 				Westford    01886-4113
 				US
 
-BC-64-4B   (hex)		ARRIS Group, Inc.
-BC644B     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
+D0-13-FD   (hex)		LG Electronics (Mobile Communications)
+D013FD     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul  Seoul  153-801
+				KR
 
 D8-E7-2B   (hex)		NetScout Systems, Inc.
 D8E72B     (base 16)		NetScout Systems, Inc.
 				310 Littleton Road
 				Westford  MA  01886
+				US
+
+BC-64-4B   (hex)		ARRIS Group, Inc.
+BC644B     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -91378,12 +91396,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				2 Ang Mo Kio St.64, Econ Building, #04-00
 				  Singapore  569084
 				SG
-
-00-1A-21   (hex)		Indac B.V.
-001A21     (base 16)		Indac B.V.
-				Institutenweg 15A
-				Enschede  Overijssel  7521 PH
-				NL
 
 00-1A-23   (hex)		Ice Qube, Inc
 001A23     (base 16)		Ice Qube, Inc
@@ -105325,6 +105337,12 @@ EC8EAE     (base 16)		Nagravision SA
 				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
 				Taipei  Taiwan  112
 				TW
+
+00-1A-21   (hex)		Brookhuis Applied Technologies BV
+001A21     (base 16)		Brookhuis Applied Technologies BV
+				PO Box 79
+				Enschede    NL-7500
+				NL
 
 00-A0-0E   (hex)		NetScout Systems, Inc.
 00A00E     (base 16)		NetScout Systems, Inc.
@@ -132005,12 +132023,6 @@ C0E422     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-7C-A9-7D   (hex)		Objenious
-7CA97D     (base 16)		Objenious
-				20 rue de Troyon
-				SEVRES    92310
-				FR
-
 58-FB-84   (hex)		Intel Corporate
 58FB84     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -132022,6 +132034,12 @@ E0E7BB     (base 16)		Nureva, Inc.
 				1000, 1221 8th Street SW
 				Calgary  AB  T2R 0L4
 				CA
+
+7C-A9-7D   (hex)		Objenious
+7CA97D     (base 16)		Objenious
+				20 rue de Troyon
+				SEVRES    92310
+				FR
 
 5C-B0-66   (hex)		ARRIS Group, Inc.
 5CB066     (base 16)		ARRIS Group, Inc.
