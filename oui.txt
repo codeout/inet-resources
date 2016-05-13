@@ -26405,6 +26405,12 @@ D43639     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
+A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
+				Jiangxi Road
+				Qingdao  Shandong  266071
+				CN
+
 A0-43-DB   (hex)		Sitael S.p.A.
 A043DB     (base 16)		Sitael S.p.A.
 				Via San Sabino, 21
@@ -26428,12 +26434,6 @@ E4BEED     (base 16)		Netcore Technology Inc.
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
-
-A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
-A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
-				Jiangxi Road
-				Qingdao  Shandong  266071
-				CN
 
 30-58-90   (hex)		Frontier Silicon Ltd
 305890     (base 16)		Frontier Silicon Ltd
@@ -52892,17 +52892,29 @@ C8FD19     (base 16)		Texas Instruments
 				San Jose  CA  95131
 				US
 
+B0-F8-93   (hex)		Shanghai MXCHIP Information Technology Co., Ltd.
+B0F893     (base 16)		Shanghai MXCHIP Information Technology Co., Ltd.
+				9th Floor, No. 5 Building, 2145 Jinshajiang Rd., Putuo District
+				Shanghai    200333
+				CN
+
 00-C0-17   (hex)		NetScout Systems, Inc.
 00C017     (base 16)		NetScout Systems, Inc.
 				310 Littleton Road
 				Westford  MA  01886
 				US
 
-B0-F8-93   (hex)		Shanghai MXCHIP Information Technology Co., Ltd.
-B0F893     (base 16)		Shanghai MXCHIP Information Technology Co., Ltd.
-				9th Floor, No. 5 Building, 2145 Jinshajiang Rd., Putuo District
-				Shanghai    200333
+D4-9B-5C   (hex)		Chongqing Miedu Technology Co., Ltd.
+D49B5C     (base 16)		Chongqing Miedu Technology Co., Ltd.
+				7-602 No.118 DaPing Main Street Yuzhong District
+				Chongqing    400000
 				CN
+
+C0-D3-91   (hex)		IEEE Registration Authority
+C0D391     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -105356,6 +105368,12 @@ EC8EAE     (base 16)		Nagravision SA
 				San Jose  CA  95110
 				US
 
+34-57-60   (hex)		MitraStar Technology Corp.
+345760     (base 16)		MitraStar Technology Corp.
+				No. 6, Innovation Road II,
+				Hsinchu    300
+				TW
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -132023,6 +132041,12 @@ C0E422     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+7C-A9-7D   (hex)		Objenious
+7CA97D     (base 16)		Objenious
+				20 rue de Troyon
+				SEVRES    92310
+				FR
+
 58-FB-84   (hex)		Intel Corporate
 58FB84     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -132034,12 +132058,6 @@ E0E7BB     (base 16)		Nureva, Inc.
 				1000, 1221 8th Street SW
 				Calgary  AB  T2R 0L4
 				CA
-
-7C-A9-7D   (hex)		Objenious
-7CA97D     (base 16)		Objenious
-				20 rue de Troyon
-				SEVRES    92310
-				FR
 
 5C-B0-66   (hex)		ARRIS Group, Inc.
 5CB066     (base 16)		ARRIS Group, Inc.
