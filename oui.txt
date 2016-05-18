@@ -26405,6 +26405,12 @@ D43639     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
+A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
+				Jiangxi Road
+				Qingdao  Shandong  266071
+				CN
+
 A0-43-DB   (hex)		Sitael S.p.A.
 A043DB     (base 16)		Sitael S.p.A.
 				Via San Sabino, 21
@@ -26428,12 +26434,6 @@ E4BEED     (base 16)		Netcore Technology Inc.
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
-
-A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
-A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
-				Jiangxi Road
-				Qingdao  Shandong  266071
-				CN
 
 30-58-90   (hex)		Frontier Silicon Ltd
 305890     (base 16)		Frontier Silicon Ltd
@@ -26470,6 +26470,12 @@ C4F5A5     (base 16)		Kumalift Co., Ltd.
 				1210 NE Windsor Drive
 				Lees Summit  MO  64086
 				US
+
+24-E4-3F   (hex)		Wenzhou Kunmei Communication Technology Co.,Ltd.
+24E43F     (base 16)		Wenzhou Kunmei Communication Technology Co.,Ltd.
+				Baitawang industrial zone,Yueqing,Zhejiang
+				Yueqing  Zhejiang  310025
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -52916,17 +52922,23 @@ D49B5C     (base 16)		Chongqing Miedu Technology Co., Ltd.
 				Chongqing    400000
 				CN
 
+C0-D3-91   (hex)		IEEE Registration Authority
+C0D391     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 EC-8C-A2   (hex)		Ruckus Wireless
 EC8CA2     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-C0-D3-91   (hex)		IEEE Registration Authority
-C0D391     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
+C4-11-E0   (hex)		Bull Group Co., Ltd
+C411E0     (base 16)		Bull Group Co., Ltd
+				No.32 Sanhai Road,East Guanhaiwei Industrial Zone, Cixi City, Zhejiang, P.R.China
+				Cixi  Zhejiang  315314
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -78449,12 +78461,6 @@ B8D812     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-98-1E-0F   (hex)		Shanghai Jeelan Technology Information Inc.
-981E0F     (base 16)		Shanghai Jeelan Technology Information Inc.
-				Room 302,Building 17, No.658, Jinzhong Road
-				shanghai    200052
-				CN
-
 8C-A6-DF   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 8CA6DF     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
@@ -78981,6 +78987,18 @@ BC644B     (base 16)		ARRIS Group, Inc.
 2CAC44     (base 16)		CONEXTOP
 				Room 608, 6/F, Electric Building , High-tech Park , Nanshan
 				Shenzhen    51800
+				CN
+
+A8-BD-27   (hex)		Hewlett Packard Enterprise
+A8BD27     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
+98-1E-0F   (hex)		Jeelan (Shanghai Jeelan Technology Information Inc
+981E0F     (base 16)		Jeelan (Shanghai Jeelan Technology Information Inc
+				Room 302,Building 17, No.658, Jinzhong Road
+				shanghai    200052
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -132071,6 +132089,12 @@ C0E422     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+7C-A9-7D   (hex)		Objenious
+7CA97D     (base 16)		Objenious
+				20 rue de Troyon
+				SEVRES    92310
+				FR
+
 58-FB-84   (hex)		Intel Corporate
 58FB84     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -132083,14 +132107,14 @@ E0E7BB     (base 16)		Nureva, Inc.
 				Calgary  AB  T2R 0L4
 				CA
 
-7C-A9-7D   (hex)		Objenious
-7CA97D     (base 16)		Objenious
-				20 rue de Troyon
-				SEVRES    92310
-				FR
-
 5C-B0-66   (hex)		ARRIS Group, Inc.
 5CB066     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+BC-8A-A3   (hex)		NHN Entertainment
+BC8AA3     (base 16)		NHN Entertainment
+				Play Museum, 629 Sampyeong-dong, Bundang-gu
+				Seongnam-si, Gyeonggi-do    463-400
+				KR
