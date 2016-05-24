@@ -26495,6 +26495,12 @@ E4C1F1     (base 16)		SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd
 				Shenzhen  Guangdong  518057
 				CN
 
+24-0D-C2   (hex)		TCT mobile ltd
+240DC2     (base 16)		TCT mobile ltd
+				No.86 hechang 7th road, zhongkai, Hi-Tech District
+				Hui Zhou  Guang Dong  516006
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -52994,6 +53000,24 @@ C0F636     (base 16)		Hangzhou Kuaiyue Technologies, Ltd.
 				Hangzhou  Zhejiang  310053
 				CN
 
+74-23-44   (hex)		Xiaomi Communications Co Ltd
+742344     (base 16)		Xiaomi Communications Co Ltd
+				Qinghe Middle street
+				Beijing    100085
+				CN
+
+F0-03-8C   (hex)		AzureWave Technology Inc.
+F0038C     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
+B4-5D-50   (hex)		Aruba Networks
+B45D50     (base 16)		Aruba Networks
+				1344 Crossman Ave
+				Sunnyvale  CA  94089
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -78797,48 +78821,6 @@ A8BD27     (base 16)		Hewlett Packard Enterprise
 				New Taipei City  Taiwan  23585
 				TW
 
-00-1A-AD   (hex)		ARRIS Group, Inc.
-001AAD     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-19-5E   (hex)		ARRIS Group, Inc.
-00195E     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-14-04   (hex)		ARRIS Group, Inc.
-001404     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1B-DD   (hex)		ARRIS Group, Inc.
-001BDD     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-23-A2   (hex)		ARRIS Group, Inc.
-0023A2     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1E-8D   (hex)		ARRIS Group, Inc.
-001E8D     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-03-E0   (hex)		ARRIS Group, Inc.
-0003E0     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 70-7E-43   (hex)		ARRIS Group, Inc.
 707E43     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -78853,6 +78835,12 @@ A8BD27     (base 16)		Hewlett Packard Enterprise
 
 A4-7A-A4   (hex)		ARRIS Group, Inc.
 A47AA4     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1A-AD   (hex)		ARRIS Group, Inc.
+001AAD     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -78875,8 +78863,26 @@ E8892C     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-15-D1   (hex)		ARRIS Group, Inc.
-0015D1     (base 16)		ARRIS Group, Inc.
+3C-DF-A9   (hex)		ARRIS Group, Inc.
+3CDFA9     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+8C-09-F4   (hex)		ARRIS Group, Inc.
+8C09F4     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+08-3E-0C   (hex)		ARRIS Group, Inc.
+083E0C     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+D4-04-CD   (hex)		ARRIS Group, Inc.
+D404CD     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -78899,24 +78905,6 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-3C-DF-A9   (hex)		ARRIS Group, Inc.
-3CDFA9     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-8C-09-F4   (hex)		ARRIS Group, Inc.
-8C09F4     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-08-3E-0C   (hex)		ARRIS Group, Inc.
-083E0C     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 00-12-25   (hex)		ARRIS Group, Inc.
 001225     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -78929,14 +78917,14 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-D4-04-CD   (hex)		ARRIS Group, Inc.
-D404CD     (base 16)		ARRIS Group, Inc.
+00-03-E0   (hex)		ARRIS Group, Inc.
+0003E0     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-00-24-93   (hex)		ARRIS Group, Inc.
-002493     (base 16)		ARRIS Group, Inc.
+00-15-D1   (hex)		ARRIS Group, Inc.
+0015D1     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -78983,14 +78971,14 @@ F8A097     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-23-0B   (hex)		ARRIS Group, Inc.
-00230B     (base 16)		ARRIS Group, Inc.
+BC-64-4B   (hex)		ARRIS Group, Inc.
+BC644B     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-00-1B-52   (hex)		ARRIS Group, Inc.
-001B52     (base 16)		ARRIS Group, Inc.
+34-7A-60   (hex)		ARRIS Group, Inc.
+347A60     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -79037,14 +79025,50 @@ F8A097     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-BC-64-4B   (hex)		ARRIS Group, Inc.
-BC644B     (base 16)		ARRIS Group, Inc.
+00-24-93   (hex)		ARRIS Group, Inc.
+002493     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-34-7A-60   (hex)		ARRIS Group, Inc.
-347A60     (base 16)		ARRIS Group, Inc.
+00-19-5E   (hex)		ARRIS Group, Inc.
+00195E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-14-04   (hex)		ARRIS Group, Inc.
+001404     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1B-DD   (hex)		ARRIS Group, Inc.
+001BDD     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-23-A2   (hex)		ARRIS Group, Inc.
+0023A2     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1E-8D   (hex)		ARRIS Group, Inc.
+001E8D     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-23-0B   (hex)		ARRIS Group, Inc.
+00230B     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1B-52   (hex)		ARRIS Group, Inc.
+001B52     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -105224,12 +105248,6 @@ EC8EAE     (base 16)		Nagravision SA
 				Shenzhen  Guangdong  518108
 				CN
 
-98-6B-3D   (hex)		ARRIS Group, Inc.
-986B3D     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 CC-65-AD   (hex)		ARRIS Group, Inc.
 CC65AD     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -105244,30 +105262,6 @@ CC65AD     (base 16)		ARRIS Group, Inc.
 
 90-C7-92   (hex)		ARRIS Group, Inc.
 90C792     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-15-CF   (hex)		ARRIS Group, Inc.
-0015CF     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-38-6B-BB   (hex)		ARRIS Group, Inc.
-386BBB     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-E0-6F   (hex)		ARRIS Group, Inc.
-00E06F     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-04-BD   (hex)		ARRIS Group, Inc.
-0004BD     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -105312,6 +105306,12 @@ E8ED05     (base 16)		ARRIS Group, Inc.
 002A10     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+98-6B-3D   (hex)		ARRIS Group, Inc.
+986B3D     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
 				US
 
 74-E7-C6   (hex)		ARRIS Group, Inc.
@@ -105484,6 +105484,30 @@ D82522     (base 16)		ARRIS Group, Inc.
 
 00-25-F2   (hex)		ARRIS Group, Inc.
 0025F2     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-15-CF   (hex)		ARRIS Group, Inc.
+0015CF     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+38-6B-BB   (hex)		ARRIS Group, Inc.
+386BBB     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-E0-6F   (hex)		ARRIS Group, Inc.
+00E06F     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-04-BD   (hex)		ARRIS Group, Inc.
+0004BD     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -132231,4 +132255,10 @@ E0-9D-FA   (hex)		Wanan Hongsheng Electronic Co.Ltd
 E09DFA     (base 16)		Wanan Hongsheng Electronic Co.Ltd
 				1st section of industrial pack,Wan'An County,Ji'An City,jiangxi province
 				Wanan  China/jiangxi  343800
+				CN
+
+34-E7-1C   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+34E71C     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
 				CN
