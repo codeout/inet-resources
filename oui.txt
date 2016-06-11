@@ -26501,18 +26501,6 @@ A47B2C     (base 16)		Nokia
 				shenzhen  guangdong  518057
 				CN
 
-60-A1-0A   (hex)		Samsung Electronics Co.,Ltd
-60A10A     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-A0-75-91   (hex)		Samsung Electronics Co.,Ltd
-A07591     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 8C-71-F8   (hex)		Samsung Electronics Co.,Ltd
 8C71F8     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -26554,6 +26542,30 @@ CC051B     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+60-A1-0A   (hex)		Samsung Electronics Co.,Ltd
+60A10A     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+A0-75-91   (hex)		Samsung Electronics Co.,Ltd
+A07591     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D8-14-D6   (hex)		SURE SYSTEM Co Ltd
+D814D6     (base 16)		SURE SYSTEM Co Ltd
+				Bakurou-machi 4-7-5
+				Cyuou-ku  Osaka  541-0059
+				JP
+
+64-61-84   (hex)		VELUX
+646184     (base 16)		VELUX
+				Baekgaardsvej 40
+				Skjern    6900
+				DK
 
 00-1F-CC   (hex)		Samsung Electronics Co.,Ltd
 001FCC     (base 16)		Samsung Electronics Co.,Ltd
@@ -53165,18 +53177,6 @@ ACAB2E     (base 16)		Beijing LasNubes Technology Co., Ltd.
 				Beijing    100025
 				CN
 
-BC-47-60   (hex)		Samsung Electronics Co.,Ltd
-BC4760     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D0-17-6A   (hex)		Samsung Electronics Co.,Ltd
-D0176A     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 8C-77-12   (hex)		Samsung Electronics Co.,Ltd
 8C7712     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -53197,6 +53197,18 @@ D0176A     (base 16)		Samsung Electronics Co.,Ltd
 
 00-21-D2   (hex)		Samsung Electronics Co.,Ltd
 0021D2     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+BC-47-60   (hex)		Samsung Electronics Co.,Ltd
+BC4760     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D0-17-6A   (hex)		Samsung Electronics Co.,Ltd
+D0176A     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
@@ -104927,12 +104939,6 @@ E866C4     (base 16)		Diamanti
 				San Jose  CA  95113
 				US
 
-00-16-28   (hex)		Ultra Electronics Manufacturing & Card Systems
-001628     (base 16)		Ultra Electronics Manufacturing & Card Systems
-				Hampshire Road
-				Weymouth  Dorset  DT4 9XD
-				GB
-
 D4-88-90   (hex)		Samsung Electronics Co.,Ltd
 D48890     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -105838,6 +105844,12 @@ FC2FAA     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+00-16-28   (hex)		Magicard Ltd
+001628     (base 16)		Magicard Ltd
+				Hampshire Road
+				Weymouth  Dorset  DT4 9XD
+				GB
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
