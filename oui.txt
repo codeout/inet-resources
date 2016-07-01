@@ -10232,12 +10232,6 @@ A8CE90     (base 16)		CVC
 				KWAI CHUNG  N.T.  
 				HK
 
-00-1E-AE   (hex)		Continental Automotive Systems
-001EAE     (base 16)		Continental Automotive Systems
-				21440 West Lake Cook Road
-				Deer Park  IL  60010
-				US
-
 00-1E-A8   (hex)		Datang Mobile Communications Equipment CO.,LTD
 001EA8     (base 16)		Datang Mobile Communications Equipment CO.,LTD
 				No.29,Xueyuan Rd.
@@ -26641,6 +26635,12 @@ A01081     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+00-1E-AE   (hex)		Continental Automotive Systems Inc.
+001EAE     (base 16)		Continental Automotive Systems Inc.
+				21440 West Lake Cook Road
+				Deer Park  IL  60010
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -44090,12 +44090,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Sunnyvale  CA  94089
 				US
 
-00-04-35   (hex)		Comptek International, Inc.
-000435     (base 16)		Comptek International, Inc.
-				11 Beacon St.
-				Boston  MA  02108
-				US
-
 00-04-2F   (hex)		International Communications Products, Inc.
 00042F     (base 16)		International Communications Products, Inc.
 				4325 Woodland Park Drive
@@ -53359,6 +53353,30 @@ F0D9B2     (base 16)		EXO S.A.
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+48-7A-55   (hex)		ALE International
+487A55     (base 16)		ALE International
+				32 avenue Kléber
+				Colombes    92700
+				FR
+
+A8-E7-05   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+A8E705     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+9C-62-AB   (hex)		Sumavision Technologies Co.,Ltd
+9C62AB     (base 16)		Sumavision Technologies Co.,Ltd
+				6F, Block A2, Power Creative Building,No.1 Shangdi East Road, Haidian District
+				Beijing    100085
+				CN
+
+00-04-35   (hex)		InfiNet LLC
+000435     (base 16)		InfiNet LLC
+				Serafimy Deryabinoy str. 24
+				Yekaterinburg    620149
+				RU
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -79600,6 +79618,18 @@ CCFD17     (base 16)		TCT mobile ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+E4-3E-D7   (hex)		Arcadyan Corporation
+E43ED7     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+38-A4-ED   (hex)		Xiaomi Communications Co Ltd
+38A4ED     (base 16)		Xiaomi Communications Co Ltd
+				Qinghe Middle street
+				Beijing    100085
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -106225,6 +106255,12 @@ FC4203     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+84-CD-62   (hex)		ShenZhen IDWELL Technology CO.,Ltd
+84CD62     (base 16)		ShenZhen IDWELL Technology CO.,Ltd
+				4F,Building 20 Changxing Industrial Park,Shayi,Shajing,BaoAn
+				ShenZhen    518000
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
