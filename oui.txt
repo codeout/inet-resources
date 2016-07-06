@@ -18431,12 +18431,6 @@ A8CE90     (base 16)		CVC
 00-01-01   (hex)		Private
 000101     (base 16)		Private
 
-00-01-0D   (hex)		CORECO, INC.
-00010D     (base 16)		CORECO, INC.
-				6969 Route Transcanadianne
-				Ville St. Laurent H4T 1V8  Quebec  
-				CA
-
 00-01-14   (hex)		KANDA TSUSHIN KOGYO CO., LTD.
 000114     (base 16)		KANDA TSUSHIN KOGYO CO., LTD.
 				23-2, Nishi-Gotanda 2-chome,
@@ -24698,30 +24692,6 @@ BC307D     (base 16)		Wistron Neweb Corporation
 				HsinChu  Taiwan  308
 				TW
 
-64-3A-B1   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-643AB1     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu, Sichuan
-				Chengdu  Sichuan  610000
-				CN
-
-D4-41-65   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-D44165     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, 
-				Chengdu  Sichuan  610000
-				CN
-
-64-5D-92   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-645D92     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu, Sichuan
-				Chengdu  Sichuan  610000
-				CN
-
-80-48-A5   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-8048A5     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,TianYi International Hotel
-				Chengdu  Sichuan  61000
-				CN
-
 54-10-EC   (hex)		Microchip Technology Inc.
 5410EC     (base 16)		Microchip Technology Inc.
 				2355 W. Chandler Blvd.
@@ -26641,6 +26611,54 @@ A01081     (base 16)		Samsung Electronics Co.,Ltd
 				21440 West Lake Cook Road
 				Deer Park  IL  60010
 				US
+
+9C-F4-8E   (hex)		Apple, Inc.
+9CF48E     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+FC-D8-48   (hex)		Apple, Inc.
+FCD848     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+AC-64-DD   (hex)		IEEE Registration Authority
+AC64DD     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-01-0D   (hex)		Teledyne DALSA Inc.
+00010D     (base 16)		Teledyne DALSA Inc.
+				880 McCaffrey
+				St-Laurent  Quebec  H4T 2C7
+				CA
+
+80-48-A5   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+8048A5     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,TianYi International Hotel
+				Chengdu  Sichuan  61000
+				CN
+
+64-5D-92   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+645D92     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu, Sichuan
+				Chengdu  Sichuan  610000
+				CN
+
+D4-41-65   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+D44165     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, 
+				Chengdu  Sichuan  610000
+				CN
+
+64-3A-B1   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+643AB1     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road, Chengdu, Sichuan
+				Chengdu  Sichuan  610000
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -47030,12 +47048,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				41020-SEVILLA    
 				ES
 
-00-60-D6   (hex)		NovAtel Wireless Technologies Ltd.
-0060D6     (base 16)		NovAtel Wireless Technologies Ltd.
-				SUITE 200, 6715-8TH STREET NE
-				CALGARY, ALBERTA T2E 8M4    
-				CA
-
 00-60-00   (hex)		XYCOM INC.
 006000     (base 16)		XYCOM INC.
 				750 N. MAPLE
@@ -51182,12 +51194,6 @@ B8E779     (base 16)		9Solutions Oy
 				Hui Zhou  Guang Dong  516006
 				CN
 
-78-B8-4B   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-78B84B     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
-
 C8-45-44   (hex)		Asia Pacific CIS (Wuxi) Co, Ltd
 C84544     (base 16)		Asia Pacific CIS (Wuxi) Co, Ltd
 				No 11, Xikun Road, Wuxi New District
@@ -51294,12 +51300,6 @@ A0415E     (base 16)		Opsens Solution Inc.
 9CE374     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
-				CN
-
-40-F4-20   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-40F420     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
 				CN
 
 6C-0E-E6   (hex)		Chengdu Xiyida Electronic Technology Co,.Ltd
@@ -51884,12 +51884,6 @@ B86B23     (base 16)		Toshiba
 				PALO ALTO  CA  94304
 				US
 
-9C-61-21   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-9C6121     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
-
 00-1C-4D   (hex)		Aplix IP Holdings Corporation
 001C4D     (base 16)		Aplix IP Holdings Corporation
 				2-20-9 Nishiwaseda
@@ -52384,6 +52378,60 @@ A8E705     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Serafimy Deryabinoy str. 24
 				Yekaterinburg    620149
 				RU
+
+BC-39-D9   (hex)		Z-TEC
+BC39D9     (base 16)		Z-TEC
+				Donyu 1 Ro
+				Paju  Kyeongkido  10832
+				KR
+
+88-E8-7F   (hex)		Apple, Inc.
+88E87F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B8-53-AC   (hex)		Apple, Inc.
+B853AC     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+B0-4B-BF   (hex)		PT HAN SUNG ELECTORONICS INDONESIA
+B04BBF     (base 16)		PT HAN SUNG ELECTORONICS INDONESIA
+				JL.PALEM 1 BLOK DS-6
+				KAWASAN INDUSTRI BATIK LIPPO CIKARANG, DESA CIBATU, KECAMATAN CIKARANG SELATAN  BEKASI JAWA BARAT  17550
+				ID
+
+00-60-D6   (hex)		NovAtel Inc.
+0060D6     (base 16)		NovAtel Inc.
+				SUITE 200, 6715-8TH STREET NE
+				CALGARY, ALBERTA T2E 8M4    
+				CA
+
+2C-33-61   (hex)		Apple, Inc.
+2C3361     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+78-B8-4B   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+78B84B     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
+
+40-F4-20   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+40F420     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
+
+9C-61-21   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+9C6121     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
 
 00-19-72   (hex)		Plexus (Xiamen) Co.,ltd.
 001972     (base 16)		Plexus (Xiamen) Co.,ltd.
@@ -76772,12 +76820,6 @@ B83241     (base 16)		Wuhan Tianyu Information Industry Co., Ltd.
 				Zhong Shan City  Guang Dong Province  528451
 				CN
 
-E0-4F-BD   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-E04FBD     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
-
 00-14-79   (hex)		NEC Magnus Communications,Ltd.
 001479     (base 16)		NEC Magnus Communications,Ltd.
 				 22-23, Kaigan 3-chome
@@ -77779,12 +77821,6 @@ F8F082     (base 16)		NAG LLC
 				2556 Anderson Dr.
 				Belvidere  IL  61008
 				US
-
-AC-E7-7B   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-ACE77B     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
 
 B0-E2-35   (hex)		Xiaomi Communications Co Ltd
 B0E235     (base 16)		Xiaomi Communications Co Ltd
@@ -79633,6 +79669,66 @@ E00DB9     (base 16)		Cree, Inc.
 				4600 Silicon Drive
 				Durham  NC  27703
 				US
+
+40-FE-0D   (hex)		MAXIO
+40FE0D     (base 16)		MAXIO
+				1101-1 digital empire A, 387 simin-daero dongan-gu
+				anyang-si  kyunggi-do  14057
+				KR
+
+60-9A-C1   (hex)		Apple, Inc.
+609AC1     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+F0-79-60   (hex)		Apple, Inc.
+F07960     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+9C-8B-A0   (hex)		Apple, Inc.
+9C8BA0     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+98-40-BB   (hex)		Dell Inc.
+9840BB     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+CC-2D-83   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+CC2D83     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+E0-4F-BD   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+E04FBD     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
+
+00-B0-E1   (hex)		Cisco Systems, Inc
+00B0E1     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+4C-32-75   (hex)		Apple, Inc.
+4C3275     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+AC-E7-7B   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+ACE77B     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -92528,12 +92624,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Warninglid  West sussex  RH17 5SN
 				GB
 
-00-15-FF   (hex)		Novatel Wireless, Inc.
-0015FF     (base 16)		Novatel Wireless, Inc.
-				9645 Scranton Road
-				San Diego  California  92121
-				US
-
 00-15-F8   (hex)		Kingtronics Industrial Co. Ltd.
 0015F8     (base 16)		Kingtronics Industrial Co. Ltd.
 				Penthouse, Century Centre,
@@ -104321,12 +104411,6 @@ C83DFC     (base 16)		Pioneer DJ Corporation
 				ShenZhen  GuangDong  518040
 				CN
 
-08-01-0F   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-08010F     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
-
 38-1D-D9   (hex)		FN-LINK TECHNOLOGY LIMITED
 381DD9     (base 16)		FN-LINK TECHNOLOGY LIMITED
 				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
@@ -104380,12 +104464,6 @@ B88198     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
-
-CC-A2-60   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-CCA260     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
 
 E4-FB-8F   (hex)		MOBIWIRE MOBILES (NINGBO) CO.,LTD
 E4FB8F     (base 16)		MOBIWIRE MOBILES (NINGBO) CO.,LTD
@@ -106264,6 +106342,48 @@ FC4203     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+08-01-0F   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+08010F     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
+
+CC-A2-60   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+CCA260     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
+
+00-15-FF   (hex)		Novatel Wireless Solutions, Inc.
+0015FF     (base 16)		Novatel Wireless Solutions, Inc.
+				9645 Scranton Road
+				San Diego  California  92121
+				US
+
+20-3C-AE   (hex)		Apple, Inc.
+203CAE     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+74-8D-08   (hex)		Apple, Inc.
+748D08     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-D7-8F   (hex)		Cisco Systems, Inc
+00D78F     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+A0-3B-E3   (hex)		Apple, Inc.
+A03BE3     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -128618,12 +128738,6 @@ DC3350     (base 16)		TechSAT GmbH
 				MOUNTAIN VIEW  CA  94043
 				US
 
-00-80-FB   (hex)		BVM LIMITED
-0080FB     (base 16)		BVM LIMITED
-				HOBB LANE
-				  ENGLAND  
-				GB
-
 00-80-42   (hex)		Artesyn Embedded Technologies
 008042     (base 16)		Artesyn Embedded Technologies
 				2900 S. Diablo Way
@@ -133177,3 +133291,27 @@ B0C128     (base 16)		Adler ELREHA GmbH
 				4F., No.301, Sec. 2, Tiding Blvd.
 				Taipei City  Neihu District  114
 				TW
+
+5C-F7-E6   (hex)		Apple, Inc.
+5CF7E6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+A0-D7-95   (hex)		Apple, Inc.
+A0D795     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+CC-08-8D   (hex)		Apple, Inc.
+CC088D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+00-80-FB   (hex)		BVM LIMITED
+0080FB     (base 16)		BVM LIMITED
+				Lakeside House, Brickyard Road,
+				Swanmore  SOUTHAMPTON  SO32 2SA
+				GB
