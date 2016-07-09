@@ -26666,6 +26666,30 @@ F4B549     (base 16)		Xiamen Yeastar Information Technology Co., Ltd.
 				Toronto  Ontario  M2N 6S6
 				CA
 
+50-3A-A0   (hex)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+503AA0     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				3/F, Building R1-B, High-Tech Industrial Park, Nanshan District
+				Shenzhen  Guangdong  518057
+				CN
+
+C0-25-E9   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+C025E9     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+50-B3-63   (hex)		Digitron da Amazonia S/A
+50B363     (base 16)		Digitron da Amazonia S/A
+				Av. Eng. Luis Carlos Berrini , 1297
+				São Paulo  São Paulo  04571010
+				BR
+
+94-B8-19   (hex)		Nokia
+94B819     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -52427,6 +52451,36 @@ B04BBF     (base 16)		PT HAN SUNG ELECTORONICS INDONESIA
 				Chengdu  Sichuan  610000
 				CN
 
+8C-8A-BB   (hex)		Beijing Orient View Technology Co., Ltd.
+8C8ABB     (base 16)		Beijing Orient View Technology Co., Ltd.
+				Building NO.1, LiYe Road 7
+				Huilongguan Town  Changping District, Beijing  102206
+				CN
+
+88-36-6C   (hex)		EFM Networks
+88366C     (base 16)		EFM Networks
+				6F, Benposra II 1197-1 Bojeong Giheung Gu
+				Yong In  Kyunggi do  446913
+				KR
+
+F0-74-E4   (hex)		Thundercomm Technology Co., Ltd
+F074E4     (base 16)		Thundercomm Technology Co., Ltd
+				Building NO.4, 99# Xiantao Data Valley Zhonglu, Yubei District, Chongqing, China 
+				chongqing    404100
+				CN
+
+A0-72-2C   (hex)		HUMAX Co., Ltd.
+A0722C     (base 16)		HUMAX Co., Ltd.
+				HUMAX Village, 216, Hwangsaeul-ro, Bu
+				Seongnam-si  Gyeonggi-do  463-875
+				KR
+
+FC-EC-DA   (hex)		Ubiquiti Networks Inc.
+FCECDA     (base 16)		Ubiquiti Networks Inc.
+				2580 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
 00-19-72   (hex)		Plexus (Xiamen) Co.,ltd.
 001972     (base 16)		Plexus (Xiamen) Co.,ltd.
 				No.6 Xiangxing 2 Road
@@ -53432,35 +53486,17 @@ F0D9B2     (base 16)		EXO S.A.
 				Milpitas  CA  95035
 				US
 
-F0-74-E4   (hex)		Thundercomm Technology Co., Ltd
-F074E4     (base 16)		Thundercomm Technology Co., Ltd
-				Building NO.4, 99# Xiantao Data Valley Zhonglu, Yubei District, Chongqing, China 
-				chongqing    404100
+78-7D-48   (hex)		ITEL MOBILE LIMITED
+787D48     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+D4-6E-0E   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+D46E0E     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
 				CN
-
-A0-72-2C   (hex)		HUMAX Co., Ltd.
-A0722C     (base 16)		HUMAX Co., Ltd.
-				HUMAX Village, 216, Hwangsaeul-ro, Bu
-				Seongnam-si  Gyeonggi-do  463-875
-				KR
-
-8C-8A-BB   (hex)		Beijing Orient View Technology Co., Ltd.
-8C8ABB     (base 16)		Beijing Orient View Technology Co., Ltd.
-				Building NO.1, LiYe Road 7
-				Huilongguan Town  Changping District, Beijing  102206
-				CN
-
-88-36-6C   (hex)		EFM Networks
-88366C     (base 16)		EFM Networks
-				6F, Benposra II 1197-1 Bojeong Giheung Gu
-				Yong In  Kyunggi do  446913
-				KR
-
-FC-EC-DA   (hex)		Ubiquiti Networks Inc.
-FCECDA     (base 16)		Ubiquiti Networks Inc.
-				2580 Orchard Pkwy
-				San Jose  CA  95131
-				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -79766,6 +79802,12 @@ ACE77B     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
 				San Jose    95134
 				US
 
+28-EE-52   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+28EE52     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 D4-E9-0B   (hex)		CVT CO.,LTD
 D4E90B     (base 16)		CVT CO.,LTD
 				Secho gu BangBae 3 dong 1001-1
@@ -91807,12 +91849,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				SICP CSE
 				SANT JOAN DESPI  BARCELONA  08970
 				ES
-
-00-1A-39   (hex)		Merten GmbH&CoKG
-001A39     (base 16)		Merten GmbH&CoKG
-				Fritz-Kotz-Str. 8
-				Wiehl  NRW  51674
-				DE
 
 00-1A-28   (hex)		ASWT Co., LTD. Taiwan Branch H.K.
 001A28     (base 16)		ASWT Co., LTD. Taiwan Branch H.K.
@@ -106444,6 +106480,18 @@ A03BE3     (base 16)		Apple, Inc.
 				P.O. BOX 120
 				FIN-02631  Espoo  
 				FI
+
+00-1A-39   (hex)		Merten GmbH&CoKG
+001A39     (base 16)		Merten GmbH&CoKG
+				Fritz-Kotz-Str. 8
+				Wiehl  NRW  51674
+				DE
+
+B0-95-8E   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+B0958E     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
