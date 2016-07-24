@@ -25529,12 +25529,6 @@ D43639     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
-A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
-				Jiangxi Road
-				Qingdao  Shandong  266071
-				CN
-
 A0-43-DB   (hex)		Sitael S.p.A.
 A043DB     (base 16)		Sitael S.p.A.
 				Via San Sabino, 21
@@ -25558,6 +25552,12 @@ E4BEED     (base 16)		Netcore Technology Inc.
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
+
+A8-A6-48   (hex)		Qingdao Hisense Communications Co.,Ltd.
+A8A648     (base 16)		Qingdao Hisense Communications Co.,Ltd.
+				Jiangxi Road
+				Qingdao  Shandong  266071
+				CN
 
 30-58-90   (hex)		Frontier Silicon Ltd
 305890     (base 16)		Frontier Silicon Ltd
@@ -25607,6 +25607,12 @@ A00460     (base 16)		NETGEAR
 				San Jose    95134
 				US
 
+94-62-69   (hex)		ARRIS Group, Inc.
+946269     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 D4-05-98   (hex)		ARRIS Group, Inc.
 D40598     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -25649,8 +25655,44 @@ C83FB4     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-90-3E-AB   (hex)		ARRIS Group, Inc.
-903EAB     (base 16)		ARRIS Group, Inc.
+00-15-D0   (hex)		ARRIS Group, Inc.
+0015D0     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+E8-6D-52   (hex)		ARRIS Group, Inc.
+E86D52     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+3C-43-8E   (hex)		ARRIS Group, Inc.
+3C438E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+90-B1-34   (hex)		ARRIS Group, Inc.
+90B134     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+20-E5-64   (hex)		ARRIS Group, Inc.
+20E564     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+40-B7-F3   (hex)		ARRIS Group, Inc.
+40B7F3     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+94-CC-B9   (hex)		ARRIS Group, Inc.
+94CCB9     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -25685,8 +25727,8 @@ D039B3     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-94-62-69   (hex)		ARRIS Group, Inc.
-946269     (base 16)		ARRIS Group, Inc.
+90-3E-AB   (hex)		ARRIS Group, Inc.
+903EAB     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -25715,42 +25757,6 @@ CCA462     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-15-D0   (hex)		ARRIS Group, Inc.
-0015D0     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-E8-6D-52   (hex)		ARRIS Group, Inc.
-E86D52     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-3C-43-8E   (hex)		ARRIS Group, Inc.
-3C438E     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-90-B1-34   (hex)		ARRIS Group, Inc.
-90B134     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-20-E5-64   (hex)		ARRIS Group, Inc.
-20E564     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-94-CC-B9   (hex)		ARRIS Group, Inc.
-94CCB9     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 00-50-E3   (hex)		ARRIS Group, Inc.
 0050E3     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -25763,6 +25769,18 @@ E86D52     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+00-15-9A   (hex)		ARRIS Group, Inc.
+00159A     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-19-2C   (hex)		ARRIS Group, Inc.
+00192C     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 D4-0A-A9   (hex)		ARRIS Group, Inc.
 D40AA9     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -25771,12 +25789,6 @@ D40AA9     (base 16)		ARRIS Group, Inc.
 
 38-4C-90   (hex)		ARRIS Group, Inc.
 384C90     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-40-B7-F3   (hex)		ARRIS Group, Inc.
-40B7F3     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -25817,6 +25829,12 @@ FC8E7E     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+00-21-43   (hex)		ARRIS Group, Inc.
+002143     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 00-23-EE   (hex)		ARRIS Group, Inc.
 0023EE     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -25847,6 +25865,12 @@ F87B7A     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
+00-1A-66   (hex)		ARRIS Group, Inc.
+001A66     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 00-18-C0   (hex)		ARRIS Group, Inc.
 0018C0     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -25871,29 +25895,11 @@ F87B7A     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-21-43   (hex)		ARRIS Group, Inc.
-002143     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-15-9A   (hex)		ARRIS Group, Inc.
-00159A     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-19-2C   (hex)		ARRIS Group, Inc.
-00192C     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1A-66   (hex)		ARRIS Group, Inc.
-001A66     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
+24-0A-C4   (hex)		Espressif Inc.
+240AC4     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
 
 58-56-E8   (hex)		ARRIS Group, Inc.
 5856E8     (base 16)		ARRIS Group, Inc.
@@ -25905,12 +25911,6 @@ E4-C1-F1   (hex)		SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd
 E4C1F1     (base 16)		SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd  
 				10F, Block D, 5th Building, Shenzhen Software Industrial Base, Haitian 2nd Rd,Nanshan District
 				Shenzhen  Guangdong  518057
-				CN
-
-24-0A-C4   (hex)		Espressif Inc.
-240AC4     (base 16)		Espressif Inc.
-				Room 204, Building 2, 690 Bibo Road, Pudong New Area
-				Shanghai  Shanghai  201203
 				CN
 
 24-0D-C2   (hex)		TCT mobile ltd
@@ -25929,12 +25929,6 @@ E4C1F1     (base 16)		SHENZHEN SPOTMAU INFORMATION TECHNOLIGY CO., Ltd
 0016DB     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1
 				Gumi-City  Gyeong-Buk  730-350
-				KR
-
-08-FD-0E   (hex)		Samsung Electronics Co.,Ltd
-08FD0E     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1,Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
 				KR
 
 5C-3C-27   (hex)		Samsung Electronics Co.,Ltd
@@ -26039,9 +26033,9 @@ B0DF3A     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-18-E2-C2   (hex)		Samsung Electronics Co.,Ltd
-18E2C2     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
+08-FD-0E   (hex)		Samsung Electronics Co.,Ltd
+08FD0E     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1,Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
 
@@ -26075,12 +26069,6 @@ F0728C     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-A8-F2-74   (hex)		Samsung Electronics Co.,Ltd
-A8F274     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 00-1F-CD   (hex)		Samsung Electronics Co.,Ltd
 001FCD     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -26095,6 +26083,12 @@ D0DFC7     (base 16)		Samsung Electronics Co.,Ltd
 
 1C-62-B8   (hex)		Samsung Electronics Co.,Ltd
 1C62B8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+18-E2-C2   (hex)		Samsung Electronics Co.,Ltd
+18E2C2     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
@@ -26129,17 +26123,17 @@ F04347     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Gumi  Gyeongbuk  730-350
 				KR
 
+A8-F2-74   (hex)		Samsung Electronics Co.,Ltd
+A8F274     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 B0-78-70   (hex)		Wi-NEXT, Inc.
 B07870     (base 16)		Wi-NEXT, Inc.
 				530 Lytton Avenue
 				Palo Alto  CA  94301
 				US
-
-00-02-78   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-000278     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-				314, Mae-tan-dong,
-				Suwon  Suwon  KOREA
-				KR
 
 00-15-99   (hex)		Samsung Electronics Co.,Ltd
 001599     (base 16)		Samsung Electronics Co.,Ltd
@@ -26183,6 +26177,18 @@ A02195     (base 16)		Samsung Electronics Co.,Ltd
 				SUWON  KYUNGGI-DO  443-743
 				KR
 
+00-02-78   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+000278     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+				314, Mae-tan-dong,
+				Suwon  Suwon  KOREA
+				KR
+
+F0-7B-CB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+F07BCB     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
 4C-0F-6E   (hex)		Hon Hai Precision Ind. Co.,Ltd.
 4C0F6E     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
@@ -26207,20 +26213,8 @@ C0F8DA     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Chongqing  Chongqing  401332
 				CN
 
-38-B1-DB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-38B1DB     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-10-08-B1   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-1008B1     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-C4-8E-8F   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-C48E8F     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+48-5A-B6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+485AB6     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
@@ -26255,26 +26249,8 @@ F4B7E2     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Chongqing  Chongqing  401332
 				CN
 
-7C-E9-D3   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-7CE9D3     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-E4-D5-3D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-E4D53D     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-C4-17-FE   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-C417FE     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-F0-7B-CB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-F07BCB     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+C4-8E-8F   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C48E8F     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
@@ -26297,8 +26273,32 @@ A8474A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Chongqing  Chongqing  401332
 				CN
 
-48-5A-B6   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-485AB6     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+08-ED-B9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+08EDB9     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+7C-E9-D3   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+7CE9D3     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+E4-D5-3D   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+E4D53D     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+C4-17-FE   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+C417FE     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+38-B1-DB   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+38B1DB     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
@@ -26327,8 +26327,8 @@ A8474A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Chongqing  Chongqing  401332
 				CN
 
-08-ED-B9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-08EDB9     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+10-08-B1   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+1008B1     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
@@ -26345,29 +26345,29 @@ A8474A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Round Rock  TX  78682
 				US
 
-E0-68-6D   (hex)		Raybased AB
-E0686D     (base 16)		Raybased AB
-				A Odhners Gata 41
-				Västra Frölunda    42130
-				SE
-
 C8-0E-14   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 C80E14     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 				Alt-Moabit 95
 				Berlin  Berlin  10559
 				DE
 
-00-06-78   (hex)		D&M Holdings Inc.
-000678     (base 16)		D&M Holdings Inc.
-				D&M Building, 2-1 Nisshin-cho Kawasaki-shi
-				Kawagawa    210-8569
-				JP
+E0-68-6D   (hex)		Raybased AB
+E0686D     (base 16)		Raybased AB
+				A Odhners Gata 41
+				Västra Frölunda    42130
+				SE
 
 A4-53-85   (hex)		Weifang GoerTek Electronics Co., Ltd.
 A45385     (base 16)		Weifang GoerTek Electronics Co., Ltd.
 				Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China
 				Weifang  Shandong  261205
 				CN
+
+00-06-78   (hex)		D&M Holdings Inc.
+000678     (base 16)		D&M Holdings Inc.
+				D&M Building, 2-1 Nisshin-cho Kawasaki-shi
+				Kawagawa    210-8569
+				JP
 
 98-B0-39   (hex)		Nokia
 98B039     (base 16)		Nokia
@@ -26411,6 +26411,12 @@ BC6B4D     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
+A4-7B-2C   (hex)		Nokia
+A47B2C     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
 00-D0-F6   (hex)		Nokia
 00D0F6     (base 16)		Nokia
 				600 March Road
@@ -26419,12 +26425,6 @@ BC6B4D     (base 16)		Nokia
 
 48-F8-E1   (hex)		Nokia
 48F8E1     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-A4-7B-2C   (hex)		Nokia
-A47B2C     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
@@ -26440,6 +26440,12 @@ A47B2C     (base 16)		Nokia
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+8C-71-F8   (hex)		Samsung Electronics Co.,Ltd
+8C71F8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 04-18-0F   (hex)		Samsung Electronics Co.,Ltd
 04180F     (base 16)		Samsung Electronics Co.,Ltd
@@ -26471,6 +26477,12 @@ CC051B     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+60-D0-A9   (hex)		Samsung Electronics Co.,Ltd
+60D0A9     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 60-A1-0A   (hex)		Samsung Electronics Co.,Ltd
 60A10A     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -26479,24 +26491,6 @@ CC051B     (base 16)		Samsung Electronics Co.,Ltd
 
 A0-75-91   (hex)		Samsung Electronics Co.,Ltd
 A07591     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-8C-71-F8   (hex)		Samsung Electronics Co.,Ltd
-8C71F8     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-60-D0-A9   (hex)		Samsung Electronics Co.,Ltd
-60D0A9     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-00-1F-CC   (hex)		Samsung Electronics Co.,Ltd
-001FCC     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
@@ -26512,6 +26506,12 @@ D814D6     (base 16)		SURE SYSTEM Co Ltd
 				Baekgaardsvej 40
 				Skjern    6900
 				DK
+
+00-1F-CC   (hex)		Samsung Electronics Co.,Ltd
+001FCC     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 EC-01-E2   (hex)		FOXCONN INTERCONNECT TECHNOLOGY
 EC01E2     (base 16)		FOXCONN INTERCONNECT TECHNOLOGY
@@ -26531,6 +26531,12 @@ D03DC3     (base 16)		AQ Corporation
 				Suwon  Gyeonggi-do  16648
 				KR
 
+FC-CA-C4   (hex)		LifeHealth, LLC
+FCCAC4     (base 16)		LifeHealth, LLC
+				2656 Patton Rd
+				Roseville  MN  55113
+				US
+
 04-BA-36   (hex)		Li Seng Technology Ltd
 04BA36     (base 16)		Li Seng Technology Ltd
 				Rm901, 9/F Shiu Fung Hong Building, 239-241 Wing Lok Street, Hong Kong
@@ -26546,11 +26552,11 @@ DCF090     (base 16)		Private
 				Shenzhen  Guangdong  518125
 				CN
 
-FC-CA-C4   (hex)		LifeHealth, LLC
-FCCAC4     (base 16)		LifeHealth, LLC
-				2656 Patton Rd
-				Roseville  MN  55113
-				US
+78-88-8A   (hex)		CDR Sp. z o.o. Sp. k.
+78888A     (base 16)		CDR Sp. z o.o. Sp. k.
+				Palki 15
+				Zory    44-240
+				PL
 
 F0-98-38   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 F09838     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -26563,12 +26569,6 @@ F09838     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-78-88-8A   (hex)		CDR Sp. z o.o. Sp. k.
-78888A     (base 16)		CDR Sp. z o.o. Sp. k.
-				Palki 15
-				Zory    44-240
-				PL
 
 EC-10-7B   (hex)		Samsung Electronics Co.,Ltd
 EC107B     (base 16)		Samsung Electronics Co.,Ltd
@@ -26696,16 +26696,16 @@ A4D9A4     (base 16)		neXus ID Solutions AB
 				Stockholm    12626
 				SE
 
-88-71-E5   (hex)		Amazon Technologies Inc.
-8871E5     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 48-4D-7E   (hex)		Dell Inc.
 484D7E     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
+				US
+
+88-71-E5   (hex)		Amazon Technologies Inc.
+8871E5     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
 				US
 
 F4-B5-49   (hex)		Xiamen Yeastar Information Technology Co., Ltd.
@@ -78878,48 +78878,6 @@ A8BD27     (base 16)		Hewlett Packard Enterprise
 				New Taipei City  Taiwan  23585
 				TW
 
-00-1A-AD   (hex)		ARRIS Group, Inc.
-001AAD     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-19-5E   (hex)		ARRIS Group, Inc.
-00195E     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-14-04   (hex)		ARRIS Group, Inc.
-001404     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1B-DD   (hex)		ARRIS Group, Inc.
-001BDD     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-23-A2   (hex)		ARRIS Group, Inc.
-0023A2     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-1E-8D   (hex)		ARRIS Group, Inc.
-001E8D     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-00-03-E0   (hex)		ARRIS Group, Inc.
-0003E0     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 70-7E-43   (hex)		ARRIS Group, Inc.
 707E43     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -78934,6 +78892,12 @@ A8BD27     (base 16)		Hewlett Packard Enterprise
 
 A4-7A-A4   (hex)		ARRIS Group, Inc.
 A47AA4     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1A-AD   (hex)		ARRIS Group, Inc.
+001AAD     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -78956,8 +78920,26 @@ E8892C     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-15-D1   (hex)		ARRIS Group, Inc.
-0015D1     (base 16)		ARRIS Group, Inc.
+3C-DF-A9   (hex)		ARRIS Group, Inc.
+3CDFA9     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+8C-09-F4   (hex)		ARRIS Group, Inc.
+8C09F4     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+08-3E-0C   (hex)		ARRIS Group, Inc.
+083E0C     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+D4-04-CD   (hex)		ARRIS Group, Inc.
+D404CD     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -78980,24 +78962,6 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-3C-DF-A9   (hex)		ARRIS Group, Inc.
-3CDFA9     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-8C-09-F4   (hex)		ARRIS Group, Inc.
-8C09F4     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
-08-3E-0C   (hex)		ARRIS Group, Inc.
-083E0C     (base 16)		ARRIS Group, Inc.
-				6450 Sequence Drive
-				San Diego  CA  92121
-				US
-
 00-12-25   (hex)		ARRIS Group, Inc.
 001225     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -79010,14 +78974,14 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-D4-04-CD   (hex)		ARRIS Group, Inc.
-D404CD     (base 16)		ARRIS Group, Inc.
+00-03-E0   (hex)		ARRIS Group, Inc.
+0003E0     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-00-24-93   (hex)		ARRIS Group, Inc.
-002493     (base 16)		ARRIS Group, Inc.
+00-15-D1   (hex)		ARRIS Group, Inc.
+0015D1     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -79064,14 +79028,14 @@ F8A097     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-00-23-0B   (hex)		ARRIS Group, Inc.
-00230B     (base 16)		ARRIS Group, Inc.
+BC-64-4B   (hex)		ARRIS Group, Inc.
+BC644B     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-00-1B-52   (hex)		ARRIS Group, Inc.
-001B52     (base 16)		ARRIS Group, Inc.
+34-7A-60   (hex)		ARRIS Group, Inc.
+347A60     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -79118,14 +79082,50 @@ F8A097     (base 16)		ARRIS Group, Inc.
 				San Diego  CA  92121
 				US
 
-BC-64-4B   (hex)		ARRIS Group, Inc.
-BC644B     (base 16)		ARRIS Group, Inc.
+00-24-93   (hex)		ARRIS Group, Inc.
+002493     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
 
-34-7A-60   (hex)		ARRIS Group, Inc.
-347A60     (base 16)		ARRIS Group, Inc.
+00-19-5E   (hex)		ARRIS Group, Inc.
+00195E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-14-04   (hex)		ARRIS Group, Inc.
+001404     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1B-DD   (hex)		ARRIS Group, Inc.
+001BDD     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-23-A2   (hex)		ARRIS Group, Inc.
+0023A2     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1E-8D   (hex)		ARRIS Group, Inc.
+001E8D     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-23-0B   (hex)		ARRIS Group, Inc.
+00230B     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-1B-52   (hex)		ARRIS Group, Inc.
+001B52     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
@@ -79147,90 +79147,6 @@ BC644B     (base 16)		ARRIS Group, Inc.
 				Gulbahar Mahallesi, Avni Diligil Sokak
 				ISTANBUL  ISTANBUL  34394
 				TR
-
-00-17-D5   (hex)		Samsung Electronics Co.,Ltd
-0017D5     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1
-				Gumi-City  Gyeong-Buk  730-350
-				KR
-
-00-12-47   (hex)		Samsung Electronics Co.,Ltd
-001247     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi-City  Gyeong-Buk  730-350
-				KR
-
-E4-12-1D   (hex)		Samsung Electronics Co.,Ltd
-E4121D     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1,Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-68-48-98   (hex)		Samsung Electronics Co.,Ltd
-684898     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1,Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-F4-09-D8   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
-F409D8     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
-				93Moo5T. Bangsamak
-				Bangpakong  Chachoengsao  24180
-				TH
-
-B4-79-A7   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
-B479A7     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
-				93Moo5T. Bangsamak
-				Bangpakong  Chachoengsao  24180
-				TH
-
-00-23-39   (hex)		Samsung Electronics Co.,Ltd
-002339     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D4-87-D8   (hex)		Samsung Electronics Co.,Ltd
-D487D8     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-18-46-17   (hex)		Samsung Electronics Co.,Ltd
-184617     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-50-01-BB   (hex)		Samsung Electronics Co.,Ltd
-5001BB     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-38-0A-94   (hex)		Samsung Electronics Co.,Ltd
-380A94     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-D8-57-EF   (hex)		Samsung Electronics Co.,Ltd
-D857EF     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-1C-66-AA   (hex)		Samsung Electronics Co.,Ltd
-1C66AA     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-58-C3-8B   (hex)		Samsung Electronics Co.,Ltd
-58C38B     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
 
 00-1E-E2   (hex)		Samsung Electronics Co.,Ltd
 001EE2     (base 16)		Samsung Electronics Co.,Ltd
@@ -79280,6 +79196,66 @@ D4E8B2     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+00-17-D5   (hex)		Samsung Electronics Co.,Ltd
+0017D5     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1
+				Gumi-City  Gyeong-Buk  730-350
+				KR
+
+00-12-47   (hex)		Samsung Electronics Co.,Ltd
+001247     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi-City  Gyeong-Buk  730-350
+				KR
+
+78-52-1A   (hex)		Samsung Electronics Co.,Ltd
+78521A     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1,Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+E4-12-1D   (hex)		Samsung Electronics Co.,Ltd
+E4121D     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1,Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+68-48-98   (hex)		Samsung Electronics Co.,Ltd
+684898     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1,Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+F4-09-D8   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+F409D8     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+				93Moo5T. Bangsamak
+				Bangpakong  Chachoengsao  24180
+				TH
+
+B4-79-A7   (hex)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+B479A7     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+				93Moo5T. Bangsamak
+				Bangpakong  Chachoengsao  24180
+				TH
+
+18-D2-76   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+18D276     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+1C-66-AA   (hex)		Samsung Electronics Co.,Ltd
+1C66AA     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+58-C3-8B   (hex)		Samsung Electronics Co.,Ltd
+58C38B     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 08-08-C2   (hex)		Samsung Electronics Co.,Ltd
 0808C2     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -79301,6 +79277,42 @@ D890E8     (base 16)		Samsung Electronics Co.,Ltd
 34-AA-8B   (hex)		Samsung Electronics Co.,Ltd
 34AA8B     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1,Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+00-23-39   (hex)		Samsung Electronics Co.,Ltd
+002339     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D4-87-D8   (hex)		Samsung Electronics Co.,Ltd
+D487D8     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+18-46-17   (hex)		Samsung Electronics Co.,Ltd
+184617     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+50-01-BB   (hex)		Samsung Electronics Co.,Ltd
+5001BB     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+38-0A-94   (hex)		Samsung Electronics Co.,Ltd
+380A94     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+D8-57-EF   (hex)		Samsung Electronics Co.,Ltd
+D857EF     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
 
@@ -79334,17 +79346,23 @@ D890E8     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-78-52-1A   (hex)		Samsung Electronics Co.,Ltd
-78521A     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1,Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
+50-CC-F8   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+50CCF8     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+				Metan Dong 314, Youngtong Gu
+				Suwon  Kyung-gi Do.  443-743
 				KR
 
-18-D2-76   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-18D276     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
+98-0C-82   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+980C82     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+				Metan Dong 314, Youngtong Gu
+				Suwon  Kyung-gi Do.  443-743
+				KR
+
+00-21-19   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+002119     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+				314, Metan 3 dong
+				Suwon  Kyung-gi do  443-743
+				KR
 
 78-25-AD   (hex)		Samsung Electronics Co.,Ltd
 7825AD     (base 16)		Samsung Electronics Co.,Ltd
@@ -79382,6 +79400,18 @@ E47CF9     (base 16)		Samsung Electronics Co.,Ltd
 				Suwon  Gyeonggi-do  443742
 				KR
 
+00-24-54   (hex)		Samsung Electronics Co.,Ltd
+002454     (base 16)		Samsung Electronics Co.,Ltd
+				416, Maetan 3Dong, Yeongtong-Gu
+				Suwon  Geyonggi  443742
+				KR
+
+5C-0A-5B   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+5C0A5B     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
+				314, Maetan3-Dong, Yeongtong-Gu
+				Suwon  Gyunggi-Do  443-743
+				US
+
 90-18-7C   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 90187C     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				314, Maetan3-Dong, Yeongtong-Gu
@@ -79393,30 +79423,6 @@ FC1F19     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				314, Maetan3-Dong, Yeongtong-Gu
 				Suwon  Gyunggi-Do  443-743
 				US
-
-50-CC-F8   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-50CCF8     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-				Metan Dong 314, Youngtong Gu
-				Suwon  Kyung-gi Do.  443-743
-				KR
-
-98-0C-82   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-980C82     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-				Metan Dong 314, Youngtong Gu
-				Suwon  Kyung-gi Do.  443-743
-				KR
-
-00-21-19   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-002119     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-				314, Metan 3 dong
-				Suwon  Kyung-gi do  443-743
-				KR
-
-00-24-54   (hex)		Samsung Electronics Co.,Ltd
-002454     (base 16)		Samsung Electronics Co.,Ltd
-				416, Maetan 3Dong, Yeongtong-Gu
-				Suwon  Geyonggi  443742
-				KR
 
 20-D5-BF   (hex)		Samsung Electronics Co.,Ltd
 20D5BF     (base 16)		Samsung Electronics Co.,Ltd
@@ -79430,22 +79436,10 @@ FC1F19     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				SUWON- SI  GYEONGGI  443-742
 				US
 
-5C-0A-5B   (hex)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-5C0A5B     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
-				314, Maetan3-Dong, Yeongtong-Gu
-				Suwon  Gyunggi-Do  443-743
-				US
-
 00-74-9C   (hex)		RUIJIE NETWORKS CO., LTD.
 00749C     (base 16)		RUIJIE NETWORKS CO., LTD.
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
 				FUZHOU  FUJIAN  350002
-				CN
-
-54-35-30   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-543530     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
 				CN
 
 30-0E-D5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
@@ -79484,50 +79478,26 @@ D02788     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Chongqing  Chongqing  401332
 				CN
 
-00-22-69   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-002269     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+48-E2-44   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+48E244     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
 
-40-49-0F   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-40490F     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+30-F7-72   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+30F772     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
 
-28-56-5A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-28565A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+90-48-9A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+90489A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
 
-00-1F-3A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-001F3A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-50-63-13   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-506313     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-78-E4-00   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-78E400     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-8C-7C-B5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-8C7CB5     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-EC-55-F9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-EC55F9     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+54-35-30   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+543530     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
@@ -79550,26 +79520,44 @@ ACD1B8     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Chongqing  Chongqing  401332
 				CN
 
-48-E2-44   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-48E244     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-30-F7-72   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-30F772     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
-90-48-9A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
-90489A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
-				Building D21,No.1, East Zone 1st Road
-				Chongqing  Chongqing  401332
-				CN
-
 94-39-E5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
 9439E5     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+50-63-13   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+506313     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+78-E4-00   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+78E400     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+40-49-0F   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+40490F     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+28-56-5A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+28565A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+00-1F-3A   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+001F3A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+00-22-69   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+002269     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Building D21,No.1, East Zone 1st Road
 				Chongqing  Chongqing  401332
 				CN
@@ -79580,17 +79568,23 @@ ACD1B8     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Beijing  Beijing  102208
 				CN
 
+8C-7C-B5   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+8C7CB5     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
+EC-55-F9   (hex)		Hon Hai Precision Ind. Co.,Ltd.
+EC55F9     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
+				Building D21,No.1, East Zone 1st Road
+				Chongqing  Chongqing  401332
+				CN
+
 C8-B2-1E   (hex)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 C8B21E     (base 16)		CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.
 				9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT
 				SHEN ZHEN  GUANG DONG  518000
 				CN
-
-50-3F-98   (hex)		CMITECH
-503F98     (base 16)		CMITECH
-				904-ho, 25, Simin-daero 248beon-gil, Dongan-gu
-				Anyang-si  Gyeonggi-do  14067
-				KR
 
 B0-72-BF   (hex)		Murata Manufacturing Co., Ltd.
 B072BF     (base 16)		Murata Manufacturing Co., Ltd.
@@ -79604,6 +79598,12 @@ B072BF     (base 16)		Murata Manufacturing Co., Ltd.
 				Hangzhou  Zhejiang, P.R.China  310052
 				CN
 
+50-3F-98   (hex)		CMITECH
+503F98     (base 16)		CMITECH
+				904-ho, 25, Simin-daero 248beon-gil, Dongan-gu
+				Anyang-si  Gyeonggi-do  14067
+				KR
+
 C0-9F-05   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 C09F05     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
@@ -79616,6 +79616,12 @@ AC63BE     (base 16)		Amazon Technologies Inc.
 				Reno  NV  89507
 				US
 
+38-52-1A   (hex)		Nokia
+38521A     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
 A4-14-37   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 A41437     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				No.469,Jianghui Road
@@ -79627,12 +79633,6 @@ A41437     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				1290-B Reamwood Ave
 				Sunnyvale  CA  94089
 				US
-
-38-52-1A   (hex)		Nokia
-38521A     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
 
 84-DB-FC   (hex)		Nokia
 84DBFC     (base 16)		Nokia
@@ -79652,6 +79652,18 @@ D4E33F     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
+00-23-3A   (hex)		Samsung Electronics Co.,Ltd
+00233A     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+C8-7E-75   (hex)		Samsung Electronics Co.,Ltd
+C87E75     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 54-54-CF   (hex)		PROBEDIGITAL CO.,LTD
 5454CF     (base 16)		PROBEDIGITAL CO.,LTD
 				#107 Hyundai I-Valley, 31, Galmachi-ro 244beon-gil, Jungwon-gu
@@ -79664,16 +79676,10 @@ F0D5BF     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-C8-7E-75   (hex)		Samsung Electronics Co.,Ltd
-C87E75     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-00-23-3A   (hex)		Samsung Electronics Co.,Ltd
-00233A     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
+74-8A-69   (hex)		Korea Image Technology Co., Ltd
+748A69     (base 16)		Korea Image Technology Co., Ltd
+				125, beolmal road, dongan gu,
+				anyang  gyeonggi  14056
 				KR
 
 1C-9D-3E   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
@@ -79681,12 +79687,6 @@ C87E75     (base 16)		Samsung Electronics Co.,Ltd
 				Phase 3, Bayan Lepas FIZ
 				Bayan Lepas  Penang  11900
 				MY
-
-74-8A-69   (hex)		Korea Image Technology Co., Ltd
-748A69     (base 16)		Korea Image Technology Co., Ltd
-				125, beolmal road, dongan gu,
-				anyang  gyeonggi  14056
-				KR
 
 30-B6-4F   (hex)		Juniper Networks
 30B64F     (base 16)		Juniper Networks
@@ -79712,29 +79712,23 @@ B4EFFA     (base 16)		Lemobile Information Technology (Beijing) Co., Ltd.
 				Beijing  Beijing  100025
 				CN
 
-94-95-A0   (hex)		Google, Inc.
-9495A0     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View  CA  94043
-				US
-
 00-05-EE   (hex)		Vanderbilt International (SWE) AB 
 0005EE     (base 16)		Vanderbilt International (SWE) AB 
 				Englundavaegen 7
 				Solna    SE-171 41 
 				SE
 
-38-D5-47   (hex)		ASUSTek COMPUTER INC.
-38D547     (base 16)		ASUSTek COMPUTER INC.
-				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
-				Taipei  Taiwan  112
-				TW
-
-38-3A-21   (hex)		IEEE Registration Authority
-383A21     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
+94-95-A0   (hex)		Google, Inc.
+9495A0     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
 				US
+
+CC-FD-17   (hex)		TCT mobile ltd
+CCFD17     (base 16)		TCT mobile ltd
+				No.86 hechang 7th road, zhongkai, Hi-Tech District
+				Hui Zhou  Guang Dong  516006
+				CN
 
 4C-F9-5D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 4CF95D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -79754,11 +79748,29 @@ B4EFFA     (base 16)		Lemobile Information Technology (Beijing) Co., Ltd.
 				Dongguan    523808
 				CN
 
-CC-FD-17   (hex)		TCT mobile ltd
-CCFD17     (base 16)		TCT mobile ltd
-				No.86 hechang 7th road, zhongkai, Hi-Tech District
-				Hui Zhou  Guang Dong  516006
+38-D5-47   (hex)		ASUSTek COMPUTER INC.
+38D547     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
+38-3A-21   (hex)		IEEE Registration Authority
+383A21     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+24-88-94   (hex)		shenzhen lensun Communication Technology LTD
+248894     (base 16)		shenzhen lensun Communication Technology LTD
+				RM 201, Block 19, Zhiheng industry Park, Nantou Check point
+				Shenzhen   Guangdong  518000
 				CN
+
+60-A4-D0   (hex)		Samsung Electronics Co.,Ltd
+60A4D0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 3C-8B-CD   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
 3C8BCD     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
@@ -79777,18 +79789,6 @@ E43ED7     (base 16)		Arcadyan Corporation
 				Qinghe Middle street
 				Beijing    100085
 				CN
-
-24-88-94   (hex)		shenzhen lensun Communication Technology LTD
-248894     (base 16)		shenzhen lensun Communication Technology LTD
-				RM 201, Block 19, Zhiheng industry Park, Nantou Check point
-				Shenzhen   Guangdong  518000
-				CN
-
-60-A4-D0   (hex)		Samsung Electronics Co.,Ltd
-60A4D0     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
 
 00-B0-CE   (hex)		Viveris Technologies
 00B0CE     (base 16)		Viveris Technologies
@@ -79838,8 +79838,20 @@ CC2D83     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+4C-32-75   (hex)		Apple, Inc.
+4C3275     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 E0-4F-BD   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
 E04FBD     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
+
+AC-E7-7B   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
+ACE77B     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
 				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
 				Chengdu  Sichuan  610000
 				CN
@@ -79850,29 +79862,23 @@ E04FBD     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
 				San Jose  CA  94568
 				US
 
-4C-32-75   (hex)		Apple, Inc.
-4C3275     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 00-06-F4   (hex)		Prime Electronics & Satellitics Inc.
 0006F4     (base 16)		Prime Electronics & Satellitics Inc.
 				69,Tung-Yuan Rd
 				Chung-Li City  Tao-Yuan County  32000
 				TW
 
-AC-E7-7B   (hex)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-ACE77B     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO.,LTD
-				FL12,TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
-
 24-A4-3C   (hex)		Ubiquiti Networks Inc.
 24A43C     (base 16)		Ubiquiti Networks Inc.
 				91 E. Tasman Dr.
 				San Jose    95134
 				US
+
+28-EE-52   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+28EE52     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 D4-E9-0B   (hex)		CVT CO.,LTD
 D4E90B     (base 16)		CVT CO.,LTD
@@ -79885,12 +79891,6 @@ D4E90B     (base 16)		CVT CO.,LTD
 				2580 Orchard Pkwy
 				San Jose  CA  95131
 				US
-
-28-EE-52   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-28EE52     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
 
 90-5C-44   (hex)		Compal Broadband Networks, Inc.
 905C44     (base 16)		Compal Broadband Networks, Inc.
@@ -79946,17 +79946,17 @@ B83A9D     (base 16)		Alarm.com
 				Ohta-ku  Tokyo  146-8501
 				JP
 
-1C-14-B3   (hex)		Airwire Technologies
-1C14B3     (base 16)		Airwire Technologies
-				9670 Gateway Drive, Suite 250
-				Reno  NV  89521
-				US
-
 2C-C2-60   (hex)		Oracle Corporation 
 2CC260     (base 16)		Oracle Corporation 
 				Zarhin 13
 				Raanana    4366241
 				IL
+
+1C-14-B3   (hex)		Airwire Technologies
+1C14B3     (base 16)		Airwire Technologies
+				9670 Gateway Drive, Suite 250
+				Reno  NV  89521
+				US
 
 40-71-83   (hex)		Juniper Networks
 407183     (base 16)		Juniper Networks
