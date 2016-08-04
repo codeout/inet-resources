@@ -143,18 +143,6 @@ BCEC23     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 8C-E7-48   (hex)		Private
 8CE748     (base 16)		Private
 
-F0-9C-E9   (hex)		Aerohive Networks Inc.
-F09CE9     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
-				US
-
-C4-13-E2   (hex)		Aerohive Networks Inc.
-C413E2     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Dr.
-				Sunnyvale  CA  94089
-				US
-
 AC-06-C7   (hex)		ServerNet S.r.l.
 AC06C7     (base 16)		ServerNet S.r.l.
 				Località Padriciano 99
@@ -3180,12 +3168,6 @@ FC4AE9     (base 16)		Castlenet Technology Inc.
 34E42A     (base 16)		Automatic Bar Controls Inc.
 				790 Eubanks Dr
 				Vacaville  CA  95688
-				US
-
-B8-7C-F2   (hex)		Aerohive Networks Inc.
-B87CF2     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
 				US
 
 20-A7-87   (hex)		Bointec Taiwan Corporation Limited
@@ -20045,12 +20027,6 @@ A8CE90     (base 16)		CVC
 				BLACKSBURG  VA  24060
 				US
 
-00-60-9B   (hex)		ASTRO-MED, INC.
-00609B     (base 16)		ASTRO-MED, INC.
-				600 EAST GREENWICH AVE.
-				WEST WARWICK  RI  02893
-				US
-
 00-60-BE   (hex)		WEBTRONICS
 0060BE     (base 16)		WEBTRONICS
 				3B-1  8-2-12
@@ -26768,6 +26744,36 @@ F4F524     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Jiaxing  Zhejiang   314000
 				CN
 
+00-60-9B   (hex)		AstroNova, Inc
+00609B     (base 16)		AstroNova, Inc
+				600 EAST GREENWICH AVE.
+				WEST WARWICK  RI  02893
+				US
+
+B8-7C-F2   (hex)		Aerohive Networks Inc.
+B87CF2     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+C4-13-E2   (hex)		Aerohive Networks Inc.
+C413E2     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+F0-9C-E9   (hex)		Aerohive Networks Inc.
+F09CE9     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+48-D3-43   (hex)		ARRIS Group, Inc.
+48D343     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -26960,12 +26966,6 @@ FC7516     (base 16)		D-Link International
 				Seoul    06049
 				KR
 
-C8-66-5D   (hex)		Aerohive Networks Inc.
-C8665D     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
-				US
-
 38-97-D6   (hex)		Hangzhou H3C Technologies Co., Limited
 3897D6     (base 16)		Hangzhou H3C Technologies Co., Limited
 				466 Changhe Road, Binjiang District
@@ -26988,18 +26988,6 @@ E498D6     (base 16)		Apple, Inc.
 606944     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
-				US
-
-00-19-77   (hex)		Aerohive Networks Inc.
-001977     (base 16)		Aerohive Networks Inc.
-				3150-C Coronado Drive
-				Santa Clara  CA  95054
-				US
-
-40-18-B1   (hex)		Aerohive Networks Inc.
-4018B1     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
 				US
 
 88-96-B6   (hex)		Global Fire Equipment S.A.
@@ -52571,6 +52559,48 @@ A81E84     (base 16)		QUANTA COMPUTER INC.
 				Tao Yuan    33377
 				TW
 
+C8-21-58   (hex)		Intel Corporate
+C82158     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+24-20-C7   (hex)		Sagemcom Broadband SAS
+2420C7     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+70-3D-15   (hex)		Hangzhou H3C Technologies Co., Limited
+703D15     (base 16)		Hangzhou H3C Technologies Co., Limited
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang, P.R.China  310052
+				CN
+
+40-18-B1   (hex)		Aerohive Networks Inc.
+4018B1     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+00-19-77   (hex)		Aerohive Networks Inc.
+001977     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+C8-66-5D   (hex)		Aerohive Networks Inc.
+C8665D     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+48-65-EE   (hex)		IEEE Registration Authority
+4865EE     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 00-19-72   (hex)		Plexus (Xiamen) Co.,ltd.
 001972     (base 16)		Plexus (Xiamen) Co.,ltd.
 				No.6 Xiangxing 2 Road
@@ -53935,12 +53965,6 @@ E899C4     (base 16)		HTC Corporation
 				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
 				Shenzhen  Guangdong  518057
 				CN
-
-08-EA-44   (hex)		Aerohive Networks Inc.
-08EA44     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
-				US
 
 78-F8-82   (hex)		LG Electronics (Mobile Communications)
 78F882     (base 16)		LG Electronics (Mobile Communications)
@@ -56831,12 +56855,6 @@ A49F85     (base 16)		Lyve Minds, Inc
 				Berlin  Berlin  10559
 				DE
 
-88-5B-DD   (hex)		Aerohive Networks Inc.
-885BDD     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
-				US
-
 08-57-00   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 085700     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
@@ -58465,12 +58483,6 @@ F0F669     (base 16)		Motion Analysis Corporation
 				3617 Westwind Blvd.
 				Santa Rosa  CA  95403
 				US
-
-F0-21-9D   (hex)		Cal-Comp Electronics & Communications Company Ltd.
-F0219D     (base 16)		Cal-Comp Electronics & Communications Company Ltd.
-				No. 147, Sec. 3, Beishen Rd., Shenkeng Dist.,
-				    222
-				TW
 
 F8-D7-BF   (hex)		REV Ritter GmbH
 F8D7BF     (base 16)		REV Ritter GmbH
@@ -68671,12 +68683,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				82 Worman's Mill Court
 				Frederick  MD  21701
 				US
-
-00-0B-2E   (hex)		Cal-Comp Electronics (Thailand) Public Company Limited Taipe
-000B2E     (base 16)		Cal-Comp Electronics (Thailand) Public Company Limited Taipe
-				9F, 99, Nan-King E Rd., Sec. 5.
-				Taipei    105
-				TW
 
 00-0B-1B   (hex)		Systronix, Inc.
 000B1B     (base 16)		Systronix, Inc.
@@ -80057,6 +80063,54 @@ CC9470     (base 16)		Kinestral Technologies, Inc.
 				San Diego  CA  92121
 				US
 
+F0-21-9D   (hex)		Cal-Comp Electronics & Communications Company Ltd.
+F0219D     (base 16)		Cal-Comp Electronics & Communications Company Ltd.
+				No.147, Sec. 3, Beishen Rd
+				Shenkeng Dist  New Taipei City  ---
+				TW
+
+00-0B-2E   (hex)		Cal-Comp Electronics & Communications Company Ltd.
+000B2E     (base 16)		Cal-Comp Electronics & Communications Company Ltd.
+				No.147, Sec. 3, Beishen Rd
+				Shenkeng Dist  New Taipei City  ---
+				TW
+
+88-5B-DD   (hex)		Aerohive Networks Inc.
+885BDD     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+08-EA-44   (hex)		Aerohive Networks Inc.
+08EA44     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+2C-99-24   (hex)		ARRIS Group, Inc.
+2C9924     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-6B-F1   (hex)		Cisco Systems, Inc
+006BF1     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+50-6B-8D   (hex)		Nutanix
+506B8D     (base 16)		Nutanix
+				1740 Technology Drive Ste #150
+				San Jose  CA  95110
+				US
+
+00-38-DF   (hex)		Cisco Systems, Inc
+0038DF     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -80243,18 +80297,6 @@ C8E7D8     (base 16)		SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				Shenzhen  Guangdong  518057
 				CN
 
-E0-1C-41   (hex)		Aerohive Networks Inc.
-E01C41     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
-				US
-
-D8-54-A2   (hex)		Aerohive Networks Inc.
-D854A2     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Dr.
-				Sunnyvale  CA  94089
-				US
-
 9C-EF-D5   (hex)		Panda Wireless, Inc.
 9CEFD5     (base 16)		Panda Wireless, Inc.
 				15559 Union Ave, Suite 300
@@ -80362,12 +80404,6 @@ C44044     (base 16)		RackTop Systems Inc.
 				52-17 Sinjeon-Ro 41beon-gil
 				Giheung-gu, Yongin-City Kyungki-do    446-599
 				KR
-
-C8-67-5E   (hex)		Aerohive Networks Inc.
-C8675E     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
-				US
 
 00-0C-F1   (hex)		Intel Corporation
 000CF1     (base 16)		Intel Corporation
@@ -105758,6 +105794,54 @@ C81B5C     (base 16)		BCTech
 				Shenzhen  Guangdong Province  518054
 				CN
 
+7C-95-B1   (hex)		Aerohive Networks Inc.
+7C95B1     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+20-6C-8A   (hex)		Aerohive Networks Inc.
+206C8A     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+5C-E3-0E   (hex)		ARRIS Group, Inc.
+5CE30E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+78-23-AE   (hex)		ARRIS Group, Inc.
+7823AE     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+E4-9E-12   (hex)		FREEBOX SAS
+E49E12     (base 16)		FREEBOX SAS
+				16 rue de la Ville l'Eveque
+				PARIS  IdF  75008
+				FR
+
+D8-54-A2   (hex)		Aerohive Networks Inc.
+D854A2     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+E0-1C-41   (hex)		Aerohive Networks Inc.
+E01C41     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
+C8-67-5E   (hex)		Aerohive Networks Inc.
+C8675E     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
+
 E0-DD-C0   (hex)		vivo Mobile Communication Co., Ltd.
 E0DDC0     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
@@ -106981,12 +107065,6 @@ C42F90     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				No.469,Jianghui Road
 				Hangzhou  Zhejiang  310052
 				CN
-
-9C-5D-12   (hex)		Aerohive Networks Inc.
-9C5D12     (base 16)		Aerohive Networks Inc.
-				330 Gibraltar Drive
-				Sunnyvale  CA  94089
-				US
 
 A4-2B-B0   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 A42BB0     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -117316,12 +117394,6 @@ DC3350     (base 16)		TechSAT GmbH
 				Tsarigradsko Shose 7km BLVD
 				Sofia  Sofia  1784
 				BG
-
-00-1F-82   (hex)		Cal-Comp Electronics & Communications Co., Ltd
-001F82     (base 16)		Cal-Comp Electronics & Communications Co., Ltd
-				3F, #205, Sec.3 Peihsin Rd.
-				Hsintein  Taipei County  231
-				TW
 
 00-1F-7D   (hex)		embedded wireless GmbH
 001F7D     (base 16)		embedded wireless GmbH
@@ -132617,6 +132689,18 @@ B4D135     (base 16)		Cloudistics
 				Byron Center  MI  49315
 				US
 
+00-1F-82   (hex)		Cal-Comp Electronics & Communications Company Ltd.
+001F82     (base 16)		Cal-Comp Electronics & Communications Company Ltd.
+				No.147, Sec. 3, Beishen Rd
+				Shenkeng Dist  New Taipei City  ---
+				TW
+
+9C-13-AB   (hex)		Chanson Water Co., Ltd.
+9C13AB     (base 16)		Chanson Water Co., Ltd.
+				2F, No.88-11, Sec 1, Guangfu Rd, Sanchong Dist.
+				New Taipei City  Taiwan  241
+				TW
+
 A8-AD-3D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
 A8AD3D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
 				No. 389, Ningqiao Road, Pudong Jinqiao
@@ -133822,3 +133906,15 @@ C0854C     (base 16)		Ragentek Technology Group
 				90, Gajaeul-ro, Seo-gu
 				INCHEON    22830
 				KR
+
+88-3C-1C   (hex)		MERCURY CORPORATION
+883C1C     (base 16)		MERCURY CORPORATION
+				90, Gajaeul-ro, Seo-gu
+				INCHEON    22830
+				KR
+
+9C-5D-12   (hex)		Aerohive Networks Inc.
+9C5D12     (base 16)		Aerohive Networks Inc.
+				1011 McCarthy Blvd
+				Milpitas  CA  95035
+				US
