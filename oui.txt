@@ -26801,6 +26801,12 @@ D00AAB     (base 16)		Yokogawa Digital Computer Corporation
 				Santa Barbara  CA  93101
 				US
 
+E0-50-8B   (hex)		Zhejiang Dahua Technology Co., Ltd.
+E0508B     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -30235,12 +30241,6 @@ D0634D     (base 16)		Meiko Maschinenbau GmbH &amp; Co. KG
 				Englerstraße 3
 				Offenburg    77652
 				DE
-
-88-C6-26   (hex)		Logitech - Ultimate Ears
-88C626     (base 16)		Logitech - Ultimate Ears
-				4700 NW Camas Meadows Dr
-				Camas  WA  98607
-				US
 
 88-9C-A6   (hex)		BTB Korea INC
 889CA6     (base 16)		BTB Korea INC
@@ -53715,6 +53715,18 @@ A0CC2B     (base 16)		Murata Manufacturing Co., Ltd.
 244E7B     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+88-C6-26   (hex)		Logitech, Inc
+88C626     (base 16)		Logitech, Inc
+				4700 NW Camas Meadows Dr
+				Camas  WA  98607
+				US
+
+B8-50-01   (hex)		Zebra Technologies Inc.
+B85001     (base 16)		Zebra Technologies Inc.
+				ONE ZEBRA PLAZA
+				HOLTSVILLE  NY  11742
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -80204,12 +80216,6 @@ EC0D9A     (base 16)		Mellanox Technologies, Inc.
 				Wexford  PA  15090
 				US
 
-64-DB-43   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
-64DB43     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
-				No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan
-				Wuhan  Hubei  430000
-				CN
-
 00-24-48   (hex)		SpiderCloud Wireless, Inc
 002448     (base 16)		SpiderCloud Wireless, Inc
 				475 Sycamore Drive
@@ -80220,6 +80226,24 @@ EC0D9A     (base 16)		Mellanox Technologies, Inc.
 7C03C9     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
 				Shenzhen  Guangdong  518055
+				CN
+
+64-DB-43   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+64DB43     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+				No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan
+				Wuhan  Hubei  430000
+				CN
+
+D0-58-A8   (hex)		zte corporation
+D058A8     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+D0-71-C4   (hex)		zte corporation
+D071C4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -105935,6 +105959,18 @@ A4E6B1     (base 16)		Shanghai Joindata Technology Co.,Ltd.
 				Shanghai  Shanghai  200127
 				CN
 
+14-A7-8B   (hex)		Zhejiang Dahua Technology Co., Ltd.
+14A78B     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199, Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
+
+D0-60-8C   (hex)		zte corporation
+D0608C     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
 E0-DD-C0   (hex)		vivo Mobile Communication Co., Ltd.
 E0DDC0     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
@@ -107116,12 +107152,6 @@ A0F895     (base 16)		Shenzhen TINNO Mobile Technology Corp.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
-
-00-29-26   (hex)		Applied Optoelectronics, Inc Taiwan Branch
-002926     (base 16)		Applied Optoelectronics, Inc Taiwan Branch
-				No.18,Gong4th Rd.,Linkou District
-				New Taipei City  Taiwan  24452
-				TW
 
 2C-FD-37   (hex)		Blue Calypso, Inc.
 2CFD37     (base 16)		Blue Calypso, Inc.
@@ -132920,6 +132950,12 @@ C0288D     (base 16)		Logitech, Inc
 				Camas  WA  98607
 				US
 
+9C-1E-95   (hex)		Actiontec Electronics, Inc
+9C1E95     (base 16)		Actiontec Electronics, Inc
+				760 North Mary Ave
+				Sunnyvale  CA  94085
+				US
+
 A8-AD-3D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
 A8AD3D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
 				No. 389, Ningqiao Road, Pudong Jinqiao
@@ -134137,3 +134173,9 @@ B8E937     (base 16)		Sonos, Inc.
 				223 East De La Guerra Street
 				Santa Barbara  CA  93101
 				US
+
+00-29-26   (hex)		Applied Optoelectronics, Inc Taiwan Branch
+002926     (base 16)		Applied Optoelectronics, Inc Taiwan Branch
+				No.18,Gong 4th Rd
+				New Taipei City  Linkou District  24452
+				TW
