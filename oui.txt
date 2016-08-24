@@ -26819,6 +26819,12 @@ F8A45F     (base 16)		Xiaomi Communications Co Ltd
 				Shenzhen  Guangdong  518000
 				CN
 
+E4-B0-05   (hex)		Beijing IQIYI Science & Technology Co., Ltd.
+E4B005     (base 16)		Beijing IQIYI Science & Technology Co., Ltd.
+				Room 1101, Floor 11, Capital Development Tower, No.2 Haidian North 1st Street,Haidian District,
+				Beijing    100080
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -30211,12 +30217,6 @@ F85C45     (base 16)		IC Nexus Co. Ltd.
 				348-5 Chungho-Ri Jinwi-Myeon
 				  Gyeonggi-Do  451-862
 				KR
-
-0C-C4-7A   (hex)		Super Micro Computer, Inc.
-0CC47A     (base 16)		Super Micro Computer, Inc.
-				980 Rock Avenue
-				San Jose  California  95131
-				US
 
 D0-63-4D   (hex)		Meiko Maschinenbau GmbH &amp; Co. KG
 D0634D     (base 16)		Meiko Maschinenbau GmbH &amp; Co. KG
@@ -52640,6 +52640,18 @@ F0B429     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+94-E9-79   (hex)		Liteon Technology Corporation
+94E979     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
+AC-1F-6B   (hex)		Super Micro Computer, Inc.
+AC1F6B     (base 16)		Super Micro Computer, Inc.
+				980 Rock Ave
+				San Jose  CA  95131
+				US
+
 00-19-72   (hex)		Plexus (Xiamen) Co.,ltd.
 001972     (base 16)		Plexus (Xiamen) Co.,ltd.
 				No.6 Xiangxing 2 Road
@@ -53757,6 +53769,12 @@ A46011     (base 16)		Verifone
 2C2131     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
+				US
+
+0C-C4-7A   (hex)		Super Micro Computer, Inc.
+0CC47A     (base 16)		Super Micro Computer, Inc.
+				980 Rock Avenue
+				San Jose  California  95131
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -98465,12 +98483,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				72510 Stetten A.K.M.    
 				DE
 
-00-30-48   (hex)		Supermicro Computer, Inc.
-003048     (base 16)		Supermicro Computer, Inc.
-				2051 Junction Avenue
-				San Jose  CA  95131
-				US
-
 00-01-DA   (hex)		WINCOMM Corporation
 0001DA     (base 16)		WINCOMM Corporation
 				2F, No. 3, Prosperity Road 1,
@@ -105995,6 +106007,36 @@ D46A6A     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				Chongqing  Chongqing  401332
 				CN
 
+A8-A5-E2   (hex)		MSF-Vathauer Antriebstechnik GmbH & Co KG 
+A8A5E2     (base 16)		MSF-Vathauer Antriebstechnik GmbH & Co KG 
+				Am Hessentuch 6-8
+				Detmold  Nordrhein-Westfalen  32758
+				DE
+
+00-42-5A   (hex)		Cisco Systems, Inc
+00425A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+00-0B-4F   (hex)		Verifone
+000B4F     (base 16)		Verifone
+				2099 Gateway Place
+				San Jose  California  95110
+				US
+
+00-76-86   (hex)		Cisco Systems, Inc
+007686     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+74-FF-4C   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+74FF4C     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+				7F,Block A,Skyworth Building,
+				Shenzhen  Guangdong  518057
+				CN
+
 E0-DD-C0   (hex)		vivo Mobile Communication Co., Ltd.
 E0DDC0     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
@@ -107135,28 +107177,34 @@ C8662C     (base 16)		Beijing Haitai Fangyuan High Technology Co,.Ltd.
 				Bei Jing    100094
 				CN
 
-00-0B-4F   (hex)		Verifone
-000B4F     (base 16)		Verifone
-				2099 Gateway Place
-				San Jose  California  95110
+CC-8C-DA   (hex)		Shenzhen Wei Da Intelligent Technology Go.,Ltd
+CC8CDA     (base 16)		Shenzhen Wei Da Intelligent Technology Go.,Ltd
+				5K, Block B,Yueshang Center Cultural Square Jianshe East Rd Longhua New District
+				Shenzhen    518109
+				CN
+
+D4-36-DB   (hex)		Jiangsu Toppower Automotive Electronics Co., Ltd
+D436DB     (base 16)		Jiangsu Toppower Automotive Electronics Co., Ltd
+				No. 2 Tuolanshan Road
+				Xuzhou  Jiangsu  221004
+				CN
+
+64-A6-8F   (hex)		Zhongshan Readboy Electronics Co.,Ltd
+64A68F     (base 16)		Zhongshan Readboy Electronics Co.,Ltd
+				Changmingshui Industrial Park Wuguishan Zhongshan City,Guangdong Province
+				Zhongshan  Guangdong  528400
+				CN
+
+58-EF-68   (hex)		Belkin International Inc.
+58EF68     (base 16)		Belkin International Inc.
+				12045 East Waterfront Drive
+				Playa Vista    90094
 				US
 
-00-76-86   (hex)		Cisco Systems, Inc
-007686     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
-A8-A5-E2   (hex)		MSF-Vathauer Antriebstechnik GmbH & Co KG 
-A8A5E2     (base 16)		MSF-Vathauer Antriebstechnik GmbH & Co KG 
-				Am Hessentuch 6-8
-				Detmold  Nordrhein-Westfalen  32758
-				DE
-
-00-42-5A   (hex)		Cisco Systems, Inc
-00425A     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
+00-30-48   (hex)		Super Micro Computer, Inc.
+003048     (base 16)		Super Micro Computer, Inc.
+				2051 Junction Avenue
+				San Jose  CA  95131
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -116211,12 +116259,6 @@ DC3350     (base 16)		TechSAT GmbH
 00259C     (base 16)		Cisco-Linksys, LLC
 				121 Theory Drive
 				Irvine  California  92612
-				US
-
-00-25-90   (hex)		Super Micro Computer, Inc.
-002590     (base 16)		Super Micro Computer, Inc.
-				980 Rock Avenue
-				San Jose  California  95131
 				US
 
 00-25-80   (hex)		Equipson S.A.
@@ -132998,6 +133040,12 @@ FC64BA     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+7C-CB-E2   (hex)		IEEE Registration Authority
+7CCBE2     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 A8-AD-3D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
 A8AD3D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
 				No. 389, Ningqiao Road, Pudong Jinqiao
@@ -134294,8 +134342,20 @@ B0A2E7     (base 16)		Shenzhen TINNO Mobile Technology Corp.
 				Shenzhen   guangdong  518053
 				CN
 
-7C-CB-E2   (hex)		IEEE Registration Authority
-7CCBE2     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
+9C-D9-CB   (hex)		Lesira Manufacturing Pty Ltd
+9CD9CB     (base 16)		Lesira Manufacturing Pty Ltd
+				34 Gemsbok Street
+				Pretoria  Gauteng  0186
+				ZA
+
+34-D2-70   (hex)		Amazon Technologies Inc.
+34D270     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+00-25-90   (hex)		Super Micro Computer, Inc.
+002590     (base 16)		Super Micro Computer, Inc.
+				980 Rock Avenue
+				San Jose  California  95131
 				US
