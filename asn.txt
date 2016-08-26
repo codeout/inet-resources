@@ -509,7 +509,7 @@
 508	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
 509	DNIC-AS-00509 - DoD Network Information Center, US
 510	INTERNET - Voya Investment Management LLC, US
-511	TCOOM - TCoombs & Associates, LLC, US
+511	-Reserved AS-, ZZ
 512	DNIC-AS-00512 - DoD Network Information Center, US
 513	CERN , CH
 514	DSADC-MECH - DoD Network Information Center, US
@@ -832,7 +832,7 @@
 831	SYGMA-EXT-OR - Bell Sygma Systems Management Inc., CA
 832	SYGMA-EXT-QR - Beel Sygma Systems Management Inc., CA
 833	GONET-ASN-5 - GONET, CA
-834	BPNA-1 - Banco Popular North America, US
+834	-Reserved AS-, ZZ
 835	GONET-ASN-6 - GONET, CA
 836	GONET-ASN-7 - GONET, CA
 837	RCMP - Royal Canadian Mounted Police, CA
@@ -4631,48 +4631,48 @@
 4669	NOWCOM-AS-KR Nowcom, KR
 4670	HYUNDAI-KR Shinbiro, KR
 4671	KTOA-AS-KR KTOA, KR
-4672	IBMNET IBM Japan, Ltd.,,, JP
-4673	INTERVIA NTT DATA CORPORATION,,, JP
-4675	U-NETSURF UNIADEX, LTD.,,, JP
-4677	PTOP Marubeni OKI Network Solutions Inc.,,, JP
-4678	FINE Canon IT Solutions Inc.,,, JP
-4680	MIND Mitsubishi Electric Information Network Corporation,,, JP
-4681	IDC4681 Yahoo Japan Corporation,,, JP
-4682	ITNET SoftBank Mobile Corp.,,, JP
-4683	PAS Phase One, Inc.,,, JP
-4684	NTTPC NTT PC Communications, Inc.,,, JP
-4685	ASAHI-NET Asahi Net,,, JP
-4686	BEKKOAME BEKKOAME INTERNET INC.,,, JP
-4688	HI-HO Internet Initiative Japan Inc.,,, JP
-4690	WIDE-MEXP WIDE Project,,, JP
-4691	DTI Dream Train Internet Inc.,,, JP
-4692	INTERGATE InternetWare Co., LTD.,,, JP
-4693	CSK CSK-IT MANAGEMENT CORPORATION,,, JP
-4694	IDC Yahoo Japan Corporation,,, JP
-4695	URBAN Energia Communications, Inc.,,, JP
-4697	NTTV6NET NTT PF Labs,,, JP
-4698	INTERLINK InterLink Co., Ltd.,,, JP
-4700	NIJI-NET Niji-Net Inc.,,, JP
-4704	SANNET Rakuten Communications Corp.,,, JP
-4708	INFONIA Nippon Internet Access Inc.,,, JP
-4709	NETLAPUTA NetLaputa Corporation,,, JP
-4710	ID-NET NTT,,, JP
-4711	INTEC INTEC Inc.,,, JP
-4712	JT-NET JAPAN TOBACCO INC.,,, JP
-4713	OCN NTT Communications Corporation,,, JP
-4716	POWEREDCOM KDDI CORPORATION,,, JP
-4717	AI3 WIDE Project,,, JP
-4718	CKP Cyber Kansai Project,,, JP
-4719	OET ONKYO ENTERTAINMENT TECHNOLOGY CORPORATION,,, JP
-4721	JCN Jupiter Telecommunications Co., Ltd.,,, JP
-4722	WSIP SoftBank Mobile Corp.,,, JP
-4723	DOLPHIN Dolphin,,, JP
-4725	ODN SoftBank Mobile Corp.,,, JP
-4727	BSS KYODO PRINTING BUSINESS SOLUTIONS CO.,LTD,,, JP
-4729	JAEA Japan Atomic Energy Agency,,, JP
-4730	ODINS Osaka University,,, JP
-4732	DION KDDI CORPORATION,,, JP
-4733	SAISON SAISON INFORMATION SYSTEMS CO., LTD.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+4672	IBMNET IBM Japan, Ltd.,,,,, JP
+4673	INTERVIA NTT DATA CORPORATION,,,,, JP
+4675	U-NETSURF UNIADEX, LTD.,,,,, JP
+4677	PTOP Marubeni OKI Network Solutions Inc.,,,,, JP
+4678	FINE Canon IT Solutions Inc.,,,,, JP
+4680	MIND Mitsubishi Electric Information Network Corporation,,,,, JP
+4681	IDC4681 Yahoo Japan Corporation,,,,, JP
+4682	ITNET SoftBank Mobile Corp.,,,,, JP
+4683	PAS Phase One, Inc.,,,,, JP
+4684	NTTPC NTT PC Communications, Inc.,,,,, JP
+4685	ASAHI-NET Asahi Net,,,,, JP
+4686	BEKKOAME BEKKOAME INTERNET INC.,,,,, JP
+4688	HI-HO Internet Initiative Japan Inc.,,,,, JP
+4690	WIDE-MEXP WIDE Project,,,,, JP
+4691	DTI Dream Train Internet Inc.,,,,, JP
+4692	INTERGATE InternetWare Co., LTD.,,,,, JP
+4693	CSK CSK-IT MANAGEMENT CORPORATION,,,,, JP
+4694	IDC Yahoo Japan Corporation,,,,, JP
+4695	URBAN Energia Communications, Inc.,,,,, JP
+4697	NTTV6NET NTT PF Labs,,,,, JP
+4698	INTERLINK InterLink Co., Ltd.,,,,, JP
+4700	NIJI-NET Niji-Net Inc.,,,,, JP
+4704	SANNET Rakuten Communications Corp.,,,,, JP
+4708	INFONIA Nippon Internet Access Inc.,,,,, JP
+4709	NETLAPUTA NetLaputa Corporation,,,,, JP
+4710	ID-NET NTT,,,,, JP
+4711	INTEC INTEC Inc.,,,,, JP
+4712	JT-NET JAPAN TOBACCO INC.,,,,, JP
+4713	OCN NTT Communications Corporation,,,,, JP
+4716	POWEREDCOM KDDI CORPORATION,,,,, JP
+4717	AI3 WIDE Project,,,,, JP
+4718	CKP Cyber Kansai Project,,,,, JP
+4719	OET ONKYO ENTERTAINMENT TECHNOLOGY CORPORATION,,,,, JP
+4721	JCN Jupiter Telecommunications Co., Ltd.,,,,, JP
+4722	WSIP SoftBank Mobile Corp.,,,,, JP
+4723	DOLPHIN Dolphin,,,,, JP
+4725	ODN SoftBank Mobile Corp.,,,,, JP
+4727	BSS KYODO PRINTING BUSINESS SOLUTIONS CO.,LTD,,,,, JP
+4729	JAEA Japan Atomic Energy Agency,,,,, JP
+4730	ODINS Osaka University,,,,, JP
+4732	DION KDDI CORPORATION,,,,, JP
+4733	SAISON SAISON INFORMATION SYSTEMS CO., LTD.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
 4736	MAGNADATA-AU Magnadata Australia Pty Ltd, AU
 4737	UNSPECIFIED IAP Group Pty Ltd, AU
 4738	AARNET-TEST-AS-AP AARNET Test, AU
@@ -4694,7 +4694,7 @@
 4754	STPN-GAC-ICANN 1016, Electronics Niketan, 6, CGO Complex, IN
 4755	TATACOMM-AS TATA Communications formerly VSNL is Leading ISP, IN
 4756	KCTDI-AS-KR KCTDI, KR
-4757	UPRESTO-AS-KR EASY Research Institute,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+4757	UPRESTO-AS-KR EASY Research Institute,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 4759	ITEXTRON-AS-AP TEXTRON CORPORATION, PH
 4760	HKTIMS-AP PCCW Limited, HK
 4761	INDOSAT-INP-AP INDOSAT Internet Network Provider, ID
@@ -7345,28 +7345,28 @@
 7497	CSTNET-AS-AP Computer Network Information Center, CN
 7498	IINET-WA-AS-AP iiNet Limited, AU
 7499	CNS-HK-AS China Network Services (HK) Ltd AS, HK
-7500	M-ROOT-DNS WIDE Project,,, JP
-7502	IP-KYOTO Advanced Software Technology & Management Research Institute of KYOTO,,, JP
-7503	AIR Air Internet Service Co.,Ltd.,,, JP
-7505	MEDIAWEB Fujitsu Systems Applications & Support Limited,,, JP
-7506	INTERQ GMO Internet,Inc,,, JP
-7509	HINET Hokkaido University,,, JP
-7511	SYNAPSE Good Communications Co.,Ltd.,,, JP
-7512	WITH WITH Network,,, JP
-7513	NETFORWARD Hitachi Systems, Ltd.,,, JP
-7514	MEX Computer Engineering & Consulting, Ltd.,,, JP
-7515	GROBAL-OCN NTT Communications Corporation,,, JP
-7516	TOHKNET Tohoku Intelligent Telecommunication Co., Inc.,,, JP
-7517	MII ICOMT Inc.,,, JP
-7521	MFEED INTERNET MULTIFEED CO.,,, JP
-7522	STCN STNet, Incorporated,,, JP
-7523	TECHNOW RICOH JAPAN Corporation,,, JP
-7524	HANSHIN ITEC HANKYU HANSHIN CO.,LTD.,,, JP
-7526	MIND-US Mitsubishi Electric Information Network Corporation,,, JP
-7527	JPIX Japan Internet Exchange Co., Ltd.,,, JP
-7529	NETIRD NetIRD Inc.,,, JP
-7530	BBTOWER-LAB BroadBand Tower, Inc.,,, JP
-7531	GENOME GenomeNet Project,,, JP
+7500	M-ROOT-DNS WIDE Project,,,,, JP
+7502	IP-KYOTO Advanced Software Technology & Management Research Institute of KYOTO,,,,, JP
+7503	AIR Air Internet Service Co.,Ltd.,,,,, JP
+7505	MEDIAWEB Fujitsu Systems Applications & Support Limited,,,,, JP
+7506	INTERQ GMO Internet,Inc,,,,, JP
+7509	HINET Hokkaido University,,,,, JP
+7511	SYNAPSE Good Communications Co.,Ltd.,,,,, JP
+7512	WITH WITH Network,,,,, JP
+7513	NETFORWARD Hitachi Systems, Ltd.,,,,, JP
+7514	MEX Computer Engineering & Consulting, Ltd.,,,,, JP
+7515	GROBAL-OCN NTT Communications Corporation,,,,, JP
+7516	TOHKNET Tohoku Intelligent Telecommunication Co., Inc.,,,,, JP
+7517	MII ICOMT Inc.,,,,, JP
+7521	MFEED INTERNET MULTIFEED CO.,,,,, JP
+7522	STCN STNet, Incorporated,,,,, JP
+7523	TECHNOW RICOH JAPAN Corporation,,,,, JP
+7524	HANSHIN ITEC HANKYU HANSHIN CO.,LTD.,,,,, JP
+7526	MIND-US Mitsubishi Electric Information Network Corporation,,,,, JP
+7527	JPIX Japan Internet Exchange Co., Ltd.,,,,, JP
+7529	NETIRD NetIRD Inc.,,,,, JP
+7530	BBTOWER-LAB BroadBand Tower, Inc.,,,,, JP
+7531	GENOME GenomeNet Project,,,,, JP
 7532	GAMANIA-TW Gamania Digital Entertainment Network, TW
 7533	NETO Neto Corporation, TW
 7534	SILKERA-TW NEW SILKERA NETWORK, TW
@@ -7494,31 +7494,31 @@
 7657	VODAFONE-NZ-NGN-AS Vodafone NZ Ltd., NZ
 7658	NETNAME-1-NET-ISP 1-Net Singapore Pte Ltd, SG
 7659	NEWSKY-AS-AP Newsky Internet Limited, HK
-7660	APAN-JP Asia Pacific Advanced Network - Japan,,, JP
-7661	NORTH Network Organization for Research and Technologyin Hokkaido,,, JP
-7663	FFNET FUJIMIC INC.,,, JP
-7664	HARENET Sanyo Computer Corp.Inc,,, JP
-7665	OKIX Okayama Prefectural Government,,, JP
-7666	OKIX-1 Mitsubishi Corporation,,, JP
-7667	KDDLAB KDDI R&D Laboratories, INC.,,, JP
-7668	HTCN Hokuriku Telecommunication Network Co.,,, JP
-7669	DTC DIGITAL TECHNOLOGIES CORPORATION,,, JP
-7670	CTNET Energia Communications, Inc.,,, JP
-7671	MCNET NTT SmartConnect Corporation,,, JP
-7672	FITWEB Hokuden Information System Service Co.,Ltd.,,, JP
-7673	ALLES ejworks corporation,,, JP
-7674	GOFORS NTT Communications Corporation,,, JP
-7676	TAM TAM-Internet Service (T.A.M Co., Ltd.),,, JP
-7677	DNP Dai Nippon Printing Co., Ltd,,, JP
-7678	PROX Prox System Design Inc.,,, JP
-7679	QTNET Kyushu Telecommunication Network Co.,Inc.,,, JP
-7682	HOTNET HOKKAIDO TELECOMMUNICATIONS NETWORK Co., Inc.,,, JP
-7683	DOMIRU-AS CRUST Co.,Ltd.,,, JP
-7684	SAKURA-A SAKURA Internet Inc.,,, JP
-7686	ATNETHOME Technology Networks Inc.,,, JP
-7687	D-CRUISENET TOYOTA DIGITAL CRUISE.INCORPORATED,,, JP
-7688	MISH Nippon Internet Access Inc.,,, JP
-7690	MIRAI Mirai Communication Network Inc.,,, JP
+7660	APAN-JP Asia Pacific Advanced Network - Japan,,,,, JP
+7661	NORTH Network Organization for Research and Technologyin Hokkaido,,,,, JP
+7663	FFNET FUJIMIC INC.,,,,, JP
+7664	HARENET Sanyo Computer Corp.Inc,,,,, JP
+7665	OKIX Okayama Prefectural Government,,,,, JP
+7666	OKIX-1 Mitsubishi Corporation,,,,, JP
+7667	KDDLAB KDDI R&D Laboratories, INC.,,,,, JP
+7668	HTCN Hokuriku Telecommunication Network Co.,,,,, JP
+7669	DTC DIGITAL TECHNOLOGIES CORPORATION,,,,, JP
+7670	CTNET Energia Communications, Inc.,,,,, JP
+7671	MCNET NTT SmartConnect Corporation,,,,, JP
+7672	FITWEB Hokuden Information System Service Co.,Ltd.,,,,, JP
+7673	ALLES ejworks corporation,,,,, JP
+7674	GOFORS NTT Communications Corporation,,,,, JP
+7676	TAM TAM-Internet Service (T.A.M Co., Ltd.),,,,, JP
+7677	DNP Dai Nippon Printing Co., Ltd,,,,, JP
+7678	PROX Prox System Design Inc.,,,,, JP
+7679	QTNET Kyushu Telecommunication Network Co.,Inc.,,,,, JP
+7682	HOTNET HOKKAIDO TELECOMMUNICATIONS NETWORK Co., Inc.,,,,, JP
+7683	DOMIRU-AS CRUST Co.,Ltd.,,,,, JP
+7684	SAKURA-A SAKURA Internet Inc.,,,,, JP
+7686	ATNETHOME Technology Networks Inc.,,,,, JP
+7687	D-CRUISENET TOYOTA DIGITAL CRUISE.INCORPORATED,,,,, JP
+7688	MISH Nippon Internet Access Inc.,,,,, JP
+7690	MIRAI Mirai Communication Network Inc.,,,,, JP
 7692	CETIN-AS-AP China Engineering Technology Informations Networks, CN
 7693	COMNET-TH KSC Commercial Internet Co. Ltd., TH
 7694	EFTEL-AU IT Solutions, AU
@@ -8984,24 +8984,24 @@
 9346	CYNEX-AS-AP Cynex Communications Corporation, TW
 9347	INOCNET-AS-AP Inocnet AS of Patni, for the NOC Project, IN
 9348	SLVTSD-CBN-AP Victorian Cultural Network, AU
-9351	ZLAN ZTV CO.,LTD,,, JP
-9352	KUMAGAYA KuMaGaYaNet,,, JP
-9353	MEDIAWARS MEDIAWARS co.,ltd.,,, JP
-9354	TDNC Community Network Center Inc.,,, JP
-9355	NICT National Institute of Information and Communications Technology,,, JP
-9357	FNC NRI SecureTechnologies, Ltd.,,, JP
-9358	KISWEB Kanden Information Systems Company,Incorporated,,, JP
-9363	NET-TECH FUJITSU KANSAI-CHUBU NET-TECH LIMITED,,, JP
-9365	ITSCOM its communications Inc.,,, JP
-9366	SOLITON SOLITON-NET,,, JP
-9367	TITECH Tokyo Institute of Technology,,, JP
-9370	SAKURA-B SAKURA Internet Inc.,,, JP
-9371	SAKURA-C SAKURA Internet Inc.,,, JP
-9372	UEC The University of Electro-Communications,,, JP
-9374	EDION EDION Corporation,,, JP
-9376	SAKURANET SMARTVALUE Co.,Ltd.,,, JP
-9378	CABLENET Jupiter Telecommunications Co., Ltd.,,, JP
-9380	AITAI-NET Himawari Network Inc.,,, JP
+9351	ZLAN ZTV CO.,LTD,,,,, JP
+9352	KUMAGAYA KuMaGaYaNet,,,,, JP
+9353	MEDIAWARS MEDIAWARS co.,ltd.,,,,, JP
+9354	TDNC Community Network Center Inc.,,,,, JP
+9355	NICT National Institute of Information and Communications Technology,,,,, JP
+9357	FNC NRI SecureTechnologies, Ltd.,,,,, JP
+9358	KISWEB Kanden Information Systems Company,Incorporated,,,,, JP
+9363	NET-TECH FUJITSU KANSAI-CHUBU NET-TECH LIMITED,,,,, JP
+9365	ITSCOM its communications Inc.,,,,, JP
+9366	SOLITON SOLITON-NET,,,,, JP
+9367	TITECH Tokyo Institute of Technology,,,,, JP
+9370	SAKURA-B SAKURA Internet Inc.,,,,, JP
+9371	SAKURA-C SAKURA Internet Inc.,,,,, JP
+9372	UEC The University of Electro-Communications,,,,, JP
+9374	EDION EDION Corporation,,,,, JP
+9376	SAKURANET SMARTVALUE Co.,Ltd.,,,,, JP
+9378	CABLENET Jupiter Telecommunications Co., Ltd.,,,,, JP
+9380	AITAI-NET Himawari Network Inc.,,,,, JP
 9381	NEWTT-IP-AP Wharf T&T Ltd., HK
 9382	ITFARM-QLD-AP The IT Farm, AU
 9383	DEST-AS Department of Education Science and Training, Federal, AU
@@ -9254,7 +9254,7 @@
 9633	SLC-AS-KR SUDOKWON Landfill Site Management Corp, KR
 9634	SHNS-AS GOODMORNING SHINHAN SECURITIES Co., Ltd., KR
 9635	PUFS-AS Pusan University of Foreign Studies, KR
-9636	SEONAM-AS SEONAM Infromation Telecom Co., Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+9636	SEONAM-AS SEONAM Infromation Telecom Co., Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 9637	DANKOOKUNIV-AS-KR Dankook University, KR
 9638	NH-AS National Agricultural Cooperative federation, KR
 9639	DIT-AS-KR Dongeui Institute of Technology, KR
@@ -9313,7 +9313,7 @@
 9692	HWS-AS HANWHA SECURITIES CO .,LTD, KR
 9693	KFTCCA-AS Korea Financial Telecommunications & Clearings Institute, KR
 9694	SEOKYUNG-CATV-AS-KR Seokyung Cable Television Co..LTD., KR
-9695	KITINET-AS KT Solutions Coprporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+9695	KITINET-AS KT Solutions Coprporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 9696	EDAS-AS Oscar Enterprise, KR
 9697	CJHAEUNDAEGIJANG-AS-KR CJ CableNet HaeundaeKijang Corp., KR
 9698	YOUNGDOONG-AS-KR YoungdongBroadcastingSystem,inc, KR
@@ -9474,7 +9474,7 @@
 9855	KCCWF-AS-KR KCCWF, KR
 9856	WOORIWM-AS-KR WOORI Investment @ Securities, KR
 9857	KOGAS-AS-KR KOREA GAS CORPORATION, KR
-9858	TYFT-AS Tong Yang Futures Trading co.,Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+9858	TYFT-AS Tong Yang Futures Trading co.,Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 9859	CCCC-AS ChungCheong College, KR
 9860	TMCNET-AS TongMyong College, KR
 9861	HIAM-AS-KR HI ASSET MANAGEMENT CO., LTD, KR
@@ -9563,7 +9563,7 @@
 9944	LGESHOP-AS LG Home shopping Inc., KR
 9945	YFGC-AS-KR yoido full gaspel church, KR
 9946	CABLENET-AS-KR KCTV JEJU BROADCASTING, KR
-9947	SIMNET-AS-KR Simulation Multimedia Network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+9947	SIMNET-AS-KR Simulation Multimedia Network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 9948	NICEMONEY-AS-KR SOON CHUN HYANG UNIVERSITY, KR
 9949	HOSEO-AS HOSEO UNIVERSITY, KR
 9950	PUBNETPLUS2-AS-KR DACOM, KR
@@ -9577,7 +9577,7 @@
 9958	NEXON-AS NEXON, KR
 9959	KOREASTOCKEXCHANGE-AS KOREA STOCK EXCHANGE, KR
 9960	DGB-AS-KR DaeguBank, KR
-9961	JOIL-AS-KR JOIL CABLE NETWORK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+9961	JOIL-AS-KR JOIL CABLE NETWORK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 9962	SUNCHON-AS Sunchon National University, KR
 9963	MOUMNET-AS RPK Co.,Ltd., KR
 9964	PERSNET Korea Telecom Freetel, KR
@@ -9593,7 +9593,7 @@
 9974	KRA-AS-KR Korea Racing Association, KR
 9975	KBISE-AS-KR Gyeongsangbuk-do Education Research Institute, KR
 9976	ICNDP-AS-KR Korea Cable TV NamIncheon Broadcasting.co.ltd, KR
-9977	JIGUNET-AS IOSYSTEM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+9977	JIGUNET-AS IOSYSTEM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 9978	UOS-AS The University of Seoul, KR
 9979	KEB-AS KOREA EXCHANGE BANK, KR
 9980	HITINET Hyundai Information Technology, KR
@@ -9657,7 +9657,7 @@
 10038	NHNENT-AS-KR NHN Entertainment, KR
 10039	KHIDI-AS-KR Korea Health Industry Development Institute, KR
 10040	NICEVAN-AS-KR NICE Information & Telecommunication, Inc, KR
-10041	WILLBES-AS-KR The Willbes & Co.,Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10041	WILLBES-AS-KR The Willbes & Co.,Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10042	DPC-AS-KR DAEGU POLYTECHNIC COLLEGE, KR
 10043	MIC-AS-KR SOON CHUN HYANG UNIVERSITY, KR
 10044	RDA-AS-KR Rural Development Adminstration (RDA), KR
@@ -9676,12 +9676,12 @@
 10057	ESONET ESOCOM, KR
 10058	CU-AS-KR NACUFOK, KR
 10059	KIDC-AS LG DACOM KIDC, KR
-10060	ACTOZ Actoz Soft Co., Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10060	ACTOZ Actoz Soft Co., Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10061	FSS-AS Financial Supervisory Service, KR
-10062	HAMANNET-AS-KR HamanCableBroadcastingCorporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10062	HAMANNET-AS-KR HamanCableBroadcastingCorporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10063	KMA-AS Korea Meteorological Administration, KR
 10064	SANGNOK-AS-KR GEPS Cheonan Sagnokresort, KR
-10065	KMTC-AS-KR Korea Marine Transport,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10065	KMTC-AS-KR Korea Marine Transport,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10066	GAYANET-AS-KR CJ-CABLENET, KR
 10067	LGNET-CHINA-AS-KR LG CNS, KR
 10068	PRONET-AS Honhjin Network, KR
@@ -9769,10 +9769,10 @@
 10151	ITONE-CSLOXINFO-AS-TH-AP IT One Co., Ltd., TH
 10152	NEC-MELB-DC-AS-AP NEC Australia Pty Ltd, AU
 10153	ONETELHK-AS-AP ONE.TEL Limited (Hong Kong), HK
-10154	USE-AS-KR ULSAN Office of Education,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10154	USE-AS-KR ULSAN Office of Education,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10155	JBCTV-AS-KR CJ CableNet JoongBusan CATV, KR
 10156	SNUE-AS-KR Seoul National University of Education, KR
-10157	YAHOO-AS-KR Yahoo! Korea, Corp.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10157	YAHOO-AS-KR Yahoo! Korea, Corp.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10158	KAKAO2 KAKACO, KR
 10159	HAUNET-AS-KR HANKUK Aviation University, KR
 10160	PRISM-AS Intellicenter, KR
@@ -9801,12 +9801,12 @@
 10183	KCISA-AS-KR Korea Culture Information Service Agency, KR
 10184	KFCCC-AS Korean Federation of Community Credit Cooperatives, KR
 10185	HNB-AS Hana Bank Co., KR
-10186	DMT-AS-KR Daejeon Telecom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10186	DMT-AS-KR Daejeon Telecom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10187	KISDI-AS-KR Korea Information Society Developement Institute, KR
-10188	HANMAG-AS-KR HanMag Futures Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10188	HANMAG-AS-KR HanMag Futures Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10189	HMM-AS-KR SOON CHUN HYANG UNIVERSITY, KR
 10190	JB-AS-KR Joongbu University, KR
-10191	UYCATV-AS-KR C&M Ulsan Cable TV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+10191	UYCATV-AS-KR C&M Ulsan Cable TV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 10192	KIWOOM-AS-KR kiwoom.com Securities.co.,Ltd, KR
 10193	WEMADE-AS-KR WEMADE Entertainment, KR
 10194	DOOSANHEAVY-AS-KR Doosan Heavy Industries & Construction Co., Ltd., KR
@@ -10937,7 +10937,7 @@
 11326	ASN-EASTMAN-CHEMICAL - Eastman Chemical Company, US
 11327	NCI-GROUP-INC - NCI Group, Inc., US
 11328	BIO-RAD-ASN - Bio-Rad Laboratories, Inc., US
-11329	ASN-USI - USinternetworking Inc, US
+11329	-Reserved AS-, ZZ
 11330	SFOC - Foodland Super Market, Limited, US
 11331	THLNYC-ASN - Thomas H. Lee Capital, LLC, US
 11332	CRESTRON - Crestron Electronics Inc, US
@@ -13567,7 +13567,7 @@
 14182	EDATA - eData, Inc., US
 14183	UALR-ASN - University of Arkansas at Little Rock, US
 14184	DATAGLYPHICS - DataGlyphics, Inc., US
-14185	CBSK - City of Baxter Springs KS, US
+14185	CBSK - CABLE ONE, INC., US
 14187	BT LATAM COLOMBIA S.A., CO
 14188	ASHLANDFIBERNETWORK - Ashland Fiber Network, US
 14189	WITT-KIEFFER - Witt-Kieffer, US
@@ -14386,7 +14386,7 @@
 15006	IBMCCH-STL - IBM, US
 15007	TSUCHI - Tzu Chi Foundation, US
 15008	AISG - AISG, US
-15009	-Reserved AS-, ZZ
+15009	UNISYSASN15009 - Unisys Corporation, US
 15010	IT-DIMENSIONS - IT Dimensions, Inc., US
 15011	JAGUAR-1 - Jaguar Communications, US
 15012	CRTCAPITAL-001 - CRT Capital Group LLC, US
@@ -14446,7 +14446,7 @@
 15067	TGN-AS1 - The Greenville News, US
 15068	SUPERCLUBS-JDV - SuperClubs.com, US
 15069	SBA - Smith Bucklin & Associates Inc, US
-15070	THEFIND-AS - TheFind, Inc., US
+15070	-Reserved AS-, ZZ
 15071	BAX-BGP - BAX GLOBAL, US
 15072	NETRIPLEX-CORPORATION - Netriplex Corporation, US
 15073	CPS-197 - California Physicians' Service, US
@@ -16485,7 +16485,7 @@
 17309	AS7260 - Roosevelt University, US
 17310	BVU-2 - BRISTOL VIRGINIA UTILITIES, US
 17311	ECMC-BGP - Erie County Medical Center, US
-17312	TERNETCONNEC,,,,,,,,,,, ZA
+17312	TERNETCONNEC,,,,,,,,,,,,, ZA
 17313	THECBEGROUP - THE CBE GROUP, INC, US
 17314	REDHAT-HOSTED - Red Hat, Inc., US
 17315	RECYCLEBANK - RecycleBank, US
@@ -16772,14 +16772,14 @@
 17602	CRETEC-AS-KR CRETEC CHEGIM, KR
 17603	KUMOH-AS-KR Kumoh National University Technology, KR
 17604	KIISS-AS-KR NCA, KR
-17605	MJIDC-AS-KR Myongji college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+17605	MJIDC-AS-KR Myongji college,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 17606	HJS-AS-KR Hanjing Shipping, KR
 17607	ATT7192-AS-KR ATT GNS korea, KR
 17608	ABN-AS-KR ABN, KR
 17609	SILLAUNIVERSITY-AS-KR Silla Univ., KR
 17610	ABRAIN-AS-KR ABRAIN, KR
-17611	GWANAKGU-AS-KR Gwanak-Gu OFFICE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
-17612	MAPOGU-AS-KR Mapo-gu Office,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+17611	GWANAKGU-AS-KR Gwanak-Gu OFFICE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+17612	MAPOGU-AS-KR Mapo-gu Office,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 17613	CICKOREA-AS-KR CICKOREA, KR
 17614	GEUMGANG-AS-KR Geumgang University, KR
 17615	CJU-AS-KR Cheongju University, KR
@@ -16990,7 +16990,7 @@
 17829	IDL-AS-AP IDL Autonomous system, AU
 17830	KRYPTOS-AS Kryptos Networks , Remote Infrastructure Management Services, IN
 17832	SIXNGIX-AS-KR Korea Internet Security Agency, KR
-17833	CROWNBAKERY-AS-KR CrownBakery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+17833	CROWNBAKERY-AS-KR CrownBakery,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 17834	KYOBOAUTO-AS-KR Kyobo Auto Insurance CO.,LTD, KR
 17835	HITC-AS-KR Prudential INVESTMENT TRUST &SECURITIES CO.,LTD., KR
 17836	IBKS-AS-KR IBK Securities, KR
@@ -17007,8 +17007,8 @@
 17847	FSS-AS-KR Financial Supervisory Service, KR
 17848	INAMES-AS-KR INAMES, KR
 17849	GINAMHANVIT-AS-KR hanvit ginam broadcasting comm., KR
-17850	OKSUNG-AS-KR OK-NET Co,. Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
-17851	EDUS-AS-KR Chungchungnam-Do office of Education,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+17850	OKSUNG-AS-KR OK-NET Co,. Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+17851	EDUS-AS-KR Chungchungnam-Do office of Education,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 17852	KOREALIFE-AS-KR KOREALIFE, KR
 17853	LGTELECOM-AS-KR LG Telecom, KR
 17854	CABLELINE-AS-KR Tbroadjeonjubroadcast, KR
@@ -17035,7 +17035,7 @@
 17875	ECBANK-AS-KR ec-bank, KR
 17876	AHNLAB-AS-KR Ahnlab, Inc., KR
 17877	NEXG-AS-KR NEXG, KR
-17878	KFISAC-AS-KR K.F.T.C ISAC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+17878	KFISAC-AS-KR K.F.T.C ISAC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 17879	RDA2014 Rural Development Adminstration (RDA), KR
 17880	SPORTSSEOUL21-AS-KR SPORTSSEOUL21.CO, KR
 17881	INETHOSTING-AS-KR Inet Hosting Inc., KR
@@ -17448,20 +17448,20 @@
 18305	POSNET POSDATA Co.,Ltd, KR
 18306	MASANHANANET-AS-KR HANANET, KR
 18307	SRAIL-AS-KR SR, KR
-18308	BUCHEONSI-AS-KR BUCHEONSI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+18308	BUCHEONSI-AS-KR BUCHEONSI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 18309	KOVAN-AS-KR Korea VAn Service Co.LTD, KR
 18310	VITSSEN-AS-KR TBROAD ABC BROADCASTING CO.,LTD., KR
-18311	BORANET-AS-KR Dongsue Digital BROADCASTING CO.,LTD.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+18311	BORANET-AS-KR Dongsue Digital BROADCASTING CO.,LTD.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 18312	KAMCO-AS-KR Korea Asset Management COrporation, KR
 18313	PCN-AS-KR CJ-CABLENET, KR
 18314	KEBHANACARDNET-AS-KR HANASK card, KR
 18315	SORABOLNET-AS-KR Sorabol College, KR
 18316	FLEXNETWORKS-AS-KR flexnetworks, KR
-18317	CHODANG-AS-KR Chodang University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+18317	CHODANG-AS-KR Chodang University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 18318	SPEEDON-AS-KR Chonnam Dongbu CATV, KR
 18319	YJNET-AS-KR Yeungnam College of Science & Technology, KR
 18320	GNUE-AS-KR Gwangju National University of Education, KR
-18321	KWU-AS-KR KwangJu Women's University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+18321	KWU-AS-KR KwangJu Women's University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 18322	DHC-AS-KR Daegu Health College, KR
 18323	SNUBH-AS-KR Seoul National University Bundang Hospital, KR
 18324	MASANC-AS-KR Masan College, KR
@@ -17473,7 +17473,7 @@
 18330	HONGIK-AS-KR HONGIK UNIVERSITY, KR
 18331	HCC-AS-KR Hyechon college, KR
 18332	POSTOPIA-AS-KR postopia, KR
-18333	CLN-AS-KR Korea Press Foundation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+18333	CLN-AS-KR Korea Press Foundation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 18334	GCNCATV-AS-KR Gyounggidongbu cable tv co., Ltd., KR
 18335	SWU-NET-AS-KR Seoul Women University, KR
 18336	KDTC-AS-KR Kyungdong College of Techno-information, KR
@@ -19093,7 +19093,7 @@
 19955	PINELAND-TELEPHONE - Pineland Telephone Cooperative, Inc., US
 19956	TENNESSEE-NET - BellSouth.net Inc., US
 19957	TENNESSEE-NET - BellSouth.net Inc., US
-19958	USICA-NET - USinternetworking Inc, US
+19958	-Reserved AS-, ZZ
 19959	KASINET - Kansas Data Inc., US
 19960	NET SITE S.A, BR
 19961	STARGAS-NET-1 - Star Gas Partners, LP, US
@@ -21204,7 +21204,7 @@
 22268	LEVEL365 - LEVEL365 HOLDINGS LLC, US
 22269	CHTR-WV-MID-ATLANTIC - Charter Communications, US
 22270	BANGOR-SAVINGS-BANK - Bangor Savings Bank, US
-22271	CENTERLIGHT - Beth Abraham Health Services, US
+22271	-Reserved AS-, ZZ
 22272	-Reserved AS-, ZZ
 22273	GWCCNET-ASN - Great West Casualty Company, US
 22274	SMP-VIR - Standard Motor Products, Inc, US
@@ -21412,7 +21412,7 @@
 22476	NUNETWORX - Communication Nunetworx Inc., CA
 22477	OBERM - Obermayer Rebmann Maxwell & Hippel, LLP, US
 22478	LS-POWER-ASN-01 - LS Power Development, LLC, US
-22479	HGC-ASN - Hayground Cove Fund Management, LLC, US
+22479	-Reserved AS-, ZZ
 22480	SOCOLO-AS - Beulahland Communications, Inc, US
 22481	AVSGIA-AS - Audio Visual Services Group, Inc. (AVSG), US
 22482	-Reserved AS-, ZZ
@@ -22285,7 +22285,7 @@
 23351	ANSYSNH - Ansys, Inc. - Lebanon NH, US
 23352	SERVERCENTRAL - Server Central Network, US
 23353	Metro Net Hosting, S. de R.L. de C.V., MX
-23354	MEDIARING - Mediaring.com Inc., US
+23354	-Reserved AS-, ZZ
 23355	NUANCE-COMMUNICATION-INC-HEALTHCARE-US01 - Dictaphone Healthcare Solutions, US
 23356	-Reserved AS-, ZZ
 23357	CXP - CyberXpress, Inc., US
@@ -22310,7 +22310,7 @@
 23376	APPSERVE - AppServe Technologies, LLC, US
 23377	CARLSON - Carlson Companies Inc., US
 23378	MPLUSN - Maloney + Novotny LLC, US
-23379	CHECKAGAIN - CheckAgain, US
+23379	-Reserved AS-, ZZ
 23380	AS-WHMLLC - WHM, LLC, US
 23381	TRAVELERS - Travelers Property Casualty Corp., US
 23382	uServers Comunicaciones SC, MX
@@ -22522,7 +22522,7 @@
 23596	EDNSKR1 NIDA, KR
 23599	DDNSKR NIDA, KR
 23600	GDNSKR1 NIDA, KR
-23601	GDNSKR2 NIDA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+23601	GDNSKR2 NIDA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 23602	DTAC-CRIE-AS-AP DTAC (CRIE Project), TH
 23603	ICONZ-AS-AP Housing New Zealand, NZ
 23604	IBI-AS Velocity Internet Pty Limited, AU
@@ -22532,35 +22532,35 @@
 23608	LEI-TRANS-ACT-AS-AU-AP Leading Edge Internet P/L Primary AS, AU
 23609	EMICNET-AS-AP EMIC Internet Services., AU
 23610	WASUHZ Huashu media&Network Limited, CN
-23613	NMTNET New Media Tokushima Co.,ltd.,,, JP
-23614	I-KOCHI Kochi Systems Co., Ltd.,,, JP
-23615	KUSANAGI University of Shizuoka,,, JP
-23616	HNB Hitachi Information Systems, Ltd.,,, JP
-23617	AT-HANA Koutoku-Sangyou Co,.Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-23618	ICV-NET Ibara Broadcasting Company,,, JP
-23619	E-OSAKA SMARTVALUE Co.,Ltd.,,, JP
-23620	DOOGA DooGA Co., Ltd.,,, JP
-23621	GINGANET GINGA SYSTEM CO.,LTD,,, JP
-23622	TSURU-GAKUEN Tsuru Gakuen,,, JP
-23623	CHUO-U Chuo University,,, JP
-23624	CHUKAI Chukai Television Co,.Ltd.,,, JP
-23625	TOKAI-WBS TOKAI Communications Corporation,,, JP
-23626	DILAB Verizon Japan Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-23627	UCVNET UEDA CABLE VISION CO.,LTD.,,, JP
-23628	ACCSNET Academic newtown Community Cable Service,,, JP
-23629	OCTV Obihiro City Cable Co.,Ltd.,,, JP
-23630	CAC-NET CAC Inc.,,, JP
-23631	KISNET Sofu System, Inc,,, JP
-23632	TVT-NET TVT Tsuyama Co.,Ltd.,,, JP
-23633	LOCAL-IX Niigata Communication Service,,, JP
-23634	E-DNS-JP WIDE Project,,, JP
-23635	CRCC CRCCMedia Co.,ltd,,, JP
-23637	BI-CDN-IX Bit-isle Co.,Ltd.,,, JP
-23638	AMIXCOM AMIXCOM Inc.,,, JP
-23639	NTT-BIZLINK NTT Bizlink, Inc.,,, JP
-23640	BBIX BBIX,Inc.,,, JP
-23641	NSCS-NET NS Computer Service Corporation,,, JP
-23642	OBIS OBIS,,, JP
+23613	NMTNET New Media Tokushima Co.,ltd.,,,,, JP
+23614	I-KOCHI Kochi Systems Co., Ltd.,,,,, JP
+23615	KUSANAGI University of Shizuoka,,,,, JP
+23616	HNB Hitachi Information Systems, Ltd.,,,,, JP
+23617	AT-HANA Koutoku-Sangyou Co,.Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+23618	ICV-NET Ibara Broadcasting Company,,,,, JP
+23619	E-OSAKA SMARTVALUE Co.,Ltd.,,,,, JP
+23620	DOOGA DooGA Co., Ltd.,,,,, JP
+23621	GINGANET GINGA SYSTEM CO.,LTD,,,,, JP
+23622	TSURU-GAKUEN Tsuru Gakuen,,,,, JP
+23623	CHUO-U Chuo University,,,,, JP
+23624	CHUKAI Chukai Television Co,.Ltd.,,,,, JP
+23625	TOKAI-WBS TOKAI Communications Corporation,,,,, JP
+23626	DILAB Verizon Japan Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+23627	UCVNET UEDA CABLE VISION CO.,LTD.,,,,, JP
+23628	ACCSNET Academic newtown Community Cable Service,,,,, JP
+23629	OCTV Obihiro City Cable Co.,Ltd.,,,,, JP
+23630	CAC-NET CAC Inc.,,,,, JP
+23631	KISNET Sofu System, Inc,,,,, JP
+23632	TVT-NET TVT Tsuyama Co.,Ltd.,,,,, JP
+23633	LOCAL-IX Niigata Communication Service,,,,, JP
+23634	E-DNS-JP WIDE Project,,,,, JP
+23635	CRCC CRCCMedia Co.,ltd,,,,, JP
+23637	BI-CDN-IX Bit-isle Co.,Ltd.,,,,, JP
+23638	AMIXCOM AMIXCOM Inc.,,,,, JP
+23639	NTT-BIZLINK NTT Bizlink, Inc.,,,,, JP
+23640	BBIX BBIX,Inc.,,,,, JP
+23641	NSCS-NET NS Computer Service Corporation,,,,, JP
+23642	OBIS OBIS,,,,, JP
 23644	EGAT-AS-TH Electricity Generating Authority of Thailand, TH
 23645	BBW-AS-AP Broadband Wireless Pty Ltd, AU
 23646	CLARINTSOL-AS-AP Clarinet Internet Solutions, AU
@@ -22681,59 +22681,59 @@
 23770	NCBS-IN Tata Institute of Fundamental Research, IN
 23771	SXBCTV-AP SXBCTV ,Internet Service Provider, CN
 23772	ORTELNET-AS M/s Ortel Communications Ltd, IN
-23773	EKZM EKZM co.,ltd.,,, JP
-23774	A-DNS-JP Japan Registry Service Co., Ltd.,,, JP
-23775	TAMATELE-NET Tamashima TV Inc.,,, JP
-23776	NEXS NEC Nexsolutions,Ltd.,,, JP
-23777	VIPALETTE NTT BUSINESS SOLUTIONS CORPORATION,,, JP
-23778	CANET IMIZU CABLE NETWORK CO.,LTD.,,, JP
-23779	N-BONE NTT Communications Corporation,,, JP
-23780	CTB CTB Media Inc.,,, JP
-23781	TOYAMA-AN-AS Toyama University,,, JP
-23782	INFOTOKYO Fujitsu System Solutions Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-23783	CNA Cable Networks Akita Co.,ltd.,,, JP
-23784	POLEXCHENGE SQUARE ENIX CO., LTD.,,, JP
-23785	SUNFIELD SUN FIELD INTERNET LIMITED,,, JP
-23786	MABLE San-in Cable Vision CO.,LTD,,, JP
-23788	HICT Jupiter Telecommunications Co., Ltd.,,, JP
-23790	KCN-TV Jupiter Telecommunications Co., Ltd.,,, JP
-23791	LCV LCV Corporation,,, JP
-23793	AIST National Institute of Advanced Industrial Science and Technology,,, JP
-23794	BMCDN Club iT Corporation,,, JP
-23795	FURUKAWA Fitec Corp.,,, JP
-23796	GEMNET NTT Service Evolution Laboratories,,, JP
-23797	IXO IXO,,, JP
-23798	VRTC-NET VR Techno Center,inc,,, JP
-23799	NDA National Defense Academy,,, JP
-23800	FUKUI-NCT Fukui National College of Technology,,, JP
-23801	SOL-GIFU NTT Communications,,, JP
-23803	HGC The University of Tokyo,,, JP
-23804	AIN-NET Nonprofit Organization Kitaura Hana Net,,, JP
-23805	WATVNET Watarase Television Co.,Ltd,,, JP
-23806	HBS Hiroshima Cablevision Inc.,,, JP
-23807	RITSUMEI Ritsumeikan University,,, JP
-23808	TOSHIMA-NET TOSHIMA CABLE NETWORK CO.,LTD,,, JP
-23809	TV-NARUTO Televi Naruto .CO.,LTD,,, JP
-23810	IC-NET IC-NET Corporation,,, JP
-23812	SPEEDWAY-NET Japan Broadband Communications Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-23813	SORUN SORUN Corporation,,, JP
-23814	T-LEX WIDE Project,,, JP
-23815	JPIX-RS Japan Internet Exchange Co., Ltd.,,, JP
-23816	YAHOO Yahoo Japan Corporation,,, JP
-23817	KOCHI-IDC FUJITSU SHIKOKU Systems Limited.,,, JP
-23818	JETINTERNET JETINTERNET Corporation,,, JP
-23820	RAKUTEN Rakuten,Inc.,,, JP
-23822	HAGINET Hagi Cable Network Co., Ltd,,, JP
-23824	FUTURE Future Spirits Co.,Ltd.,,, JP
-23826	DAIDO-IT Daido University,,, JP
-23827	ANC-NET Azumino Network Community TV,,, JP
-23828	CHERRY-NET Misaki Town,,, JP
-23829	MEON-YAMA NTT NEOMEIT YAMAGUCHI CORPORATION,,, JP
-23830	GAITAME Gaitame.com Co.,Ltd.,,, JP
-23831	CLOVERNET NISIOWARI CATV CORPORATION,,, JP
-23833	MARUSAN-NET Marusan Securities Co., LTD.,,, JP
-23835	SEGANET Sega Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-23836	RELNET RELATION Co., Ltd.,,, JP
+23773	EKZM EKZM co.,ltd.,,,,, JP
+23774	A-DNS-JP Japan Registry Service Co., Ltd.,,,,, JP
+23775	TAMATELE-NET Tamashima TV Inc.,,,,, JP
+23776	NEXS NEC Nexsolutions,Ltd.,,,,, JP
+23777	VIPALETTE NTT BUSINESS SOLUTIONS CORPORATION,,,,, JP
+23778	CANET IMIZU CABLE NETWORK CO.,LTD.,,,,, JP
+23779	N-BONE NTT Communications Corporation,,,,, JP
+23780	CTB CTB Media Inc.,,,,, JP
+23781	TOYAMA-AN-AS Toyama University,,,,, JP
+23782	INFOTOKYO Fujitsu System Solutions Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+23783	CNA Cable Networks Akita Co.,ltd.,,,,, JP
+23784	POLEXCHENGE SQUARE ENIX CO., LTD.,,,,, JP
+23785	SUNFIELD SUN FIELD INTERNET LIMITED,,,,, JP
+23786	MABLE San-in Cable Vision CO.,LTD,,,,, JP
+23788	HICT Jupiter Telecommunications Co., Ltd.,,,,, JP
+23790	KCN-TV Jupiter Telecommunications Co., Ltd.,,,,, JP
+23791	LCV LCV Corporation,,,,, JP
+23793	AIST National Institute of Advanced Industrial Science and Technology,,,,, JP
+23794	BMCDN Club iT Corporation,,,,, JP
+23795	FURUKAWA Fitec Corp.,,,,, JP
+23796	GEMNET NTT Service Evolution Laboratories,,,,, JP
+23797	IXO IXO,,,,, JP
+23798	VRTC-NET VR Techno Center,inc,,,,, JP
+23799	NDA National Defense Academy,,,,, JP
+23800	FUKUI-NCT Fukui National College of Technology,,,,, JP
+23801	SOL-GIFU NTT Communications,,,,, JP
+23803	HGC The University of Tokyo,,,,, JP
+23804	AIN-NET Nonprofit Organization Kitaura Hana Net,,,,, JP
+23805	WATVNET Watarase Television Co.,Ltd,,,,, JP
+23806	HBS Hiroshima Cablevision Inc.,,,,, JP
+23807	RITSUMEI Ritsumeikan University,,,,, JP
+23808	TOSHIMA-NET TOSHIMA CABLE NETWORK CO.,LTD,,,,, JP
+23809	TV-NARUTO Televi Naruto .CO.,LTD,,,,, JP
+23810	IC-NET IC-NET Corporation,,,,, JP
+23812	SPEEDWAY-NET Japan Broadband Communications Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+23813	SORUN SORUN Corporation,,,,, JP
+23814	T-LEX WIDE Project,,,,, JP
+23815	JPIX-RS Japan Internet Exchange Co., Ltd.,,,,, JP
+23816	YAHOO Yahoo Japan Corporation,,,,, JP
+23817	KOCHI-IDC FUJITSU SHIKOKU Systems Limited.,,,,, JP
+23818	JETINTERNET JETINTERNET Corporation,,,,, JP
+23820	RAKUTEN Rakuten,Inc.,,,,, JP
+23822	HAGINET Hagi Cable Network Co., Ltd,,,,, JP
+23824	FUTURE Future Spirits Co.,Ltd.,,,,, JP
+23826	DAIDO-IT Daido University,,,,, JP
+23827	ANC-NET Azumino Network Community TV,,,,, JP
+23828	CHERRY-NET Misaki Town,,,,, JP
+23829	MEON-YAMA NTT NEOMEIT YAMAGUCHI CORPORATION,,,,, JP
+23830	GAITAME Gaitame.com Co.,Ltd.,,,,, JP
+23831	CLOVERNET NISIOWARI CATV CORPORATION,,,,, JP
+23833	MARUSAN-NET Marusan Securities Co., LTD.,,,,, JP
+23835	SEGANET Sega Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+23836	RELNET RELATION Co., Ltd.,,,,, JP
 23837	IPMG-AS-AP IPMG Hosting Provider AUSTRALIA, AU
 23838	SOLARIX-INTERNET-AS-AP Solarix Networks Limited, NZ
 23839	LIAOHEOILFIELD-AS-AP LiaoHe Oilfield Telecommunication Company, CN
@@ -22874,7 +22874,7 @@
 23986	NETPLUS-AS-AP MediaRing Network Services Pte Ltd, SG
 23987	NETPLUS-AS-AP MediaRing Network Services Pte Ltd, SG
 23988	PLDTGLOBAL-AS-AP PLDT GLOBAL Corp. Internet-based Services AP, PH
-23989	DGUK-AS-KR Dongguk Univ. at Gyeongju,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+23989	DGUK-AS-KR Dongguk Univ. at Gyeongju,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 23990	MIGUM-AS-KR MigumCableNetwork, KR
 23991	RANKS-AS-BD Ranks ITT Ltd., BD
 23992	OFFIS-AS-AP Offis Pty Ltd, AU
@@ -22904,7 +22904,7 @@
 24019	KLA-AS-AP KLA, AU
 24020	UITM-AS-AP University ITM, Shah Alam, Selangor Malaysia, MY
 24021	APNICRANDNET-TUI-AU TUI experiment, AU
-24022	GCGC-AS-KR GACHONGGIL COLLEGE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+24022	GCGC-AS-KR GACHONGGIL COLLEGE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 24023	JNPR-APAC-AS-AP Juniper Networks HK Ltd., HK
 24024	GM-AP-HOLDEN GENERAL MOTORS OVERSEAS DISTRIBUTION LLC, SG
 24025	HELIX-WIRELESS-AS-AP Helix Networks, NZ
@@ -23010,7 +23010,7 @@
 24131	SMARTMVAS-PH SMART MVAS NETWORK, PH
 24133	CHINA-21VIANET 21vianet(China) Inc., CN
 24134	CNNIC-CNLINKNET-AP CNLink Networks Ltd., CN
-24135	CNNIC-ITBN-AP BJ-SHUMA,,,,,,,,,,,,,,,,, CN
+24135	CNNIC-ITBN-AP BJ-SHUMA,,,,,,,,,,,,,,,,,,, CN
 24136	CNNIC-AP China Internet Network Information Center, CN
 24137	CNNIC-HNPCNET-AP HeNan Ping Coal Group, CN
 24138	CRNET_BJ_IDC-CNNIC-AP China Tietong Telecommunication Corporation, CN
@@ -23116,49 +23116,49 @@
 24245	PNAPSYD001-AS-AP Internap Network Services, AU
 24246	PNAPHKG001-AS-AP Internap Network Services, HK
 24247	PNAPSIN001-AS-AP Internap Network Services, SG
-24248	ASN-WADAI-U Wakayama University,,, JP
-24249	JWAY JWAY co., Ltd.,,, JP
-24250	MC-IDC Miyagin Computer Service Co.,ltd,,, JP
-24251	ICNTV-NET Iwakuni Cable Network Corporation,,, JP
-24252	JPRS-NAYUTA Japan Registry Service Co., Ltd.,,, JP
-24253	J-STREAM J-Stream Inc.,,, JP
-24254	KYOTO-SU Kyoto Sangyo University,,, JP
-24255	T-CATV Tannan Cable Television Corporation,,, JP
-24256	SOFTBANKBB SOFTBANK Corp.,,, JP
-24257	JPIX-64ES Japan Internet Exchange Co., Ltd.,,, JP
-24259	BC9 kanuma cable television Corporation,,, JP
-24260	KINJO-AS Board of trusty: Kinjo-Gakuen,,, JP
-24261	MIE-U Mie University,,, JP
-24262	HICOM HAMANASU INFORMATION Co., Ltd.,,, JP
-24263	HONDA-NET HONDA MOTOR Co., Ltd.,,, JP
-24264	KANAZAWA-IT Kanazawa Institute of Technology,,, JP
-24265	AGILIT NTT Communications Corporation,,, JP
-24268	SAINS National University Corporation Shizuoka University,,, JP
-24270	CRC-KCC CRC Solutions Corp.,,, JP
-24271	ICTV Iruma CATV co.,,, JP
-24273	CANON CANON INC.,,, JP
-24274	ACTELION-JP Actelion Pharmaceuticals Japan Ltd.,,, JP
-24275	TOTO TOTO LTD.,,, JP
-24276	ICNET Jupiter Telecommunications Co., Ltd.,,, JP
-24277	NIRAI Okinawa Cable Network Co.,Ltd,,, JP
-24278	USEN-NET USEN CORPORATION,,, JP
-24279	CAT-V SENDAI CATV CO.,LTD.,,, JP
-24280	HIS-TKIDC Hitachi Systems, Ltd.,,, JP
-24281	MCNET-T NTT SmartConnect Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-24282	KIR KAGOYA JAPAN Inc.,,, JP
-24283	MIEDEN-NET MIEDEN SYSTEM SOLUTION .LTD,,, JP
-24284	CYBERAGENT CyberAgent, Inc.,,, JP
-24286	WNI-AS Weathernews,Inc.,,, JP
-24287	TEIN2-JP National Institute of Informatics,,, JP
-24288	ACCUTECHS Accutechs Co., Ltd.,,, JP
-24289	KBN Kagawa T.V Broadcast Network Co,.Ltd,,, JP
-24290	HEARTNET Heart Network Co.,LTD,,, JP
-24291	MITSUI-NW MITSUI & CO., LTD.,,, JP
-24292	NSSOL NS Solutions Corporation,,, JP
-24293	INFOSAKYU FUJITSU SYSTEMS WEST LIMITED,,, JP
-24295	AS-PNAPOSK Internap Japan Co.,Ltd.,,, JP
-24296	YAHOO-2 Yahoo Japan Corporation,,, JP
-24297	FCN Osaka Prefecture University,,, JP
+24248	ASN-WADAI-U Wakayama University,,,,, JP
+24249	JWAY JWAY co., Ltd.,,,,, JP
+24250	MC-IDC Miyagin Computer Service Co.,ltd,,,,, JP
+24251	ICNTV-NET Iwakuni Cable Network Corporation,,,,, JP
+24252	JPRS-NAYUTA Japan Registry Service Co., Ltd.,,,,, JP
+24253	J-STREAM J-Stream Inc.,,,,, JP
+24254	KYOTO-SU Kyoto Sangyo University,,,,, JP
+24255	T-CATV Tannan Cable Television Corporation,,,,, JP
+24256	SOFTBANKBB SOFTBANK Corp.,,,,, JP
+24257	JPIX-64ES Japan Internet Exchange Co., Ltd.,,,,, JP
+24259	BC9 kanuma cable television Corporation,,,,, JP
+24260	KINJO-AS Board of trusty: Kinjo-Gakuen,,,,, JP
+24261	MIE-U Mie University,,,,, JP
+24262	HICOM HAMANASU INFORMATION Co., Ltd.,,,,, JP
+24263	HONDA-NET HONDA MOTOR Co., Ltd.,,,,, JP
+24264	KANAZAWA-IT Kanazawa Institute of Technology,,,,, JP
+24265	AGILIT NTT Communications Corporation,,,,, JP
+24268	SAINS National University Corporation Shizuoka University,,,,, JP
+24270	CRC-KCC CRC Solutions Corp.,,,,, JP
+24271	ICTV Iruma CATV co.,,,,, JP
+24273	CANON CANON INC.,,,,, JP
+24274	ACTELION-JP Actelion Pharmaceuticals Japan Ltd.,,,,, JP
+24275	TOTO TOTO LTD.,,,,, JP
+24276	ICNET Jupiter Telecommunications Co., Ltd.,,,,, JP
+24277	NIRAI Okinawa Cable Network Co.,Ltd,,,,, JP
+24278	USEN-NET USEN CORPORATION,,,,, JP
+24279	CAT-V SENDAI CATV CO.,LTD.,,,,, JP
+24280	HIS-TKIDC Hitachi Systems, Ltd.,,,,, JP
+24281	MCNET-T NTT SmartConnect Corporation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+24282	KIR KAGOYA JAPAN Inc.,,,,, JP
+24283	MIEDEN-NET MIEDEN SYSTEM SOLUTION .LTD,,,,, JP
+24284	CYBERAGENT CyberAgent, Inc.,,,,, JP
+24286	WNI-AS Weathernews,Inc.,,,,, JP
+24287	TEIN2-JP National Institute of Informatics,,,,, JP
+24288	ACCUTECHS Accutechs Co., Ltd.,,,,, JP
+24289	KBN Kagawa T.V Broadcast Network Co,.Ltd,,,,, JP
+24290	HEARTNET Heart Network Co.,LTD,,,,, JP
+24291	MITSUI-NW MITSUI & CO., LTD.,,,,, JP
+24292	NSSOL NS Solutions Corporation,,,,, JP
+24293	INFOSAKYU FUJITSU SYSTEMS WEST LIMITED,,,,, JP
+24295	AS-PNAPOSK Internap Japan Co.,Ltd.,,,,, JP
+24296	YAHOO-2 Yahoo Japan Corporation,,,,, JP
+24297	FCN Osaka Prefecture University,,,,, JP
 24298	APOLLOGLOBAL-PH Apollo Global Net AS, Application Service Provider, Manila, PH
 24299	ISSP-AS Internet Solution & Service Provider Co., Ltd, TH
 24300	IBM-PH-AS-AP IBM Philippine, AU
@@ -24438,7 +24438,7 @@
 25743	EEA-EPSON - EPSON ELECTRONICS AMERICA, INC., US
 25744	LOGIC-SPRINGS-TECHNOLOGIES - Logic Springs Technologies, US
 25745	ALENTUS - Alentus Corporation, US
-25746	-Reserved AS-, ZZ
+25746	UNISYSASN25746 - Unisys Corporation, US
 25747	VSC-SATELLITE-CO - VSC Satellite Co., US
 25748	CQGNET-CHICAGO - CQG, Inc., US
 25749	UNISERVE-ISLAND - Uniserve On Line, CA
@@ -24606,7 +24606,7 @@
 25912	GETCO1 - GETCO, LLC, US
 25913	ASI-DCO-AS-109 - APPLIED SYSTEMS, INC, US
 25914	QCC-AS - Quadro Communications Co-Operative Inc, CA
-25915	GETJAR - Getjar, Inc., US
+25915	-Reserved AS-, ZZ
 25916	FREEMAN-COMPANIES - The Freeman Companies, US
 25917	ASN-TEP - Trilogy Partners LLP, US
 25918	LMHS - Lima Memorial Hospital, US
@@ -24788,7 +24788,7 @@
 26095	-Reserved AS-, ZZ
 26096	LODDEN - Lodden Services, US
 26097	LABYRINTH - Labyrinth Solutions Inc, US
-26098	PENNYSAVERUSA-PUBLISHING-LLC - Pennysaver USA Publishing, LLC, US
+26098	-Reserved AS-, ZZ
 26099	IAS-1 - Institute for Advanced Study, US
 26100	NOAA-PACIFIC-REGION-CENTER - National Oceanic and Atmospheric Administration, US
 26101	YAHOO-3 - Yahoo!, US
@@ -26107,7 +26107,7 @@
 27417	CSX-CORP - CSX Corp., US
 27418	OOW-INC - OUTOFWALL INC., US
 27419	BIGRIVER - Big River Telephone, US
-27420	THE-ROHATYN-GROUP - The Rohatyn Group, US
+27420	-Reserved AS-, ZZ
 27421	APPLAUSEMA - Applause, US
 27422	TNSTATE - Tennessee State University, US
 27423	CAITHNESS - Caithness Energy LLC., US
@@ -26144,7 +26144,7 @@
 27454	CGCI-ASN - Cadaret Grant & Co., Inc., US
 27455	WT-ASN - Williams Trading LLC, US
 27456	EADOC1 - EADOC LLC, US
-27457	LANDATA-TECHNOLOGIES - Landata Technologies, Inc., US
+27457	-Reserved AS-, ZZ
 27458	PROXYPIPE-INC - Proxy Pipe, Inc., US
 27459	TRUSTCOMPANY - Trust Company of America, US
 27460	CHEMTURA - Chemtura Corporation, US
@@ -26242,7 +26242,7 @@
 27552	TWDX - TowardEX Technologies International, Inc., US
 27553	TELNET - Telnet Worldwide, Inc., US
 27554	VA - 1010Data, Inc., US
-27555	-Reserved AS-, ZZ
+27555	BV-PUBLIC-ASN - Black & Veatch International Company, US
 27556	FRACRACKVCLOUD - Frac Rack LLC, US
 27557	AS27557 - Catalina Broadband Solutions, LLC, US
 27558	FAR-ASN - Florida Assoc of Realtors, US
@@ -27680,7 +27680,7 @@
 29149	AMSALEM-AS , IL
 29150	ALCANET , FR
 29152	DECKNET-AS , FR
-29154	TELECITYFI-AS , FI
+29154	EQUINIXFI-AS , FI
 29155	SICS-AS , SE
 29156	CSC-SWEDEN , SE
 29160	ACIS-AS , SA
@@ -28716,7 +28716,7 @@
 30276	GDCNET---GREEN-DOT-CORPORATION - Green Dot Corporation, US
 30277	DFW-DATACENTER - DFW Datacenter, US
 30278	EQUITYNET - Equity Residential, US
-30279	VIRTUZO - Virtuzo, US
+30279	-Reserved AS-, ZZ
 30280	TFCU - Teachers Federal Credit Union, US
 30281	WASHPOST - Washington Post, US
 30282	AS-INAPCDN-OCY - Internap Network Services Corporation, US
@@ -28743,7 +28743,7 @@
 30303	OOMA - Ooma, Inc., US
 30304	-Reserved AS-, ZZ
 30305	LPS-1 - Black Knight IP Holding Company, LLC, US
-30306	AfOL-Sz-AS,,,,, SZ
+30306	AfOL-Sz-AS,,,,,,, SZ
 30307	-Reserved AS-, ZZ
 30308	MACFCU - Mid-Atlantic Corporate Federal Credit Union, US
 30309	IEXPOSURE-AS - Internet Exposure, Inc., US
@@ -30516,7 +30516,7 @@
 32237	GVPL-AS - Greater Victoria Public Library, CA
 32238	BAESYSTEMS-AI - Detica Solutions inc., US
 32239	FIRSTECHASN - FirsTech Inc, US
-32240	ROUTERDOG - Proportal LLC, US
+32240	-Reserved AS-, ZZ
 32241	ACPANA - Acpana Business Systems Inc., CA
 32242	TCSASN - TCS Capital, US
 32243	SCRA-ASN - South Carolina Research Authority, US
@@ -30537,7 +30537,7 @@
 32258	SDNGLOBAL - SDN Global, US
 32259	AREA-EDUCATION-AGENCY-267 - Area Education Agency 267, US
 32260	ASN-HCPI - Health Care Property Investors, Inc., US
-32261	KSTREET - Kaminting Street Capital, US
+32261	-Reserved AS-, ZZ
 32262	I-NET-AS - Industry I-Net, Inc., US
 32263	CATALYST-REPOSITORY-SYSTEMS-US - Catalyst Repository Systems, Inc., US
 32264	KMTELECOM - KMTelecom, US
@@ -31095,7 +31095,7 @@
 32816	WBGSEA - WB Games, INC, US
 32817	NORTHERN-COLLEGE-ORION - Northern College of Applied Arts & Technology, CA
 32818	CSUOHIO-AS - Cleveland State University Computer Services, US
-32819	DML-41-ASN - Dabroes Management LP, US
+32819	-Reserved AS-, ZZ
 32820	NIPISSING - Nipissing University, CA
 32821	AASD-CAT - ALTOONA AREA SCHOOL DIST., US
 32822	TEAMUCC - United Central Control, Inc., US
@@ -31768,7 +31768,7 @@
 33489	COMCAST-33489 - Comcast Cable Communications, Inc., US
 33490	COMCAST-33490 - Comcast Cable Communications, Inc., US
 33491	COMCAST-33491 - Comcast Cable Communications, Inc., US
-33492	CHOPPER-TRADING - Chopper Trading LLC, US
+33492	-Reserved AS-, ZZ
 33493	HUDSON-VALLEY-FEDERAL-CREDIT-UNION - Hudson Valley Federal Credit Union, US
 33494	IHNET - IHNetworks, LLC, US
 33495	CCH-RW-AS - CCH Inc., US
@@ -32052,7 +32052,7 @@
 33773	nic-mw-as1, MW
 33774	DJAWEB, DZ
 33775	-Reserved AS-, ZZ
-33776	STARCOMMS-ASN,,,,,,,,,,, NG
+33776	STARCOMMS-ASN,,,,,,,,,,,,, NG
 33777	EGYPT-NETWORK, EG
 33778	Mantrac-Group-AS, EG
 33779	wataniya-telecom-as, DZ
@@ -33837,19 +33837,19 @@
 35856	LWCC - Louisiana Workers' Compensation Corporation, US
 35857	-Reserved AS-, ZZ
 35858	ATMOS-ENERGY - ATMOS ENERGY CORP, US
-35859	LEROSNET - LEROS Technologies Corporation, US
+35859	-Reserved AS-, ZZ
 35860	IMAGINE-NETWORKS-IMGNET - Imagine Networks, US
 35861	GS-ENERGY - GS Energy Partners LLC, US
 35862	JCWIFI - JCWIFI.COM, US
 35863	TELCO214US1 - Telco 214, Inc., US
 35864	APUS-5 - American Public University System, US
-35865	SOCKET-COMMUNICATIONS - Socket Mobile, Inc., US
+35865	-Reserved AS-, ZZ
 35866	JONES-APPAREL-GROUP-INC - Jones Apparel Group, Inc., US
 35867	PEMASN - Performance Equity Management, LLC, US
-35868	LOGIX3 - Logix3, US
+35868	-Reserved AS-, ZZ
 35869	PETERAMAYER - Peter A Mayer Advertising, Inc., US
 35870	OKL-US - One Kings Lane, Inc., US
-35871	HAYECOM - Hayward Industries, Inc., US
+35871	-Reserved AS-, ZZ
 35872	FREEDOM-PHL-AS - FreedomPay, Inc., US
 35873	MOVE-NETWORKS - Move Networks, inc., US
 35874	KRESA-ASN - Kalamazoo RESA, US
@@ -34357,7 +34357,7 @@
 36376	AS-CHENIERE - Cheniere Energy, Inc., US
 36377	PATRIOT-MEDIA-NJ - Comcast Telecommunications, Inc., US
 36378	NYIT-AS - New York Institute of Technology, US
-36379	CAC-NYC57 - Columbus Avenue Consulting, LLC, US
+36379	NYC-888 - Columbus Avenue Consulting, LLC, US
 36380	ECONNERGYENERGY - Gateway Energy Services Corporation, US
 36381	LAMESANETWORK - PICS.NET, US
 36382	CHILDRENS-RESEARCH-INSTITUTE - Children's National Medical Center, US
@@ -34618,7 +34618,7 @@
 36637	FF-AS01 - Flying Horse Holdings, LLC, US
 36638	JRCH-AS - Jackson Rancheria Band of Miwuk Indians, US
 36639	UAFC - Universal American Financial, US
-36640	NILFISK-ADVANCE - Nilfisk-Advance, US
+36640	-Reserved AS-, ZZ
 36641	EQUINIX-CX-DA - Equinix, Inc., US
 36642	PIL-50-CASSELBERRY-FLORIDA - Property Insight, LLC., US
 36643	EICOMM - Innovative Scaling Technologies Inc., US
@@ -35208,7 +35208,7 @@
 37231	RSAWEB, ZA
 37232	CTS, GH
 37233	ORANGE-NIGER, NE
-37234	FINBANK-NG,,,,,,,,,,, NG
+37234	FINBANK-NG,,,,,,,,,,,,, NG
 37235	MimecastSA, ZA
 37236	REFLEX-ZA, ZA
 37237	DISCOVERYTEL, GH
@@ -35259,7 +35259,7 @@
 37282	MAINONE, NG
 37283	Sybaweb, ZA
 37284	Aljeel-net, LY
-37285	ORCABAY-AS,,,,,,,,,,, KE
+37285	ORCABAY-AS,,,,,,,,,,,,, KE
 37286	NG-ICT-FORUM, NG
 37287	ZAIN-ZAMBIA, ZM
 37288	WACREN, SN
@@ -35343,7 +35343,7 @@
 37369	UNIZIK, NG
 37370	SPICENET, TZ
 37371	HORMUUD, SO
-37372	Powercomputers,,,,, TZ
+37372	Powercomputers,,,,,,, TZ
 37373	AUC-ASN, GH
 37374	Liquid-zambia, ZM
 37375	CommIt, ZW
@@ -35360,7 +35360,7 @@
 37386	UIXP, UG
 37387	Platformity, ZA
 37388	-Reserved AS-, ZZ
-37389	Afritalk,,,,,,,,,,, ZA
+37389	Afritalk,,,,,,,,,,,,, ZA
 37390	iPi9, GA
 37391	ESMALO, ZW
 37392	SSNIT, GH
@@ -35650,7 +35650,7 @@
 37678	BOFINET, BW
 37679	URA1, UG
 37680	COOL-IDEAS, ZA
-37681	Sunmail-AS,,,,,,,,,,, NG
+37681	Sunmail-AS,,,,,,,,,,,,, NG
 37682	TIZETI-AS, NG
 37683	CRDB1-AS, UG
 37684	ANGANI-AS, KE
@@ -35806,40 +35806,40 @@
 37885	-Reserved AS-, ZZ
 37886	-Reserved AS-, ZZ
 37887	Madagascar-IX, MG
-37888	HORIBA-NET HORIBA, Ltd.,,, JP
-37889	JPARC-NET J-PARC Center,,, JP
-37891	JTIS JR TOKAI Information Systems Company,,, JP
-37892	WAI-NET Cable Media WAIWAI Co.,Ltd.,,, JP
-37893	TRADEWEB-TKO TradeWeb Europe Limited,,, JP
-37895	RYUKOKU Ryukoku University,,, JP
-37897	LEXUES-NET Lexues Inc.,,, JP
-37898	BARTOK-NET digitiminimi, inc.,,, JP
-37899	NTTW-NGN-AS NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION,,, JP
-37900	CPF-NET NTT Communications Corporation,,, JP
-37901	NTTE-NGN-AS NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION,,, JP
-37902	NOMURA-TRADE Nomura Research Institute, Ltd.,,, JP
-37903	EMOBILE Ymobile Corporation,,, JP
-37904	SBMOBILEOPEN Softbank Mobile Corp.,,, JP
-37905	BRASTEL-NET Brastel Co.,Ltd,,, JP
-37906	NETIRD-2 NetIRD Inc.,,, JP
-37907	DIGIROCK DigiRock, Inc.,,, JP
-37908	KBC KIBI Cable Television Co.,Ltd.,,, JP
-37909	WAKHOK-NET Wakkanai Hokusei Gakuen University,,, JP
-37910	CUNET Chubu University,,, JP
-37912	IPRIO-JP IPRIO Corporation.,,, JP
-37914	UNIVNET Advanced Software Technology & Mechatronics Research Institute of KYOTO,,, JP
-37915	KE-NET Wakayama Prefectural Government,,, JP
-37916	ATWORKS A.T.WORKS,Inc.,,, JP
-37917	UTINS University of Tsukuba,,, JP
-37918	ECL-INET Nippon Telegraph and Telephone Corporation,,, JP
-37919	SEGA SEGA Holdings Co., Ltd.,,, JP
-37920	SHIGANET-AS Shiga University,,, JP
-37922	CATVY Cable TV Yamagata Co.,Ltd.,,, JP
-37923	DOUSOJIN NTT Communications Corporation,,, JP
-37924	KKR-MLIT-AS Ministry of Land, Infrastructure and Transport Kinki Regional Development Bureau,,, JP
-37925	USEN-WEST USEN CORPORATION,,, JP
-37926	ETT-NET E-Times Technologies Co., Ltd.,,, JP
-37927	NOMURATRADE Nomura Researth Institute, Ltd.,,, JP
+37888	HORIBA-NET HORIBA, Ltd.,,,,, JP
+37889	JPARC-NET J-PARC Center,,,,, JP
+37891	JTIS JR TOKAI Information Systems Company,,,,, JP
+37892	WAI-NET Cable Media WAIWAI Co.,Ltd.,,,,, JP
+37893	TRADEWEB-TKO TradeWeb Europe Limited,,,,, JP
+37895	RYUKOKU Ryukoku University,,,,, JP
+37897	LEXUES-NET Lexues Inc.,,,,, JP
+37898	BARTOK-NET digitiminimi, inc.,,,,, JP
+37899	NTTW-NGN-AS NIPPON TELEGRAPH AND TELEPHONE WEST CORPORATION,,,,, JP
+37900	CPF-NET NTT Communications Corporation,,,,, JP
+37901	NTTE-NGN-AS NIPPON TELEGRAPH AND TELEPHONE EAST CORPORATION,,,,, JP
+37902	NOMURA-TRADE Nomura Research Institute, Ltd.,,,,, JP
+37903	EMOBILE Ymobile Corporation,,,,, JP
+37904	SBMOBILEOPEN Softbank Mobile Corp.,,,,, JP
+37905	BRASTEL-NET Brastel Co.,Ltd,,,,, JP
+37906	NETIRD-2 NetIRD Inc.,,,,, JP
+37907	DIGIROCK DigiRock, Inc.,,,,, JP
+37908	KBC KIBI Cable Television Co.,Ltd.,,,,, JP
+37909	WAKHOK-NET Wakkanai Hokusei Gakuen University,,,,, JP
+37910	CUNET Chubu University,,,,, JP
+37912	IPRIO-JP IPRIO Corporation.,,,,, JP
+37914	UNIVNET Advanced Software Technology & Mechatronics Research Institute of KYOTO,,,,, JP
+37915	KE-NET Wakayama Prefectural Government,,,,, JP
+37916	ATWORKS A.T.WORKS,Inc.,,,,, JP
+37917	UTINS University of Tsukuba,,,,, JP
+37918	ECL-INET Nippon Telegraph and Telephone Corporation,,,,, JP
+37919	SEGA SEGA Holdings Co., Ltd.,,,,, JP
+37920	SHIGANET-AS Shiga University,,,,, JP
+37922	CATVY Cable TV Yamagata Co.,Ltd.,,,,, JP
+37923	DOUSOJIN NTT Communications Corporation,,,,, JP
+37924	KKR-MLIT-AS Ministry of Land, Infrastructure and Transport Kinki Regional Development Bureau,,,,, JP
+37925	USEN-WEST USEN CORPORATION,,,,, JP
+37926	ETT-NET E-Times Technologies Co., Ltd.,,,,, JP
+37927	NOMURATRADE Nomura Researth Institute, Ltd.,,,,, JP
 37928	TRANSACT-IX-AS-AP TransACT Capital Communications Pty Limited, AU
 37929	NXGVPRN-AS-AP Nextgen Networks, AU
 37930	LOCAL-PEERING-TOT-AP Local ISP National Internet eXchange Point (NIXP), TH
@@ -35977,11 +35977,11 @@
 38086	IP4NET-AS-KR IP4 Networks, Inc., KR
 38087	YCN-AS-KR YANGIN CABLE NETWORK, KR
 38088	EWP-AS-KR KOREA EAST-WEST POWER, KR
-38089	HANACABLE-AS-KR HANACABLE NETWORK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
-38090	DONGNAM-AS-KR dongnam networks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+38089	HANACABLE-AS-KR HANACABLE NETWORK,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+38090	DONGNAM-AS-KR dongnam networks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 38091	HELLONET-AS-KR CJ-CABLENET, KR
 38092	JINNAM-AS-KR Jinnam Cable Network, KR
-38093	NETTIER-AS-KR nettier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+38093	NETTIER-AS-KR nettier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 38094	TCBNET-AS-KR TCBNET, KR
 38095	QRIXNETSDM-AS-KR Qrixseodaemuncable, Inc., KR
 38096	QRIXNETNW-AS-KR Qrixnowoncable, Inc., KR
@@ -35989,7 +35989,7 @@
 38098	JTNET02-AS-KR JTNet, KR
 38099	KAKAO-AS-KR Kakao Corp, KR
 38100	INICIS-AS-KR INICIS Co., Ltd, KR
-38101	YEONGIDIGITAL-AS-KR Yeon Gi Digital Network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+38101	YEONGIDIGITAL-AS-KR Yeon Gi Digital Network,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 38102	SCOURTFAMILYDR SCOURTFAMILY, KR
 38103	QRIXNETKS-AS-KR Kwangjinsongdong Cable Television Co,. Ltd., KR
 38104	HYEJEON-AS-KR hyejeon, KR
@@ -36010,9 +36010,9 @@
 38119	WITHSYSTEMS-AS-KR WITHSYSTEMS, KR
 38120	GBN-AS-KR Gangwon Networks, KR
 38121	UPASS-AS-KR Seo Nam Cable TV co.,LTD, KR
-38122	SCLIFE-AS-KR Seocho-gu Office,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+38122	SCLIFE-AS-KR Seocho-gu Office,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 38123	AMCSEOUL-AS-KR asan medical center, KR
-38124	SAEMANKUMNET-AS-KR SAEMANKUMNET(a limited company),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+38124	SAEMANKUMNET-AS-KR SAEMANKUMNET(a limited company),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 38126	SCI-AS-KR Seoul Credit Rating & Information Inc, KR
 38127	GUNSANBROAD-AS-KR GUNSAN broad, KR
 38128	GICO-AS-KR Gyeonggi Urban Innovation Corporation, KR
@@ -36122,7 +36122,7 @@
 38242	ABNACS-AU-AS ABN Amro Clearing Sydney Pty Ltd, AU
 38243	CFR-AS-AP Crop and Food Research, AU
 38244	VNNIC-AS-VN Trung tam VNNIC, VN
-38245	VNNIC-AS-VN Trung tam internet Viet Nam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
+38245	VNNIC-AS-VN Trung tam internet Viet Nam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
 38246	SFONE-AS-VN CDMA Mobile Phone Center (S-FONE), VN
 38247	HTMOBILE-AS-VN Ha Noi Telecom Mobile Center, VN
 38248	VTC-AS-VN VTC Multimedia Corporation, VN
@@ -36215,7 +36215,7 @@
 38341	CNNIC-HCENET-AP HEXIE Information technology Co., Ltd., CN
 38342	CNNIC-SVCNET-AP SHANGHAI VSAT NETWORK SYSTEMS CO.,LTD, CN
 38343	CNNIC-OCCN-AP Shanghai Overseas Chinese Communication Network Co.,ltd, CN
-38344	HUAYUXINGSHENG Beijing huayuxingsheng Co., Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+38344	HUAYUXINGSHENG Beijing huayuxingsheng Co., Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 38345	CNNIC-KNET-AP KNET Techonlogy (BeiJing) Co.,Ltd., CN
 38346	HANGTIAN-INFONET-AP HangTian Info Network Ltd., CN
 38348	CNNIC-NGTC-AP New Guoxin Telecom Corporation, CN
@@ -36466,31 +36466,31 @@
 38624	PAYMARK-NZ-INTERNET-AP Paymark Limited, NZ
 38625	CJONLINE CJONLINE ISP India, IN
 38626	ESR-NATIONAL-AS-AP ESR, NZ
-38627	BAIDUJP Baidu, Inc.,,, JP
-38628	WINK-NET HIMEJI CABLE TELEVISION CORPORATION,,, JP
-38629	OKN NTT Communications Corporation,,, JP
-38631	LINE LINE Corporation,,, JP
-38632	XCON cross-connect niigata co.,ltd.,,, JP
-38633	VCIU-NET-AS Value Core Inc.,,, JP
-38634	DWANGO DWANGO Co.,Ltd.,,, JP
-38635	KEIO-NET Keio University,,, JP
-38636	DENA-NET DeNA, Co. Ltd.,,, JP
-38638	IP-CORE Ip Core Corporation,,, JP
-38639	HANABI NTT Communications Corporation,,, JP
-38640	SAKURA-E SAKURA Internet Inc.,,, JP
-38641	LEONET-AS Osaka Sangyo University,,, JP
-38642	YOSHIZOU Yoshizou XYZ Solutions,,, JP
-38643	U-CLOUD UNIADEX, LTD.,,, JP
-38644	MULTIFEED INTERNET MULTIFEED CO.,,, JP
-38645	NTTCOM-GRX NTT Communications Corporation,,, JP
-38646	TOKYO6TO4 WIDE Project,,, JP
-38648	F-REGI F-REGI Co.,Ltd.,,, JP
-38651	MIXI Mixi,Inc.,,, JP
-38652	GINZADO-NET Ginzado Co.,Ltd.,,, JP
-38653	JAPANPOST Japan Post Holdings Co., Ltd.,,, JP
-38654	INES-NETWORK INES Corporation.,,, JP
-38655	SAINET-AS2 SaiNet Corporation,,, JP
-38656	MARKETVIEWER CSK Securities Service Co.,Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+38627	BAIDUJP Baidu, Inc.,,,,, JP
+38628	WINK-NET HIMEJI CABLE TELEVISION CORPORATION,,,,, JP
+38629	OKN NTT Communications Corporation,,,,, JP
+38631	LINE LINE Corporation,,,,, JP
+38632	XCON cross-connect niigata co.,ltd.,,,,, JP
+38633	VCIU-NET-AS Value Core Inc.,,,,, JP
+38634	DWANGO DWANGO Co.,Ltd.,,,,, JP
+38635	KEIO-NET Keio University,,,,, JP
+38636	DENA-NET DeNA, Co. Ltd.,,,,, JP
+38638	IP-CORE Ip Core Corporation,,,,, JP
+38639	HANABI NTT Communications Corporation,,,,, JP
+38640	SAKURA-E SAKURA Internet Inc.,,,,, JP
+38641	LEONET-AS Osaka Sangyo University,,,,, JP
+38642	YOSHIZOU Yoshizou XYZ Solutions,,,,, JP
+38643	U-CLOUD UNIADEX, LTD.,,,,, JP
+38644	MULTIFEED INTERNET MULTIFEED CO.,,,,, JP
+38645	NTTCOM-GRX NTT Communications Corporation,,,,, JP
+38646	TOKYO6TO4 WIDE Project,,,,, JP
+38648	F-REGI F-REGI Co.,Ltd.,,,,, JP
+38651	MIXI Mixi,Inc.,,,,, JP
+38652	GINZADO-NET Ginzado Co.,Ltd.,,,,, JP
+38653	JAPANPOST Japan Post Holdings Co., Ltd.,,,,, JP
+38654	INES-NETWORK INES Corporation.,,,,, JP
+38655	SAINET-AS2 SaiNet Corporation,,,,, JP
+38656	MARKETVIEWER CSK Securities Service Co.,Ltd,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
 38657	WAWB-AS-AP WAWB Pty Ltd, AU
 38658	LQNET-TK-AS-AP LIQUIDNET ASIA LIMITED, HK
 38659	GOLDENIT-PTY-LTD-AUSTRALIA Goldenit Pty ltd , ISP melbourne, AU
@@ -36526,7 +36526,7 @@
 38689	YHKR3-AS-KR KR3 Service Co,.Ltd., KR
 38690	HYOSUNGITX-AS-KR HyosungITX, KR
 38691	KITA-AS-KR KITA, KR
-38692	ELAND-AS-KR Elandsystems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+38692	ELAND-AS-KR Elandsystems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 38693	TSNET-AS-KR Korea Transportation Safety Authority, KR
 38694	CJE-AS-KR CHEONGJU NATIONAL UNIVERSITY OF EDCATION, KR
 38695	BC-AS-KR bucheon university, KR
@@ -36565,7 +36565,7 @@
 38731	VTDC-AS-VN Vietel - CHT Compamy Ltd, VN
 38732	CMCTELECOM-AS-VN CMC Telecommunications Services Company, VN
 38733	CMCTELHCMC-AS-VN Branch of CMC Telecommunications Services Company at HCMC, VN
-38734	VNNIC-AS-VN VNNIC Pool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
+38734	VNNIC-AS-VN VNNIC Pool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
 38735	GDS-AS-VN Global Data Service Joint Stock Company, VN
 38736	VNNIC-AS-VN Vietnam Internet network information center (VNNIC), VN
 38737	VNNIC-AS-VN Vietnam Internet network information center (VNNIC), VN
@@ -37253,7 +37253,7 @@
 39526	TELECOMMD-AS , MD
 39527	CYCOMM-AS , RO
 39528	SANCITY , UA
-39529	MTRX-ALCHEVSK-AS -- NA ---, UA
+39529	MTRX-ALCHEVSK-AS -- LiRUKRAINE ---, UA
 39531	ALTER-NET-AS Zorilor Nr 11 Sf Gheorghe, RO
 39532	LANDSBANKI-AS , IS
 39533	G23-AS , BG
@@ -37776,7 +37776,7 @@
 40113	SLHS-AS - Magic Valley Regional Medical Center Inc., US
 40114	AS-IMPROCOM - IMPROCOM INC, US
 40115	FFH-42010 - First Financial Holdings, Inc., US
-40116	AS-NYSDI - New York State, Department of Insurance, US
+40116	AS-NYSDI - New York State Department of Financial Services, US
 40117	VBHS - Valley Baptist Health System, US
 40118	THIRD-POINT-LLC - Third Point LLC, US
 40119	NAIT - Northern Alberta Institute of Technology, CA
@@ -41360,7 +41360,6 @@
 44068	ARBITAL-AS Arbital ISP, RU
 44069	KALOOGA-AS , NL
 44070	MCNET-AS , CZ
-44072	-Reserved AS-, ZZ
 44073	ZDLJ-NET-AS , SI
 44074	VBA-AS , NL
 44076	MYSUPERMARKET-ASN Mysupermarket Limited, 86 Princess Street, Manchester, UK, GB
@@ -41871,7 +41870,7 @@
 44631	CONDORNET , SK
 44632	S-AND-T-SLOVENIA-AS , SI
 44633	TANGRAM-UA-AS , UA
-44634	IPSTREAM-AS Networks and communication systems, RU
+44634	SIBSVST-AS Networks and communication systems, RU
 44635	COMPARIS-AS , CH
 44636	ITDELUXE-AS , RU
 44637	AKIS-AS , TR
@@ -42545,13 +42544,13 @@
 45360	SSYC Ssangyong, KR
 45361	JCN-AS-KR Ulsan Jung-Ang Broadcasting Network, KR
 45362	TRUSTONASSET-AS-KR TRUSTONASSET, KR
-45363	MAGINET-AS-KR MagiNet Interactive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+45363	MAGINET-AS-KR MagiNet Interactive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 45364	YTN-AS-KR YTN, KR
 45365	URINET-AS-KR Korea Cable TV Jeonboog Broadcast, KR
 45366	CLTNET-AS-KR cyberlogitec, KR
 45367	CITIFINANCIAL-AS-KR CitiFinancial Korea, KR
 45368	WOORIFIS HANVIT BANK, KR
-45370	SELJW-AS-KR JW Marriott Hotel Seoul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+45370	SELJW-AS-KR JW Marriott Hotel Seoul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 45371	HANACEDA-AS-KR HANA I&S, KR
 45372	ULN-AS-KR ULNetworks Co., Ltd., KR
 45374	CCS-AS-KR CCS, KR
@@ -42560,7 +42559,7 @@
 45380	NARASARANG-AS-KR MMAACNC, KR
 45381	SHNET-AS-KR SH Corporation of the Seoul Metropolitan, KR
 45382	EHOSTIDC-AS-KR EHOSTIDC, KR
-45383	GANGWONMEIDA-AS-KR GANGWON NETWORKS MEDIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+45383	GANGWONMEIDA-AS-KR GANGWON NETWORKS MEDIA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 45384	EXTKSURE-AS-KR Korea trade insurance corporation, KR
 45385	DAELIM DAELIM I&S, KR
 45389	JBEDUNET-AS-KR Jeonlabukdo Education Research Information Institute, KR
@@ -42578,7 +42577,7 @@
 45402	SAMSUNGLIFESERVICE-AS-KR SAMSUNG LIFE SERVICE, KR
 45403	IITPA-AS-KR Incheon Information Technology Industry Promotion Agency, KR
 45404	SHINHANLIFE-AS-KR SHINHAN LIFE INSURANCE CO.,LTD., KR
-45405	ONAIRIC-AS-KR ONAIR IC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+45405	ONAIRIC-AS-KR ONAIR IC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 45406	AJU-AS-KR AJU Internet Technology, KR
 45407	DONGWON-AS-KR DONGWON ENTERPRISE, KR
 45409	KNISE-AS-KR SOON CHUN HYANG UNIVERSITY, KR
@@ -42704,11 +42703,11 @@
 45546	GTELMOBILE-AS-VN Gtel Mobile Joint Stock Company, VN
 45547	STS-AS-VN SPT Telecommunications Service Center, VN
 45548	ARTEXSECURITIES-AS-VN Artex Securities Joint Stock Company, VN
-45549	VNNIC-NET VNNIC-ASBLOCK-VN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
+45549	VNNIC-NET VNNIC-ASBLOCK-VN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
 45550	NGT-AS-VN New Generations Telecommunications Corporation, VN
 45551	VBL-AS-VN Vietnam Brewery Limited, VN
 45552	DTS-AS-VN DTS Communication Technologies Corporation, VN
-45553	VNNIC-AS-VN VNNIC-ASBLOCK-VN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
+45553	VNNIC-AS-VN VNNIC-ASBLOCK-VN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
 45554	VNNICANYCASTDNS-AS-VN Vietnam Internet network information center (VNNIC), VN
 45555	CSCJ-AS-VN Capital Securities Company, VN
 45556	SCANCOM-AS-VN Scancom Vietnam Ltd, VN
@@ -42812,25 +42811,25 @@
 45669	MOBILINK-AS-PK PMCL /LDI IP TRANSIT, PK
 45670	SOFTCRYLICNET1-IN #160,North Usman Road, Third Floor, IN
 45671	SAU-NET-AU Servers Australia Pty Ltd, AU
-45672	RCCTV River City CableTV Co.Ltd.,,, JP
-45673	OECU-NET Osaka Electro-Communication University,,, JP
-45674	MIDORI BIGLOBE Inc.,,, JP
-45675	KMN-TOKYO Jupiter Telecommunications Co., Ltd.,,, JP
-45676	SBIT SBI TradeWinTech Co.,Ltd.,,, JP
-45677	ICV Isahaya Cable Television Co.,Inc.,,, JP
-45678	AAC-JP-AS ABN AMRO Clearing Tokyo Co., Ltd.,,, JP
-45679	TOMOCHA-NET Tatsumi, Tomo,,, JP
-45680	DOVA-NET DOVA Corporation,,, JP
-45681	GIGAPRIZE GIGAPRIZE Co.,Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-45682	ASN-EXCITE Excite Japan Co., Ltd.,,, JP
-45684	MIRAINET Kyocera Communication Systems Co., Ltd.,,, JP
-45685	RIKKYO-U Rikkyo Gakuin Rikkyo University,,, JP
-45686	RFEED INTERNET MULTIFEED CO.,,, JP
-45687	MCT-INTERNET Minamikyusyu CableTV Net Inc.,,, JP
-45688	UT-NSRG The University of Tokyo Interfaculty Initiative in Information Studies,,, JP
-45689	CONVIVIALNET Convivial Net,,, JP
-45690	JCTV-NET Tokushima Central TV Co.,Inc.,,, JP
-45691	ELLIOTT-ASIA Elliott Advisors Asia Limited,,, JP
+45672	RCCTV River City CableTV Co.Ltd.,,,,, JP
+45673	OECU-NET Osaka Electro-Communication University,,,,, JP
+45674	MIDORI BIGLOBE Inc.,,,,, JP
+45675	KMN-TOKYO Jupiter Telecommunications Co., Ltd.,,,,, JP
+45676	SBIT SBI TradeWinTech Co.,Ltd.,,,,, JP
+45677	ICV Isahaya Cable Television Co.,Inc.,,,,, JP
+45678	AAC-JP-AS ABN AMRO Clearing Tokyo Co., Ltd.,,,,, JP
+45679	TOMOCHA-NET Tatsumi, Tomo,,,,, JP
+45680	DOVA-NET DOVA Corporation,,,,, JP
+45681	GIGAPRIZE GIGAPRIZE Co.,Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+45682	ASN-EXCITE Excite Japan Co., Ltd.,,,,, JP
+45684	MIRAINET Kyocera Communication Systems Co., Ltd.,,,,, JP
+45685	RIKKYO-U Rikkyo Gakuin Rikkyo University,,,,, JP
+45686	RFEED INTERNET MULTIFEED CO.,,,,, JP
+45687	MCT-INTERNET Minamikyusyu CableTV Net Inc.,,,,, JP
+45688	UT-NSRG The University of Tokyo Interfaculty Initiative in Information Studies,,,,, JP
+45689	CONVIVIALNET Convivial Net,,,,, JP
+45690	JCTV-NET Tokushima Central TV Co.,Inc.,,,,, JP
+45691	ELLIOTT-ASIA Elliott Advisors Asia Limited,,,,, JP
 45692	LANDSNSW-AU-AS-AP NSW Department of Lands, AU
 45693	INDIAGAMES-TRANSIT-AS-AP INDIAGAMES TRANSIT AS Content hosting serivce India, IN
 45694	VOL-AS-AP VOL Broadband, IN
@@ -43101,7 +43100,7 @@
 45985	DAEWOOSEC Daewoo Securities Co., Ltd., KR
 45986	WELFARE810-AS-KR MND Welfare Agency, KR
 45987	DONGWHA-AS-KR SOON CHUN HYANG UNIVERSITY, KR
-45988	CHUNGHOVAN-AS-KR CHUNGHOVAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+45988	KODIT-AS-KR KOREA CREDIT GUARANTEE FUND, KR
 45989	KLNETCO-AS-KR KL-Net Corp., KR
 45990	HIRANET-AS-KR Health Insurance Review & Assessment Service, KR
 45991	KAKAO-AS-KR IWILAB, KR
@@ -43113,7 +43112,7 @@
 45997	MERITZSECURITIES Meritz SECURITIES CO. LTD, KR
 45998	NMC-AS-KR National Medical Center, KR
 45999	CAR Korea Transportation Safety Authority, KR
-46000	MEASEOUL-AS-KR Afrana Seoul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+46000	MEASEOUL-AS-KR Afrana Seoul,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 46001	NCSOFT-AS-KR NCSOFT, KR
 46002	PHIS-AS-KR PHIS, KR
 46003	KOREACENTER-AS-KR KOREACENTER, KR
@@ -43798,7 +43797,7 @@
 46686	MED2020 - Med2020 Health Care Software, Inc., CA
 46687	AS46687 - BCI Mississippi Broadband,LLC, US
 46688	LANDSCAPE-STRUCTURES - Landscape Structures, Inc., US
-46689	CAC-DAL2651 - Columbus Avenue Consulting, LLC, US
+46689	DAL-2501 - Columbus Avenue Consulting, LLC, US
 46690	SNET-FCC - Southern New England Telephone Company and SNET America, Inc., US
 46691	COLOCUBE-GLOBAL-SVCS-NA - Cirracore, LLC, US
 46692	CITYOFWINDOM - City of Windom, US
@@ -44143,7 +44142,7 @@
 47031	CITY-CVILLE-VA - City of Charlottesville, US
 47032	-Reserved AS-, ZZ
 47033	-Reserved AS-, ZZ
-47034	NORSE - Norse Corporation, US
+47034	-Reserved AS-, ZZ
 47035	OCDSB-CA - Ottawa Carleton District School Board, CA
 47036	HCPS-AS - Halifax County Public Schools, US
 47037	CPI-SECURITY - CPI Security Systems Inc., US
@@ -46063,7 +46062,6 @@
 49003	ENERGOS , RU
 49004	ACTL , LB
 49005	SIFT-AS , GB
-49006	-Reserved AS-, ZZ
 49007	STREAM-TV-BALAKOVO , RU
 49008	ELSTIR-AS , ES
 49009	FFHH , DE
@@ -46237,7 +46235,6 @@
 49188	THREE-A-HUB , BG
 49189	RUWEB , RU
 49190	XCOMPARTNERS-AS , PL
-49192	-Reserved AS-, ZZ
 49193	PHONECTAS , NO
 49194	TRANSAS-SE , SE
 49195	ASTPAGE-AS , RU
@@ -49868,7 +49865,7 @@
 52862	Redenilf Serviços de Telecomunicações Ltda, BR
 52863	UPX Technologies, BR
 52864	Fillnet Com. e Ser. LTDA, BR
-52865	R. Jose da Silva e Cia Ltda, BR
+52865	R. Jose da Silva e Cia Ltda - OndaÁgil, BR
 52866	WHS Telecom Serv em Telecomunicoes Ltda, BR
 52867	TRIBUNAL REGIONAL DO TRABALHO 12 REGIAO, BR
 52868	-Reserved AS-, ZZ
@@ -51498,7 +51495,7 @@
 54498	CATALYST-INC - Catalyst Inc., US
 54499	SSFCU-AS - Security Service Federal Credit Union, US
 54500	18779 - EGIHosting, US
-54501	SOT-AS - Special Operations Technology Inc., US
+54501	-Reserved AS-, ZZ
 54502	JIVESOFTWARE - Jive Software, Inc., US
 54503	REDBOX - Redbox Automated Retail, LLC, US
 54504	HEITAS - Heitman LLC., US
@@ -51581,7 +51578,7 @@
 54581	APPLIED-TECHNOLOGY-SOLUTIONS-INC - Applied Technology Solutions, Inc., US
 54582	AS-RCMI - Realty Center Management Inc, US
 54583	-Reserved AS-, ZZ
-54584	FERRARA-CANDY-CO - Ferrara Pan Candy Co., Inc., US
+54584	-Reserved AS-, ZZ
 54585	LVDC - Apollo Education Group, Inc., US
 54586	RBSLYNK-AS5 - WorldPay US, Inc., US
 54587	SOFTEK - Softek, CA
@@ -52100,7 +52097,7 @@
 55100	GTCNA - The Glenmede Trust Company National Association, US
 55101	DAEMON-DEFENSE-SYSTEMS - Daemon Defense Systems Inc., CA
 55102	NRG-NS-2 - NRG Energy, Inc., US
-55103	VOIPTYCOON - VoIP Tycoon LLC, US
+55103	-Reserved AS-, ZZ
 55104	BIOC-ASN - BioClinica, Inc., US
 55105	ABQHP - ABQ Health Partners, LLC, US
 55106	DATACATE-AS1 - Datacate Inc., US
@@ -52116,7 +52113,7 @@
 55116	CUSTOM-TELECONNECT-INC - Custom Teleconnect, Inc., US
 55117	LVSCU - Long View Systems Corporation (USA), US
 55118	VALUEDRUGCOMPANYVD-32AS - Value Drug Company Inc., US
-55119	SPARKFUN - Spark Fun Electronics, Inc., US
+55119	-Reserved AS-, ZZ
 55120	MLG-NASHVILLE-001 - Malham Leverage Group, US
 55121	IQVOICE - InterQoS Online, Inc., US
 55122	DCCLLC - Digital Communications Consulting LLC, US
@@ -52300,7 +52297,7 @@
 55302	AGDTECH-AU GPO Box 2142, AU
 55303	EAGLENET-AP 60 Market Square,P.O. Box 364, PH
 55304	APAM-AU Australia Pacific Airports (Melbourne) Pty Ltd, AU
-55305	VNNIC-AS-VN VNNIC Pool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
+55305	VNNIC-AS-VN VNNIC Pool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
 55306	AGRIBANK-AS-VN Vietnam bank for Agriculture anh Rural Development, VN
 55307	APEC-AS-VN Asian Pacific Securitis Joint Stock Company, VN
 55308	MPI-AS-VN Informatics Center-Ministry of Planning and Investment, VN
@@ -52315,7 +52312,7 @@
 55317	ANBINHBANK-AS-VN An Binh Bank, VN
 55318	ACB-AS-VN Asia Commercial Bank, VN
 55319	VPBANK-AS-VN VietNam Prosperity Joint Stock Commercial Bank, VN
-55320	CLICKASEND-AS-VN Clickasend media joint stock company,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
+55320	CLICKASEND-AS-VN Clickasend media joint stock company,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
 55321	STSC-AS-VN Saigontourist securities corporation, VN
 55322	NPC-AS-VN North Power Company, VN
 55323	VIETINBANKSC-AS-VN Vietnam Bank for industry and trade securities JSC, VN
@@ -52359,30 +52356,30 @@
 55367	I43GLOBAL-HK #1104 Crawford House, 70 Queen's Road Central, HK
 55368	XFNET-NZ Unit b7, NZ
 55369	DEDIPOWERHK-AS DediPower Managed Hosting Limited, HK
-55372	OIX University of the Ryukyus,,, JP
-55373	TRI-KOBE-NET Foundation for Biomedical Research and Innovation,,, JP
-55374	TOKYO6TO4NTT WIDE Project,,, JP
-55375	SI-NET SmartInsight Inc.,,, JP
-55376	KCV-HITANET KCV communications CO.,LTD.,,, JP
-55377	SADAITEC Sadiatec Co., Ltd,,, JP
-55378	QUICK-YCCNET QUICK Corp.,,, JP
-55379	HOSEI-NET Hosei University,,, JP
-55380	KAINS Kanazawa University,,, JP
-55381	CCSNET CITY-CABLE SHUNAN Corporation,,, JP
-55382	HOT-CHA Nagato city office,,, JP
-55383	IDC-JP YYY Group, Inc.,,, JP
-55384	JAIST-EXP Japan Advanced Institute of Science and Technology,,, JP
-55385	DA Digital Alliance Co.,Ltd.,,, JP
-55387	RMGR-MIX Japan Communication Inc.,,, JP
-55388	ASJ ASJ INC.,,, JP
-55389	JPNE Japan Network Enabler Corporation,,, JP
-55390	TUSNET Tokyo University of Science,,, JP
-55391	MF-NATIVE6-E INTERNET MULTIFEED CO.,,, JP
-55392	MF-NATIVE6-W INTERNET MULTIFEED CO.,,, JP
-55393	MIDOKURA Midokura Co., Ltd,,, JP
-55394	GREE-NET GREE, Inc.,,, JP
-55395	FUSION-C Rakuten Communications Corp.,,, JP
-55396	FNCLAB NRI SecureTechnologies, Ltd,,, JP
+55372	OIX University of the Ryukyus,,,,, JP
+55373	TRI-KOBE-NET Foundation for Biomedical Research and Innovation,,,,, JP
+55374	TOKYO6TO4NTT WIDE Project,,,,, JP
+55375	SI-NET SmartInsight Inc.,,,,, JP
+55376	KCV-HITANET KCV communications CO.,LTD.,,,,, JP
+55377	SADAITEC Sadiatec Co., Ltd,,,,, JP
+55378	QUICK-YCCNET QUICK Corp.,,,,, JP
+55379	HOSEI-NET Hosei University,,,,, JP
+55380	KAINS Kanazawa University,,,,, JP
+55381	CCSNET CITY-CABLE SHUNAN Corporation,,,,, JP
+55382	HOT-CHA Nagato city office,,,,, JP
+55383	IDC-JP YYY Group, Inc.,,,,, JP
+55384	JAIST-EXP Japan Advanced Institute of Science and Technology,,,,, JP
+55385	DA Digital Alliance Co.,Ltd.,,,,, JP
+55387	RMGR-MIX Japan Communication Inc.,,,,, JP
+55388	ASJ ASJ INC.,,,,, JP
+55389	JPNE Japan Network Enabler Corporation,,,,, JP
+55390	TUSNET Tokyo University of Science,,,,, JP
+55391	MF-NATIVE6-E INTERNET MULTIFEED CO.,,,,, JP
+55392	MF-NATIVE6-W INTERNET MULTIFEED CO.,,,,, JP
+55393	MIDOKURA Midokura Co., Ltd,,,,, JP
+55394	GREE-NET GREE, Inc.,,,,, JP
+55395	FUSION-C Rakuten Communications Corp.,,,,, JP
+55396	FNCLAB NRI SecureTechnologies, Ltd,,,,, JP
 55397	XFNET-NZ Unit b7, NZ
 55398	WISHNET-AS-AP WISH NET PRIVATE LIMITED, IN
 55399	GERRYS-AS-AP Gerrys Information Technology (PVT) Ltd, PK
@@ -52552,7 +52549,7 @@
 55590	SONYKOREA-AS-KR Sony Korea, KR
 55591	CNEIS SOON CHUN HYANG UNIVERSITY, KR
 55598	KEITI-AS-KR KEITI, KR
-55599	ACTS-AS-KR ACTS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
+55599	ACTS-AS-KR ACTS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, KR
 55600	HANA-AS-KR Hana Broadcasting Co, Ltd, KR
 55601	ECFC-AS-KR Electric Contractors Financial Cooperative, KR
 55602	KBCARD-AS-KR kbcard, KR
@@ -52800,30 +52797,30 @@
 55885	ISP-NU No. 1 Commercial Center, NU
 55886	DH-NET-BJ Beijing Digital Home Network Technology corporation, CN
 55887	DIOSCHOOLAK2-NZ Diocesan School for Girls, NZ
-55888	NCP-NET New Culture Production Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-55889	BITISLE-WEST Bit-isle,,, JP
-55890	SUNTORY Suntory Business Expert Limited,,, JP
-55891	WBTSJP-AS WATCH TOWER BIBLE AND TRACT SOCIETY,,, JP
-55893	HOKEN-NET NTT DATA CORPORATION,,, JP
-55894	WHOSNEXT Who's Next,,, JP
-55895	ECHIGO-IX N.S.Computer Service Co.,Ltd.,,, JP
-55896	VIDEX Videx Inc.,,, JP
-55897	SAKURA-F SAKURA Internet Inc.,,, JP
-55898	YAHOO-CORP Yahoo Japan Corporation,,, JP
-55899	SIG Steady, Inc.,,, JP
-55900	GLBB-JP GLBB Japan KK,,, JP
-55901	SCEI-NET Sony Computer Entertainment Inc,,, JP
-55902	TS-NET TS-NET of TOSET, Inc. in Japan,,, JP
-55903	ARROWNET Tokyo Stock Exchange, Inc.,,, JP
-55904	KOGAKUIN-AS KOGAKUIN University,,, JP
-55905	COMZNET2 Comzware Inc,,, JP
-55906	USTREAMASIA Ustream Asia, Inc.,,, JP
-55907	GMO-DNS GMO Internet,Inc,,, JP
-55908	NOMURA-NET Nomura Research Institute,Ltd.,,, JP
-55909	KOCHI-CT Kochi National College of Technology,,, JP
-55910	SITNET-AS Shibaura Institute of Technology,,, JP
-55911	TUFNESS-2 Tokuyama College of Technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-55912	U-KOCHI University of Kochi,,, JP
+55888	NCP-NET New Culture Production Inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+55889	BITISLE-WEST Bit-isle,,,,, JP
+55890	SUNTORY Suntory Business Expert Limited,,,,, JP
+55891	WBTSJP-AS WATCH TOWER BIBLE AND TRACT SOCIETY,,,,, JP
+55893	HOKEN-NET NTT DATA CORPORATION,,,,, JP
+55894	WHOSNEXT Who's Next,,,,, JP
+55895	ECHIGO-IX N.S.Computer Service Co.,Ltd.,,,,, JP
+55896	VIDEX Videx Inc.,,,,, JP
+55897	SAKURA-F SAKURA Internet Inc.,,,,, JP
+55898	YAHOO-CORP Yahoo Japan Corporation,,,,, JP
+55899	SIG Steady, Inc.,,,,, JP
+55900	GLBB-JP GLBB Japan KK,,,,, JP
+55901	SCEI-NET Sony Computer Entertainment Inc,,,,, JP
+55902	TS-NET TS-NET of TOSET, Inc. in Japan,,,,, JP
+55903	ARROWNET Tokyo Stock Exchange, Inc.,,,,, JP
+55904	KOGAKUIN-AS KOGAKUIN University,,,,, JP
+55905	COMZNET2 Comzware Inc,,,,, JP
+55906	USTREAMASIA Ustream Asia, Inc.,,,,, JP
+55907	GMO-DNS GMO Internet,Inc,,,,, JP
+55908	NOMURA-NET Nomura Research Institute,Ltd.,,,,, JP
+55909	KOCHI-CT Kochi National College of Technology,,,,, JP
+55910	SITNET-AS Shibaura Institute of Technology,,,,, JP
+55911	TUFNESS-2 Tokuyama College of Technology,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+55912	U-KOCHI University of Kochi,,,,, JP
 55913	DEADLINE-AU 17 Chesser Street, AU
 55914	CONVERGAPTYLTD-AS-AP 100001 - Converga Pty Ltd, AU
 55915	CLASSIC-NP Classic Tech Pvt. Ltd., NP
@@ -52876,7 +52873,7 @@
 55971	CASS-NET Chinese Academy of Social Sciences, CN
 55974	CLOUDXP-NET CloudXP Co., Ltd, CN
 55975	CGWICT Beijing Jun Yuan He Zhong Science and, CN
-55976	SPISC Shaanxi provincial industry and Information Department,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+55976	SPISC Shaanxi provincial industry and Information Department,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 55977	ZJWSBTVNET Zhejiang Wasu Broadcast&TV Network Co., Ltd, CN
 55978	FUYUN Shanghai fuyun Networks Inc., CN
 55979	SUNET-CN Beijing Sunet Telecom Technology Ltd, CN
@@ -52889,7 +52886,7 @@
 55988	CNNIC-PBSL-AP Pacnet Business Solutions LTD, CN
 55990	HWCSNET Huawei Cloud Service data center, CN
 55992	QIHOO Beijing Qihu Technology Company Limited, CN
-55993	HUANXUN Shanghai Huanxun communication installation engineering co., LTD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+55993	HUANXUN Shanghai Huanxun communication installation engineering co., LTD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 55994	ANCHNET ShangHai AnchNet Tec, Inc., CN
 55995	ONESTOP ONE-STOP Computer Science and Tech Ltd., CN
 55996	CYPRESSTEL CYPRESS TELECOM (CHINA) LIMITED, CN
@@ -55272,7 +55269,7 @@
 58404	QWORDS-AS-ID PT Qwords Company International, ID
 58405	UNITEDTELECOMS-IN 18A/19,DODDANEKUNDI, IN
 58406	ISC-AP Internet Systems Consortium, MN
-58407	PCNET-AS-AP PENCENT INFORMATION TECHNOLOGY (HK) CO., LIMITED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, HK
+58407	PCNET-AS-AP PENCENT INFORMATION TECHNOLOGY (HK) CO., LIMITED,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, HK
 58408	FOCUSNET-AS-AP FOCUSNET MANAGEMENT PTY LTD, AU
 58409	LUMO-AU Lumo Energy Australia Pty Ltd, AU
 58410	CNISP-UNION CNISP-Union Technology (Beijing) Co., Ltd, CN
@@ -55495,16 +55492,16 @@
 58642	HRCTECHNOLOGIES-BD HRC Technologies Ltd, BD
 58643	PHOTONLINK Photon Link Limited, HK
 58644	VONEX-AU Vonex Pty Ltd, AU
-58645	MARINET Miyagi Cable TV Co.,Ltd,,, JP
-58646	FBDC-B FreeBit Co.,Ltd.,,, JP
-58647	KAGAWAU-AS Kagawa University,,, JP
-58648	AT-I-NET AT-I, Inc.,,, JP
-58649	GMO-REG-NET GMO Internet,Inc,,, JP
-58650	CATVWINK Warabi Cable Vision Co., Ltd.,,, JP
-58651	GMO-REGSEC GMO Internet,Inc,,, JP
-58652	KOCHI-U-NET Kochi University,,, JP
-58653	VOLVOITJAPAN UD Trucks Corporation, Volvo Information Technology Japan,,, JP
-58654	BLESS BLESS Co.,Ltd.,,, JP
+58645	MARINET Miyagi Cable TV Co.,Ltd,,,,, JP
+58646	FBDC-B FreeBit Co.,Ltd.,,,,, JP
+58647	KAGAWAU-AS Kagawa University,,,,, JP
+58648	AT-I-NET AT-I, Inc.,,,,, JP
+58649	GMO-REG-NET GMO Internet,Inc,,,,, JP
+58650	CATVWINK Warabi Cable Vision Co., Ltd.,,,,, JP
+58651	GMO-REGSEC GMO Internet,Inc,,,,, JP
+58652	KOCHI-U-NET Kochi University,,,,, JP
+58653	VOLVOITJAPAN UD Trucks Corporation, Volvo Information Technology Japan,,,,, JP
+58654	BLESS BLESS Co.,Ltd.,,,,, JP
 58655	SKYTEL6-BD SkyTel Communications Limited, BD
 58656	BDHUB-BD bdHUB Limited, BD
 58657	GVIGW-BD 103.12.166.0/24 & 103.31.108.0/24, BD
@@ -55622,16 +55619,16 @@
 58780	ALPHAWEST-BCC-AS-AP Alphawest Services Pty Ltd, AU
 58781	APNICAS-BD Bangla Trac Ltd, BD
 58782	TORONLIMITED-BD Toron Ltd., BD
-58784	RIS Rissho University,,, JP
-58785	TGU-NET Tohoku Gakuin University,,, JP
-58786	GMOKOR-NET GMO Internet,Inc,,, JP
-58787	COMZNET Comzware Inc,,, JP
-58788	CHIRORO Chiroro-Net Co.,Ltd.,,, JP
-58789	DUNAMIS DUNAMIS Co.,Ltd,,, JP
-58790	ZDC ZENRIN DataCom Co.,LTD.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
-58791	GMOOSK-NET GMO Internet,Inc,,, JP
-58792	WI-GATE WirelessGate, Inc.,,, JP
-58793	NIFTY-NET NIFTY Corporation,,, JP
+58784	RIS Rissho University,,,,, JP
+58785	TGU-NET Tohoku Gakuin University,,,,, JP
+58786	GMOKOR-NET GMO Internet,Inc,,,,, JP
+58787	COMZNET Comzware Inc,,,,, JP
+58788	CHIRORO Chiroro-Net Co.,Ltd.,,,,, JP
+58789	DUNAMIS DUNAMIS Co.,Ltd,,,,, JP
+58790	ZDC ZENRIN DataCom Co.,LTD.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, JP
+58791	GMOOSK-NET GMO Internet,Inc,,,,, JP
+58792	WI-GATE WirelessGate, Inc.,,,,, JP
+58793	NIFTY-NET NIFTY Corporation,,,,, JP
 58794	TESTLABS-AU Testlabs Australia PTY. LTD., AU
 58795	FTDPL-SG 1 North Bridge, Road # 19-09, SG
 58796	THEWITSDNBHD-MY Lot No. 77-1, 1st Floor, Wisma New Far East, Jalan Lintas, MY
@@ -55666,7 +55663,7 @@
 58828	UPSUN Chongqing Shaoyang Technology Co. Ltd, CN
 58829	FOREST-ETERNAL Forest Eternal Communication Tech. co.ltd, CN
 58830	DC-LINK Shanghai HaoJin Technology Development Co.,Ltd., CN
-58831	ELINK HLJ E-link Network Technology Services Co., Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+58831	ELINK HLJ E-link Network Technology Services Co., Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 58832	HLHT Beijing Linktom Technology Co.,Ltd., CN
 58833	YUNYSHCOM Beijing CloudHosting Communications CO.,LTD, CN
 58834	GCABLENET Guangdong Cable Corporation Limited, CN
@@ -55832,7 +55829,7 @@
 59019	BJKSCNET Beijing Kingsoft Cloud Internet Technology Co., Ltd, CN
 59020	CHINA-21VIANET 21vianet(China) Inc., CN
 59021	GUANCHENNET Henan guan chen Technology Co. Ltd., CN
-59022	CRI China Radio International,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+59022	CRI China Radio International,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 59023	FOREST-ETERNAL Forest Eternal Communication Tech. co.ltd, CN
 59025	SKBJNET Beijing Sankuai Technology Co.,Ltd., CN
 59026	HRTN Hubei Provincial Radio And Television Info-Network Co.,Ltd., CN
@@ -55875,7 +55872,7 @@
 59068	CHINGCLOUDNET Beijing wendingqingyun Technology Co., Ltd, CN
 59069	IFENG Beijing Tian Ying Jiu Zhou Network Technology Co., Ltd., CN
 59070	ZLDT Chengdu Zhongli Data Technology Co.,Ltd, CN
-59071	XGIGABIT-COMMUNICATION Henan XGigabit Communication Technology Co. Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+59071	XGIGABIT-COMMUNICATION Henan XGigabit Communication Technology Co. Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 59072	ESINNET Shenzhen ESIN Technology Co., Ltd, CN
 59073	BOC Bank of China Limited, CN
 59074	CENTRIN Centrin Data Systems Ltd, CN
@@ -55885,7 +55882,7 @@
 59078	YUNIFY-NET Yunify Technologies Inc., CN
 59079	TGCNT Tianjin green cloud network technology co., LTD, CN
 59080	YAKUE Beijing HuaxiaYakue Network Technology Co., Ltd., CN
-59081	HETDZ Harbin Economic-technological Development Zone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+59081	HETDZ Harbin Economic-technological Development Zone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 59082	SJWT XIAMEN CenturyNetcomNetwork Services Limited, CN
 59083	KHTECH Shanghai Kuanhui Tech. Co.,ltd, CN
 59084	SXCBINET SHANXI CABLE&BROADCASTING INFORMATION NETWORK, CN
@@ -55895,39 +55892,39 @@
 59088	RANGEIDC Range Technology Development Co., Ltd., CN
 59089	CLOUDVSP NO.18 Building University of Technology, CN
 59090	BXKJ BiaoXin Science and Technology, CN
-59091	KAIT-NWLAB Kanagawa Institute of Technology,,, JP
-59092	KRONOS kronos.Co.,Ltd.,,, JP
-59093	ICKNET IMABARI CATV CORPORATION,,, JP
-59094	S2-NET esu2 Corporation,,, JP
-59095	ACCELIA-W ACCELIA,,, JP
-59096	MAIN Meiji Gakuin University,,, JP
-59097	OCH-NET Okinawa Cross Head Co., Ltd.,,, JP
-59098	CABLEDRCLOUD Cable DR Cloud Joint Venture,,, JP
-59099	CLOUD-SDN-AS BroadBand Tower, Inc.,,, JP
-59100	KOCHI-GC Kochi Gakuen College,,, JP
-59101	MIRAI-BS mirai-bs corporation,,, JP
-59102	GENES GENES Co., Ltd.,,, JP
-59103	SOFTETHER SoftEther Corporation,,, JP
-59104	SOKAU-AS Soka University,,, JP
-59105	HOMENOC Home NOC Operators Group,,, JP
-59106	SKYLINKS SKYLINKS INC.,,, JP
-59107	HTV-NET Hachinohe Cable Television Co.,,, JP
-59108	KATCH-NET KATCH NETWORK INC.,,, JP
-59109	HITCLOUD Hitachi,Ltd., Cloud services Division,,, JP
-59110	BPS BPS Inc.,,, JP
-59111	AIU-NET Akita International University,,, JP
-59112	PLUSONE Plus One marketing Ltd.,,, JP
-59113	RJV6-NET RICOH JAPAN Corporation,,, JP
-59114	RECRUIT Recruit Holdings Co.,Ltd.,,, JP
-59115	CYBERDYNE CYBERDYNE Inc.,,, JP
-59116	AIGKK American International Group KK,,, JP
-59117	RBNET RBNET Co.,Ltd.,,, JP
-59118	FNC-O2 NRI SecureTechnologies, Ltd.,,, JP
-59119	HIT-NET HIDATAKAYAMA CABLE NETWORK INC.,,, JP
-59120	TINS-NET Tsukuba Internet Service Corporation,,, JP
-59121	AKNWS-NET Asahi Kasei Networks Corporation,,, JP
-59122	R-SYS Ranger-Systems Co., Ltd.,,, JP
-59123	KAKAKUCOM Kakaku.com, Inc.,,, JP
+59091	KAIT-NWLAB Kanagawa Institute of Technology,,,,, JP
+59092	KRONOS kronos.Co.,Ltd.,,,,, JP
+59093	ICKNET IMABARI CATV CORPORATION,,,,, JP
+59094	S2-NET esu2 Corporation,,,,, JP
+59095	ACCELIA-W ACCELIA,,,,, JP
+59096	MAIN Meiji Gakuin University,,,,, JP
+59097	OCH-NET Okinawa Cross Head Co., Ltd.,,,,, JP
+59098	CABLEDRCLOUD Cable DR Cloud Joint Venture,,,,, JP
+59099	CLOUD-SDN-AS BroadBand Tower, Inc.,,,,, JP
+59100	KOCHI-GC Kochi Gakuen College,,,,, JP
+59101	MIRAI-BS mirai-bs corporation,,,,, JP
+59102	GENES GENES Co., Ltd.,,,,, JP
+59103	SOFTETHER SoftEther Corporation,,,,, JP
+59104	SOKAU-AS Soka University,,,,, JP
+59105	HOMENOC Home NOC Operators Group,,,,, JP
+59106	SKYLINKS SKYLINKS INC.,,,,, JP
+59107	HTV-NET Hachinohe Cable Television Co.,,,,, JP
+59108	KATCH-NET KATCH NETWORK INC.,,,,, JP
+59109	HITCLOUD Hitachi,Ltd., Cloud services Division,,,,, JP
+59110	BPS BPS Inc.,,,,, JP
+59111	AIU-NET Akita International University,,,,, JP
+59112	PLUSONE Plus One marketing Ltd.,,,,, JP
+59113	RJV6-NET RICOH JAPAN Corporation,,,,, JP
+59114	RECRUIT Recruit Holdings Co.,Ltd.,,,,, JP
+59115	CYBERDYNE CYBERDYNE Inc.,,,,, JP
+59116	AIGKK American International Group KK,,,,, JP
+59117	RBNET RBNET Co.,Ltd.,,,,, JP
+59118	FNC-O2 NRI SecureTechnologies, Ltd.,,,,, JP
+59119	HIT-NET HIDATAKAYAMA CABLE NETWORK INC.,,,,, JP
+59120	TINS-NET Tsukuba Internet Service Corporation,,,,, JP
+59121	AKNWS-NET Asahi Kasei Networks Corporation,,,,, JP
+59122	R-SYS Ranger-Systems Co., Ltd.,,,,, JP
+59123	KAKAKUCOM Kakaku.com, Inc.,,,,, JP
 59131	IDNIC-UNIKA-AS-ID Universitas Katolik Soegijapranata, ID
 59132	IDNIC-BI-AS-ID Bank Indonesia, ID
 59133	IDNIC-DAYASITEL-AS-ID PT Daya Sinergi Telekomunikasi, ID
@@ -59345,7 +59342,7 @@
 62664	UNITEDTELEPORTS - UNITED TELEPORTS, INC., US
 62665	PCGUS - Public Consulting Group, Inc., US
 62666	CLEARING-NETWORK - The Canadian Depository for Securities Limited, CA
-62667	DATAFLYS - DATAFLYS INC., US
+62667	-Reserved AS-, ZZ
 62668	OCG-INTERNET-SERVICES - Optical Communications Group, US
 62669	SANS-INSTITUTE - SANS INSTITUTE, US
 62670	C3CONNECT - C3/CustomerContactChannels, Inc, US
@@ -59542,7 +59539,7 @@
 62861	RAYCOM-MEDIA-RSA - Raycom Media Inc, US
 62862	LAYER - Layer, Inc., US
 62863	AS62863 - PRAIRIECARE LLC, US
-62864	VIVW-NET - Vivint Wireless, US
+62864	VIVW-NET - Vivint Wireless, Inc., US
 62865	UNIVAR - UNIVAR Corp., US
 62866	ACCORDANTMEDIA - Accordant Media, LLC, US
 62867	ALDINEISD-ASN01 - Aldine Independent School District, US
@@ -60126,7 +60123,7 @@
 63445	CFG - Cetera Financial Group, Inc., US
 63446	GLOBALCONNECTIONS-AS - Global Connections, Inc, US
 63447	GOTEKKY - Gotekky, CA
-63448	MAGNUM-NETWORKSASN2014 - Magnum Networks, US
+63448	-Reserved AS-, ZZ
 63449	SEABOARDMAIRNE-AS - Seaboard Marine, Ltd. Inc., US
 63450	ETHERWEBNET - Ether Web Network, Inc., US
 63451	STONE-113 - Stoneridge, Inc., US
@@ -60260,7 +60257,7 @@
 63583	CAICTNET Chinese Academy of Telecommunication Research, CN
 63584	CISCOSYSTEMS Cisco Systems (China) Networking Technology Co., Ltd., CN
 63585	CRITEO-CHINA Criteo Advertising (Beijing) Co., Ltd., CN
-63586	YUNCHINET Shannxi Yunchi information technology CO.,LTD,,,,,,,,,,,,,,,,, CN
+63586	YUNCHINET Shannxi Yunchi information technology CO.,LTD,,,,,,,,,,,,,,,,,,, CN
 63587	QCFNET Quantum Cloud New Media Technologies Co.Ltd, CN
 63588	QCFNET Quantum Cloud New Media Technologies Co.Ltd, CN
 63589	PBSTJ Pacnet Business Solutions(TianJin), CN
@@ -60289,7 +60286,9 @@
 63620	HUABOTECHNET ShenZhen HuaBo Technology Develop Co., Ltd., CN
 63636	EDG1NET Shanghai Changxin Technology Corp., Ltd., CN
 63638	YUDINET Xi'an Yudi Netec Co., LTD., CN
+63646	XJKJ Beijing Little Orange Tech. Co., Ltd, CN
 63647	BJWYHL Beijing network interference Mdt InfoTech Ltd, CN
+63648	XJKJ Beijing Little Orange Tech. Co., Ltd, CN
 63649	HAVES-CINDA BEIJING HAVES CINDA SCI-TECH DEVELOPMENT CO.LTD, CN
 63650	XJDMTEC Xinjiang Shuao Network Technology Co,Ltd, CN
 63651	AITE-JL Ji lin sheng ai te wang luo chuan mei you xian gong si, CN
@@ -60344,10 +60343,10 @@
 63705	NJANLAI Nanjing Anlai Xinxi Tongxin Jishu Youxian Gongsi, CN
 63708	LTIDC Guangdong LITONG Network Technology Limited, CN
 63709	YIYUN Shanghai Yiyun Information Technology Development Co., Ltd., CN
-63710	CBLHNET LianHongWeiYe Communication Technology Co., Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+63710	CBLHNET LianHongWeiYe Communication Technology Co., Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 63711	CTTNET China TieTong Telecommunications Corporation, CN
 63712	CTTNET-HEBEI China Tietong Telecommunication Corporation, CN
-63717	BOHAILIFENET Bohai Life Insurance Co.,Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+63717	BOHAILIFENET Bohai Life Insurance Co.,Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 63719	GSRTNC Gansu Province Radio and Television Network Co., Ltd., CN
 63725	WINGCLOUD Guizhou Wing Cloud High Technology Ltd, CN
 63730	VNSO-AS-VN VNSO TECHNOLOGY COMPANY, VN
@@ -60622,7 +60621,7 @@
 64080	ZENIVA-AS-AP Zen Networks, HK
 64081	STANNET-AS-AP STAN Telecom, AF
 64082	ZENLLC-AS-AP Zeniva LLC, AU
-64085	SCS-AS-AP Safren Computer Services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
+64085	SCS-AS-AP Safren Computer Services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, CN
 64086	ANZ-SG-AS AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED, SG
 64087	CNET-HK Clouds Network Limited, HK
 64088	SYNOWLEDGE-AS-AP SYNOWLEDGE INDIA PVT LTD, IN
@@ -60737,6 +60736,13 @@
 64294	-Reserved AS-, ZZ
 64295	-Reserved AS-, ZZ
 64296	-Reserved AS-, ZZ
+64437	NFORCE-2016 , NL
+64438	QUANTIC-TELECOM-16B , FR
+64439	ITOS-AS , RU
+64440	ASN-AIM , NO
+64441	TYUMENPROMGEOFIZIKA , RU
+64442	CH-SECURITAS-SOP-RZ01 , CH
+64443	SKYWAVES , LB
 64444	RESEAU-THD , FR
 64445	SIX , IT
 64446	DE-ROHWERDER , DE
@@ -61833,14 +61839,14 @@
 131074	APNIC-JP-RD APNIC R&D Centre JP, AU
 131075	NTT-FBNET Nippon Telegraph and Telephone Corporation PF Labs., JP
 131076	PFS-4BYTE APNIC experimental allocation for testing 32-bit ASN, AU
-131078	KDDLAB-4OCT KDDI R&D Laboratories, INC.,,, JP
-131079	MULTIFEED-2 INTERNET MULTIFEED CO.,,, JP
-131080	SAKURA-D SAKURA Internet Inc.,,, JP
-131081	INETCORE4 Intec NetCore, Inc.,,, JP
-131082	JPIX-4 Japan Internet Exchange Co., Ltd.,,, JP
-131084	MKINET-JP MKI Network Solutions, Ltd.,,, JP
-131085	NCOM-IPV6NET Niigata Communication Service,,, JP
-131086	AVISNET-4 Densan Co., Ltd.,,, JP
+131078	KDDLAB-4OCT KDDI R&D Laboratories, INC.,,,,, JP
+131079	MULTIFEED-2 INTERNET MULTIFEED CO.,,,,, JP
+131080	SAKURA-D SAKURA Internet Inc.,,,,, JP
+131081	INETCORE4 Intec NetCore, Inc.,,,,, JP
+131082	JPIX-4 Japan Internet Exchange Co., Ltd.,,,,, JP
+131084	MKINET-JP MKI Network Solutions, Ltd.,,,,, JP
+131085	NCOM-IPV6NET Niigata Communication Service,,,,, JP
+131086	AVISNET-4 Densan Co., Ltd.,,,,, JP
 131087	KSC-4BYTE-AS-AP KSC Commercial Internet Co., Ltd., TH
 131088	WAIA-4BYTE-AS-AP Western Australian Internet Association, AU
 131089	CAT-ISP-4BYTENET-AS-AP CAT TELECOM Public Company Ltd,CAT, TH
@@ -61866,7 +61872,7 @@
 131121	GLOBE-TELECOM-AS Globe Telecom, Inc., PH
 131122	VNNIC-4-BYTE-AS-VN Vietnam Internet network information center (VNNIC), VN
 131123	VNNIC-4-BYTE-AS-VN Vietnam Internet network information center (VNNIC), VN
-131124	VIETTEL-4-BYTE-AS-VN Viettel Telecom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
+131124	VIETTEL-4-BYTE-AS-VN Viettel Telecom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, VN
 131125	TVSI-AS-VN Tan Viet Securities Incorporation, VN
 131126	VNAIR-AS-VN Vietnam Airlines Corp, VN
 131127	GTEL-AS-VN Global Telecom Corp, VN
@@ -61882,14 +61888,14 @@
 131149	YUANJHEN-AS-TW Yuan-Jhen Info., Co., Ltd, TW
 131150	KH-AS-TW Education Bureau, Kaohsiung City Government, Taiwan, TW
 131151	NCTAIWAN-AS nctaiwan.co.ltd, TW
-131152	BBIX-NET BBIX,Inc.,,, JP
-131153	KVH-ISP KVH Co., Ltd.,,, JP
-131154	SHOWNET-4AS NANO OPT Media, Inc.,,, JP
-131155	HANABI4 NTT Communications Corporation,,, JP
-131157	MAGMA-IPV6 IMS Corporation,,, JP
-131158	NAIST-AS Nara Institute of Science and Technology, National University Corporation,,, JP
-131159	AS-YAMAGATAU Yamagata University,,, JP
-131160	WI2 Wire and Wireless Co.,Ltd.,,, JP
+131152	BBIX-NET BBIX,Inc.,,,,, JP
+131153	KVH-ISP KVH Co., Ltd.,,,,, JP
+131154	SHOWNET-4AS NANO OPT Media, Inc.,,,,, JP
+131155	HANABI4 NTT Communications Corporation,,,,, JP
+131157	MAGMA-IPV6 IMS Corporation,,,,, JP
+131158	NAIST-AS Nara Institute of Science and Technology, National University Corporation,,,,, JP
+131159	AS-YAMAGATAU Yamagata University,,,,, JP
+131160	WI2 Wire and Wireless Co.,Ltd.,,,,, JP
 131162	TRUEINTERNET-AS-AP Internet Service Provider in Thailand, TH
 131163	INET-TH-4BYTEAS-AP Internet Thailand Public Company Limited, TH
 131164	SINOTECH-TW-AP 61 Ming Chuan Road Section 1, TW
@@ -62326,24 +62332,24 @@
 131790	SANOFI-SG 6 Raffles Quay #18-00, SG
 131891	CEBUAIRINC-AS-AP Cebu Air Inc., PH
 131892	ONQNETWORKS-AS-AP On Q Networks, AU
-131893	RICOH-NET RICOH Company, Ltd.,,, JP
-131894	U-CLOUD-2 UNIADEX, LTD.,,, JP
-131895	OIST-NET Okinawa Institute of science and technology,,, JP
-131896	SSI-LAB SSI Lab Inc.,,, JP
-131897	EHIME-U National University Corporation ,Ehime University,,, JP
-131898	YAHOO-3 Yahoo Japan Corporation,,, JP
-131899	DIG-NET DIG Inc.,,, JP
-131900	DIRECTORZ Directorz Co.,Ltd.,,, JP
-131901	FIDESSA-KK FIDESSA KK,,, JP
-131902	SNEI-NP Sony Corporation,,, JP
-131903	NRI-IVPN Nomura Research Institute,Ltd.,,, JP
+131893	RICOH-NET RICOH Company, Ltd.,,,,, JP
+131894	U-CLOUD-2 UNIADEX, LTD.,,,,, JP
+131895	OIST-NET Okinawa Institute of science and technology,,,,, JP
+131896	SSI-LAB SSI Lab Inc.,,,,, JP
+131897	EHIME-U National University Corporation ,Ehime University,,,,, JP
+131898	YAHOO-3 Yahoo Japan Corporation,,,,, JP
+131899	DIG-NET DIG Inc.,,,,, JP
+131900	DIRECTORZ Directorz Co.,Ltd.,,,,, JP
+131901	FIDESSA-KK FIDESSA KK,,,,, JP
+131902	SNEI-NP Sony Corporation,,,,, JP
+131903	NRI-IVPN Nomura Research Institute,Ltd.,,,,, JP
 131904	CYBERFEELINC-JP Cyber Feel Inc., JP
-131905	JPRS-GTLD Japan Registry Services Co., Ltd.,,, JP
-131906	GAPINC-NET Gap Japan K.K.,,, JP
-131907	IWAMI-NET Iwami Cablevision Co.,Ltd.,,, JP
-131908	INTEC-DCAN INTEC Inc.,,, JP
-131909	OKINAWA-DC Okinawa Data Center,,, JP
-131910	SORACOM SORACOM. INC.,,, JP
+131905	JPRS-GTLD Japan Registry Services Co., Ltd.,,,,, JP
+131906	GAPINC-NET Gap Japan K.K.,,,,, JP
+131907	IWAMI-NET Iwami Cablevision Co.,Ltd.,,,,, JP
+131908	INTEC-DCAN INTEC Inc.,,,,, JP
+131909	OKINAWA-DC Okinawa Data Center,,,,, JP
+131910	SORACOM SORACOM. INC.,,,,, JP
 131993	QUINNOX-IN UNIT 107 MULTISTORIED BUILDING, SEEPZ, IN
 131994	DBINDIA-IN Deutsche Bank AG, HK
 131995	XLPROG-AS-AP XLPM, NC
@@ -62772,10 +62778,12 @@
 132435	SYMPHONET-MY No.31-A, Jalan Tiara, Tiara Square, MY
 132436	TAHOECOM-AS-AP Wahidur Rahman Sharif T/A Tahoe Communication Limited, BD
 132437	SAASPLAZA-NET-CN 4/F Euro America Center, CN
+132438	APONIT-AS-AP Evan Ahmed Bhuiyan t/a APON IT, BD
 132439	CSCACLOUD-SG 221 Henderson Road #07-01, SG
 132440	PMC-NET-IN 3 rd floor, Dreams mall, L.B.S. marg, IN
 132441	SAIBABA-IN SHRI SAIBABA SANSTHAN TRUST, SHIRDI, IN
 132442	NEWTEX-BD NewTex Pacific Limited, BD
+132443	SOUTHTECHLIMITED-AS-AP Southtech Limited, BD
 132444	HOST-MY Hostmy Dot Com Sdn. Bhd, MY
 132445	KHETAN-IN Khetan Cable Network Pvt. Limited, IN
 132446	KGEC-AS-AP KGEC, CN
@@ -62793,6 +62801,7 @@
 132461	YASHNET-IN Megha Communications, IN
 132462	BEMOBILESI-AS-AP Bemobile Solomon Islands Ltd, SB
 132463	GYANCOM-IN Gyaneswar Computer, IN
+132464	BARBAZACOOP-AS-AP Barbaza Multi-Purpose Cooperative, PH
 132465	IDA-AS-MLAW Infocomm Development Authority of Singapore, SG
 132466	LINKEDIN2-AS-AP Linkedin Singapore Pte. Ltd, SG
 132468	SATSOL-NET-SB SATSOL LIMITED, SB
@@ -62803,6 +62812,7 @@
 132473	RFGPL-AS-AP RFGPL, AU
 132474	HP-GLOBAL-SWITCH 400 Harris Street, AU
 132475	CLOUDTELECOM-AS-AP CLOUDTELECOM, SG
+132476	COMPASS-AS-AP Compass Education Pty Ltd, AU
 132477	HYPERNET-IN Hypernet Technologies, IN
 132478	QY-AS-AP QY NETWORK MAOMING CO.LTD, CN
 132479	WUTTISAKPHARMACY-AS-AP Wuttisak Pharmacy Co.,Ltd, TH
@@ -62810,6 +62820,7 @@
 132481	EVEREVER-AP EVER FAVOUR HOLDINGS LIMITED, HK
 132482	RMUTR-AS-AP Rajamangala University of Technology Rattanakosin, TH
 132483	UP-AS-AP University of the Philippines System Network, Diliman, Quezon City, Philippines, PH
+132484	LAHL-AS-AP LINK ADMINISTRATION HOLDINGS LIMITED, AU
 132487	IDPL-AS-AP Immense Data Pty Ltd, AU
 132488	CTL-AS-AP Cluster Technology Limited, HK
 132490	ZS-AS-AP ZS NETWORK (HONGKONG) LIMITED, HK
@@ -62921,7 +62932,7 @@
 132609	CSC-AS-AP CSC Australia Pty Ltd, AU
 132610	ITL-AS-AP Infitack Technologies Limited, HK
 132611	TECHEPTYLTD-AS-AP Tech-e Pty Ltd, AU
-132612	MOBSOURCE-AS-AP Mobsource,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, AU
+132612	MOBSOURCE-AS-AP Mobsource,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, AU
 132613	SBSPL-AS-AP SunTec Business Solutions Pvt. Ltd., IN
 132614	UNICO-AS-AP Unico Computer Systems Pty Ltd, AU
 132615	PBATC-AS-AP Pipol Broadband and Telecommunications Corporation, PH
@@ -63056,7 +63067,7 @@
 132761	SMARTLINK-AS Smartlink Solutions, IN
 132762	NEOSOFT-AS NeoSoft Technologies, IN
 132763	HMEL-AS-IN HPCL-Mittal Energy Ltd., IN
-132764	ONETOUCHWORLD-AS-IN OneTouch Technologies Service, IN
+132764	ONETOUCHWORLD-AS-IN OneTouch Technologies Service,,, IN
 132765	SOFTECH-AS-IN Softech Computer Services, IN
 132766	UPIPL-AS U P INFOMAX PVT LTD, IN
 132768	FIVENETWORK-AS-IN Five network Broadband Solution Pvt Ltd, IN
@@ -63187,7 +63198,7 @@
 132920	IDEA11PTYLTD-AS-AP Idea 11 Pty Ltd, AU
 132923	VIHAAN-AS-IN Vihaan Telecommunication Pvt. Ltd., IN
 132924	EROWIDECOMM-AS-IN Ero Wide Comm Private Limited, IN
-132927	NIHAR-AS-IN Nihar Internet Services Pvt. Ltd., IN
+132927	NIHAR-AS-IN Nihar Internet Services Pvt. Ltd.,,, IN
 132930	NECSON-AS-IN Necson Infotech, IN
 132931	FICUSTELECOM-AS FICUS TELECOM PRIVATE LIMITED, IN
 132932	ACINFOTECH-AS-IN AC Infotech, IN
@@ -63212,7 +63223,7 @@
 132952	ENOW-AS ENOW, IN
 132953	BUSINESSINSTRUMENTS-AS Business Instruments India Pvt. Ltd, IN
 132954	NXTRADATA-AS NXTR DATA LIMITED, IN
-132955	PEOPLEENERGY-AS People energy organization Pvt. Ltd, IN
+132955	PEOPLEENERGY-AS People energy organization Pvt. Ltd,,, IN
 132956	VNET-AS V NET NETWORKS PVT LTD, IN
 132957	PINTWIRE-AS Pintwire Infomatics Private Limited, IN
 132958	EMAILWAVES-AS EMAILWAVES, IN
@@ -63469,7 +63480,7 @@
 133241	IGSTECHNO-AS-IN Igs technosoft, IN
 133242	ISYSMAGIC-AS-IN ISYS MAGIC, IN
 133243	INSTANTTECHNOSOFT-AS-IN INSTANT TECHNOSOFT, IN
-133244	RSN123-AS-IN R.S.N IT VIDEO SURVILLIANCE PVT LTD,,, IN
+133244	RSN123-AS-IN R.S.N IT VIDEO SURVILLIANCE PVT LTD,,,,, IN
 133245	GWNSPL-AS Go WiFi Networking Solutions Pvt Ltd, IN
 133246	SOFTWORLD-AS-IN softnet network, IN
 133247	ZOOMNET-AS-IN Sanchit Infocomm Pvt. Ltd., IN
@@ -64164,7 +64175,7 @@
 133984	NCDEX-AS-IN National Commodity and Derivatives Exchange Limited, IN
 133985	TAFE-AS-IN Tractor and farm equipmemts Ltd, IN
 133986	NAGESHWAR-AS Nageshwar Wireless Technology Private Limited, IN
-133987	ORIFLAME-AS-IN Oriflame India Pvt Ltd, IN
+133987	ORIFLAME-AS-IN Oriflame India Pvt Ltd,,, IN
 133988	MEGAMSYS-AS-IN Megam Systems, IN
 133989	SBRTELECOM-AS SBR Telecom Pvt. Ltd, IN
 133990	PATHWAYSGROUP-AS Sarla Holdings Pvt.Ltd, IN
@@ -65282,7 +65293,7 @@
 135213	BARANI-AS Barani Data Solutions Private Limited, IN
 135214	WIMAX-AS Wimax Communications Pvt Ltd, IN
 135215	AIRGO-AS-IN Mark Network Solutions India Pvt. Ltd., IN
-135216	FRIBZI-AS Fribzi Multi Technologies Pvt. Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,, IN
+135216	FRIBZI-AS Fribzi Multi Technologies Pvt. Ltd.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, IN
 135217	PEAKAIR-AS Peak Air Pvt Ltd, IN
 135218	GTELCOMM-AS Gtel Communications Private Limited, IN
 135219	SAINETSO-AS-IN Sai Net Solutions, IN
@@ -65704,6 +65715,7 @@
 135765	SIPLKNL-AS Sia Infotel Private Limited, IN
 135766	SKYFICOM-AS Skyfi Communications Pvt Ltd, IN
 135767	AGSTTL-AS AGS Transact Technologies Ltd, IN
+135768	SDH-AS Sdh Network Pvt Ltd, IN
 135772	POWERNETCOMM-AS Powernet Communications Pvt.ltd., IN
 135773	DBSPL-AS Daksh Broadband Services Pvt Ltd, IN
 135774	PRIYAJPR-AS Priya Infotechnology, IN
@@ -66459,7 +66471,7 @@
 197414	KODAK-AS , DE
 197415	FINANCIALART , LU
 197416	TALPAS-SI-AS , SI
-197417	LV3SDATUCENTRS-AS , LV
+197417	-Reserved AS-, ZZ
 197418	NET-KONTAKT-AS , PL
 197419	IISS , GB
 197420	-Reserved AS-, ZZ
@@ -66866,7 +66878,7 @@
 197842	CLOUDYNET-AS , RU
 197843	ALCAD-SI , SI
 197844	NET4ME , PL
-197845	DEVDIGITAL , IT
+197845	HITACHICBT , IT
 197846	SAOCOMP-AS , CZ
 197847	ATN_SE , SE
 197848	NETPOL , PL
@@ -67151,7 +67163,7 @@
 198146	SLONECZKO-NET , PL
 198147	TK2 , EU
 198148	GWCOMMS-EU-BACKBONE A PCCW Global company, BE
-198149	ASIDATAGREEN , ES
+198149	ASBITNAP2 , ES
 198150	-Reserved AS-, ZZ
 198151	NCORE-AS , PL
 198152	MORION-AS , UA
@@ -67715,7 +67727,6 @@
 198736	STREAMNETWORKS , GB
 198737	TS-YHTYMA , FI
 198738	CIPHERSPACE-AS , CH
-198739	-Reserved AS-, ZZ
 198740	SELSNABSBYT-AS , RU
 198742	ASN-GROUPON , PL
 198743	NCBJ , PL
@@ -67729,7 +67740,7 @@
 198751	MPT-TABO-AS , PL
 198752	WRO2012 , PL
 198753	METROPOINT Metropoint, GB
-198754	UKRAINE-HOST-ASN , UA
+198754	WEBCRAFT-UA-ASN , UA
 198755	GORSET-AS , RU
 198756	EASYCONNECT , GB
 198757	ASVYATKATELEKOM , RU
@@ -67789,7 +67800,7 @@
 198813	SYCHROVNET , CZ
 198814	ASALPHASTYLSOFT , CZ
 198815	RUV-AS , IS
-198816	RU-NMS , RU
+198816	RU-PERMTELECOM , RU
 198817	S7-AS , RU
 198818	ISPEG-AS01 Mezgerstr. 34, DE
 198819	OZK-AS , RU
@@ -67909,7 +67920,6 @@
 198939	ITENOS-PROTECT ITENOS Protect VPN Service, DE
 198940	FADATABG-AS , BG
 198941	BIANOR-AS , BG
-198942	-Reserved AS-, ZZ
 198943	EAC-AS , CY
 198944	TN-TELE-DATA-AS *** IPv4 Peering ***, DK
 198945	TELBIT-AS , PL
@@ -68661,7 +68671,7 @@
 199786	STUTE-AS , DE
 199787	STORMNET-AS , PL
 199788	MPS , GB
-199789	ETHERLAND-GR , GR
+199789	-Reserved AS-, ZZ
 199790	IPTELECOM-AS , BG
 199791	EMBRIQ-NO , NO
 199792	CAPDECISION , FR
@@ -70238,7 +70248,7 @@
 201680	TELECASTRO , ES
 201681	POSTEO , DE
 201682	LIQUID-WEB-BV , NL
-201683	CSNETWORKS , GB
+201683	-Reserved AS-, ZZ
 201684	ODPASN , OM
 201685	LANXESS2 , DE
 201686	REITHNET , AT
@@ -70856,7 +70866,7 @@
 202604	NGCLOUD , FR
 202605	MORNET-CZ , CZ
 202606	EXCEPTION-AUT-SYS , NL
-202607	ITOS , RU
+202607	-Reserved AS-, ZZ
 202608	UNILAN-AS , ES
 202609	VERAM , FR
 202610	D3G-NET , DE
@@ -72532,6 +72542,16 @@
 204285	VIRTUAL-IT-AS , NL
 204286	CDN4YOU , ES
 204287	HOSTROYALE_TECHNOLOGIES , PT
+207130	HOSTIO-SOLUTIONS , NL
+207131	VEEAM-AS , RU
+207132	ALLIUMHOSTING , NL
+207133	RUCOMTEL-AS , RU
+207134	PHOENIXNAP-SRB , RS
+207135	GPBGLOBALRES , RU
+207136	AUREA , ES
+207137	MIZBANWEBPAYTAKHT-EHOST , IR
+207138	LIVELINKISP , IQ
+207139	PAYKDARUGROUP , IR
 207140	SKYENET , GB
 207141	NAKHLJONOOB , IR
 207142	ANZHI-AS , RU
@@ -72541,7 +72561,7 @@
 207146	ETARG , DK
 207147	NETCOM-AS , FR
 207148	IOSS-AS , RO
-207149	Not for profit / research AS., CH
+207149	Zaledia.com networks, Switzerland. Not for profit / research AS., CH
 207150	ERIKLARSSON-ANYCAST , SE
 207151	AS_AZYLIS , FR
 207152	CHELNY-AS , RU
@@ -75700,7 +75720,7 @@
 265318	A. O. DE BRITO - TELECOMUNICACOES - ME, BR
 265319	RS LEAL COMERCIO VAREJISTA DE MATERIAL DE INFORMAT, BR
 265320	NETCON COMERCIO DE PRODUTOS PARA INFORMATICA LTDA, BR
-265321	iNetRadio Provedor de Acesso as Redes, BR
+265321	iNetRadio Provedor de Acesso, BR
 265322	AMDOCS (BRASIL) LIMITADA, BR
 265323	F. S. da Silva Júnior - ME, BR
 265324	holnet internet provider, BR
@@ -75818,6 +75838,10 @@
 265436	SkyNet Telecomunicações, BR
 265437	tecnet provedor telecom ltda me, BR
 265438	UP SOLUÇOES EM TECNOLOGIA EIRELI ME, BR
+265439	LIBERTYNET TELECOM LTDA-ME, BR
+265440	Telnet Sistemas e Comunicações, BR
+265441	SHTURBO INTERNET EMPEENDIMENTOS, BR
+265442	VISUAL LINK COMUNICACOES MULTIMIDIA LTDA - ME, BR
 265501	CONVERGIA DE MEXICO S.A. DE C.V., MX
 265502	CENTRAL DE CORRETAJES SA DE CV, MX
 265503	IQCLOUD SA DE CV, MX
@@ -78479,3 +78503,8 @@
 395480	ALKEON-CAPITAL-MANAGEMENT-LLC - Alkeon Capital Management, LLC, US
 395481	SUNET - i SW, LLC, US
 395482	WELDEDTUBE - Welded Tube of Canada Corp., CA
+395483	AAMLIVE-INC - Advisors Asset Management, Inc., US
+395484	REVNETAS - Revelation Network Management Inc., US
+395485	HOPPER - Hopper Inc., CA
+395486	TREMOR-VIDEO - Tremor Video, US
+395487	GBEM5514 - Goldbar Enterprises, US
