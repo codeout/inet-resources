@@ -5819,12 +5819,6 @@ B08E1A     (base 16)		URadio Systems Co., Ltd
 				Suzhou  Jiangsu  215021
 				CN
 
-40-60-5A   (hex)		Hawkeye Tech Co. Ltd
-40605A     (base 16)		Hawkeye Tech Co. Ltd
-				2F, No. 758 Chung Cheng Road, Chung He
-				New Taipei    23552
-				TW
-
 E0-5D-A6   (hex)		Detlef Fink Elektronik & Softwareentwicklung
 E05DA6     (base 16)		Detlef Fink Elektronik & Softwareentwicklung
 				Brühlstraße 13
@@ -26903,6 +26897,12 @@ A03D6F     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+40-60-5A   (hex)		Hawkeye Tech Co. Ltd
+40605A     (base 16)		Hawkeye Tech Co. Ltd
+				13F-5, No. 736 Chung Cheng Road, Chung He
+				New Taipei    23511
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -31180,12 +31180,6 @@ D4223F     (base 16)		Lenovo Mobile Communication Technology Ltd.
 				Building #3, Room 1214
 				Beijing  AP (Area Pacific)  100193
 				CN
-
-E8-E8-75   (hex)		iS5 Communications Inc.
-E8E875     (base 16)		iS5 Communications Inc.
-				#3-7490 Pacific Circle
-				Mississauga  Ontario  L5T 2A3
-				CA
 
 2C-7B-5A   (hex)		Milper Ltd
 2C7B5A     (base 16)		Milper Ltd
@@ -52772,6 +52766,12 @@ A0E0AF     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+60-3E-7B   (hex)		Gafachi, Inc.
+603E7B     (base 16)		Gafachi, Inc.
+				1 W Main St., STE 650
+				Rochester  NY  14614
+				US
+
 00-19-72   (hex)		Plexus (Xiamen) Co.,ltd.
 001972     (base 16)		Plexus (Xiamen) Co.,ltd.
 				No.6 Xiangxing 2 Road
@@ -53932,6 +53932,12 @@ F48C50     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+E8-E8-75   (hex)		iS5 Communications Inc.
+E8E875     (base 16)		iS5 Communications Inc.
+				#1-1815 Meyerside Drive
+				Mississauga  Ontario  L5T 1G3
+				CA
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -80508,6 +80514,18 @@ A08CF8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 54B56C     (base 16)		Xi'an NovaStar Tech Co., Ltd
 				4F, Block D, Qinfeng Pavilion, Xi'an Software Park, No.68 Keji 2nd Rd.,
 				 Xi'an  Shanxi  710075
+				CN
+
+FC-3C-E9   (hex)		Tsingtong Technologies Co, Ltd.
+FC3CE9     (base 16)		Tsingtong Technologies Co, Ltd.
+				Rm A03-72, Floor B1, Building 1, No.13 Dazhongsi, Haidian District
+				Beijing    100098
+				CN
+
+FC-10-C6   (hex)		Taicang T&W Electronics
+FC10C6     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -107446,6 +107464,18 @@ D436DB     (base 16)		Jiangsu Toppower Automotive Electronics Co., Ltd
 				3F., NO.1, R&D ROAD 2, HSINCHU SCIENCE PARK
 				HSINCHU    30076
 				TW
+
+CC-A2-19   (hex)		SHENZHEN ALONG INVESTMENT CO.,LTD
+CCA219     (base 16)		SHENZHEN ALONG INVESTMENT CO.,LTD
+				Room 1301,13F,Zhenye international Business Center,No.3101-90,Qianhai Road,Nanshan District
+				Shenzhen  Guangdong Province  518052
+				CN
+
+94-A0-4E   (hex)		Bostex Technology Co., LTD
+94A04E     (base 16)		Bostex Technology Co., LTD
+				NO.148 West MinZhou Road
+				Cixi City  Zhejiang Province  315301
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -134647,3 +134677,9 @@ A4580F     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+DC-D2-55   (hex)		Kinpo Electronics, Inc.
+DCD255     (base 16)		Kinpo Electronics, Inc.
+				No.147, Sec. 3, Beishen Rd
+				Shenkeng Dist.  New Taipei City  222
+				TW
