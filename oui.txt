@@ -24581,24 +24581,6 @@ BC307D     (base 16)		Wistron Neweb Corporation
 				Chandler  AZ  85224
 				US
 
-00-26-2D   (hex)		Wistron Neweb Corporation
-00262D     (base 16)		Wistron Neweb Corporation
-				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
-				Taipei Hsien    221
-				TW
-
-5C-FF-35   (hex)		Wistron Neweb Corporation
-5CFF35     (base 16)		Wistron Neweb Corporation
-				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
-				Taipei Hsien    221
-				TW
-
-00-0A-E4   (hex)		Wistron Neweb Corporation
-000AE4     (base 16)		Wistron Neweb Corporation
-				21F, No. 88, Section 1, Hsin Tai  Wu Rd.
-				Taipei    221
-				TW
-
 30-9B-AD   (hex)		BBK EDUCATIONAL ELECTRONICS CORP.,LTD.
 309BAD     (base 16)		BBK EDUCATIONAL ELECTRONICS CORP.,LTD.
 				 LiWu INDUSTRIAL PARK,Wusha,Chang'an
@@ -25201,12 +25183,6 @@ E89309     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
-
-00-D0-B2   (hex)		19514
-00D0B2     (base 16)		19514
-				6455 FLYING CLOUD DRIVE
-				EDEN PRAIRIE  MN  55344
-				US
 
 00-19-88   (hex)		Wi2Wi, Inc
 001988     (base 16)		Wi2Wi, Inc
@@ -26992,6 +26968,42 @@ E02202     (base 16)		ARRIS Group, Inc.
 				MAx-Planck-Str. 6-8
 				Frickenhausen    72636
 				DE
+
+CC-B8-A8   (hex)		AMPAK Technology, Inc.
+CCB8A8     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
+
+5C-FF-35   (hex)		Wistron Corporation
+5CFF35     (base 16)		Wistron Corporation
+				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
+				Taipei Hsien    221
+				TW
+
+78-F2-9E   (hex)		PEGATRON CORPORATION
+78F29E     (base 16)		PEGATRON CORPORATION
+				5F No. 76, Ligong St., Beitou District
+				Taipei City  Taiwan  112
+				TW
+
+00-D0-B2   (hex)		Xiotech Corporation
+00D0B2     (base 16)		Xiotech Corporation
+				6455 FLYING CLOUD DRIVE
+				EDEN PRAIRIE  MN  55344
+				US
+
+00-0A-E4   (hex)		Wistron Corporation
+000AE4     (base 16)		Wistron Corporation
+				21F, No. 88, Section 1, Hsin Tai  Wu Rd.
+				Taipei    221
+				TW
+
+00-26-2D   (hex)		Wistron Corporation
+00262D     (base 16)		Wistron Corporation
+				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
+				Taipei Hsien    221
+				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -51728,18 +51740,6 @@ C4BB4C     (base 16)		Zebra Information Tech Co. Ltd
 				Mansfield  MA  02048
 				US
 
-00-16-D3   (hex)		Wistron Neweb Corporation
-0016D3     (base 16)		Wistron Neweb Corporation
-				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
-				Taipei Hsien    221
-				TW
-
-00-1F-16   (hex)		Wistron Neweb Corporation
-001F16     (base 16)		Wistron Neweb Corporation
-				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
-				Taipei Hsien    221
-				TW
-
 BC-30-7E   (hex)		Wistron Neweb Corporation
 BC307E     (base 16)		Wistron Neweb Corporation
 				20 Park Avenue II.
@@ -54154,6 +54154,36 @@ C0D9F7     (base 16)		ShanDong Domor Intelligent S&T CO.,Ltd
 				ONE ZEBRA PLAZA
 				HOLTSVILLE  NY  11742
 				US
+
+58-00-E3   (hex)		Liteon Technology Corporation
+5800E3     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
+64-77-7D   (hex)		Hitron Technologies. Inc
+64777D     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  Taiwan  300
+				TW
+
+04-95-E6   (hex)		Tenda Technology Co.,Ltd.Dongguan branch
+0495E6     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
+				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
+				Dongguan  Guangdong  523770
+				CN
+
+00-16-D3   (hex)		Wistron Corporation
+0016D3     (base 16)		Wistron Corporation
+				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
+				Taipei Hsien    221
+				TW
+
+00-1F-16   (hex)		Wistron Corporation
+001F16     (base 16)		Wistron Corporation
+				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
+				Taipei Hsien    221
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -80821,6 +80851,12 @@ F8983A     (base 16)		Leeman International (HongKong) Limited
 				3800 Concorde Parkway, Suite 400
 				Chantilly  VA  20151
 				US
+
+CC-9F-7A   (hex)		Chiun Mai Communication Systems, Inc
+CC9F7A     (base 16)		Chiun Mai Communication Systems, Inc
+				No.4, Minsheng St., Tucheng District
+				New Taipei City    23678
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -107861,6 +107897,24 @@ CCA219     (base 16)		SHENZHEN ALONG INVESTMENT CO.,LTD
 				West Hils  CA  91307
 				US
 
+60-D2-62   (hex)		Tzukuri Pty Ltd
+60D262     (base 16)		Tzukuri Pty Ltd
+				6 Lenthall Street
+				Kensington  NSW  2033
+				AU
+
+34-FC-B9   (hex)		Hewlett Packard Enterprise
+34FCB9     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
+34-04-9E   (hex)		IEEE Registration Authority
+34049E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -134474,12 +134528,6 @@ D88039     (base 16)		Microchip Technology Inc.
 				Chandler  AZ  85224
 				US
 
-00-1D-72   (hex)		Wistron Neweb Corporation
-001D72     (base 16)		Wistron Neweb Corporation
-				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
-				Taipei Hsien    221
-				TW
-
 FC-3D-93   (hex)		LONGCHEER TELECOMMUNICATION LIMITED
 FC3D93     (base 16)		LONGCHEER TELECOMMUNICATION LIMITED
 				Building 1,No.401,Caobao Rd
@@ -135139,3 +135187,9 @@ C0E54E     (base 16)		ARIES Embedded GmbH
 				Schöngeisinger Str. 84
 				 Fürstenfeldbruck    D-82256
 				DE
+
+00-1D-72   (hex)		Wistron Corporation
+001D72     (base 16)		Wistron Corporation
+				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
+				Taipei Hsien    221
+				TW
