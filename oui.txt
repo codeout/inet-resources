@@ -8030,12 +8030,6 @@ F0BCC8     (base 16)		MaxID (Pty) Ltd
 				Arlington Heights  IL  60004
 				US
 
-68-1F-D8   (hex)		Advanced Telemetry
-681FD8     (base 16)		Advanced Telemetry
-				10670 Treena Street
-				San Diego  CA  92131
-				US
-
 0C-82-30   (hex)		SHENZHEN MAGNUS TECHNOLOGIES CO.,LTD
 0C8230     (base 16)		SHENZHEN MAGNUS TECHNOLOGIES CO.,LTD
 				c-504,Skyworth Building,No.8 Road,High-tech south,Nanshan District,
@@ -27016,6 +27010,12 @@ F49651     (base 16)		NAKAYO Inc
 				1-3-2, Soja-machi
 				Maebashi-shi  Gunma  371-0853
 				JP
+
+68-1F-D8   (hex)		Siemens Industry, Inc.
+681FD8     (base 16)		Siemens Industry, Inc.
+				1000 Deerfield Pkwy
+				Buffalo Grove  IL  60089
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -68606,12 +68606,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Eden Prairie  Minnesota  55344
 				US
 
-00-0D-2C   (hex)		Patapsco Designs Ltd
-000D2C     (base 16)		Patapsco Designs Ltd
-				Passfied Oak
-				Nr Liphook  Hampshire  GU30 7RL
-				GB
-
 00-0D-25   (hex)		SANDEN CORPORATION
 000D25     (base 16)		SANDEN CORPORATION
 				20 Kotobuki-cho
@@ -80899,6 +80893,12 @@ C8AA55     (base 16)		Hunan Comtom Electronic Incorporated Co.,Ltd
 				18738 SAN JOSE AVE
 				CITY OF INDUSTRY  CA  91748
 				US
+
+00-0D-2C   (hex)		Net2Edge Limited
+000D2C     (base 16)		Net2Edge Limited
+				Kulite House Stroudley Road
+				Basingstoke  Hampshire  RG24 8UG
+				GB
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -135235,3 +135235,9 @@ F86214     (base 16)		Apple, Inc.
 				21F, 88, Sec.1, Hsin Tai Wu Rd., Hsichih,
 				Taipei Hsien    221
 				TW
+
+0C-73-BE   (hex)		Dongguan Haimai Electronie Technology Co.,Ltd
+0C73BE     (base 16)		Dongguan Haimai Electronie Technology Co.,Ltd
+				Room 701，Yifeng Building7, No.8 Industrial Zone, Xianbian Road, Changan Town Xiaobian edge
+				Dongguan  Guangdong  518000
+				CN
