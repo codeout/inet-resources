@@ -27029,12 +27029,6 @@ FCB58A     (base 16)		Wapice Ltd.
 				Vaasa    65200
 				FI
 
-08-9E-08   (hex)		Google, Inc.
-089E08     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View  CA  94043
-				US
-
 DC-EF-CA   (hex)		Murata Manufacturing Co., Ltd.
 DCEFCA     (base 16)		Murata Manufacturing Co., Ltd.
 				1-10-1, Higashikotari
@@ -27046,6 +27040,24 @@ E865D4     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
 				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
 				Dongguan  Guangdong  523770
 				CN
+
+28-52-61   (hex)		Cisco Systems, Inc
+285261     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+28-6F-7F   (hex)		Cisco Systems, Inc
+286F7F     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+08-9E-08   (hex)		Google, Inc.
+089E08     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -36442,12 +36454,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Steyning Way
 				Bognor Regis  West Sussex  PO20 9ST
 				GB
-
-00-24-45   (hex)		CommScope Canada Inc.
-002445     (base 16)		CommScope Canada Inc.
-				8400 Boul. Du Golf
-				Montreal  Quebec  H1J 3A1
-				CA
 
 00-24-3F   (hex)		Storwize, Inc.
 00243F     (base 16)		Storwize, Inc.
@@ -54256,6 +54262,18 @@ B04089     (base 16)		Senient Systems LTD
 				152 Morrison St
 				Edinburgh  Other (Non US)  EH3 8EB
 				GB
+
+0C-3C-CD   (hex)		Universal Global Scientific Industrial Co., Ltd.
+0C3CCD     (base 16)		Universal Global Scientific Industrial Co., Ltd.
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
+
+00-24-45   (hex)		Adtran Inc
+002445     (base 16)		Adtran Inc
+				901 Explorer Blvd.
+				Huntsville  AL  5806-2807
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -80996,6 +81014,12 @@ D0FF98     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+14-AB-C5   (hex)		Intel Corporate
+14ABC5     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -103352,12 +103376,6 @@ AA0002     (base 16)		DIGITAL EQUIPMENT CORPORATION
 				    HOLLAND
 				NL
 
-80-00-10   (hex)		ATT BELL LABORATORIES
-800010     (base 16)		ATT BELL LABORATORIES
-				1100 EAST WARRENVILLE ROAD
-				NAPERVILLE  IL  60566
-				US
-
 AA-00-03   (hex)		DIGITAL EQUIPMENT CORPORATION
 AA0003     (base 16)		DIGITAL EQUIPMENT CORPORATION
 				LKG 1-2/A19
@@ -108094,6 +108112,12 @@ F0C850     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+80-00-10   (hex)		ATT BELL LABORATORIES
+800010     (base 16)		ATT BELL LABORATORIES
+				1100 EAST WARRENVILLE ROAD
+				NAPERVILLE  IL  60566
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -118108,12 +118132,6 @@ DC3350     (base 16)		TechSAT GmbH
 				182-13, Daerung Post Tower II, 1504
 				Seoul  Guro-dong, Guro-gu  152-847
 				KR
-
-00-23-65   (hex)		ELKA-Elektronik GmbH
-002365     (base 16)		ELKA-Elektronik GmbH
-				Lüdenscheid 104
-				Lüdenscheid  NRW  58515
-				DE
 
 00-23-6A   (hex)		SmartRG Inc
 00236A     (base 16)		SmartRG Inc
@@ -135403,3 +135421,9 @@ E44790     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				5/F LeEco Building, 105 Yaojiayuan Road, Chaoyang District 
 				Beijing  Beijing  100025
 				CN
+
+00-23-65   (hex)		Insta Elektro GmbH
+002365     (base 16)		Insta Elektro GmbH
+				Hohe Steinert 10
+				Lüdenscheid  NRW  5859
+				DE
