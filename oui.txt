@@ -18203,12 +18203,6 @@ A8CE90     (base 16)		CVC
 				Billerica  MA  01821
 				US
 
-00-01-4F   (hex)		ADTRAN INC
-00014F     (base 16)		ADTRAN INC
-				901 Explorer Blvd.
-				Huntsville  AL  35806-2807
-				US
-
 00-01-5A   (hex)		Digital Video Broadcasting
 00015A     (base 16)		Digital Video Broadcasting
 				DVB, % European Broadcasting Union
@@ -27058,6 +27052,18 @@ E865D4     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
+
+00-01-4F   (hex)		Adtran Inc
+00014F     (base 16)		Adtran Inc
+				901 Explorer Blvd.
+				Huntsville  AL  35806-2807
+				US
+
+D8-E0-E1   (hex)		Samsung Electronics Co.,Ltd
+D8E0E1     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  443742
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -54269,10 +54275,16 @@ B04089     (base 16)		Senient Systems LTD
 				Nan-Tou  Taiwan  54261
 				TW
 
+68-27-37   (hex)		Samsung Electronics Co.,Ltd
+682737     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  443742
+				KR
+
 00-24-45   (hex)		Adtran Inc
 002445     (base 16)		Adtran Inc
 				901 Explorer Blvd.
-				Huntsville  AL  5806-2807
+				Huntsville  AL  35806-2807
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -101978,12 +101990,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				    
 				DE
 
-00-A0-C8   (hex)		ADTRAN INC.
-00A0C8     (base 16)		ADTRAN INC.
-				901 EXPLORER BLVD.
-				HUNTSVILLE  AL  35806-2807
-				US
-
 00-A0-17   (hex)		J B M CORPORATION
 00A017     (base 16)		J B M CORPORATION
 				10-1, ARAMOTOSHIN MACHI
@@ -108113,10 +108119,22 @@ F0C850     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Kulim  Kedah  09000
 				MY
 
+50-A4-D0   (hex)		IEEE Registration Authority
+50A4D0     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 80-00-10   (hex)		ATT BELL LABORATORIES
 800010     (base 16)		ATT BELL LABORATORIES
 				1100 EAST WARRENVILLE ROAD
 				NAPERVILLE  IL  60566
+				US
+
+00-A0-C8   (hex)		Adtran Inc
+00A0C8     (base 16)		Adtran Inc
+				901 EXPLORER BLVD.
+				HUNTSVILLE  AL  35806-2807
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -120019,12 +120037,6 @@ DC3350     (base 16)		TechSAT GmbH
 				No. 156 Cai He Village, Sha He Town
 				Beijing    102206
 				CN
-
-00-19-92   (hex)		ADTRAN INC.
-001992     (base 16)		ADTRAN INC.
-				901 Explorer Blvd.
-				Huntsville  AL  35806-2807
-				US
 
 00-19-97   (hex)		Soft Device Sdn Bhd
 001997     (base 16)		Soft Device Sdn Bhd
@@ -135421,6 +135433,12 @@ E44790     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				5/F LeEco Building, 105 Yaojiayuan Road, Chaoyang District 
 				Beijing  Beijing  100025
 				CN
+
+00-19-92   (hex)		Adtran Inc
+001992     (base 16)		Adtran Inc
+				901 Explorer Blvd.
+				Huntsville  AL  35806-2807
+				US
 
 00-23-65   (hex)		Insta Elektro GmbH
 002365     (base 16)		Insta Elektro GmbH
