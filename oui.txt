@@ -27065,6 +27065,12 @@ D8E0E1     (base 16)		Samsung Electronics Co.,Ltd
 				Suwon  Gyeonggi-Do  443742
 				KR
 
+04-5D-4B   (hex)		Sony Corporation
+045D4B     (base 16)		Sony Corporation
+				1-7-1 Konan
+				Minato-ku  Tokyo  108-0075
+				JP
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -80978,12 +80984,6 @@ C8AA55     (base 16)		Hunan Comtom Electronic Incorporated Co.,Ltd
 				Basingstoke  Hampshire  RG24 8UG
 				GB
 
-44-D4-37   (hex)		Inteno Broadband Technology AB
-44D437     (base 16)		Inteno Broadband Technology AB
-				Drivhjulsvägen 22
-				Stockholm  SE  12630
-				SE
-
 60-C6-58   (hex)		PHYTRONIX Co.,Ltd.
 60C658     (base 16)		PHYTRONIX Co.,Ltd.
 				1877-3 Ootashimo-machi
@@ -81037,6 +81037,24 @@ A462DF     (base 16)		DS Global. Co., LTD
 				3F, 107, Gasan digital 2-ro, Geumcheon-gu
 				Seoul    08505
 				KR
+
+50-D2-13   (hex)		CviLux Corporation
+50D213     (base 16)		CviLux Corporation
+				9F,No.9,Lane 3,Sec.1,Chung-Cheng East Road, Tamshui
+				New Taipei City    25147
+				TW
+
+44-D4-37   (hex)		Inteno Broadband Technology AB
+44D437     (base 16)		Inteno Broadband Technology AB
+				Stensätravägen 13
+				Skärholmen  SE  127 39 
+				SE
+
+78-AF-58   (hex)		GIMASI SA
+78AF58     (base 16)		GIMASI SA
+				Via Luigi Lavizzari 18
+				Mendrisio  TI  6850
+				CH
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -91387,12 +91405,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-00-22-07   (hex)		Inteno Broadband Technology AB
-002207     (base 16)		Inteno Broadband Technology AB
-				Drivhjulsvägen 22
-				Stockholm  SE  12630
-				SE
 
 00-22-02   (hex)		Excito Elektronik i Skåne AB
 002202     (base 16)		Excito Elektronik i Skåne AB
@@ -108154,6 +108166,18 @@ D8C771     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+80-3A-0A   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+803A0A     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+00-22-07   (hex)		Inteno Broadband Technology AB
+002207     (base 16)		Inteno Broadband Technology AB
+				Stensätravägen 13
+				Skärholmen  SE  127 39 
+				SE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -135469,3 +135493,9 @@ E44790     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				15C Yuehua Park Nanshan Road Nanshan District
 				SHENZHEN  guangdong  518000
 				CN
+
+6C-16-0E   (hex)		ShotTracker
+6C160E     (base 16)		ShotTracker
+				7220 W Frontage Rd
+				Merriam  KS  66203
+				US
