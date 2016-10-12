@@ -57773,12 +57773,6 @@ A43A69     (base 16)		Vers Inc
 				Quebec  Quebec  G1N 4L2
 				CA
 
-2C-9A-A4   (hex)		NGI SpA
-2C9AA4     (base 16)		NGI SpA
-				via Gran San Bernardo 12
-				Busto Arsizio  VA  21052
-				IT
-
 B4-66-98   (hex)		Zealabs srl
 B46698     (base 16)		Zealabs srl
 				via Monte Grappa, 25
@@ -70250,12 +70244,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				Oldsmar  FL  34677
 				US
 
-00-07-1C   (hex)		AT&T Fixed Wireless Services
-00071C     (base 16)		AT&T Fixed Wireless Services
-				P.O. Box 90759
-				Redmond  WA  98073-9759
-				US
-
 00-07-0A   (hex)		Unicom Automation Co., Ltd.
 00070A     (base 16)		Unicom Automation Co., Ltd.
 				Silk Bldg 3-31-11
@@ -81055,6 +81043,18 @@ A462DF     (base 16)		DS Global. Co., LTD
 				Via Luigi Lavizzari 18
 				Mendrisio  TI  6850
 				CH
+
+00-07-1C   (hex)		AT&T
+00071C     (base 16)		AT&T
+				3300 E Renner Road
+				Richardson  TX  75082
+				US
+
+2C-9A-A4   (hex)		Eolo SpA
+2C9AA4     (base 16)		Eolo SpA
+				via Gran San Bernardo 12
+				Busto Arsizio  VA  21052
+				IT
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -101459,12 +101459,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Tustin  CA  92780
 				US
 
-00-60-D3   (hex)		AT&T
-0060D3     (base 16)		AT&T
-				101 CRAWFORDS CORNER ROAD, Rd. 1J321
-				HOLMDEL  NJ  07733-3030
-				US
-
 00-60-18   (hex)		STELLAR ONE CORPORATION
 006018     (base 16)		STELLAR ONE CORPORATION
 				500 108TH AVE. NE--STE. #2200
@@ -103093,12 +103087,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				PARC D'AFFAIRES - B.P. 262
 				    
 				FR
-
-08-00-6A   (hex)		ATT BELL LABORATORIES
-08006A     (base 16)		ATT BELL LABORATORIES
-				1100 EAST WARRENVILLE ROAD
-				NAPERVILLE  IL  60566
-				US
 
 08-00-5F   (hex)		SABER TECHNOLOGY CORP.
 08005F     (base 16)		SABER TECHNOLOGY CORP.
@@ -108137,12 +108125,6 @@ D8C771     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Kulim  Kedah  09000
 				MY
 
-80-00-10   (hex)		ATT BELL LABORATORIES
-800010     (base 16)		ATT BELL LABORATORIES
-				1100 EAST WARRENVILLE ROAD
-				NAPERVILLE  IL  60566
-				US
-
 00-A0-C8   (hex)		Adtran Inc
 00A0C8     (base 16)		Adtran Inc
 				901 EXPLORER BLVD.
@@ -108178,6 +108160,30 @@ D8C771     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Stensätravägen 13
 				Skärholmen  SE  127 39 
 				SE
+
+3C-7F-6F   (hex)		Telechips, Inc.
+3C7F6F     (base 16)		Telechips, Inc.
+				19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu,
+				Seoul  Seoul  05510
+				KR
+
+00-60-D3   (hex)		AT&T
+0060D3     (base 16)		AT&T
+				3300 E Renner Road
+				Richardson  TX  75082
+				US
+
+80-00-10   (hex)		AT&T
+800010     (base 16)		AT&T
+				3300 E Renner Road
+				Richardson  TX  75082
+				US
+
+08-00-6A   (hex)		AT&T
+08006A     (base 16)		AT&T
+				3300 E Renner Road
+				Richardson  TX  75082
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -135498,4 +135504,10 @@ E44790     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 6C160E     (base 16)		ShotTracker
 				7220 W Frontage Rd
 				Merriam  KS  66203
+				US
+
+7C-10-15   (hex)		Brilliant Home Technology, Inc.
+7C1015     (base 16)		Brilliant Home Technology, Inc.
+				762 Judith Ct
+				Incline Village  NV  89451
 				US
