@@ -27149,9 +27149,33 @@ A49B13     (base 16)		Digital Check
 				Manaus  Amazonas  69075-000
 				BR
 
+60-49-C1   (hex)		Avaya Inc
+6049C1     (base 16)		Avaya Inc
+				211 Mount Airy Road 
+				Basking Ridge  NJ  07920
+				US
+
+DC-C6-4B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DCC64B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+04-33-89   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+043389     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+A0-A3-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A0A33B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 68-54-C1   (hex)		ColorTokens, Inc.
 6854C1     (base 16)		ColorTokens, Inc.
-				2101 Tasman Dr.
+				2101 Tasman Dr. Suite 200A
 				Santa Clara  CA  95054
 				US
 
@@ -54449,6 +54473,36 @@ AC60B6     (base 16)		Ericsson AB
 				Lincolnshire  IL  60089
 				US
 
+70-3A-CB   (hex)		Google, Inc.
+703ACB     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+10-5A-F7   (hex)		ADB Italia 
+105AF7     (base 16)		ADB Italia 
+				Viale Sarca 222
+				Milan  Italy  20126
+				IT
+
+2C-55-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+2C55D3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+F4-4C-7F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F44C7F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+14-30-04   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+143004     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 D4-81-D7   (hex)		Dell Inc.
 D481D7     (base 16)		Dell Inc.
 				One Dell Way
@@ -81290,6 +81344,24 @@ B0C46C     (base 16)		Senseit
 				Hefei  Anhui  230000
 				CN
 
+F8-75-88   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F87588     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+BC-3F-8F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BC3F8F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+E4-A7-49   (hex)		Palo Alto Networks 
+E4A749     (base 16)		Palo Alto Networks 
+				4401 Great America Pkwy
+				Santa Clara  CA  95054
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -101243,12 +101315,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				CHUO-KU, TOKYO 103    
 				JP
 
-00-10-8C   (hex)		FUJITSU TELECOMMUNICATIONS EUROPE, LTD.
-00108C     (base 16)		FUJITSU TELECOMMUNICATIONS EUROPE, LTD.
-				SOLIHULL PARKWAY
-				BIRMINGHAM B37 7YU  England  
-				GB
-
 00-10-75   (hex)		Segate Technology LLC
 001075     (base 16)		Segate Technology LLC
 				10200 S De Anza Blvd
@@ -108509,6 +108575,12 @@ D47AE2     (base 16)		Samsung Electronics Co.,Ltd
 				San Diego  CA  92121
 				US
 
+EC-01-EE   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+EC01EE     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 B8-22-4F   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 B8224F     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
@@ -108526,6 +108598,18 @@ F42B48     (base 16)		Ubiqam
 				15 Gonen 
 				Petah Tiqva    4925915
 				IL
+
+68-CC-6E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+68CC6E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+00-10-8C   (hex)		Fujitsu Services Ltd
+00108C     (base 16)		Fujitsu Services Ltd
+				SOLIHULL PARKWAY
+				BIRMINGHAM B37 7YU  England  0000
+				GB
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -135901,3 +135985,9 @@ B81DAA     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
 				Seoul  Seoul  153-801
 				KR
+
+40-7D-0F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+407D0F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
