@@ -27155,18 +27155,6 @@ A49B13     (base 16)		Digital Check
 				Basking Ridge  NJ  07920
 				US
 
-A0-A3-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-A0A33B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-68-54-C1   (hex)		ColorTokens, Inc.
-6854C1     (base 16)		ColorTokens, Inc.
-				2101 Tasman Dr. Suite 200A
-				Santa Clara  CA  95054
-				US
-
 DC-C6-4B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 DCC64B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -27178,6 +27166,18 @@ DCC64B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+A0-A3-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A0A33B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+68-54-C1   (hex)		ColorTokens, Inc.
+6854C1     (base 16)		ColorTokens, Inc.
+				2101 Tasman Dr. Suite 200A
+				Santa Clara  CA  95054
+				US
 
 88-78-73   (hex)		Intel Corporate
 887873     (base 16)		Intel Corporate
@@ -27191,17 +27191,35 @@ DCC64B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Hangzhou  Zhejiang  310012
 				CN
 
+E4-5D-51   (hex)		SFR
+E45D51     (base 16)		SFR
+				12 rue jean-philippe Rameau CS 80001
+				La plaine saint denis   FRANCE  93634
+				FR
+
 34-6E-9D   (hex)		Ericsson AB
 346E9D     (base 16)		Ericsson AB
 				Torshamnsgatan 36
 				Stockholm    SE-164 80
 				SE
 
-E4-5D-51   (hex)		SFR
-E45D51     (base 16)		SFR
-				12 rue jean-philippe Rameau CS 80001
-				La plaine saint denis   FRANCE  93634
-				FR
+B8-16-DB   (hex)		CHANT SINCERE CO.,LTD
+B816DB     (base 16)		CHANT SINCERE CO.,LTD
+				7F-2,NO.188,SEC.3,TA TUNG ROAD
+				XIZHI DISTRICT, NEW TAIPEI CITY  TAIWAN,ROC  22103
+				TW
+
+D4-61-FE   (hex)		Hangzhou H3C Technologies Co., Limited
+D461FE     (base 16)		Hangzhou H3C Technologies Co., Limited
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang, P.R.China  310052
+				CN
+
+54-E1-AD   (hex)		LCFC(HeFei) Electronics Technology co., ltd
+54E1AD     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
+				YunGu Road 3188-1
+				Hefei  Anhui  230000
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -45098,12 +45116,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Austin  TX  78731
 				US
 
-00-04-96   (hex)		Extreme Networks
-000496     (base 16)		Extreme Networks
-				3585 Monroe Street
-				Santa Clara  CA  95051
-				US
-
 00-04-8F   (hex)		TD Systems Corporation
 00048F     (base 16)		TD Systems Corporation
 				100 Bearfoot Rd.
@@ -47556,12 +47568,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 00A08D     (base 16)		JACOMO CORPORATION
 				26900 E. PINK HILL ROAD
 				INDEPENDENCE  MO  64057
-				US
-
-00-A0-6F   (hex)		THE APPCON GROUP, INC.
-00A06F     (base 16)		THE APPCON GROUP, INC.
-				23 RICHMOND STREET
-				ROCHESTER  NY  14607
 				US
 
 00-A0-8E   (hex)		Check Point Software Technologies
@@ -54119,12 +54125,6 @@ A0CC2B     (base 16)		Murata Manufacturing Co., Ltd.
 				Camas  WA  98607
 				US
 
-B8-50-01   (hex)		Zebra Technologies Inc.
-B85001     (base 16)		Zebra Technologies Inc.
-				ONE ZEBRA PLAZA
-				HOLTSVILLE  NY  11742
-				US
-
 28-E3-1F   (hex)		Xiaomi Communications Co Ltd
 28E31F     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
@@ -54497,23 +54497,17 @@ AC60B6     (base 16)		Ericsson AB
 				Lincolnshire  IL  60089
 				US
 
-10-5A-F7   (hex)		ADB Italia 
-105AF7     (base 16)		ADB Italia 
-				Viale Sarca 222
-				Milan  Italy  20126
-				IT
-
 70-3A-CB   (hex)		Google, Inc.
 703ACB     (base 16)		Google, Inc.
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
 
-D4-81-D7   (hex)		Dell Inc.
-D481D7     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
+10-5A-F7   (hex)		ADB Italia 
+105AF7     (base 16)		ADB Italia 
+				Viale Sarca 222
+				Milan  Italy  20126
+				IT
 
 2C-55-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 2C55D3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -54532,6 +54526,48 @@ F44C7F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+D4-81-D7   (hex)		Dell Inc.
+D481D7     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
+7C-46-85   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+7C4685     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+				No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan
+				Wuhan  Hubei  430000
+				CN
+
+E0-51-63   (hex)		Arcadyan Corporation
+E05163     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+00-A0-6F   (hex)		Color Sentinel Systems, LLC
+00A06F     (base 16)		Color Sentinel Systems, LLC
+				97 Ridgeland Rd, Suite #2
+				ROCHESTER  NY  14623
+				US
+
+0C-5F-35   (hex)		Niagara Video Corporation
+0C5F35     (base 16)		Niagara Video Corporation
+				5627 Stoneridge Drive, Suite 316
+				Pleasanton  CA  94588
+				US
+
+B8-50-01   (hex)		Extreme Networks
+B85001     (base 16)		Extreme Networks
+				ONE ZEBRA PLAZA
+				HOLTSVILLE  NY  11742
+				US
+
+00-04-96   (hex)		Extreme Networks
+000496     (base 16)		Extreme Networks
+				3585 Monroe Street
+				Santa Clara  CA  95051
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -56356,12 +56392,6 @@ C02DEE     (base 16)		Cuff
 				Scotia Centre P.O. Box 268GT,Grand Cayman, Cayman Islands
 				Grand Cayman  Grand Cayman  999159
 				KY
-
-74-67-F7   (hex)		Zebra Technologoes
-7467F7     (base 16)		Zebra Technologoes
-				1 Zebra Plaza
-				Holtsville  NY  11742
-				US
 
 38-91-D5   (hex)		Hangzhou H3C Technologies Co., Limited
 3891D5     (base 16)		Hangzhou H3C Technologies Co., Limited
@@ -60722,12 +60752,6 @@ E84E06     (base 16)		EDUP INTERNATIONAL (HK) CO., LTD
 				Shenzhen  Guangdong  518028
 				CN
 
-B4-C7-99   (hex)		Zebra Technologies Inc
-B4C799     (base 16)		Zebra Technologies Inc
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
 70-B9-21   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 70B921     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
@@ -61951,12 +61975,6 @@ E4AD7D     (base 16)		SCL Elements
 				Science & Technology Region of HUST, Donghu High-Tech Zone 
 				Wuhan  Hubei  430223
 				CN
-
-5C-0E-8B   (hex)		Zebra Technologies Inc
-5C0E8B     (base 16)		Zebra Technologies Inc
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
 
 38-C7-BA   (hex)		CS Services Co.,Ltd.
 38C7BA     (base 16)		CS Services Co.,Ltd.
@@ -73919,12 +73937,6 @@ A06A00     (base 16)		Verilink Corporation
 				AUSTIN  TX  78750
 				US
 
-00-E0-2B   (hex)		EXTREME NETWORKS
-00E02B     (base 16)		EXTREME NETWORKS
-				10460 BANDLEY DRIVE
-				CUPERINT0  CA  95014
-				US
-
 00-E0-C7   (hex)		EUROTECH SRL
 00E0C7     (base 16)		EUROTECH SRL
 				VIA JACOPO LINUSSIO 1
@@ -81392,6 +81404,36 @@ E4A749     (base 16)		Palo Alto Networks
 				Kanata  Ontario  K2K 2E6
 				CA
 
+74-67-F7   (hex)		Extreme Networks
+7467F7     (base 16)		Extreme Networks
+				1 Zebra Plaza
+				Holtsville  NY  11742
+				US
+
+B4-C7-99   (hex)		Extreme Networks
+B4C799     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+54-E3-F6   (hex)		Alcatel-Lucent
+54E3F6     (base 16)		Alcatel-Lucent
+				777 East Middlefield Road
+				Mountain View  CA  94043
+				US
+
+5C-0E-8B   (hex)		Extreme Networks
+5C0E8B     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+00-E0-2B   (hex)		Extreme Networks
+00E02B     (base 16)		Extreme Networks
+				10460 BANDLEY DRIVE
+				CUPERINT0  CA  95014
+				US
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -87645,12 +87687,6 @@ B826D4     (base 16)		Furukawa Industrial S.A. Produtos Elétricos
 14E4EC     (base 16)		mLogic LLC
 				8440 Warner Drive
 				Culver City  CA  90232
-				US
-
-FC-0A-81   (hex)		Zebra Technologies Inc
-FC0A81     (base 16)		Zebra Technologies Inc
-				475 Half Day Road
-				Lincolnshire  IL  60069
 				US
 
 AC-0D-FE   (hex)		Ekon GmbH - myGEKKO
@@ -108605,6 +108641,12 @@ D47AE2     (base 16)		Samsung Electronics Co.,Ltd
 				San Diego  CA  92121
 				US
 
+EC-01-EE   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+EC01EE     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
 B8-22-4F   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 B8224F     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
@@ -108615,12 +108657,6 @@ B8224F     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 702084     (base 16)		Hon Hai Precision Ind. Co., Ltd.
 				GuangDongShenZhen
 				ShenZhen  GuangDong  518109
-				CN
-
-EC-01-EE   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-EC01EE     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
 				CN
 
 F4-2B-48   (hex)		Ubiqam
@@ -108653,17 +108689,17 @@ F4DC41     (base 16)		YOUNGZONE CULTURE (SHANGHAI) CORP
 				Shanghai  Shanghai  200062
 				CN
 
-40-F3-85   (hex)		IEEE Registration Authority
-40F385     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 98-00-C1   (hex)		GuangZhou CREATOR Technology Co.,Ltd.(CHINA)
 9800C1     (base 16)		GuangZhou CREATOR Technology Co.,Ltd.(CHINA)
 				Level 3,Blg 6,No 9 Keji Yuan,LanYusi St,
 				GuangZhou  GuangDong  510730
 				CN
+
+40-F3-85   (hex)		IEEE Registration Authority
+40F385     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 30-34-D2   (hex)		Availink, Inc.
 3034D2     (base 16)		Availink, Inc.
@@ -108675,6 +108711,24 @@ F4DC41     (base 16)		YOUNGZONE CULTURE (SHANGHAI) CORP
 40B034     (base 16)		Hewlett Packard
 				11445 Compaq Center Drive
 				Houston  TX  77070
+				US
+
+CC-CE-1E   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+CCCE1E     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
+50-1E-2D   (hex)		StreamUnlimited Engineering GmbH
+501E2D     (base 16)		StreamUnlimited Engineering GmbH
+				Gutheil-Schoder-Gasse 10
+				Vienna    1100
+				AT
+
+FC-0A-81   (hex)		Extreme Networks
+FC0A81     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -127265,12 +127319,6 @@ DC3350     (base 16)		TechSAT GmbH
 				São Paulo    
 				BR
 
-00-01-30   (hex)		Extreme Networks
-000130     (base 16)		Extreme Networks
-				3585 Monroe Street
-				Santa Clara  CA  95051
-				US
-
 00-01-37   (hex)		IT Farm Corporation
 000137     (base 16)		IT Farm Corporation
 				Asashiseimei Fuchu Bldg. 11F
@@ -136068,4 +136116,16 @@ F8-BB-BF   (hex)		eero inc.
 F8BBBF     (base 16)		eero inc.
 				500 Howard St Suite 900
 				San Francisco  CA  94105
+				US
+
+0C-F4-D5   (hex)		Ruckus Wireless
+0CF4D5     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+00-01-30   (hex)		Extreme Networks
+000130     (base 16)		Extreme Networks
+				3585 Monroe Street
+				Santa Clara  CA  95051
 				US
