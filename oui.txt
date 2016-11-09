@@ -27221,6 +27221,12 @@ D461FE     (base 16)		Hangzhou H3C Technologies Co., Limited
 				Hefei  Anhui  230000
 				CN
 
+94-F5-51   (hex)		Cadi Scientific Pte Ltd
+94F551     (base 16)		Cadi Scientific Pte Ltd
+				31 Ubi Road 1, Aztech Building, #07-01A
+				Singapore    408694
+				SG
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -54557,6 +54563,24 @@ E05163     (base 16)		Arcadyan Corporation
 				Pleasanton  CA  94588
 				US
 
+7C-38-66   (hex)		Texas Instruments
+7C3866     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+50-F1-4A   (hex)		Texas Instruments
+50F14A     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+9C-1D-58   (hex)		Texas Instruments
+9C1D58     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
 B8-50-01   (hex)		Extreme Networks
 B85001     (base 16)		Extreme Networks
 				ONE ZEBRA PLAZA
@@ -81392,17 +81416,23 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
+50-40-61   (hex)		Nokia
+504061     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
 00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
 0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
 				555 RIVER OAKS PARKWAY
 				SAN JOSE  CA  95134
 				US
 
-50-40-61   (hex)		Nokia
-504061     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
+54-E3-F6   (hex)		Alcatel-Lucent
+54E3F6     (base 16)		Alcatel-Lucent
+				777 East Middlefield Road
+				Mountain View  CA  94043
+				US
 
 74-67-F7   (hex)		Extreme Networks
 7467F7     (base 16)		Extreme Networks
@@ -81416,12 +81446,6 @@ B4C799     (base 16)		Extreme Networks
 				Lincolnshire  IL  60069
 				US
 
-54-E3-F6   (hex)		Alcatel-Lucent
-54E3F6     (base 16)		Alcatel-Lucent
-				777 East Middlefield Road
-				Mountain View  CA  94043
-				US
-
 5C-0E-8B   (hex)		Extreme Networks
 5C0E8B     (base 16)		Extreme Networks
 				475 Half Day Road
@@ -81432,6 +81456,18 @@ B4C799     (base 16)		Extreme Networks
 00E02B     (base 16)		Extreme Networks
 				10460 BANDLEY DRIVE
 				CUPERINT0  CA  95014
+				US
+
+B0-C2-05   (hex)		BIONIME
+B0C205     (base 16)		BIONIME
+				No.100, Sec.2, Daqing St., South Dist.,
+				Taichung  Taiwan  40242
+				TW
+
+0C-61-CF   (hex)		Texas Instruments
+0C61CF     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -108729,6 +108765,18 @@ FC-0A-81   (hex)		Extreme Networks
 FC0A81     (base 16)		Extreme Networks
 				475 Half Day Road
 				Lincolnshire  IL  60069
+				US
+
+CC-BE-59   (hex)		Calix Inc.
+CCBE59     (base 16)		Calix Inc.
+				1035 North McDowell Boulevard
+				Petaluma  MN  94954
+				US
+
+C8-B5-AD   (hex)		Hewlett Packard Enterprise
+C8B5AD     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
