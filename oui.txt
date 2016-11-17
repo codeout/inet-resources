@@ -22970,9 +22970,6 @@ B8616F     (base 16)		Accton Technology Corp
 				HSIN-CHU    12345
 				TW
 
-F0-A2-25   (hex)		Private
-F0A225     (base 16)		Private
-
 00-00-B1   (hex)		Alpha Micro
 0000B1     (base 16)		Alpha Micro
 				3501 SUNFLOWER
@@ -23836,12 +23833,6 @@ D8803C     (base 16)		Anhui Huami Information Technology Company Limited
 				102-610, 36, Bucheon-ro 198beon-gil, Wonmi-gu
 				Bucheon-si  Gyeonggi-do  14557
 				KR
-
-F0-D2-F1   (hex)		Amazon Technologies Inc.
-F0D2F1     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
 
 58-32-77   (hex)		Reliance Communications LLC
 583277     (base 16)		Reliance Communications LLC
@@ -26537,12 +26528,6 @@ A4D9A4     (base 16)		neXus ID Solutions AB
 				Round Rock  TX  78682
 				US
 
-88-71-E5   (hex)		Amazon Technologies Inc.
-8871E5     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 F4-B5-49   (hex)		Xiamen Yeastar Information Technology Co., Ltd.
 F4B549     (base 16)		Xiamen Yeastar Information Technology Co., Ltd.
 				3/F, No. 46 Guanri Road, 2nd Software Park
@@ -27155,18 +27140,6 @@ A49B13     (base 16)		Digital Check
 				Basking Ridge  NJ  07920
 				US
 
-DC-C6-4B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-DCC64B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-04-33-89   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-043389     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 A0-A3-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 A0A33B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -27178,6 +27151,18 @@ A0A33B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				2101 Tasman Dr. Suite 200A
 				Santa Clara  CA  95054
 				US
+
+DC-C6-4B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+DCC64B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+04-33-89   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+043389     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 88-78-73   (hex)		Intel Corporate
 887873     (base 16)		Intel Corporate
@@ -27191,17 +27176,23 @@ A0A33B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Hangzhou  Zhejiang  310012
 				CN
 
-E4-5D-51   (hex)		SFR
-E45D51     (base 16)		SFR
-				12 rue jean-philippe Rameau CS 80001
-				La plaine saint denis   FRANCE  93634
-				FR
-
 34-6E-9D   (hex)		Ericsson AB
 346E9D     (base 16)		Ericsson AB
 				Torshamnsgatan 36
 				Stockholm    SE-164 80
 				SE
+
+54-E1-AD   (hex)		LCFC(HeFei) Electronics Technology co., ltd
+54E1AD     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
+				YunGu Road 3188-1
+				Hefei  Anhui  230000
+				CN
+
+E4-5D-51   (hex)		SFR
+E45D51     (base 16)		SFR
+				12 rue jean-philippe Rameau CS 80001
+				La plaine saint denis   FRANCE  93634
+				FR
 
 B8-16-DB   (hex)		CHANT SINCERE CO.,LTD
 B816DB     (base 16)		CHANT SINCERE CO.,LTD
@@ -27213,12 +27204,6 @@ D4-61-FE   (hex)		Hangzhou H3C Technologies Co., Limited
 D461FE     (base 16)		Hangzhou H3C Technologies Co., Limited
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang, P.R.China  310052
-				CN
-
-54-E1-AD   (hex)		LCFC(HeFei) Electronics Technology co., ltd
-54E1AD     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
-				YunGu Road 3188-1
-				Hefei  Anhui  230000
 				CN
 
 94-F5-51   (hex)		Cadi Scientific Pte Ltd
@@ -27262,6 +27247,27 @@ D4CF37     (base 16)		Symbolic IO
 				Nya Vattentornet
 				Lund  SE  22128
 				SE
+
+F0-A2-25   (hex)		Private
+F0A225     (base 16)		Private
+
+F0-D2-F1   (hex)		Amazon Technologies Inc.
+F0D2F1     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+88-71-E5   (hex)		Amazon Technologies Inc.
+8871E5     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+7C-50-49   (hex)		Apple, Inc.
+7C5049     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -50255,18 +50261,6 @@ ECCD6D     (base 16)		Allied Telesis, Inc.
 				San Jose  California  95134
 				US
 
-74-C2-46   (hex)		Amazon Technologies Inc.
-74C246     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
-F0-27-2D   (hex)		Amazon Technologies Inc.
-F0272D     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 00-22-5F   (hex)		Liteon Technology Corporation
 00225F     (base 16)		Liteon Technology Corporation
 				4F,90,Chien 1 Road,ChungHo,Taipei Hsien,Taiwan,
@@ -54539,17 +54533,23 @@ AC60B6     (base 16)		Ericsson AB
 				Lincolnshire  IL  60089
 				US
 
+10-5A-F7   (hex)		ADB Italia 
+105AF7     (base 16)		ADB Italia 
+				Viale Sarca 222
+				Milan  Italy  20126
+				IT
+
 70-3A-CB   (hex)		Google, Inc.
 703ACB     (base 16)		Google, Inc.
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
 				US
 
-10-5A-F7   (hex)		ADB Italia 
-105AF7     (base 16)		ADB Italia 
-				Viale Sarca 222
-				Milan  Italy  20126
-				IT
+D4-81-D7   (hex)		Dell Inc.
+D481D7     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 2C-55-D3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 2C55D3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -54568,12 +54568,6 @@ F44C7F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-D4-81-D7   (hex)		Dell Inc.
-D481D7     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
 
 7C-46-85   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 7C4685     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
@@ -54599,6 +54593,18 @@ E05163     (base 16)		Arcadyan Corporation
 				Pleasanton  CA  94588
 				US
 
+B8-50-01   (hex)		Extreme Networks
+B85001     (base 16)		Extreme Networks
+				ONE ZEBRA PLAZA
+				HOLTSVILLE  NY  11742
+				US
+
+00-04-96   (hex)		Extreme Networks
+000496     (base 16)		Extreme Networks
+				3585 Monroe Street
+				Santa Clara  CA  95051
+				US
+
 7C-38-66   (hex)		Texas Instruments
 7C3866     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -54617,18 +54623,6 @@ E05163     (base 16)		Arcadyan Corporation
 				Dallas  TX  75243
 				US
 
-B8-50-01   (hex)		Extreme Networks
-B85001     (base 16)		Extreme Networks
-				ONE ZEBRA PLAZA
-				HOLTSVILLE  NY  11742
-				US
-
-00-04-96   (hex)		Extreme Networks
-000496     (base 16)		Extreme Networks
-				3585 Monroe Street
-				Santa Clara  CA  95051
-				US
-
 50-0F-F5   (hex)		Tenda Technology Co.,Ltd.Dongguan branch
 500FF5     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
 				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
@@ -54640,6 +54634,18 @@ B85001     (base 16)		Extreme Networks
 				No.75,Zhongkai High-Tech Development District,Huizhou
 				Hui Zhou  Guangdong  516006
 				CN
+
+F0-27-2D   (hex)		Amazon Technologies Inc.
+F0272D     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+74-C2-46   (hex)		Amazon Technologies Inc.
+74C246     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -54831,12 +54837,6 @@ A4BA76     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 68B599     (base 16)		Hewlett Packard
 				11445 Compaq Center Drive
 				Houston    77070
-				US
-
-0C-47-C9   (hex)		Amazon Technologies Inc.
-0C47C9     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
 				US
 
 14-D6-4D   (hex)		D-Link International
@@ -57538,12 +57538,6 @@ FCD5D9     (base 16)		Shenzhen SDMC Technology Co., Ltd.
 				Mariettahof 27
 				Haarlem  NH  2033WS
 				NL
-
-A0-02-DC   (hex)		Amazon Technologies Inc.
-A002DC     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
 
 90-7E-BA   (hex)		UTEK TECHNOLOGY (SHENZHEN) CO.,LTD
 907EBA     (base 16)		UTEK TECHNOLOGY (SHENZHEN) CO.,LTD
@@ -76895,9 +76889,6 @@ ECF00E     (base 16)		AboCom
 				FUZHOU  FUJIAN  350002
 				CN
 
-28-EF-01   (hex)		Private
-28EF01     (base 16)		Private
-
 5C-33-8E   (hex)		Alpha Networks Inc.
 5C338E     (base 16)		Alpha Networks Inc.
 				No.8 Li-shing Seventh Road,Science-based
@@ -76909,12 +76900,6 @@ ECF00E     (base 16)		AboCom
 				No.2 TOC Bldg.
 				Shinagawa-ku  Tokyo  141-0031
 				JP
-
-74-75-48   (hex)		Amazon Technologies Inc.
-747548     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  
-				US
 
 A4-31-11   (hex)		ZIV
 A43111     (base 16)		ZIV
@@ -80456,12 +80441,6 @@ C09F05     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-AC-63-BE   (hex)		Amazon Technologies Inc.
-AC63BE     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 A4-14-37   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 A41437     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 				No.469,Jianghui Road
@@ -81464,28 +81443,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
-0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
-				555 RIVER OAKS PARKWAY
-				SAN JOSE  CA  95134
-				US
-
 50-40-61   (hex)		Nokia
 504061     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-74-67-F7   (hex)		Extreme Networks
-7467F7     (base 16)		Extreme Networks
-				1 Zebra Plaza
-				Holtsville  NY  11742
-				US
-
-B4-C7-99   (hex)		Extreme Networks
-B4C799     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
+00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
+0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
+				555 RIVER OAKS PARKWAY
+				SAN JOSE  CA  95134
 				US
 
 54-E3-F6   (hex)		Alcatel-Lucent
@@ -81494,16 +81461,10 @@ B4C799     (base 16)		Extreme Networks
 				Mountain View  CA  94043
 				US
 
-5C-0E-8B   (hex)		Extreme Networks
-5C0E8B     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
-00-E0-2B   (hex)		Extreme Networks
-00E02B     (base 16)		Extreme Networks
-				10460 BANDLEY DRIVE
-				CUPERINT0  CA  95014
+74-67-F7   (hex)		Extreme Networks
+7467F7     (base 16)		Extreme Networks
+				1 Zebra Plaza
+				Holtsville  NY  11742
 				US
 
 B0-C2-05   (hex)		BIONIME
@@ -81518,11 +81479,23 @@ B0C205     (base 16)		BIONIME
 				Dallas  TX  75243
 				US
 
-7C-26-64   (hex)		Sagemcom Broadband SAS
-7C2664     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+B4-C7-99   (hex)		Extreme Networks
+B4C799     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+5C-0E-8B   (hex)		Extreme Networks
+5C0E8B     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+00-E0-2B   (hex)		Extreme Networks
+00E02B     (base 16)		Extreme Networks
+				10460 BANDLEY DRIVE
+				CUPERINT0  CA  95014
+				US
 
 38-29-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 38295A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -81536,11 +81509,56 @@ B0C205     (base 16)		BIONIME
 				Suwon  Gyeonggi-Do  443742
 				KR
 
+7C-26-64   (hex)		Sagemcom Broadband SAS
+7C2664     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+A0-02-DC   (hex)		Amazon Technologies Inc.
+A002DC     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+0C-47-C9   (hex)		Amazon Technologies Inc.
+0C47C9     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
 E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
 E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
 				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
 				Shanghai  Shanghai  201203
 				CN
+
+28-EF-01   (hex)		Private
+28EF01     (base 16)		Private
+
+74-75-48   (hex)		Amazon Technologies Inc.
+747548     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+AC-63-BE   (hex)		Amazon Technologies Inc.
+AC63BE     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+DC-A4-CA   (hex)		Apple, Inc.
+DCA4CA     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+8C-8F-E9   (hex)		Apple, Inc.
+8C8FE9     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -104510,12 +104528,6 @@ D0D412     (base 16)		ADB Broadband Italia
 				SUNNYVALE  CA  94086
 				US
 
-10-AE-60   (hex)		Private
-10AE60     (base 16)		Private
-
-F0-4F-7C   (hex)		Private
-F04F7C     (base 16)		Private
-
 70-F1-A1   (hex)		Liteon Technology Corporation
 70F1A1     (base 16)		Liteon Technology Corporation
 				4F,90,Chien 1 Road,ChungHo,Taipei Hsien,Taiwan,
@@ -105533,12 +105545,6 @@ A082AC     (base 16)		Linear DMS Solutions Sdn. Bhd.
 				Kuala Lumpur    59100
 				MY
 
-44-65-0D   (hex)		Amazon Technologies Inc.
-44650D     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 D8-97-BA   (hex)		PEGATRON CORPORATION
 D897BA     (base 16)		PEGATRON CORPORATION
 				5F No. 76, Ligong St., Beitou District
@@ -105988,12 +105994,6 @@ C02FF1     (base 16)		Volta Networks
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-50-F5-DA   (hex)		Amazon Technologies Inc.
-50F5DA     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
 
 8C-D2-E9   (hex)		NIPPON SMT Co.Ltｄ
 8CD2E9     (base 16)		NIPPON SMT Co.Ltｄ
@@ -108647,12 +108647,6 @@ C87324     (base 16)		 Sow Cheng Technology Co. Ltd.
 				Taichung    412
 				TW
 
-68-54-FD   (hex)		Amazon Technologies Inc.
-6854FD     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 3C-F8-62   (hex)		Intel Corporate
 3CF862     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -108749,12 +108743,6 @@ D47AE2     (base 16)		Samsung Electronics Co.,Ltd
 				San Diego  CA  92121
 				US
 
-EC-01-EE   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-EC01EE     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
-
 B8-22-4F   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 B8224F     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
@@ -108765,6 +108753,12 @@ B8224F     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
 702084     (base 16)		Hon Hai Precision Ind. Co., Ltd.
 				GuangDongShenZhen
 				ShenZhen  GuangDong  518109
+				CN
+
+EC-01-EE   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+EC01EE     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
 				CN
 
 F4-2B-48   (hex)		Ubiqam
@@ -108797,29 +108791,23 @@ F4DC41     (base 16)		YOUNGZONE CULTURE (SHANGHAI) CORP
 				Shanghai  Shanghai  200062
 				CN
 
-98-00-C1   (hex)		GuangZhou CREATOR Technology Co.,Ltd.(CHINA)
-9800C1     (base 16)		GuangZhou CREATOR Technology Co.,Ltd.(CHINA)
-				Level 3,Blg 6,No 9 Keji Yuan,LanYusi St,
-				GuangZhou  GuangDong  510730
-				CN
-
 40-F3-85   (hex)		IEEE Registration Authority
 40F385     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
 
+98-00-C1   (hex)		GuangZhou CREATOR Technology Co.,Ltd.(CHINA)
+9800C1     (base 16)		GuangZhou CREATOR Technology Co.,Ltd.(CHINA)
+				Level 3,Blg 6,No 9 Keji Yuan,LanYusi St,
+				GuangZhou  GuangDong  510730
+				CN
+
 30-34-D2   (hex)		Availink, Inc.
 3034D2     (base 16)		Availink, Inc.
 				Scotia Centre P.O. Box 268GT,Grand Cayman, Cayman Islands
 				Grand Cayman  Grand Cayman  999159
 				KY
-
-40-B0-34   (hex)		Hewlett Packard
-40B034     (base 16)		Hewlett Packard
-				11445 Compaq Center Drive
-				Houston  TX  77070
-				US
 
 CC-CE-1E   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 CCCE1E     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
@@ -108832,6 +108820,12 @@ CCCE1E     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 				Gutheil-Schoder-Gasse 10
 				Vienna    1100
 				AT
+
+40-B0-34   (hex)		Hewlett Packard
+40B034     (base 16)		Hewlett Packard
+				11445 Compaq Center Drive
+				Houston  TX  77070
+				US
 
 FC-0A-81   (hex)		Extreme Networks
 FC0A81     (base 16)		Extreme Networks
@@ -108880,6 +108874,36 @@ D8325A     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
 				Shenzhen  Guangdong  518055
 				CN
+
+F0-4F-7C   (hex)		Private
+F04F7C     (base 16)		Private
+
+10-AE-60   (hex)		Private
+10AE60     (base 16)		Private
+
+44-65-0D   (hex)		Amazon Technologies Inc.
+44650D     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+50-F5-DA   (hex)		Amazon Technologies Inc.
+50F5DA     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+68-54-FD   (hex)		Amazon Technologies Inc.
+6854FD     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+40-B4-CD   (hex)		Amazon Technologies Inc.
+40B4CD     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -132083,15 +132107,6 @@ DC0B1A     (base 16)		ADB Broadband Italia
 				Milano    20126
 				IT
 
-84-D6-D0   (hex)		Amazon Technologies Inc.
-84D6D0     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
-E0-CB-1D   (hex)		Private
-E0CB1D     (base 16)		Private
-
 AC-D0-74   (hex)		Espressif Inc.
 ACD074     (base 16)		Espressif Inc.
 				A207-1, 456 Bibo Road, Zhangjiang High-tech Park,Shanghai  201203, China
@@ -132103,9 +132118,6 @@ D05349     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road ChungHo
 				New Taipei City  Taiwan  23585
 				TW
-
-00-BB-3A   (hex)		Private
-00BB3A     (base 16)		Private
 
 00-09-41   (hex)		Allied Telesis R&D Center K.K.
 000941     (base 16)		Allied Telesis R&D Center K.K.
@@ -136010,12 +136022,6 @@ B49691     (base 16)		Intel Corporate
 				Pretoria  Gauteng  0186
 				ZA
 
-34-D2-70   (hex)		Amazon Technologies Inc.
-34D270     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
-
 00-25-90   (hex)		Super Micro Computer, Inc.
 002590     (base 16)		Super Micro Computer, Inc.
 				980 Rock Avenue
@@ -136296,4 +136302,40 @@ AC6B0F     (base 16)		CADENCE DESIGN SYSTEMS INC
 1CA0D3     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-BB-3A   (hex)		Private
+00BB3A     (base 16)		Private
+
+E0-CB-1D   (hex)		Private
+E0CB1D     (base 16)		Private
+
+84-D6-D0   (hex)		Amazon Technologies Inc.
+84D6D0     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+34-D2-70   (hex)		Amazon Technologies Inc.
+34D270     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+CC-82-EB   (hex)		KYOCERA CORPORATION 
+CC82EB     (base 16)		KYOCERA CORPORATION 
+				 2-1-1,Kagahara, Tsuzuki-ku,
+				Yokohama-shi  Kanagawa  224-8502
+				JP
+
+50-82-D5   (hex)		Apple, Inc.
+5082D5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+9C-84-BF   (hex)		Apple, Inc.
+9C84BF     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
 				US
