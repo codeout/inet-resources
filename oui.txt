@@ -27305,6 +27305,9 @@ BC024A     (base 16)		HMD Global Oy
 				shenzhen  Guangdong  518000
 				CN
 
+E8-9E-0C   (hex)		Private
+E89E0C     (base 16)		Private
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -54695,6 +54698,12 @@ C03D46     (base 16)		Shanghai Sango Network Technology Co.,Ltd
 				Pudong  Shanghai  210203
 				CN
 
+BC-A0-42   (hex)		The State Radio_monitoring_center Testing Center
+BCA042     (base 16)		The State Radio_monitoring_center Testing Center
+				No.555,Guang Fu Lin east Road,Songjiang District
+				Shanghai  Shanghai  201613
+				CN
+
 E8-9F-EC   (hex)		CHENGDU KT ELECTRONIC HI-TECH CO.,LTD
 E89FEC     (base 16)		CHENGDU KT ELECTRONIC HI-TECH CO.,LTD
 				No.9, 3rd Wuke Road, Wuhou District
@@ -81497,28 +81506,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
-0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
-				555 RIVER OAKS PARKWAY
-				SAN JOSE  CA  95134
-				US
-
 50-40-61   (hex)		Nokia
 504061     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-74-67-F7   (hex)		Extreme Networks
-7467F7     (base 16)		Extreme Networks
-				1 Zebra Plaza
-				Holtsville  NY  11742
-				US
-
-B4-C7-99   (hex)		Extreme Networks
-B4C799     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
+00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
+0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
+				555 RIVER OAKS PARKWAY
+				SAN JOSE  CA  95134
 				US
 
 54-E3-F6   (hex)		Alcatel-Lucent
@@ -81527,16 +81524,10 @@ B4C799     (base 16)		Extreme Networks
 				Mountain View  CA  94043
 				US
 
-5C-0E-8B   (hex)		Extreme Networks
-5C0E8B     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
-00-E0-2B   (hex)		Extreme Networks
-00E02B     (base 16)		Extreme Networks
-				10460 BANDLEY DRIVE
-				CUPERINT0  CA  95014
+74-67-F7   (hex)		Extreme Networks
+7467F7     (base 16)		Extreme Networks
+				1 Zebra Plaza
+				Holtsville  NY  11742
 				US
 
 B0-C2-05   (hex)		BIONIME
@@ -81551,11 +81542,23 @@ B0C205     (base 16)		BIONIME
 				Dallas  TX  75243
 				US
 
-7C-26-64   (hex)		Sagemcom Broadband SAS
-7C2664     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+B4-C7-99   (hex)		Extreme Networks
+B4C799     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+5C-0E-8B   (hex)		Extreme Networks
+5C0E8B     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+00-E0-2B   (hex)		Extreme Networks
+00E02B     (base 16)		Extreme Networks
+				10460 BANDLEY DRIVE
+				CUPERINT0  CA  95014
+				US
 
 38-29-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 38295A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -81569,11 +81572,11 @@ B0C205     (base 16)		BIONIME
 				Suwon  Gyeonggi-Do  443742
 				KR
 
-E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
-E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
-				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
-				Shanghai  Shanghai  201203
-				CN
+7C-26-64   (hex)		Sagemcom Broadband SAS
+7C2664     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 A0-02-DC   (hex)		Amazon Technologies Inc.
 A002DC     (base 16)		Amazon Technologies Inc.
@@ -81586,6 +81589,12 @@ A002DC     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
+
+E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
+E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
+				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
+				Shanghai  Shanghai  201203
+				CN
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -81625,6 +81634,12 @@ F8AB05     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+C0-02-8D   (hex)		WINSTAR Display CO.,Ltd
+C0028D     (base 16)		WINSTAR Display CO.,Ltd
+				1F., No.77, Ln. 188, Pinghe S. Rd., Daya Dist., Taichung City 428, Taiwan (R.O.C.)
+				Taichung City    428
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -108982,6 +108997,12 @@ F04F7C     (base 16)		Private
 				1 Internal Business Park, #03-12,The Synergy, Singapore
 				Singapore  Singapore  609917
 				SG
+
+BC-2F-3D   (hex)		vivo Mobile Communication Co., Ltd.
+BC2F3D     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -136423,3 +136444,21 @@ C4EEF5     (base 16)		II-VI Incorporated
 				343 Daniel Zenker Dr., Suite 102
 				Horseheads  NY  14845
 				US
+
+A4-11-63   (hex)		IEEE Registration Authority
+A41163     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-2C-C8   (hex)		Cisco Systems, Inc
+002CC8     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+70-AF-24   (hex)		TP Vision Belgium NV
+70AF24     (base 16)		TP Vision Belgium NV
+				Technologiepark Zwijnaarde 19
+				Gent    9052
+				BE
