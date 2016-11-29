@@ -27308,6 +27308,30 @@ BC024A     (base 16)		HMD Global Oy
 E8-9E-0C   (hex)		Private
 E89E0C     (base 16)		Private
 
+10-95-4B   (hex)		Megabyte Ltd.
+10954B     (base 16)		Megabyte Ltd.
+				Unit 507, 5/F, Building 12W, NO.12 Science Park Avenue, Hong Kong Science Park, Shatin, New Territories
+				Hong Kong    NA
+				HK
+
+D8-A1-05   (hex)		Syslane, Co., Ltd.
+D8A105     (base 16)		Syslane, Co., Ltd.
+				#1201, Megacenter, SKntechno-park,, Sangdaeweon-dong, Joongweon-gu
+				Seongnam  Outside the US, Mexico, or Canada  462-721
+				KR
+
+C4-B9-CD   (hex)		Cisco Systems, Inc
+C4B9CD     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+2C-1D-B8   (hex)		ARRIS Group, Inc.
+2C1DB8     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -54698,17 +54722,29 @@ C03D46     (base 16)		Shanghai Sango Network Technology Co.,Ltd
 				Pudong  Shanghai  210203
 				CN
 
-BC-A0-42   (hex)		The State Radio_monitoring_center Testing Center
-BCA042     (base 16)		The State Radio_monitoring_center Testing Center
-				No.555,Guang Fu Lin east Road,Songjiang District
-				Shanghai  Shanghai  201613
-				CN
-
 E8-9F-EC   (hex)		CHENGDU KT ELECTRONIC HI-TECH CO.,LTD
 E89FEC     (base 16)		CHENGDU KT ELECTRONIC HI-TECH CO.,LTD
 				No.9, 3rd Wuke Road, Wuhou District
 				Chengdu  Sichuan Province  610045
 				CN
+
+D4-7D-FC   (hex)		TECNO MOBILE LIMITED
+D47DFC     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
+BC-A0-42   (hex)		SHANGHAI FLYCO ELECTRICAL APPLIANCE CO.,LTD
+BCA042     (base 16)		SHANGHAI FLYCO ELECTRICAL APPLIANCE CO.,LTD
+				No.555,Guang Fu Lin east Road,Songjiang District
+				Shanghai  Shanghai  201613
+				CN
+
+44-37-08   (hex)		MRV Comunications
+443708     (base 16)		MRV Comunications
+				Hayetzira
+				Yokneam    614
+				IL
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -81506,23 +81542,17 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-50-40-61   (hex)		Nokia
-504061     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
 0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
 				555 RIVER OAKS PARKWAY
 				SAN JOSE  CA  95134
 				US
 
-54-E3-F6   (hex)		Alcatel-Lucent
-54E3F6     (base 16)		Alcatel-Lucent
-				777 East Middlefield Road
-				Mountain View  CA  94043
-				US
+50-40-61   (hex)		Nokia
+504061     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 74-67-F7   (hex)		Extreme Networks
 7467F7     (base 16)		Extreme Networks
@@ -81530,22 +81560,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Holtsville  NY  11742
 				US
 
-B0-C2-05   (hex)		BIONIME
-B0C205     (base 16)		BIONIME
-				No.100, Sec.2, Daqing St., South Dist.,
-				Taichung  Taiwan  40242
-				TW
-
-0C-61-CF   (hex)		Texas Instruments
-0C61CF     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
 B4-C7-99   (hex)		Extreme Networks
 B4C799     (base 16)		Extreme Networks
 				475 Half Day Road
 				Lincolnshire  IL  60069
+				US
+
+54-E3-F6   (hex)		Alcatel-Lucent
+54E3F6     (base 16)		Alcatel-Lucent
+				777 East Middlefield Road
+				Mountain View  CA  94043
 				US
 
 5C-0E-8B   (hex)		Extreme Networks
@@ -81560,6 +81584,24 @@ B4C799     (base 16)		Extreme Networks
 				CUPERINT0  CA  95014
 				US
 
+B0-C2-05   (hex)		BIONIME
+B0C205     (base 16)		BIONIME
+				No.100, Sec.2, Daqing St., South Dist.,
+				Taichung  Taiwan  40242
+				TW
+
+0C-61-CF   (hex)		Texas Instruments
+0C61CF     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+7C-26-64   (hex)		Sagemcom Broadband SAS
+7C2664     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 38-29-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 38295A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
@@ -81572,11 +81614,11 @@ B4C799     (base 16)		Extreme Networks
 				Suwon  Gyeonggi-Do  443742
 				KR
 
-7C-26-64   (hex)		Sagemcom Broadband SAS
-7C2664     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
+E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
+				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
+				Shanghai  Shanghai  201203
+				CN
 
 A0-02-DC   (hex)		Amazon Technologies Inc.
 A002DC     (base 16)		Amazon Technologies Inc.
@@ -81589,12 +81631,6 @@ A002DC     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
-
-E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
-E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
-				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
-				Shanghai  Shanghai  201203
-				CN
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -81640,6 +81676,12 @@ C0028D     (base 16)		WINSTAR Display CO.,Ltd
 				1F., No.77, Ln. 188, Pinghe S. Rd., Daya Dist., Taichung City 428, Taiwan (R.O.C.)
 				Taichung City    428
 				TW
+
+D8-32-14   (hex)		Tenda Technology Co.,Ltd.Dongguan branch
+D83214     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
+				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
+				Dongguan  Guangdong  523770
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -83821,12 +83863,6 @@ F46A92     (base 16)		SHENZHEN FAST TECHNOLOGIES CO.,LTD
 				23/F, Tai Ping Industrial Centre, Block 1,
 				HONG KONG  NA  000000
 				HK
-
-EC-4F-82   (hex)		Calix Inc.
-EC4F82     (base 16)		Calix Inc.
-				16305 36th Ave. N Suite 300
-				Plymouth  MN  55446
-				US
 
 B8-C3-BF   (hex)		Henan Chengshi NetWork Technology Co.，Ltd
 B8C3BF     (base 16)		Henan Chengshi NetWork Technology Co.，Ltd
@@ -98876,12 +98912,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Rochester  NY  14620
 				US
 
-00-06-31   (hex)		Calix
-000631     (base 16)		Calix
-				16305 36th Ave N
-				Plymouth  MN  55446
-				US
-
 00-06-30   (hex)		Adtranz Sweden
 000630     (base 16)		Adtranz Sweden
 				Dept. TCC/TH
@@ -108914,12 +108944,6 @@ FC0A81     (base 16)		Extreme Networks
 				Lincolnshire  IL  60069
 				US
 
-CC-BE-59   (hex)		Calix Inc.
-CCBE59     (base 16)		Calix Inc.
-				1035 North McDowell Boulevard
-				Petaluma  MN  94954
-				US
-
 C8-B5-AD   (hex)		Hewlett Packard Enterprise
 C8B5AD     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
@@ -109003,6 +109027,42 @@ BC2F3D     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
+
+40-9F-38   (hex)		AzureWave Technology Inc.
+409F38     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
+C4-D1-97   (hex)		Ventia Utility Services
+C4D197     (base 16)		Ventia Utility Services
+				Level 4, Tower 1, 495 Victoria Avenue
+				Chatswood  NSW  2067
+				AU
+
+58-82-1D   (hex)		H. Schomäcker GmbH
+58821D     (base 16)		H. Schomäcker GmbH
+				Heidestr. 183
+				Köln    51147
+				DE
+
+CC-BE-59   (hex)		Calix Inc.
+CCBE59     (base 16)		Calix Inc.
+				1035 North McDowell Boulevard
+				Petaluma  MN  94954
+				US
+
+EC-4F-82   (hex)		Calix Inc.
+EC4F82     (base 16)		Calix Inc.
+				1035 North McDowell Boulevard
+				Petaluma  MN  94954
+				US
+
+00-06-31   (hex)		Calix Inc.
+000631     (base 16)		Calix Inc.
+				1035 North McDowell Boulevard
+				Petaluma  MN  94954
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -136462,3 +136522,21 @@ A41163     (base 16)		IEEE Registration Authority
 				Technologiepark Zwijnaarde 19
 				Gent    9052
 				BE
+
+7C-E9-7C   (hex)		ITEL MOBILE LIMITED
+7CE97C     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+28-5F-2F   (hex)		RNware Co.,Ltd.
+285F2F     (base 16)		RNware Co.,Ltd.
+				#202 ICT Park Bldg, 205, Songhyun-ro, Dalseo-gu
+				Daegu    42734
+				KR
+
+2C-A1-7D   (hex)		ARRIS Group, Inc.
+2CA17D     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
