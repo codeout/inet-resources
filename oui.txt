@@ -27308,12 +27308,6 @@ BC024A     (base 16)		HMD Global Oy
 E8-9E-0C   (hex)		Private
 E89E0C     (base 16)		Private
 
-10-95-4B   (hex)		Megabyte Ltd.
-10954B     (base 16)		Megabyte Ltd.
-				Unit 507, 5/F, Building 12W, NO.12 Science Park Avenue, Hong Kong Science Park, Shatin, New Territories
-				Hong Kong    NA
-				HK
-
 D8-A1-05   (hex)		Syslane, Co., Ltd.
 D8A105     (base 16)		Syslane, Co., Ltd.
 				#1201, Megacenter, SKntechno-park,, Sangdaeweon-dong, Joongweon-gu
@@ -27325,6 +27319,36 @@ C4B9CD     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+10-95-4B   (hex)		Megabyte Ltd.
+10954B     (base 16)		Megabyte Ltd.
+				Unit 507, 5/F, Building 12W, NO.12 Science Park Avenue, Hong Kong Science Park, Shatin, New Territories
+				Hong Kong    NA
+				HK
+
+90-06-28   (hex)		Samsung Electronics Co.,Ltd
+900628     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+C4-70-0B   (hex)		GUANGZHOU CHIP TECHNOLOGIES CO.,LTD
+C4700B     (base 16)		GUANGZHOU CHIP TECHNOLOGIES CO.,LTD
+				4th floor, Building J of JiTang Industrial Zone, No. 8 NanYun fifth road, HuangPu District
+				Guangzhou  Guangdong  510700
+				CN
+
+D4-AE-05   (hex)		Samsung Electronics Co.,Ltd
+D4AE05     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+3C-05-18   (hex)		Samsung Electronics Co.,Ltd
+3C0518     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 2C-1D-B8   (hex)		ARRIS Group, Inc.
 2C1DB8     (base 16)		ARRIS Group, Inc.
@@ -54740,11 +54764,35 @@ BCA042     (base 16)		SHANGHAI FLYCO ELECTRICAL APPLIANCE CO.,LTD
 				Shanghai  Shanghai  201613
 				CN
 
+14-56-8E   (hex)		Samsung Electronics Co.,Ltd
+14568E     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+68-37-E9   (hex)		Amazon Technologies Inc.
+6837E9     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+80-58-F8   (hex)		Motorola Mobility LLC, a Lenovo Company
+8058F8     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
 44-37-08   (hex)		MRV Comunications
 443708     (base 16)		MRV Comunications
 				Hayetzira
 				Yokneam    614
 				IL
+
+F0-D7-AA   (hex)		Motorola Mobility LLC, a Lenovo Company
+F0D7AA     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -81542,28 +81590,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
-0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
-				555 RIVER OAKS PARKWAY
-				SAN JOSE  CA  95134
-				US
-
 50-40-61   (hex)		Nokia
 504061     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-74-67-F7   (hex)		Extreme Networks
-7467F7     (base 16)		Extreme Networks
-				1 Zebra Plaza
-				Holtsville  NY  11742
-				US
-
-B4-C7-99   (hex)		Extreme Networks
-B4C799     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
+00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
+0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
+				555 RIVER OAKS PARKWAY
+				SAN JOSE  CA  95134
 				US
 
 54-E3-F6   (hex)		Alcatel-Lucent
@@ -81572,16 +81608,10 @@ B4C799     (base 16)		Extreme Networks
 				Mountain View  CA  94043
 				US
 
-5C-0E-8B   (hex)		Extreme Networks
-5C0E8B     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
-00-E0-2B   (hex)		Extreme Networks
-00E02B     (base 16)		Extreme Networks
-				10460 BANDLEY DRIVE
-				CUPERINT0  CA  95014
+74-67-F7   (hex)		Extreme Networks
+7467F7     (base 16)		Extreme Networks
+				1 Zebra Plaza
+				Holtsville  NY  11742
 				US
 
 B0-C2-05   (hex)		BIONIME
@@ -81596,11 +81626,23 @@ B0C205     (base 16)		BIONIME
 				Dallas  TX  75243
 				US
 
-7C-26-64   (hex)		Sagemcom Broadband SAS
-7C2664     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+B4-C7-99   (hex)		Extreme Networks
+B4C799     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+5C-0E-8B   (hex)		Extreme Networks
+5C0E8B     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+00-E0-2B   (hex)		Extreme Networks
+00E02B     (base 16)		Extreme Networks
+				10460 BANDLEY DRIVE
+				CUPERINT0  CA  95014
+				US
 
 38-29-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 38295A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -81614,11 +81656,11 @@ B0C205     (base 16)		BIONIME
 				Suwon  Gyeonggi-Do  443742
 				KR
 
-E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
-E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
-				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
-				Shanghai  Shanghai  201203
-				CN
+7C-26-64   (hex)		Sagemcom Broadband SAS
+7C2664     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 A0-02-DC   (hex)		Amazon Technologies Inc.
 A002DC     (base 16)		Amazon Technologies Inc.
@@ -81631,6 +81673,12 @@ A002DC     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
+
+E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
+E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
+				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
+				Shanghai  Shanghai  201203
+				CN
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -81682,6 +81730,18 @@ D83214     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
 				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
 				Dongguan  Guangdong  523770
 				CN
+
+7C-78-7E   (hex)		Samsung Electronics Co.,Ltd
+7C787E     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+C0-D3-C0   (hex)		Samsung Electronics Co.,Ltd
+C0D3C0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -109046,6 +109106,18 @@ C4D197     (base 16)		Ventia Utility Services
 				Köln    51147
 				DE
 
+B8-D7-AF   (hex)		Murata Manufacturing Co., Ltd.
+B8D7AF     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
+30-96-FB   (hex)		Samsung Electronics Co.,Ltd
+3096FB     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 CC-BE-59   (hex)		Calix Inc.
 CCBE59     (base 16)		Calix Inc.
 				1035 North McDowell Boulevard
@@ -109063,6 +109135,12 @@ EC4F82     (base 16)		Calix Inc.
 				1035 North McDowell Boulevard
 				Petaluma  MN  94954
 				US
+
+F0-EE-10   (hex)		Samsung Electronics Co.,Ltd
+F0EE10     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -136533,6 +136611,24 @@ A41163     (base 16)		IEEE Registration Authority
 285F2F     (base 16)		RNware Co.,Ltd.
 				#202 ICT Park Bldg, 205, Songhyun-ro, Dalseo-gu
 				Daegu    42734
+				KR
+
+E0-C0-D1   (hex)		CK Telecom (Shenzhen) Limited
+E0C0D1     (base 16)		CK Telecom (Shenzhen) Limited
+				Floor 9th, Building 4C,Software Industry Base, Xuefu Road, Hi-Tech Park, Nanshan Dist.
+				Shenzhen  Guangdong  518057
+				CN
+
+94-8B-C1   (hex)		Samsung Electronics Co.,Ltd
+948BC1     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+48-27-EA   (hex)		Samsung Electronics Co.,Ltd
+4827EA     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
 				KR
 
 2C-A1-7D   (hex)		ARRIS Group, Inc.
