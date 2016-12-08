@@ -54902,6 +54902,12 @@ D0498B     (base 16)		ZOOM SERVER
 				Shenzhen    518057
 				CN
 
+2C-5A-0F   (hex)		Cisco Systems, Inc
+2C5A0F     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -81692,28 +81698,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
-0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
-				555 RIVER OAKS PARKWAY
-				SAN JOSE  CA  95134
-				US
-
 50-40-61   (hex)		Nokia
 504061     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-74-67-F7   (hex)		Extreme Networks
-7467F7     (base 16)		Extreme Networks
-				1 Zebra Plaza
-				Holtsville  NY  11742
-				US
-
-B4-C7-99   (hex)		Extreme Networks
-B4C799     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
+00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
+0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
+				555 RIVER OAKS PARKWAY
+				SAN JOSE  CA  95134
 				US
 
 54-E3-F6   (hex)		Alcatel-Lucent
@@ -81722,16 +81716,10 @@ B4C799     (base 16)		Extreme Networks
 				Mountain View  CA  94043
 				US
 
-5C-0E-8B   (hex)		Extreme Networks
-5C0E8B     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
-00-E0-2B   (hex)		Extreme Networks
-00E02B     (base 16)		Extreme Networks
-				10460 BANDLEY DRIVE
-				CUPERINT0  CA  95014
+74-67-F7   (hex)		Extreme Networks
+7467F7     (base 16)		Extreme Networks
+				1 Zebra Plaza
+				Holtsville  NY  11742
 				US
 
 B0-C2-05   (hex)		BIONIME
@@ -81746,11 +81734,23 @@ B0C205     (base 16)		BIONIME
 				Dallas  TX  75243
 				US
 
-7C-26-64   (hex)		Sagemcom Broadband SAS
-7C2664     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+B4-C7-99   (hex)		Extreme Networks
+B4C799     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+5C-0E-8B   (hex)		Extreme Networks
+5C0E8B     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+00-E0-2B   (hex)		Extreme Networks
+00E02B     (base 16)		Extreme Networks
+				10460 BANDLEY DRIVE
+				CUPERINT0  CA  95014
+				US
 
 38-29-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 38295A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -81764,11 +81764,11 @@ B0C205     (base 16)		BIONIME
 				Suwon  Gyeonggi-Do  443742
 				KR
 
-E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
-E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
-				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
-				Shanghai  Shanghai  201203
-				CN
+7C-26-64   (hex)		Sagemcom Broadband SAS
+7C2664     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 A0-02-DC   (hex)		Amazon Technologies Inc.
 A002DC     (base 16)		Amazon Technologies Inc.
@@ -81781,6 +81781,12 @@ A002DC     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
+
+E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
+E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
+				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
+				Shanghai  Shanghai  201203
+				CN
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -81910,6 +81916,12 @@ F470AB     (base 16)		vivo Mobile Communication Co., Ltd.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+6C-4B-90   (hex)		LiteON
+6C4B90     (base 16)		LiteON
+				5F, No.90, Rd. Chien 1, ChungHo
+				New Taipei  Taiwan  23505
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -109363,6 +109375,18 @@ C0D012     (base 16)		Apple, Inc.
 				Blue gates business park Stortford road
 				Dunmow  Essex  CM61SN
 				GB
+
+2C-31-24   (hex)		Cisco Systems, Inc
+2C3124     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+F4-03-43   (hex)		Hewlett Packard Enterprise
+F40343     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -136900,3 +136924,9 @@ A49BF5     (base 16)		Hybridserver Tec GmbH
 				Gutenbergring 26a
 				Norderstedt  Schleswig-Holstein  22848
 				DE
+
+B4-36-E3   (hex)		KBVISION GROUP
+B436E3     (base 16)		KBVISION GROUP
+				337 N. Vineyard Avenue,  4th Floor,  San Jose, CA 91764
+				San Jose  CA  90847
+				US
