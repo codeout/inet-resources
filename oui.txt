@@ -27422,6 +27422,18 @@ B0481A     (base 16)		Apple, Inc.
 				Seongnam-si    13601
 				KR
 
+58-D9-D5   (hex)		Tenda Technology Co.,Ltd.Dongguan branch
+58D9D5     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
+				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
+				Dongguan  Guangdong  523770
+				CN
+
+60-E7-8A   (hex)		UNISEM
+60E78A     (base 16)		UNISEM
+				10-7,Jangjinam-gil,Dongtan-meyeon
+				Hwaseong-si  Gyeonggi-do  18510
+				KR
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -49103,12 +49115,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Mountain View  CA  94043-1008
 				US
 
-00-80-E7   (hex)		LYNWOOD SCIENTIFIC DEV. LTD.
-0080E7     (base 16)		LYNWOOD SCIENTIFIC DEV. LTD.
-				FARNHAM TRADING ESTATE
-				  UNITED  KINGDOM
-				GB
-
 00-80-70   (hex)		COMPUTADORAS MICRON
 008070     (base 16)		COMPUTADORAS MICRON
 				GUERRERO 2001 - 19
@@ -54913,6 +54919,12 @@ AC7409     (base 16)		Hangzhou H3C Technologies Co., Limited
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang, P.R.China  310052
 				CN
+
+00-80-E7   (hex)		DRS Technologies UK Limited
+0080E7     (base 16)		DRS Technologies UK Limited
+				Silvertree, Coxbridge Business Park
+				Alton Road,   Farnham  GU10 5EH
+				GB
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -81935,6 +81947,18 @@ F470AB     (base 16)		vivo Mobile Communication Co., Ltd.
 				San Jose    95134
 				US
 
+F8-FF-0B   (hex)		Electronic Technology Inc.
+F8FF0B     (base 16)		Electronic Technology Inc.
+				511 Lyons Ave
+				Irvington  NJ  07111
+				US
+
+38-F1-35   (hex)		SensorTec-Canada
+38F135     (base 16)		SensorTec-Canada
+				1Yonge Street, Suite 1801
+				Toronto  ON  M5E 1W7
+				CA
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -94923,12 +94947,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 00149B     (base 16)		Nokota Communications, LLC
 				200 Galleria Parkway
 				Atlanta  Georgia  30339
-				US
-
-00-14-3F   (hex)		Hotway Technology Corporation
-00143F     (base 16)		Hotway Technology Corporation
-				No. 81, Hsin Tai 5th Road Section 1
-				ShiJr  Taipei  221
 				US
 
 00-14-31   (hex)		PDL Electronics Ltd
@@ -109399,6 +109417,12 @@ F40343     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
 				US
+
+00-14-3F   (hex)		Hotway Technology Corporation
+00143F     (base 16)		Hotway Technology Corporation
+				3F.-4, No.81, Sec. 1, Xintai 5th Rd.
+				Xizhi Dist.  New Taipei City  22101
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -136954,3 +136978,9 @@ B436E3     (base 16)		KBVISION GROUP
 				5th floor takei building 2-19-6
 				taito  taito-ku , Tokyo  1100016
 				JP
+
+54-E0-61   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
+54E061     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
+				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
+				CN
