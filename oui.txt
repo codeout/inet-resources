@@ -2897,12 +2897,6 @@ F42853     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
 				Shenzhen  Guangdong  518000
 				CN
 
-2C-FA-A2   (hex)		Alcatel-Lucent
-2CFAA2     (base 16)		Alcatel-Lucent
-				26801 West Agoura Rd
-				Calabasas  CA  91301
-				US
-
 F0-76-1C   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
 F0761C     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
 				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
@@ -18722,12 +18716,6 @@ A8CE90     (base 16)		CVC
 				    
 				DE
 
-00-D0-95   (hex)		Alcatel-Lucent, Enterprise Business Group
-00D095     (base 16)		Alcatel-Lucent, Enterprise Business Group
-				26801 West Agoura Road
-				Calabasas  CA  91301
-				US
-
 00-D0-00   (hex)		FERRAN SCIENTIFIC, INC.
 00D000     (base 16)		FERRAN SCIENTIFIC, INC.
 				11558 SORRENTO VALLEY ROAD
@@ -27446,6 +27434,18 @@ F4A739     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
+2C-FA-A2   (hex)		Alcatel-Lucent Enterprise
+2CFAA2     (base 16)		Alcatel-Lucent Enterprise
+				26801 West Agoura Rd
+				Calabasas  CA  91301
+				US
+
+00-D0-95   (hex)		Alcatel-Lucent Enterprise
+00D095     (base 16)		Alcatel-Lucent Enterprise
+				26801 West Agoura Road
+				Calabasas  CA  91301
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -34700,12 +34700,6 @@ C89C1D     (base 16)		Cisco Systems, Inc
 				Phoenix  AZ  85027
 				US
 
-E8-E7-32   (hex)		Alcatel-Lucent
-E8E732     (base 16)		Alcatel-Lucent
-				26801 West Agoura Road
-				Calabasas  CA  91301
-				US
-
 38-6E-21   (hex)		Wasion Group Ltd.
 386E21     (base 16)		Wasion Group Ltd.
 				No.468 West Tongzipo Road High-Tech Industrial Development Zone
@@ -41225,12 +41219,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Hechingen  Baden-Württemberg  72379
 				DE
 
-00-11-8B   (hex)		Alcatel-Lucent, Enterprise Business Group
-00118B     (base 16)		Alcatel-Lucent, Enterprise Business Group
-				26801 West Agoura Road
-				Calabasas  CA  91301
-				US
-
 00-11-96   (hex)		Actuality Systems, Inc.
 001196     (base 16)		Actuality Systems, Inc.
 				25 Corporate Drive
@@ -47458,12 +47446,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				Premier Toyocho Building
 				Koto-ku  Tokyo  135-0056
 				JP
-
-00-E0-B1   (hex)		Alcatel-Lucent, Enterprise Business Group
-00E0B1     (base 16)		Alcatel-Lucent, Enterprise Business Group
-				26801 West Agoura Road
-				Calabasas  CA  91301
-				US
 
 00-E0-E4   (hex)		FANUC ROBOTICS NORTH AMERICA, Inc.
 00E0E4     (base 16)		FANUC ROBOTICS NORTH AMERICA, Inc.
@@ -54937,6 +54919,36 @@ AC7409     (base 16)		Hangzhou H3C Technologies Co., Limited
 				Silvertree, Coxbridge Business Park
 				Alton Road,   Farnham  GU10 5EH
 				GB
+
+4C-81-20   (hex)		Taicang T&W Electronics
+4C8120     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
+				CN
+
+E8-E7-32   (hex)		Alcatel-Lucent Enterprise
+E8E732     (base 16)		Alcatel-Lucent Enterprise
+				26801 West Agoura Road
+				Calabasas  CA  91301
+				US
+
+00-11-8B   (hex)		Alcatel-Lucent Enterprise
+00118B     (base 16)		Alcatel-Lucent Enterprise
+				26801 West Agoura Road
+				Calabasas  CA  91301
+				US
+
+00-E0-B1   (hex)		Alcatel-Lucent Enterprise
+00E0B1     (base 16)		Alcatel-Lucent Enterprise
+				26801 West Agoura Road
+				Calabasas  CA  91301
+				US
+
+E0-37-BF   (hex)		Wistron Neweb Corporation
+E037BF     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -81728,23 +81740,17 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-50-40-61   (hex)		Nokia
-504061     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
 0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
 				555 RIVER OAKS PARKWAY
 				SAN JOSE  CA  95134
 				US
 
-54-E3-F6   (hex)		Alcatel-Lucent
-54E3F6     (base 16)		Alcatel-Lucent
-				777 East Middlefield Road
-				Mountain View  CA  94043
-				US
+50-40-61   (hex)		Nokia
+504061     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 74-67-F7   (hex)		Extreme Networks
 7467F7     (base 16)		Extreme Networks
@@ -81752,22 +81758,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Holtsville  NY  11742
 				US
 
-B0-C2-05   (hex)		BIONIME
-B0C205     (base 16)		BIONIME
-				No.100, Sec.2, Daqing St., South Dist.,
-				Taichung  Taiwan  40242
-				TW
-
-0C-61-CF   (hex)		Texas Instruments
-0C61CF     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
 B4-C7-99   (hex)		Extreme Networks
 B4C799     (base 16)		Extreme Networks
 				475 Half Day Road
 				Lincolnshire  IL  60069
+				US
+
+54-E3-F6   (hex)		Alcatel-Lucent
+54E3F6     (base 16)		Alcatel-Lucent
+				777 East Middlefield Road
+				Mountain View  CA  94043
 				US
 
 5C-0E-8B   (hex)		Extreme Networks
@@ -81782,6 +81782,24 @@ B4C799     (base 16)		Extreme Networks
 				CUPERINT0  CA  95014
 				US
 
+B0-C2-05   (hex)		BIONIME
+B0C205     (base 16)		BIONIME
+				No.100, Sec.2, Daqing St., South Dist.,
+				Taichung  Taiwan  40242
+				TW
+
+0C-61-CF   (hex)		Texas Instruments
+0C61CF     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+7C-26-64   (hex)		Sagemcom Broadband SAS
+7C2664     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 38-29-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 38295A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
@@ -81794,11 +81812,11 @@ B4C799     (base 16)		Extreme Networks
 				Suwon  Gyeonggi-Do  443742
 				KR
 
-7C-26-64   (hex)		Sagemcom Broadband SAS
-7C2664     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
+E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
+				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
+				Shanghai  Shanghai  201203
+				CN
 
 A0-02-DC   (hex)		Amazon Technologies Inc.
 A002DC     (base 16)		Amazon Technologies Inc.
@@ -81811,12 +81829,6 @@ A002DC     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
-
-E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
-E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
-				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
-				Shanghai  Shanghai  201203
-				CN
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -101744,12 +101756,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				FREMONT  CA  94538
 				US
 
-00-E0-DA   (hex)		Alcatel North America ESD
-00E0DA     (base 16)		Alcatel North America ESD
-				26801 West Agoura Road
-				CALABASAS  CA  91301
-				US
-
 00-E0-68   (hex)		MERRIMAC SYSTEMS INC.
 00E068     (base 16)		MERRIMAC SYSTEMS INC.
 				2144 MC COY ROAD
@@ -109441,6 +109447,24 @@ F8BE0D     (base 16)		A2UICT Co.,Ltd.
 				1202, OWNER'S TOWER, 28,
 				Hwangsaeul-ro 200 beon-gil, Bundang-gu,  Seongnam-si, Gyeonggi-do  13595
 				KR
+
+5C-C6-E9   (hex)		Edifier International
+5CC6E9     (base 16)		Edifier International
+				Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway
+				Hong Kong    070
+				CN
+
+08-EA-40   (hex)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+08EA40     (base 16)		SHENZHEN BILIAN ELECTRONIC CO.，LTD
+				NO.268， Fuqian Rd, Jutang community, Guanlan Town, Longhua New district
+				shenzhen  guangdong  518000
+				CN
+
+00-E0-DA   (hex)		Alcatel-Lucent Enterprise
+00E0DA     (base 16)		Alcatel-Lucent Enterprise
+				26801 West Agoura Road
+				CALABASAS  CA  91301
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -130337,12 +130361,6 @@ DC3350     (base 16)		TechSAT GmbH
 				TUSTIN  CA  92680-7013
 				US
 
-00-20-DA   (hex)		Alcatel North America ESD
-0020DA     (base 16)		Alcatel North America ESD
-				26801 West Agoura Road
-				CALABASAS  CA  91301
-				US
-
 00-20-05   (hex)		SIMPLE TECHNOLOGY
 002005     (base 16)		SIMPLE TECHNOLOGY
 				3001 DAIMLER ROAD
@@ -137007,4 +137025,22 @@ B4-7C-9C   (hex)		Amazon Technologies Inc.
 B47C9C     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
+				US
+
+E8-13-67   (hex)		AIRSOUND Inc.
+E81367     (base 16)		AIRSOUND Inc.
+				515-ho,75,Techno-1ro,Yuseoung-gu
+				Daejeon    34014
+				KR
+
+64-D1-54   (hex)		Routerboard.com
+64D154     (base 16)		Routerboard.com
+				Mikrotikls SIA
+				Riga  Riga  LV1009
+				LV
+
+00-20-DA   (hex)		Alcatel-Lucent Enterprise
+0020DA     (base 16)		Alcatel-Lucent Enterprise
+				26801 West Agoura Road
+				CALABASAS  CA  91301
 				US
