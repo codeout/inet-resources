@@ -55022,6 +55022,18 @@ E442A6     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
+60-45-CB   (hex)		ASUSTek COMPUTER INC.
+6045CB     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
+74-C9-A3   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+74C9A3     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -81806,23 +81818,17 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-50-40-61   (hex)		Nokia
-504061     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
 0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
 				555 RIVER OAKS PARKWAY
 				SAN JOSE  CA  95134
 				US
 
-54-E3-F6   (hex)		Alcatel-Lucent
-54E3F6     (base 16)		Alcatel-Lucent
-				777 East Middlefield Road
-				Mountain View  CA  94043
-				US
+50-40-61   (hex)		Nokia
+504061     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 74-67-F7   (hex)		Extreme Networks
 7467F7     (base 16)		Extreme Networks
@@ -81830,22 +81836,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Holtsville  NY  11742
 				US
 
-B0-C2-05   (hex)		BIONIME
-B0C205     (base 16)		BIONIME
-				No.100, Sec.2, Daqing St., South Dist.,
-				Taichung  Taiwan  40242
-				TW
-
-0C-61-CF   (hex)		Texas Instruments
-0C61CF     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
 B4-C7-99   (hex)		Extreme Networks
 B4C799     (base 16)		Extreme Networks
 				475 Half Day Road
 				Lincolnshire  IL  60069
+				US
+
+54-E3-F6   (hex)		Alcatel-Lucent
+54E3F6     (base 16)		Alcatel-Lucent
+				777 East Middlefield Road
+				Mountain View  CA  94043
 				US
 
 5C-0E-8B   (hex)		Extreme Networks
@@ -81860,6 +81860,24 @@ B4C799     (base 16)		Extreme Networks
 				CUPERINT0  CA  95014
 				US
 
+B0-C2-05   (hex)		BIONIME
+B0C205     (base 16)		BIONIME
+				No.100, Sec.2, Daqing St., South Dist.,
+				Taichung  Taiwan  40242
+				TW
+
+0C-61-CF   (hex)		Texas Instruments
+0C61CF     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+7C-26-64   (hex)		Sagemcom Broadband SAS
+7C2664     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 38-29-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 38295A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
@@ -81872,11 +81890,11 @@ B4C799     (base 16)		Extreme Networks
 				Suwon  Gyeonggi-Do  443742
 				KR
 
-7C-26-64   (hex)		Sagemcom Broadband SAS
-7C2664     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
+E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
+				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
+				Shanghai  Shanghai  201203
+				CN
 
 A0-02-DC   (hex)		Amazon Technologies Inc.
 A002DC     (base 16)		Amazon Technologies Inc.
@@ -81889,12 +81907,6 @@ A002DC     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
-
-E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
-E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
-				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
-				Shanghai  Shanghai  201203
-				CN
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -82067,12 +82079,6 @@ F8FF0B     (base 16)		Electronic Technology Inc.
 				Piscataway  NJ  08554
 				US
 
-C8-F8-6D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
-C8F86D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
-				No. 389, Ningqiao Road, Pudong Jinqiao
-				Shanghai    201206
-				CN
-
 B8-D5-0B   (hex)		Sunitec Enterprise Co.,Ltd
 B8D50B     (base 16)		Sunitec Enterprise Co.,Ltd
 				3F.,No.98-1,Mincyuan Rd.Sindian City
@@ -82085,10 +82091,22 @@ B8D50B     (base 16)		Sunitec Enterprise Co.,Ltd
 				Dongguan    523808
 				CN
 
+C8-F8-6D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
+C8F86D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
+				No. 389, Ningqiao Road, Pudong Jinqiao
+				Shanghai    201206
+				CN
+
 D4-5F-25   (hex)		Shenzhen YOUHUA Technology Co., Ltd
 D45F25     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
 				Shenzhen  Guangdong  518055
+				CN
+
+9C-E9-51   (hex)		Shenzhen Sang Fei Consumer Communications Ltd., Co.
+9CE951     (base 16)		Shenzhen Sang Fei Consumer Communications Ltd., Co.
+				11,Science And Technology Road, Shenzhen Hi-tech Industrial Park, Nanshan District
+				 Shenzhen City  Guangdong  518057
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -112817,12 +112835,6 @@ E85D6B     (base 16)		Luminate Wireless
 				Shenzhen  Guangdong  510008
 				CN
 
-50-67-87   (hex)		iTellus
-506787     (base 16)		iTellus
-				PO Box 668
-				North Hampton  New Hampshire  03862
-				US
-
 F4-D2-61   (hex)		SEMOCON Co., Ltd
 F4D261     (base 16)		SEMOCON Co., Ltd
 				B-19F, Gunpo IT Valley, Dangjeong-dong, 17, Gosan-ro 148beon-gil,
@@ -137260,3 +137272,9 @@ A0C4A5     (base 16)		SYGN HOUSE CO.,LTD
 				2-9-14 Tamagawa-denenchofu
 				Setagaya-ku  Tokyo  1580085
 				JP
+
+50-67-87   (hex)		Planet Networks
+506787     (base 16)		Planet Networks
+				1 Ivy Crest Ln
+				Rockaway  NJ  07866
+				US
