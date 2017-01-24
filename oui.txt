@@ -23276,30 +23276,6 @@ E0CBEE     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-98-83-89   (hex)		Samsung Electronics Co.,Ltd
-988389     (base 16)		Samsung Electronics Co.,Ltd
-				129,Samsung-ro, Yeongtong-gu
-				Suwon  Gyeonggi-Do  443-742
-				KR
-
-24-4B-03   (hex)		Samsung Electronics Co.,Ltd
-244B03     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
-FC-8F-90   (hex)		Samsung Electronics Co.,Ltd
-FC8F90     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
-18-16-C9   (hex)		Samsung Electronics Co.,Ltd
-1816C9     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 F4-42-8F   (hex)		Samsung Electronics Co.,Ltd
 F4428F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1,Imsoo-Dong
@@ -23395,12 +23371,6 @@ D059E4     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1,Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
-
-78-AB-BB   (hex)		Samsung Electronics Co.,Ltd
-78ABBB     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
 
 00-0B-3B   (hex)		devolo AG
 000B3B     (base 16)		devolo AG
@@ -23647,12 +23617,6 @@ F4F5A5     (base 16)		Nokia Corporation
 				PO Box 52226
 				Boston  MA  02205
 				US
-
-14-BB-6E   (hex)		Samsung Electronics Co.,Ltd
-14BB6E     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
 
 AC-61-EA   (hex)		Apple, Inc.
 AC61EA     (base 16)		Apple, Inc.
@@ -23935,12 +23899,6 @@ A0043E     (base 16)		Parker Hannifin Manufacturing Germany GmbH & Co. KG
 				E3 The Innovation Centre, 9 De Laeter Way, Technology Park
 				Bentley  Western Australia  6102
 				AU
-
-1C-3A-DE   (hex)		Samsung Electronics Co.,Ltd
-1C3ADE     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
 
 00-42-68   (hex)		Cisco Systems, Inc
 004268     (base 16)		Cisco Systems, Inc
@@ -26708,12 +26666,6 @@ C83B45     (base 16)		JRI
 				Hamburg  Hamburg  22763
 				DE
 
-F8-3F-51   (hex)		Samsung Electronics Co.,Ltd
-F83F51     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 2C-DC-AD   (hex)		Wistron Neweb Corporation
 2CDCAD     (base 16)		Wistron Neweb Corporation
 				No.20,Park Avenue II,Hsinchu Science Park
@@ -26983,12 +26935,6 @@ E865D4     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
 				901 Explorer Blvd.
 				Huntsville  AL  35806-2807
 				US
-
-D8-E0-E1   (hex)		Samsung Electronics Co.,Ltd
-D8E0E1     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
 
 04-5D-4B   (hex)		Sony Corporation
 045D4B     (base 16)		Sony Corporation
@@ -27595,6 +27541,72 @@ E45740     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+D0-F8-8C   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+D0F88C     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+				No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan
+				Wuhan  Hubei  430000
+				CN
+
+2C-B1-15   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+2CB115     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+78-AB-BB   (hex)		Samsung Electronics Co.,Ltd
+78ABBB     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+18-16-C9   (hex)		Samsung Electronics Co.,Ltd
+1816C9     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+FC-8F-90   (hex)		Samsung Electronics Co.,Ltd
+FC8F90     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+24-4B-03   (hex)		Samsung Electronics Co.,Ltd
+244B03     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+98-83-89   (hex)		Samsung Electronics Co.,Ltd
+988389     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+14-BB-6E   (hex)		Samsung Electronics Co.,Ltd
+14BB6E     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+1C-3A-DE   (hex)		Samsung Electronics Co.,Ltd
+1C3ADE     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+F8-3F-51   (hex)		Samsung Electronics Co.,Ltd
+F83F51     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+D8-E0-E1   (hex)		Samsung Electronics Co.,Ltd
+D8E0E1     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -50828,12 +50840,6 @@ B0EC71     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-24-F5-AA   (hex)		Samsung Electronics Co.,Ltd
-24F5AA     (base 16)		Samsung Electronics Co.,Ltd
-				129,Samsung-ro, Yeongtong-gu
-				Suwon  Gyeonggi-Do  443-742
-				KR
-
 2C-AE-2B   (hex)		Samsung Electronics Co.,Ltd
 2CAE2B     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -50893,12 +50899,6 @@ E09971     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
-
-50-56-BF   (hex)		Samsung Electronics Co.,Ltd
-5056BF     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
 
 00-01-36   (hex)		CyberTAN Technology Inc.
 000136     (base 16)		CyberTAN Technology Inc.
@@ -51319,12 +51319,6 @@ A85EE4     (base 16)		12Sided Technology, LLC
 				415 N Mathilda Ave
 				Sunnyvale  CA  94085
 				US
-
-F8-77-B8   (hex)		Samsung Electronics Co.,Ltd
-F877B8     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
 
 1C-55-3A   (hex)		QianGua Corp.
 1C553A     (base 16)		QianGua Corp.
@@ -54650,12 +54644,6 @@ B04089     (base 16)		Senient Systems LTD
 				Edinburgh  Other (Non US)  EH3 8EB
 				GB
 
-68-27-37   (hex)		Samsung Electronics Co.,Ltd
-682737     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 00-24-45   (hex)		Adtran Inc
 002445     (base 16)		Adtran Inc
 				901 Explorer Blvd.
@@ -55213,6 +55201,30 @@ E81363     (base 16)		Comstock RD, Inc.
 				1950 University Avenue, Suite 600
 				East Palo Alto  CA  94303
 				US
+
+50-56-BF   (hex)		Samsung Electronics Co.,Ltd
+5056BF     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+24-F5-AA   (hex)		Samsung Electronics Co.,Ltd
+24F5AA     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+F8-77-B8   (hex)		Samsung Electronics Co.,Ltd
+F877B8     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+68-27-37   (hex)		Samsung Electronics Co.,Ltd
+682737     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -77810,36 +77822,6 @@ FC2F40     (base 16)		Calxeda, Inc.
 				Gumi  Gyeongbuk  730-350
 				KR
 
-84-A4-66   (hex)		Samsung Electronics Co.,Ltd
-84A466     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
-98-1D-FA   (hex)		Samsung Electronics Co.,Ltd
-981DFA     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
-FC-F1-36   (hex)		Samsung Electronics Co.,Ltd
-FCF136     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
-0C-89-10   (hex)		Samsung Electronics Co.,Ltd
-0C8910     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
-
-54-FA-3E   (hex)		Samsung Electronics Co.,Ltd
-54FA3E     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
-
 A8-9F-BA   (hex)		Samsung Electronics Co.,Ltd
 A89FBA     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -77982,12 +77964,6 @@ A4EBD3     (base 16)		Samsung Electronics Co.,Ltd
 28987B     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1,Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
-				KR
-
-18-67-B0   (hex)		Samsung Electronics Co.,Ltd
-1867B0     (base 16)		Samsung Electronics Co.,Ltd
-				129,Samsung-ro, Yeongtong-gu
-				Suwon  Gyeonggi-Do  443-742
 				KR
 
 F4-0E-22   (hex)		Samsung Electronics Co.,Ltd
@@ -78554,12 +78530,6 @@ EC438B     (base 16)		YAPTV
 				shenzhen    518100
 				CN
 
-CC-B1-1A   (hex)		Samsung Electronics Co.,Ltd
-CCB11A     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 40-47-6A   (hex)		AG Acquisition Corp. d.b.a. ASTRO Gaming
 40476A     (base 16)		AG Acquisition Corp. d.b.a. ASTRO Gaming
 				655 4th St.
@@ -79123,18 +79093,6 @@ C09727     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Gewerbestrasse 57
 				ILLMENSEE    88636
 				DE
-
-B8-BB-AF   (hex)		Samsung Electronics Co.,Ltd
-B8BBAF     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
-60-C5-AD   (hex)		Samsung Electronics Co.,Ltd
-60C5AD     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
 
 8C-89-7A   (hex)		AUGTEK
 8C897A     (base 16)		AUGTEK
@@ -81962,28 +81920,16 @@ E4A749     (base 16)		Palo Alto Networks
 				Santa Clara  CA  95054 
 				US
 
-00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
-0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
-				555 RIVER OAKS PARKWAY
-				SAN JOSE  CA  95134
-				US
-
 50-40-61   (hex)		Nokia
 504061     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-74-67-F7   (hex)		Extreme Networks
-7467F7     (base 16)		Extreme Networks
-				1 Zebra Plaza
-				Holtsville  NY  11742
-				US
-
-B4-C7-99   (hex)		Extreme Networks
-B4C799     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
+00-30-C5   (hex)		CADENCE DESIGN SYSTEMS, INC.
+0030C5     (base 16)		CADENCE DESIGN SYSTEMS, INC.
+				555 RIVER OAKS PARKWAY
+				SAN JOSE  CA  95134
 				US
 
 54-E3-F6   (hex)		Alcatel-Lucent
@@ -81992,16 +81938,10 @@ B4C799     (base 16)		Extreme Networks
 				Mountain View  CA  94043
 				US
 
-5C-0E-8B   (hex)		Extreme Networks
-5C0E8B     (base 16)		Extreme Networks
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
-00-E0-2B   (hex)		Extreme Networks
-00E02B     (base 16)		Extreme Networks
-				10460 BANDLEY DRIVE
-				CUPERINT0  CA  95014
+74-67-F7   (hex)		Extreme Networks
+7467F7     (base 16)		Extreme Networks
+				1 Zebra Plaza
+				Holtsville  NY  11742
 				US
 
 B0-C2-05   (hex)		BIONIME
@@ -82016,23 +81956,29 @@ B0C205     (base 16)		BIONIME
 				Dallas  TX  75243
 				US
 
+B4-C7-99   (hex)		Extreme Networks
+B4C799     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+5C-0E-8B   (hex)		Extreme Networks
+5C0E8B     (base 16)		Extreme Networks
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
+00-E0-2B   (hex)		Extreme Networks
+00E02B     (base 16)		Extreme Networks
+				10460 BANDLEY DRIVE
+				CUPERINT0  CA  95014
+				US
+
 7C-26-64   (hex)		Sagemcom Broadband SAS
 7C2664     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
-
-28-39-5E   (hex)		Samsung Electronics Co.,Ltd
-28395E     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
-E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
-E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
-				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
-				Shanghai  Shanghai  201203
-				CN
 
 A0-02-DC   (hex)		Amazon Technologies Inc.
 A002DC     (base 16)		Amazon Technologies Inc.
@@ -82045,6 +81991,12 @@ A002DC     (base 16)		Amazon Technologies Inc.
 				P.O Box 8102
 				Reno  NV  89507
 				US
+
+E4-7D-EB   (hex)		Shanghai Notion Information Technology CO.,LTD.
+E47DEB     (base 16)		Shanghai Notion Information Technology CO.,LTD.
+				Room 201,Building 3,NO 289,Bisheng Rd,Pudong district,Shanghai,China
+				Shanghai  Shanghai  201203
+				CN
 
 28-EF-01   (hex)		Private
 28EF01     (base 16)		Private
@@ -82211,6 +82163,12 @@ F8FF0B     (base 16)		Electronic Technology Inc.
 				Piscataway  NJ  08554
 				US
 
+C8-F8-6D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
+C8F86D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
+				No. 389, Ningqiao Road, Pudong Jinqiao
+				Shanghai    201206
+				CN
+
 B8-D5-0B   (hex)		Sunitec Enterprise Co.,Ltd
 B8D50B     (base 16)		Sunitec Enterprise Co.,Ltd
 				3F.,No.98-1,Mincyuan Rd.Sindian City
@@ -82221,12 +82179,6 @@ B8D50B     (base 16)		Sunitec Enterprise Co.,Ltd
 28A6DB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
-				CN
-
-C8-F8-6D   (hex)		Alcatel-Lucent Shanghai Bell Co., Ltd
-C8F86D     (base 16)		Alcatel-Lucent Shanghai Bell Co., Ltd
-				No. 389, Ningqiao Road, Pudong Jinqiao
-				Shanghai    201206
 				CN
 
 D4-5F-25   (hex)		Shenzhen YOUHUA Technology Co., Ltd
@@ -82271,12 +82223,6 @@ B4417A     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				ShenZhen  GuangDong  518067
 				CN
 
-C4-AE-12   (hex)		Samsung Electronics Co.,Ltd
-C4AE12     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 F4-DE-0C   (hex)		ESPOD Ltd.
 F4DE0C     (base 16)		ESPOD Ltd.
 				6 Marjanishvili St. (Green Building) | 0102 Tbilisi | Georgia
@@ -82287,6 +82233,18 @@ BC-8A-E8   (hex)		QING DAO HAIER TELECOM CO.,LTD.
 BC8AE8     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
 				No 1 Haier Road Hi-tech Zone
 				Qingdao    266000
+				CN
+
+A8-1B-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+A81B5A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,WUSHA,CHANG'AN,DONGGUAN,GUANGDONG,CHINA
+				DONGGUAN  GUANGDONG  523860
+				CN
+
+DC-6D-CD   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
 				CN
 
 44-04-44   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -82319,16 +82277,10 @@ CC2D83     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-A8-1B-5A   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-A81B5A     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,WUSHA,CHANG'AN,DONGGUAN,GUANGDONG,CHINA
-				DONGGUAN  GUANGDONG  523860
-				CN
-
-DC-6D-CD   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
+18-52-07   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
+185207     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
+				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
+				Chengdu  Sichuan  610000
 				CN
 
 70-D3-79   (hex)		Cisco Systems, Inc
@@ -82342,12 +82294,6 @@ DC6DCD     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				SKn TechnoPark 1207
 				SeongNam-Si  Gyenggi-do  13207
 				KR
-
-18-52-07   (hex)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
-185207     (base 16)		SICHUAN TIANYI COMHEART TELECOMCO., LTD
-				FL12, TowerB,Tianyi international Hotel,No.2 West Section One, Second Ring Road,
-				Chengdu  Sichuan  610000
-				CN
 
 98-74-DA   (hex)		Infinix mobility limited
 9874DA     (base 16)		Infinix mobility limited
@@ -82396,6 +82342,78 @@ EC363F     (base 16)		Markov Corporation
 				650 Vaqueros Avenue, Suite A
 				Sunnyvale  CA  94085
 				US
+
+54-FA-3E   (hex)		Samsung Electronics Co.,Ltd
+54FA3E     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+0C-89-10   (hex)		Samsung Electronics Co.,Ltd
+0C8910     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+FC-F1-36   (hex)		Samsung Electronics Co.,Ltd
+FCF136     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+98-1D-FA   (hex)		Samsung Electronics Co.,Ltd
+981DFA     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+84-A4-66   (hex)		Samsung Electronics Co.,Ltd
+84A466     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+18-67-B0   (hex)		Samsung Electronics Co.,Ltd
+1867B0     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+CC-B1-1A   (hex)		Samsung Electronics Co.,Ltd
+CCB11A     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+B8-BB-AF   (hex)		Samsung Electronics Co.,Ltd
+B8BBAF     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+60-C5-AD   (hex)		Samsung Electronics Co.,Ltd
+60C5AD     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+28-39-5E   (hex)		Samsung Electronics Co.,Ltd
+28395E     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+C4-AE-12   (hex)		Samsung Electronics Co.,Ltd
+C4AE12     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+10-D0-7A   (hex)		AMPAK Technology, Inc.
+10D07A     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -105821,24 +105839,6 @@ A80600     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-90-F1-AA   (hex)		Samsung Electronics Co.,Ltd
-90F1AA     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
-
-C4-57-6E   (hex)		Samsung Electronics Co.,Ltd
-C4576E     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
-
-78-BD-BC   (hex)		Samsung Electronics Co.,Ltd
-78BDBC     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 38-72-C0   (hex)		Comtrend Corporation
 3872C0     (base 16)		Comtrend Corporation
 				3F-1,10 Lane 609, Chung Hsin Road, Section 5
@@ -109508,12 +109508,6 @@ A084CB     (base 16)		SonicSensory,Inc.
 				Haidian District  Beijing  100193
 				CN
 
-D4-7A-E2   (hex)		Samsung Electronics Co.,Ltd
-D47AE2     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 90-38-09   (hex)		Ericsson AB
 903809     (base 16)		Ericsson AB
 				Torshamnsgatan 36
@@ -109999,6 +109993,36 @@ B8FFB3     (base 16)		MitraStar Technology Corp.
 				No. 6, Innovation Road II,
 				Hsinchu    300
 				TW
+
+E0-D5-5E   (hex)		GIGA-BYTE TECHNOLOGY CO.,LTD.
+E0D55E     (base 16)		GIGA-BYTE TECHNOLOGY CO.,LTD.
+				Pin-Jen City, Taoyuan, Taiwan, R.O.C.
+				Pin-Jen  Taoyuan  324
+				TW
+
+C4-57-6E   (hex)		Samsung Electronics Co.,Ltd
+C4576E     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+90-F1-AA   (hex)		Samsung Electronics Co.,Ltd
+90F1AA     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+78-BD-BC   (hex)		Samsung Electronics Co.,Ltd
+78BDBC     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+D4-7A-E2   (hex)		Samsung Electronics Co.,Ltd
+D47AE2     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -133574,41 +133598,11 @@ D8C4E9     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-BC-14-85   (hex)		Samsung Electronics Co.,Ltd
-BC1485     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 9C-E6-E7   (hex)		Samsung Electronics Co.,Ltd
 9CE6E7     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1,Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
-
-38-01-95   (hex)		Samsung Electronics Co.,Ltd
-380195     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
-5C-F6-DC   (hex)		Samsung Electronics Co.,Ltd
-5CF6DC     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
-
-10-77-B1   (hex)		Samsung Electronics Co.,Ltd
-1077B1     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
-
-50-85-69   (hex)		Samsung Electronics Co.,Ltd
-508569     (base 16)		Samsung Electronics Co.,Ltd
-				129,SamsungRo,Yeongtong-Gu
-				Suwon  Gyeonggi-Do  443742
-				
 
 00-90-A2   (hex)		CyberTAN Technology Inc.
 0090A2     (base 16)		CyberTAN Technology Inc.
@@ -134208,12 +134202,6 @@ A8-6A-C1   (hex)		HanbitEDS Co., Ltd.
 A86AC1     (base 16)		HanbitEDS Co., Ltd.
 				44-10, Techno 10-ro, Yuseong-gu
 				Daejeon  Daejeon  34027
-				KR
-
-40-16-3B   (hex)		Samsung Electronics Co.,Ltd
-40163B     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
 				KR
 
 88-B1-E1   (hex)		 Mojo Networks, Inc.
@@ -136727,12 +136715,6 @@ C8E776     (base 16)		PTCOM Technology
 				Taipei    10488
 				TW
 
-5C-49-7D   (hex)		Samsung Electronics Co.,Ltd
-5C497D     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 70-F8-E7   (hex)		IEEE Registration Authority
 70F8E7     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -137002,12 +136984,6 @@ C0854C     (base 16)		Ragentek Technology Group
 				No.147, Sec. 3, Beishen Rd
 				Shenkeng Dist  New Taipei City  ---
 				TW
-
-E4-7D-BD   (hex)		Samsung Electronics Co.,Ltd
-E47DBD     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
 
 0C-02-27   (hex)		Technicolor CH USA Inc.
 0C0227     (base 16)		Technicolor CH USA Inc.
@@ -137441,12 +137417,6 @@ E0C0D1     (base 16)		CK Telecom (Shenzhen) Limited
 				shenzhen  guangdong  518057
 				CN
 
-50-3D-A1   (hex)		Samsung Electronics Co.,Ltd
-503DA1     (base 16)		Samsung Electronics Co.,Ltd
-				129, Samsung-ro, Youngtongl-Gu
-				Suwon  Gyeonggi-Do  443742
-				KR
-
 00-1D-44   (hex)		Krohne
 001D44     (base 16)		Krohne
 				Kerkrplaat 12
@@ -137758,3 +137728,63 @@ F4FCB1     (base 16)		JJ Corp
 				899 Kifer Road
 				Sunnyvale    94086
 				US
+
+5C-49-7D   (hex)		Samsung Electronics Co.,Ltd
+5C497D     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+E4-7D-BD   (hex)		Samsung Electronics Co.,Ltd
+E47DBD     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+50-3D-A1   (hex)		Samsung Electronics Co.,Ltd
+503DA1     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+A0-40-A0   (hex)		NETGEAR
+A040A0     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose    95134
+				US
+
+5C-F6-DC   (hex)		Samsung Electronics Co.,Ltd
+5CF6DC     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+38-01-95   (hex)		Samsung Electronics Co.,Ltd
+380195     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+BC-14-85   (hex)		Samsung Electronics Co.,Ltd
+BC1485     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+40-16-3B   (hex)		Samsung Electronics Co.,Ltd
+40163B     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+50-85-69   (hex)		Samsung Electronics Co.,Ltd
+508569     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+10-77-B1   (hex)		Samsung Electronics Co.,Ltd
+1077B1     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
