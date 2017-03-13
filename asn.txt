@@ -34315,7 +34315,7 @@
 36357	ASN1 - Entrust Capital Inc., US
 36358	AHON27871A - Anns House of Nuts, Inc., US
 36359	WORTH-CIT-SCHOOLS-OH - Worthington City Schools, US
-36360	GSC-STG - Gannett Supply Corp. - St. George, UT, US
+36360	GSC-STG - Gannett Supply Corp. - St. George, UT, ZZ
 36361	SMT-35-S-TO-VZ - Southwestern Motor Transport, Inc., US
 36362	MAIL-AMERICA-COMMUNICATIONS-INC - Mail America Communications, Inc, US
 36363	AISO-SOCAL - Affordable Internet Services Online, Inc., US
@@ -42885,6 +42885,7 @@
 45561	M800-HK-AP 21/F, Tower 1 Enterprise Square, 9 Sheung Yuet Road, Kowloon Bay, Hong Kong, HK
 45562	HIL-HK-AP Hutchison International Limited, Commercial, HK
 45563	NETWORKPRO-AS-AP Network Pro, NZ
+45566	GOOGLE-CORP-APAC-AS-AP AS number for Google Corporate Network in APAC, IN
 45567	CERNET2-SCUT6-AS-AP SCUT IPv6 Campus Network, CN
 45569	XEEX-AS-AP Xeex Communication, IN
 45570	NETPRES-AS-AP Network Presence, AU
@@ -66642,7 +66643,7 @@
 136206	SKYNETBROADBAND-AS-AP Skynet Broadband Pty Ltd, AU
 136207	KBNONLINE-AS-AP K B N Online, BD
 136208	HICL-AS-AP HI INTERNET COMPANY LIMITED, TH
-136209	BN-AS-KR Begonia Network, KR
+136209	BN-AS-KR Korea Fast Communications, KR
 136210	ITSPECTRUM-AS-AP IT Spectrum Company Limited, MM
 136211	EPYLLIONGROUP-AS-AP Reazuddin Al Mamoon t/a Epyllion Knitwears Ltd., BD
 136212	ATML-AS-AP Asia Telecom Management Limited, HK
@@ -78765,6 +78766,7 @@
 328135	AVBOB-AS, ZA
 328136	K3-Telecom-AS, LR
 328137	Web-Squad-Connect-AS, ZA
+328138	UNIVERCELL-AS, BJ
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
