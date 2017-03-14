@@ -27806,6 +27806,18 @@ E43A6E     (base 16)		Shenzhen Zeroone Technology CO.,LTD
 				Shenzhen  Guangdong  518000
 				CN
 
+60-DA-83   (hex)		Hangzhou H3C Technologies Co., Limited
+60DA83     (base 16)		Hangzhou H3C Technologies Co., Limited
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang, P.R.China  310052
+				CN
+
+2C-57-31   (hex)		 Wingtech Group (HongKong）Limited
+2C5731     (base 16)		 Wingtech Group (HongKong）Limited
+				 FLAT/RM 1903 19/F PODIUM PLAZA 5HANOI ROAD TSIM SHA TSUI
+				Hong Kong  Hong Kong  999077
+				HK
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -39156,12 +39168,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 001B12     (base 16)		Apprion
 				Nasa Ames Rerearch Center
 				Moffett Field  California  94035
-				US
-
-00-1B-17   (hex)		Palo Alto Networks
-001B17     (base 16)		Palo Alto Networks
-				2130 Gold Street Suite 200
-				Alviso  CA  95022
 				US
 
 00-1B-0B   (hex)		Phidgets Inc.
@@ -55602,6 +55608,24 @@ A0-23-9F   (hex)		Cisco Systems, Inc
 A0239F     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+D8-DF-7A   (hex)		Quest Software, Inc.
+D8DF7A     (base 16)		Quest Software, Inc.
+				4 Polaris Way
+				Aliso Viejo  CA  92656
+				US
+
+30-B6-2D   (hex)		 Mojo Networks, Inc.
+30B62D     (base 16)		 Mojo Networks, Inc.
+				339 N.Bernardo Ave
+				Mountain View  CA  94043
+				US
+
+00-1B-17   (hex)		Palo Alto Networks
+001B17     (base 16)		Palo Alto Networks
+				2130 Gold Street Suite 200
+				Alviso  CA  95022
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -81902,12 +81926,6 @@ BC3F8F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-E4-A7-49   (hex)		Palo Alto Networks 
-E4A749     (base 16)		Palo Alto Networks 
-				4401 Great America Pkwy
-				Santa Clara  CA  95054
-				US
-
 04-DE-F2   (hex)		Shenzhen ECOM Technology Co. Ltd
 04DEF2     (base 16)		Shenzhen ECOM Technology Co. Ltd
 				Longhua Street Qinghu Community Longhu Junhui Fashion Apartment
@@ -82970,6 +82988,24 @@ F470AB     (base 16)		vivo Mobile Communication Co., Ltd.
 50-18-4C   (hex)		Platina Systems Inc.
 50184C     (base 16)		Platina Systems Inc.
 				3180 De La Cruz Blvd. Ste# 110
+				Santa Clara  CA  95054
+				US
+
+CC-46-39   (hex)		WAAV, Inc.
+CC4639     (base 16)		WAAV, Inc.
+				151 PEARL ST FL 4
+				BOSTON  MA  02110
+				US
+
+E4-A7-49   (hex)		Palo Alto Networks
+E4A749     (base 16)		Palo Alto Networks
+				4401 Great America Pkwy
+				Santa Clara  CA  95054
+				US
+
+78-6D-94   (hex)		Palo Alto Networks
+786D94     (base 16)		Palo Alto Networks
+				4401 Great America Pkwy
 				Santa Clara  CA  95054
 				US
 
@@ -110732,6 +110768,30 @@ C8DB26     (base 16)		Logitech
 				San Jose  CA  94568
 				US
 
+EC-42-B4   (hex)		ADC Corporation
+EC42B4     (base 16)		ADC Corporation
+				77-1, Miyako
+				Namegawa-machi, Hiki-gun  Saitama Pref.  355-0812
+				JP
+
+10-CD-B6   (hex)		Essential Products, Inc.
+10CDB6     (base 16)		Essential Products, Inc.
+				380 Portage Avenue
+				Palo Alto  CA  94306
+				US
+
+34-8F-27   (hex)		Ruckus Wireless
+348F27     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+4C-65-A8   (hex)		IEEE Registration Authority
+4C65A8     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -114153,12 +114213,6 @@ B0-69-71   (hex)		DEI Sales, Inc.
 B06971     (base 16)		DEI Sales, Inc.
 				1 Viper Way
 				Vista  CA  92081
-				US
-
-58-49-3B   (hex)		Palo Alto Networks
-58493B     (base 16)		Palo Alto Networks
-				4401 Great America Parkway
-				Santa Clara  CA  95054
 				US
 
 58-05-28   (hex)		LABRIS NETWORKS
@@ -138664,3 +138718,21 @@ A06A44     (base 16)		Vizio, Inc
 				Plot 56 , Hilir Sungai Keluang 1, Bayan Lepas Industrial Park, Phase 4
 				George Town  Penang  11900
 				MY
+
+B4-4F-96   (hex)		Zhejiang Xinzailing Technology co., ltd
+B44F96     (base 16)		Zhejiang Xinzailing Technology co., ltd
+				No.1805, Dongliu Road, Binjiang District 
+				Hangzhou  Zhejiang  310051
+				CN
+
+D8-22-F4   (hex)		Avnet Silica
+D822F4     (base 16)		Avnet Silica
+				16 av carnot
+				Massy    91349
+				FR
+
+58-49-3B   (hex)		Palo Alto Networks
+58493B     (base 16)		Palo Alto Networks
+				4401 Great America Parkway
+				Santa Clara  CA  95054
+				US
