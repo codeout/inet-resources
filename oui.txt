@@ -55670,29 +55670,23 @@ A40450     (base 16)		nFore Technology Inc.
 				Shenzhen    518112
 				CN
 
-F0-3E-90   (hex)		Ruckus Wireless
-F03E90     (base 16)		Ruckus Wireless
+2C-E6-CC   (hex)		Ruckus Wireless
+2CE6CC     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-EC-8C-A2   (hex)		Ruckus Wireless
-EC8CA2     (base 16)		Ruckus Wireless
+8C-0C-90   (hex)		Ruckus Wireless
+8C0C90     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-30-87-D9   (hex)		Ruckus Wireless
-3087D9     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
-24-79-2A   (hex)		Ruckus Wireless
-24792A     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
+84-20-96   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+842096     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
+				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
+				Shenzhen  Guangdong  518000
+				CN
 
 58-93-96   (hex)		Ruckus Wireless
 589396     (base 16)		Ruckus Wireless
@@ -55730,23 +55724,35 @@ D4684D     (base 16)		Ruckus Wireless
 				Sunnyvale  CA  94089
 				US
 
-2C-E6-CC   (hex)		Ruckus Wireless
-2CE6CC     (base 16)		Ruckus Wireless
+F0-3E-90   (hex)		Ruckus Wireless
+F03E90     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-8C-0C-90   (hex)		Ruckus Wireless
-8C0C90     (base 16)		Ruckus Wireless
+EC-8C-A2   (hex)		Ruckus Wireless
+EC8CA2     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
 				US
 
-84-20-96   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
-842096     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
-				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
-				Shenzhen  Guangdong  518000
-				CN
+30-87-D9   (hex)		Ruckus Wireless
+3087D9     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+24-79-2A   (hex)		Ruckus Wireless
+24792A     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
+
+30-F7-7F   (hex)		S Mobile Devices Limited
+30F77F     (base 16)		S Mobile Devices Limited
+				Unit B-303, 3rd Floor, Tower-B, Plot No-7,Advant IT Park Ltd , Sector-142
+				NOIDA  Uttar Pradesh  201301
+				IN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -83171,6 +83177,18 @@ FC2F6B     (base 16)		Everspin Technologies, Inc.
 				Chandler  AZ  85224
 				US
 
+B4-C1-70   (hex)		Yi chip Microelectronics (Hangzhou) Co., Ltd
+B4C170     (base 16)		Yi chip Microelectronics (Hangzhou) Co., Ltd
+				Suite 401, Building #13, No. 498 Guoshoujing Rd., Pudong
+				Shanghai    201210
+				CN
+
+54-02-37   (hex)		Teltronic AG
+540237     (base 16)		Teltronic AG
+				Gewerbestrasse 9
+				Biberist    4562
+				CH
+
 2C-C5-D3   (hex)		Ruckus Wireless
 2CC5D3     (base 16)		Ruckus Wireless
 				350 West Java Drive
@@ -83193,6 +83211,18 @@ C0-C5-20   (hex)		Ruckus Wireless
 C0C520     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
+				US
+
+A8-96-75   (hex)		Motorola Mobility LLC, a Lenovo Company
+A89675     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+94-F1-28   (hex)		Hewlett Packard Enterprise
+94F128     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville    95747
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -103763,12 +103793,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				FOSTER CITY  CA  94404-1138
 				US
 
-00-A0-50   (hex)		CYPRESS SEMICONDUCTOR
-00A050     (base 16)		CYPRESS SEMICONDUCTOR
-				3901 NORTH FIRST STREET
-				SAN JOSE  CA  95134
-				US
-
 00-A0-98   (hex)		NetApp
 00A098     (base 16)		NetApp
 				495 East Java Drive
@@ -111024,6 +111048,24 @@ C4-10-8A   (hex)		Ruckus Wireless
 C4108A     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
+				US
+
+D4-63-C6   (hex)		Motorola Mobility LLC, a Lenovo Company
+D463C6     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+00-A0-50   (hex)		CYPRESS SEMICONDUCTOR
+00A050     (base 16)		CYPRESS SEMICONDUCTOR
+				198 Champion Ct
+				SAN JOSE  CA  95134
+				US
+
+A4-4C-C8   (hex)		Dell Inc.
+A44CC8     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -139029,4 +139071,10 @@ AC-67-06   (hex)		Ruckus Wireless
 AC6706     (base 16)		Ruckus Wireless
 				350 West Java Drive
 				Sunnyvale  CA  94089
+				US
+
+D8-6C-63   (hex)		Google, Inc.
+D86C63     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
 				US
