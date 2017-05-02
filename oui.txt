@@ -17111,12 +17111,6 @@ A8CE90     (base 16)		CVC
 				    
 				IL
 
-00-04-BF   (hex)		VersaLogic Corp.
-0004BF     (base 16)		VersaLogic Corp.
-				3888 Stewart Rd.
-				Eugene  OR  97402
-				US
-
 00-04-C5   (hex)		ASE Technologies, USA
 0004C5     (base 16)		ASE Technologies, USA
 				6721 Baum Dr.
@@ -28045,6 +28039,18 @@ FCC233     (base 16)		Private
 				5 Bayint Naung Road, Hlaing Township
 				Yangon    11052
 				MM
+
+90-50-CA   (hex)		Hitron Technologies. Inc
+9050CA     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  Taiwan  300
+				TW
+
+00-04-BF   (hex)		VersaLogic Corp.
+0004BF     (base 16)		VersaLogic Corp.
+				12100 SW Tualatin Rd
+				Tualatin  OR  97062
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62375,12 +62381,6 @@ B42A39     (base 16)		ORBIT MERRET, spol. s r. o.
 				Praha    198 00
 				CZ
 
-B8-0B-9D   (hex)		ROPEX Industrie-Elektronik GmbH
-B80B9D     (base 16)		ROPEX Industrie-Elektronik GmbH
-				Gansaecker 21
-				Bietigheim-Bissingen  Baden Wuerttemberg  74321
-				DE
-
 18-AE-BB   (hex)		Siemens Convergence Creators GmbH&Co.KG
 18AEBB     (base 16)		Siemens Convergence Creators GmbH&Co.KG
 				Communications, Media and Technology
@@ -68275,12 +68275,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 				26/F, Aitken Vanson Centre,
 				    
 				HK
-
-00-15-26   (hex)		Remote Technologies Inc
-001526     (base 16)		Remote Technologies Inc
-				7651 Anagram Drive
-				Eden Prairie  MN  55344
-				US
 
 00-15-1A   (hex)		Hunter Engineering Company
 00151A     (base 16)		Hunter Engineering Company
@@ -83710,6 +83704,42 @@ A41566     (base 16)		Weifang GoerTek Technology Co.,Ltd.
 
 00-50-C7   (hex)		Private
 0050C7     (base 16)		Private
+
+B8-0B-9D   (hex)		ROPEX Industrie-Elektronik GmbH
+B80B9D     (base 16)		ROPEX Industrie-Elektronik GmbH
+				Adolf-Heim-Str. 4
+				Bietigheim-Bissingen  Baden Wuerttemberg  74321
+				DE
+
+00-15-26   (hex)		Remote Technologies Inc
+001526     (base 16)		Remote Technologies Inc
+				 5775 12th Ave E, Suite 180
+				Shakopee  MN  55379
+				US
+
+40-99-22   (hex)		AzureWave Technology Inc.
+409922     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
+B8-DB-1C   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+B8DB1C     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+3C-10-E6   (hex)		PHAZR Inc.
+3C10E6     (base 16)		PHAZR Inc.
+				8, Presitige Circle, Suite 104
+				Allen  TX  75002
+				US
+
+34-00-8A   (hex)		IEEE Registration Authority
+34008A     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -139918,3 +139948,9 @@ D4D2E5     (base 16)		BKAV Corporation
 				2nd floor - HH1 Building - Yen Hoa Urban Area, Yen Hoa Ward, Cau Giay District
 				HaNoi    100000
 				VN
+
+C0-6D-1A   (hex)		Tianjin Henxinhuifeng Technology Co.,Ltd.
+C06D1A     (base 16)		Tianjin Henxinhuifeng Technology Co.,Ltd.
+				Rm 233, Tianjin Technology Innovation Service Center, 12 Keyan West Road, Nankai District, Tianjin, P.R.C.
+				Tianjin  Tianjin  300192
+				CN
