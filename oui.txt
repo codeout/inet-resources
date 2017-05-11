@@ -7343,12 +7343,6 @@ A45055     (base 16)		busware.de
 				Moritzburg  Saxony  01468
 				DE
 
-2C-D2-E7   (hex)		Nokia Corporation
-2CD2E7     (base 16)		Nokia Corporation
-				Elektroniikkatie 10
-				Oulu  Ou  90590
-				FI
-
 C8-93-83   (hex)		Embedded Automation, Inc.
 C89383     (base 16)		Embedded Automation, Inc.
 				17345 Abbey Drive
@@ -12559,12 +12553,6 @@ A8CE90     (base 16)		CVC
 				14100 East Jewell Ave.
 				Aurora  CO  80012
 				US
-
-00-15-2A   (hex)		Nokia GmbH
-00152A     (base 16)		Nokia GmbH
-				Rensingstraße 15
-				Bochum  NRW  44807
-				DE
 
 00-16-1D   (hex)		Innovative Wireless Technologies, Inc.
 00161D     (base 16)		Innovative Wireless Technologies, Inc.
@@ -28099,6 +28087,42 @@ B8634D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+68-1F-40   (hex)		Blu Wireless Technology Ltd
+681F40     (base 16)		Blu Wireless Technology Ltd
+				Bluwireless Technology, 5th Floor, 1 Temple Way
+				Bristol  Bristol, City of  BS2 0BY
+				GB
+
+48-C5-8D   (hex)		Lear Corporation GmbH
+48C58D     (base 16)		Lear Corporation GmbH
+				Industriestrasse 48
+				Kronach  Bavaria  96317
+				DE
+
+90-AD-F7   (hex)		vivo Mobile Communication Co., Ltd.
+90ADF7     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+98-2D-68   (hex)		Samsung Electronics Co., Ltd
+982D68     (base 16)		Samsung Electronics Co., Ltd
+				Samsung 1-ro
+				Hwaseong-si  Gyeonggi-do  445330
+				KR
+
+2C-D2-E7   (hex)		Nokia Corporation
+2CD2E7     (base 16)		Nokia Corporation
+				Elektroniikkatie 10
+				Oulu  Ou  90590
+				FI
+
+00-15-2A   (hex)		Nokia Corporation
+00152A     (base 16)		Nokia Corporation
+				Rensingstraße 15
+				Bochum  NRW  44807
+				DE
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -56178,6 +56202,18 @@ EC-FA-03   (hex)		FCA
 ECFA03     (base 16)		FCA
 				800 Chrylser Dr
 				Auburn Hills  MI  48326
+				US
+
+78-A6-E1   (hex)		Brocade Communications Systems, Inc.
+78A6E1     (base 16)		Brocade Communications Systems, Inc.
+				130 Holger Way
+				San Jose    95134
+				US
+
+F4-D7-B2   (hex)		LGS Innovations, LLC
+F4D7B2     (base 16)		LGS Innovations, LLC
+				13665 Dulles Technology Drive
+				Herndon  VA  20171
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -91016,12 +91052,6 @@ F81037     (base 16)		Atopia Systems, LP
 				Tsutiura  Ibaraki  300-0842
 				JP
 
-9C-4A-7B   (hex)		Nokia Corporation
-9C4A7B     (base 16)		Nokia Corporation
-				Elektroniikkatie 10
-				Oulu  Ou  90590
-				FI
-
 2C-80-65   (hex)		HARTING Inc. of North America
 2C8065     (base 16)		HARTING Inc. of North America
 				1370 Bowes Road
@@ -91165,12 +91195,6 @@ ACAB8D     (base 16)		Lyngso Marine A/S
 				Lyngso Alle 2
 				Horsholm    DK-2970
 				DK
-
-18-14-56   (hex)		Nokia Corporation
-181456     (base 16)		Nokia Corporation
-				Elektroniikkatie 10
-				Oulu  Ou  90590
-				FI
 
 E8-99-5A   (hex)		PiiGAB, Processinformation i Goteborg AB
 E8995A     (base 16)		PiiGAB, Processinformation i Goteborg AB
@@ -91687,12 +91711,6 @@ AC5135     (base 16)		MPI TECH
 				Vadstrupvej 35
 				Bagsværd    DK-2880
 				DK
-
-E4-EC-10   (hex)		Nokia Corporation
-E4EC10     (base 16)		Nokia Corporation
-				Elektroniikkatie 10
-				Oulu  Ou  90590
-				FI
 
 00-D3-8D   (hex)		Hotel Technology Next Generation
 00D38D     (base 16)		Hotel Technology Next Generation
@@ -111983,6 +112001,36 @@ A85C2C     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+18-14-56   (hex)		Nokia Corporation
+181456     (base 16)		Nokia Corporation
+				Elektroniikkatie 10
+				Oulu  Ou  90590
+				FI
+
+E4-EC-10   (hex)		Nokia Corporation
+E4EC10     (base 16)		Nokia Corporation
+				Elektroniikkatie 10
+				Oulu  Ou  90590
+				FI
+
+9C-4A-7B   (hex)		Nokia Corporation
+9C4A7B     (base 16)		Nokia Corporation
+				Elektroniikkatie 10
+				Oulu  Ou  90590
+				FI
+
+38-6E-A2   (hex)		vivo Mobile Communication Co., Ltd.
+386EA2     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+58-B4-2D   (hex)		YSTen Technology Co.,Ltd
+58B42D     (base 16)		YSTen Technology Co.,Ltd
+				Room 1715,17/F North Star Times Tower,Chaoyang District,Beijing.
+				Beijing    100101
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -119153,12 +119201,6 @@ B8A8AF     (base 16)		Logic S.p.A.
 				Rellingen    25462
 				DE
 
-FC-E5-57   (hex)		Nokia Corporation
-FCE557     (base 16)		Nokia Corporation
-				Elektroniikkatie 10
-				Oulu  Ou  90590
-				FI
-
 BC-6E-76   (hex)		Green Energy Options Ltd
 BC6E76     (base 16)		Green Energy Options Ltd
 				3 St. Mary's Court, Main Street
@@ -119386,12 +119428,6 @@ B8EE79     (base 16)		YWire Technologies, Inc.
 				Ludwig-Erhard-Strasse 6
 				Bergheim-Glessen  NRW  50129
 				DE
-
-30-38-55   (hex)		Nokia Corporation
-303855     (base 16)		Nokia Corporation
-				Elektroniikkatie 10
-				Oulu  Ou  90590
-				FI
 
 9C-45-63   (hex)		DIMEP Sistemas
 9C4563     (base 16)		DIMEP Sistemas
@@ -140203,3 +140239,15 @@ AC1F74     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+30-38-55   (hex)		Nokia Corporation
+303855     (base 16)		Nokia Corporation
+				Elektroniikkatie 10
+				Oulu  Ou  90590
+				FI
+
+FC-E5-57   (hex)		Nokia Corporation
+FCE557     (base 16)		Nokia Corporation
+				Elektroniikkatie 10
+				Oulu  Ou  90590
+				FI
