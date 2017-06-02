@@ -28217,6 +28217,9 @@ C4F312     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+A0-D8-6F   (hex)		Private
+A0D86F     (base 16)		Private
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -56398,6 +56401,12 @@ D8AFF1     (base 16)		Panasonic Appliances Company
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+A0-72-E4   (hex)		NJ SYSTEM CO.,LTD
+A072E4     (base 16)		NJ SYSTEM CO.,LTD
+				Urim lions valley 5cha, A-1701, 144-3, Sangdaewon-dong, Jungwon-gu
+				Seongnam  Gyeonggido  13201
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -112316,6 +112325,24 @@ D86162     (base 16)		Wistron Neweb Corporation
 				Seoul    08389
 				KR
 
+70-6B-B9   (hex)		Cisco Systems, Inc
+706BB9     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+8C-FE-B4   (hex)		VSOONTECH ELECTRONICS CO., LIMITED
+8CFEB4     (base 16)		VSOONTECH ELECTRONICS CO., LIMITED
+				18th, Floor, On Hong Commericial Building, 145 Hennessy Road, Wanchai, HONG KONG
+				HongKong    999077
+				HK
+
+6C-C1-47   (hex)		Xiamen Hanin Electronic Technology Co., Ltd
+6CC147     (base 16)		Xiamen Hanin Electronic Technology Co., Ltd
+				#8 building, Gaoqi Nan Shi'er Road, Huli Distric
+				Xiamen  Fujian  361000
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -140638,3 +140665,15 @@ D4389C     (base 16)		Sony Mobile Communications AB
 				Nya Vattentornet
 				Lund  SE  22128
 				SE
+
+10-49-63   (hex)		HARTING K.K.
+104963     (base 16)		HARTING K.K.
+				1-7-9, Shin-Yokohama, Kohoku-ku
+				Yokohama-city  Kanagawa  222-0033
+				JP
+
+64-6E-69   (hex)		Liteon Technology Corporation
+646E69     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
