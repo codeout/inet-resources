@@ -56489,6 +56489,24 @@ A0FE61     (base 16)		Vivint Wireless Inc.
 				Shenzhen,  Guangdong,   518067
 				CN
 
+F4-6E-24   (hex)		NEC Personal Computers, Ltd.
+F46E24     (base 16)		NEC Personal Computers, Ltd.
+				Akihabara UDX,14-1, Sotokanda 4-Chome
+				Chiyoda-ku  Tokyo  101-0021
+				JP
+
+88-82-79   (hex)		Shenzhen RB-LINK Intelligent Technology Co.Ltd
+888279     (base 16)		Shenzhen RB-LINK Intelligent Technology Co.Ltd
+				Second floor, No 22, Wanfeng the third industry area, Shajing , BaoAn district
+				Shenzhen City    518125
+				CN
+
+78-32-1B   (hex)		D-Link International
+78321B     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -84314,8 +84332,8 @@ DC0C2D     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				GUMI  KYUNGBUK  730-030
 				KR
 
-50-33-F0   (hex)		SHENZHEN YICHEN （JCG）TECHNOLOGY DEVELOPMENT CO.,LTD
-5033F0     (base 16)		SHENZHEN YICHEN （JCG）TECHNOLOGY DEVELOPMENT CO.,LTD
+50-33-F0   (hex)		YICHEN (SHENZHEN) TECHNOLOGY CO.LTD
+5033F0     (base 16)		YICHEN (SHENZHEN) TECHNOLOGY CO.LTD
 				23F, Building C1, Nanshan iPark, No. 1001 Xueyuan Road, Nanshan District, Shenzhen City, Guangdong, China
 				shenzhen    518044
 				CN
@@ -140939,8 +140957,20 @@ B0E17E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Santa Ana  CA  92707
 				US
 
+F4-E2-04   (hex)		Traqueur
+F4E204     (base 16)		Traqueur
+				1, rue Royale
+				Saint-Cloud    92210
+				FR
+
 68-C6-3A   (hex)		Espressif Inc.
 68C63A     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Road, Pudong New Area
 				Shanghai  Shanghai  201203
 				CN
+
+34-56-FE   (hex)		Cisco Meraki
+3456FE     (base 16)		Cisco Meraki
+				500 Terry A. Francois Blvd
+				San Francisco    94158
+				US
