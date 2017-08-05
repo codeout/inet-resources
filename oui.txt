@@ -28469,17 +28469,17 @@ ECFABC     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-78-46-C4   (hex)		DAEHAP HYPER-TECH
-7846C4     (base 16)		DAEHAP HYPER-TECH
-				#A-805, Woolim Lions Vally 5-cha, #144-3 Sangdaewon-dong, Jungwon-Gu
-				Seongnam  Gyeonggi-Do  462-726
-				US
-
 B0-FC-36   (hex)		CyberTAN Technology Inc.
 B0FC36     (base 16)		CyberTAN Technology Inc.
 				99 Park Ave III, Hsinchu Science Park
 				Hsinchu    308
 				TW
+
+78-46-C4   (hex)		DAEHAP HYPER-TECH
+7846C4     (base 16)		DAEHAP HYPER-TECH
+				#A-805, Woolim Lions Vally 5-cha, #144-3 Sangdaewon-dong, Jungwon-Gu
+				Seongnam  Gyeonggi-Do  462-726
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -36868,9 +36868,6 @@ C4FCE4     (base 16)		DishTV NZ Ltd
 				Max Schmidheiny-Strasse 201
 				Heerbrugg  SG  9435
 				CH
-
-C0-22-50   (hex)		Private
-C02250     (base 16)		Private
 
 64-BC-11   (hex)		CombiQ AB
 64BC11     (base 16)		CombiQ AB
@@ -56956,6 +56953,9 @@ ECC06A     (base 16)		PowerChord Group Limited
 				5501 Oberlin Drive, Suite 100
 				SAN DIEGO  CA  92121
 				US
+
+C0-22-50   (hex)		Private
+C02250     (base 16)		Private
 
 00-1D-F4   (hex)		Magellan Technology Pty Limited
 001DF4     (base 16)		Magellan Technology Pty Limited
