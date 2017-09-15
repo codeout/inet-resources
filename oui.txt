@@ -28655,6 +28655,18 @@ D88466     (base 16)		Extreme Networks, Inc.
 				San Jose  CA  95134
 				US
 
+58-8D-64   (hex)		Xi'an Clevbee Technology Co.,Ltd
+588D64     (base 16)		Xi'an Clevbee Technology Co.,Ltd
+				FLOOR 7, TOWER B, POSCO CENTER, NO. 13 ZONE FOUR WANGJING EAST PARK, CHAOYANG DISTRICT, BEIJING
+				Beijing    100012
+				CN
+
+34-41-5D   (hex)		Intel Corporate
+34415D     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -57302,12 +57314,6 @@ F8B568     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-14-44-4A   (hex)		Apollo Seiko Ltd.
-14444A     (base 16)		Apollo Seiko Ltd.
-				2271-7 Jinba
-				Gotenba  Shizuoka  412-0047
-				JP
-
 5C-0C-0E   (hex)		Guizhou Huaxintong Semiconductor Technology Co Ltd
 5C0C0E     (base 16)		Guizhou Huaxintong Semiconductor Technology Co Ltd
 				Sitelin Park
@@ -57355,6 +57361,12 @@ B85001     (base 16)		Extreme Networks, Inc.
 				ONE ZEBRA PLAZA
 				HOLTSVILLE  NY  11742
 				US
+
+14-44-4A   (hex)		Apollo Seiko Ltd.
+14444A     (base 16)		Apollo Seiko Ltd.
+				2271-7 Jinba
+				Gotenba  Shizuoka  412-0047
+				JP
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -85577,12 +85589,6 @@ C8DF84     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
-5C-0E-8B   (hex)		Extreme Networks, Inc.
-5C0E8B     (base 16)		Extreme Networks, Inc.
-				475 Half Day Road
-				Lincolnshire  IL  60069
-				US
-
 B4-C7-99   (hex)		Extreme Networks, Inc.
 B4C799     (base 16)		Extreme Networks, Inc.
 				475 Half Day Road
@@ -85613,6 +85619,12 @@ B4C799     (base 16)		Extreme Networks, Inc.
 				CUPERINT0  CA  95014
 				US
 
+5C-0E-8B   (hex)		Extreme Networks, Inc.
+5C0E8B     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
 DC-48-B2   (hex)		Baraja Pty. Ltd.
 DC48B2     (base 16)		Baraja Pty. Ltd.
 				36 Bradfield Road
@@ -85624,6 +85636,12 @@ DC48B2     (base 16)		Baraja Pty. Ltd.
 				Schneider Electric Osaka Building
 				4-4-9 Kitahama  Chuo-ku, Osaka  541-0041
 				JP
+
+7C-76-35   (hex)		Intel Corporate
+7C7635     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -113942,17 +113960,17 @@ E8825B     (base 16)		ARRIS Group, Inc.
 				Santa Clara  CA  95054
 				US
 
-80-5E-0C   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
-805E0C     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
-				309, 3th Floor, No.16, Yun Ding North Road, Huli District
-				xiamen  Fujian  361015
-				CN
-
 3C-2C-99   (hex)		Edgecore Networks Corporation
 3C2C99     (base 16)		Edgecore Networks Corporation
 				1 Creation RD 3.
 				Hsinchu    30077
 				TW
+
+80-5E-0C   (hex)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+805E0C     (base 16)		YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
+				309, 3th Floor, No.16, Yun Ding North Road, Huli District
+				xiamen  Fujian  361015
+				CN
 
 00-BE-9E   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 00BE9E     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -114215,6 +114233,18 @@ BC91B5     (base 16)		Infinix mobility limited
 				Anyang-si  Gyeonggi-do  14119
 				KR
 
+98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
+				CN
+
+34-BA-38   (hex)		PAL MOHAN ELECTRONICS PVT LTD
+34BA38     (base 16)		PAL MOHAN ELECTRONICS PVT LTD
+				40 DLF, INDUSTRIAL AREA, KIRTI NAGAR
+				NEW DELHI  DELHI  110015
+				IN
+
 FC-0A-81   (hex)		Extreme Networks, Inc.
 FC0A81     (base 16)		Extreme Networks, Inc.
 				475 Half Day Road
@@ -114226,18 +114256,6 @@ FC0A81     (base 16)		Extreme Networks, Inc.
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
-
-34-BA-38   (hex)		PAL MOHAN ELECTRONICS PVT LTD
-34BA38     (base 16)		PAL MOHAN ELECTRONICS PVT LTD
-				40 DLF, INDUSTRIAL AREA, KIRTI NAGAR
-				NEW DELHI  DELHI  110015
-				IN
-
-98-29-A6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-9829A6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU  215300
-				CN
 
 04-19-7F   (hex)		Grasphere Japan
 04197F     (base 16)		Grasphere Japan
@@ -143084,23 +143102,17 @@ D8C8E9     (base 16)		Phicomm (Shanghai) Co., Ltd.
 				Chongqing  Chongqing  401336
 				CN
 
-68-DB-54   (hex)		Phicomm (Shanghai) Co., Ltd.
-68DB54     (base 16)		Phicomm (Shanghai) Co., Ltd.
-				3666 SiXian Rd.,Songjiang District
-				Shanghai  Shanghai  201616
-				CN
-
 6C-49-C1   (hex)		o2ones Co., Ltd.
 6C49C1     (base 16)		o2ones Co., Ltd.
 				503 Glory Tower, 3-10, Gumi-ro 9beon-gil, Bundang-gu
 				Seongnam-si  Gyeonggi-do  13637
 				KR
 
-2C-6B-7D   (hex)		Texas Instruments
-2C6B7D     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
+68-DB-54   (hex)		Phicomm (Shanghai) Co., Ltd.
+68DB54     (base 16)		Phicomm (Shanghai) Co., Ltd.
+				3666 SiXian Rd.,Songjiang District
+				Shanghai  Shanghai  201616
+				CN
 
 E4-8F-34   (hex)		Vodafone Italia S.p.A.
 E48F34     (base 16)		Vodafone Italia S.p.A.
@@ -143108,10 +143120,10 @@ E48F34     (base 16)		Vodafone Italia S.p.A.
 				Milan  Italy  20147
 				IT
 
-00-01-30   (hex)		Extreme Networks, Inc.
-000130     (base 16)		Extreme Networks, Inc.
-				3585 Monroe Street
-				Santa Clara  CA  95051
+2C-6B-7D   (hex)		Texas Instruments
+2C6B7D     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 78-80-38   (hex)		FUNAI ELECTRIC CO., LTD.
@@ -143119,3 +143131,9 @@ E48F34     (base 16)		Vodafone Italia S.p.A.
 				7-1, NAKAGAITO 7-CHOME
 				DAITO  OSAKA  5740013
 				JP
+
+00-01-30   (hex)		Extreme Networks, Inc.
+000130     (base 16)		Extreme Networks, Inc.
+				3585 Monroe Street
+				Santa Clara  CA  95051
+				US
