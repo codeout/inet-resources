@@ -28679,6 +28679,12 @@ D88466     (base 16)		Extreme Networks, Inc.
 				Indianapolis  IN  46290
 				US
 
+00-27-90   (hex)		Cisco Systems, Inc
+002790     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -57410,6 +57416,12 @@ A0BDCD     (base 16)		BSkyB Ltd
 				Atlanta  GA  30319
 				US
 
+60-6D-3C   (hex)		Luxshare Precision Industry Company Limited
+606D3C     (base 16)		Luxshare Precision Industry Company Limited
+				Floor 2, Block A, Sanyo New Industrial Area
+				West Haoyi Community, Shajing Subdistrict Office  Bao'an District, Shenzhen, Guangdong  523000
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -85631,6 +85643,12 @@ C8DF84     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+5C-0E-8B   (hex)		Extreme Networks, Inc.
+5C0E8B     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
 B4-C7-99   (hex)		Extreme Networks, Inc.
 B4C799     (base 16)		Extreme Networks, Inc.
 				475 Half Day Road
@@ -85659,12 +85677,6 @@ B4C799     (base 16)		Extreme Networks, Inc.
 00E02B     (base 16)		Extreme Networks, Inc.
 				10460 BANDLEY DRIVE
 				CUPERINT0  CA  95014
-				US
-
-5C-0E-8B   (hex)		Extreme Networks, Inc.
-5C0E8B     (base 16)		Extreme Networks, Inc.
-				475 Half Day Road
-				Lincolnshire  IL  60069
 				US
 
 A4-86-AE   (hex)		Quectel Wireless Solutions
@@ -85703,11 +85715,29 @@ DC48B2     (base 16)		Baraja Pty. Ltd.
 				4-4-9 Kitahama  Chuo-ku, Osaka  541-0041
 				JP
 
+D8-63-75   (hex)		Xiaomi Communications Co Ltd
+D86375     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+DC-BF-E9   (hex)		Motorola Mobility LLC, a Lenovo Company
+DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
 2C-37-C5   (hex)		Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd
 2C37C5     (base 16)		Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd
 				ingdao high-tech park haier road 1
 				Qingdao  Shandong  266101
 				CN
+
+74-95-EC   (hex)		ALPS ELECTRIC CO.,LTD.
+7495EC     (base 16)		ALPS ELECTRIC CO.,LTD.
+				6-1
+				Kakuda  Miyagi-Pref  981-1595
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -114329,6 +114359,12 @@ FC0A81     (base 16)		Extreme Networks, Inc.
 				Tokyo    1030013
 				JP
 
+BC-FF-EB   (hex)		Motorola Mobility LLC, a Lenovo Company
+BCFFEB     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
 CC-40-D0   (hex)		NETGEAR
 CC40D0     (base 16)		NETGEAR
 				350 East Plumeria Drive
@@ -114339,6 +114375,12 @@ B4-2D-56   (hex)		Extreme Networks, Inc.
 B42D56     (base 16)		Extreme Networks, Inc.
 				6480 Via Del Oro
 				San Jose  CA  95119
+				US
+
+00-5D-73   (hex)		Cisco Systems, Inc
+005D73     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -143227,3 +143269,15 @@ C477AF     (base 16)		Advanced Digital Broadcast SA
 				Route de Crassier 21, B2
 				Eysins    CH-1262
 				CH
+
+20-DF-B9   (hex)		Google, Inc.
+20DFB9     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+44-F0-34   (hex)		Kaonmedia CO., LTD.
+44F034     (base 16)		Kaonmedia CO., LTD.
+				884-3, Seongnam-daero, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13517
+				KR
