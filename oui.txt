@@ -85661,6 +85661,12 @@ C8DF84     (base 16)		Texas Instruments
 				Dallas  TX  75243
 				US
 
+5C-0E-8B   (hex)		Extreme Networks, Inc.
+5C0E8B     (base 16)		Extreme Networks, Inc.
+				475 Half Day Road
+				Lincolnshire  IL  60069
+				US
+
 B4-C7-99   (hex)		Extreme Networks, Inc.
 B4C799     (base 16)		Extreme Networks, Inc.
 				475 Half Day Road
@@ -85689,12 +85695,6 @@ B4C799     (base 16)		Extreme Networks, Inc.
 00E02B     (base 16)		Extreme Networks, Inc.
 				10460 BANDLEY DRIVE
 				CUPERINT0  CA  95014
-				US
-
-5C-0E-8B   (hex)		Extreme Networks, Inc.
-5C0E8B     (base 16)		Extreme Networks, Inc.
-				475 Half Day Road
-				Lincolnshire  IL  60069
 				US
 
 A4-86-AE   (hex)		Quectel Wireless Solutions
@@ -85733,6 +85733,12 @@ DC48B2     (base 16)		Baraja Pty. Ltd.
 				4-4-9 Kitahama  Chuo-ku, Osaka  541-0041
 				JP
 
+D8-63-75   (hex)		Xiaomi Communications Co Ltd
+D86375     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
 DC-BF-E9   (hex)		Motorola Mobility LLC, a Lenovo Company
 DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
@@ -85743,12 +85749,6 @@ DCBFE9     (base 16)		Motorola Mobility LLC, a Lenovo Company
 2C37C5     (base 16)		Qingdao Haier Intelligent Home Appliance Technology Co.,Ltd
 				ingdao high-tech park haier road 1
 				Qingdao  Shandong  266101
-				CN
-
-D8-63-75   (hex)		Xiaomi Communications Co Ltd
-D86375     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 74-95-EC   (hex)		ALPS ELECTRIC CO.,LTD.
@@ -143234,23 +143234,17 @@ D8C8E9     (base 16)		Phicomm (Shanghai) Co., Ltd.
 				Chongqing  Chongqing  401336
 				CN
 
-68-DB-54   (hex)		Phicomm (Shanghai) Co., Ltd.
-68DB54     (base 16)		Phicomm (Shanghai) Co., Ltd.
-				3666 SiXian Rd.,Songjiang District
-				Shanghai  Shanghai  201616
-				CN
-
 6C-49-C1   (hex)		o2ones Co., Ltd.
 6C49C1     (base 16)		o2ones Co., Ltd.
 				503 Glory Tower, 3-10, Gumi-ro 9beon-gil, Bundang-gu
 				Seongnam-si  Gyeonggi-do  13637
 				KR
 
-2C-6B-7D   (hex)		Texas Instruments
-2C6B7D     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
+68-DB-54   (hex)		Phicomm (Shanghai) Co., Ltd.
+68DB54     (base 16)		Phicomm (Shanghai) Co., Ltd.
+				3666 SiXian Rd.,Songjiang District
+				Shanghai  Shanghai  201616
+				CN
 
 E4-8F-34   (hex)		Vodafone Italia S.p.A.
 E48F34     (base 16)		Vodafone Italia S.p.A.
@@ -143258,10 +143252,10 @@ E48F34     (base 16)		Vodafone Italia S.p.A.
 				Milan  Italy  20147
 				IT
 
-00-01-30   (hex)		Extreme Networks, Inc.
-000130     (base 16)		Extreme Networks, Inc.
-				3585 Monroe Street
-				Santa Clara  CA  95051
+2C-6B-7D   (hex)		Texas Instruments
+2C6B7D     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 78-80-38   (hex)		FUNAI ELECTRIC CO., LTD.
@@ -143269,6 +143263,12 @@ E48F34     (base 16)		Vodafone Italia S.p.A.
 				7-1, NAKAGAITO 7-CHOME
 				DAITO  OSAKA  5740013
 				JP
+
+00-01-30   (hex)		Extreme Networks, Inc.
+000130     (base 16)		Extreme Networks, Inc.
+				3585 Monroe Street
+				Santa Clara  CA  95051
+				US
 
 CC-6E-A4   (hex)		Samsung Electronics Co.,Ltd
 CC6EA4     (base 16)		Samsung Electronics Co.,Ltd
