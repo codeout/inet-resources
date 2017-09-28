@@ -28739,6 +28739,12 @@ B0E2E5     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan City  Hubei Province  430074
 				CN
 
+E4-30-22   (hex)		Hanwha Techwin Security Vietnam
+E43022     (base 16)		Hanwha Techwin Security Vietnam
+				Plot O-2, Que Vo industrial park (Expanded area), 
+				Nam Son Commune, Bac Ninh City  Bac Ninh Province  000
+				VN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -57431,12 +57437,6 @@ CC4D38     (base 16)		Carnegie Technologies
 				Austin  TX  78759
 				US
 
-54-FC-F0   (hex)		Samsung Electronics Co.,Ltd
-54FCF0     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 08-AE-D6   (hex)		Samsung Electronics Co.,Ltd
 08AED6     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -57461,17 +57461,11 @@ A816D0     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-74-C9-A3   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-74C9A3     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
-				CN
-
-A8-E7-05   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-A8E705     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
-				CN
+54-FC-F0   (hex)		Samsung Electronics Co.,Ltd
+54FCF0     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 CC-50-0A   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 CC500A     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -57515,11 +57509,29 @@ A013CB     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan  Hubei  430074
 				CN
 
+74-C9-A3   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+74C9A3     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+A8-E7-05   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+A8E705     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
 CC-3A-DF   (hex)		Neptune Technology Group Inc.
 CC3ADF     (base 16)		Neptune Technology Group Inc.
 				1600 AL Highway 229 S
 				Tallassee  AL  36078
 				US
+
+28-ED-E0   (hex)		AMPAK Technology, Inc.
+28EDE0     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -82760,9 +82772,6 @@ B83A9D     (base 16)		Alarm.com
 				San Jose  CA  94568
 				US
 
-AC-F8-5C   (hex)		Private
-ACF85C     (base 16)		Private
-
 1C-C0-E1   (hex)		IEEE Registration Authority
 1CC0E1     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -85852,6 +85861,9 @@ E42F26     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
+
+AC-F8-5C   (hex)		Private
+ACF85C     (base 16)		Private
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -114110,6 +114122,30 @@ E8825B     (base 16)		ARRIS Group, Inc.
 				Hsinchu    30077
 				TW
 
+48-55-5F   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+48555F     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan City  Hubei Province  430074
+				CN
+
+F8-C9-6C   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+F8C96C     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan City  Hubei Province  430074
+				CN
+
+34-BF-90   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+34BF90     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan City  Hubei Province  430074
+				CN
+
+D4-67-E7   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+D467E7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan City  Hubei Province  430074
+				CN
+
 04-C1-B9   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 04C1B9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
@@ -114140,8 +114176,8 @@ D00492     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan  Hubei  430074
 				CN
 
-00-BE-9E   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-00BE9E     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+48-F9-7C   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+48F97C     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
@@ -114152,38 +114188,8 @@ D4AD2D     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan City  Hubei Province  430074
 				CN
 
-48-55-5F   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-48555F     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan City  Hubei Province  430074
-				CN
-
-F8-C9-6C   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-F8C96C     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan City  Hubei Province  430074
-				CN
-
-34-BF-90   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-34BF90     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan City  Hubei Province  430074
-				CN
-
-D4-67-E7   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-D467E7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan City  Hubei Province  430074
-				CN
-
 10-58-87   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 105887     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
-				CN
-
-48-F9-7C   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-48F97C     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
@@ -114513,6 +114519,18 @@ B42D56     (base 16)		Extreme Networks, Inc.
 685ACF     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
+				KR
+
+00-BE-9E   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+00BE9E     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+04-4F-17   (hex)		HUMAX Co., Ltd.
+044F17     (base 16)		HUMAX Co., Ltd.
+				HUMAX Village, 216, Hwangsaeul-ro, Bu
+				Seongnam-si  Gyeonggi-do  463-875
 				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -143449,3 +143467,9 @@ EC8AC7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 
 00-50-79   (hex)		Private
 005079     (base 16)		Private
+
+5C-00-38   (hex)		Viasat Group S.p.A.
+5C0038     (base 16)		Viasat Group S.p.A.
+				Via Aosta 23
+				Venaria Reale   Torino  10078
+				IT
