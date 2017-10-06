@@ -25838,12 +25838,6 @@ A04C5B     (base 16)		Shenzhen TINNO Mobile Technology Corp.
 				HongKong  HongKong  999077
 				HK
 
-00-08-89   (hex)		Echostar Technologies Corp
-000889     (base 16)		Echostar Technologies Corp
-				94 Inverness Terrace E
-				Englewood  CO  80112
-				US
-
 2C-02-9F   (hex)		3ALogics
 2C029F     (base 16)		3ALogics
 				#704, Hyundai office B'd, Sunae-dong, Bundang-gu
@@ -28797,6 +28791,18 @@ B4-DE-31   (hex)		Cisco Systems, Inc
 B4DE31     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+70-16-9F   (hex)		EtherCAT Technology Group
+70169F     (base 16)		EtherCAT Technology Group
+				Ostendstr. 196
+				NUremberg    90482
+				DE
+
+00-08-89   (hex)		Dish Technologies Corp
+000889     (base 16)		Dish Technologies Corp
+				94 Inverness Terrace E
+				Englewood  CO  80112
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -54635,24 +54641,6 @@ F0D7AA     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				shenzhen  guangdong  518057
 				CN
 
-28-57-67   (hex)		Echostar Technologies Corp
-285767     (base 16)		Echostar Technologies Corp
-				94 Inverness Terrace E
-				Englewood  CO  80112
-				US
-
-00-24-AF   (hex)		Echostar Technologies Corp
-0024AF     (base 16)		Echostar Technologies Corp
-				94 Inverness Terrace E
-				Englewood  CO  80112
-				US
-
-04-C9-D9   (hex)		Echostar Technologies Corp
-04C9D9     (base 16)		Echostar Technologies Corp
-				94 Inverness Terrace E
-				Englewood  CO  80112
-				US
-
 D0-49-8B   (hex)		ZOOM SERVER
 D0498B     (base 16)		ZOOM SERVER
 				North keyuan Road
@@ -57628,6 +57616,42 @@ C4618B     (base 16)		Apple, Inc.
 				50 avenue du nouveau monde
 				Cluses    74300
 				FR
+
+70-F2-20   (hex)		Actiontec Electronics, Inc
+70F220     (base 16)		Actiontec Electronics, Inc
+				760 North Mary Ave
+				Sunnyvale  CA  94085
+				US
+
+9C-43-1E   (hex)		IEEE Registration Authority
+9C431E     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+04-C9-D9   (hex)		Dish Technologies Corp
+04C9D9     (base 16)		Dish Technologies Corp
+				94 Inverness Terrace E
+				Englewood  CO  80112
+				US
+
+00-24-AF   (hex)		Dish Technologies Corp
+0024AF     (base 16)		Dish Technologies Corp
+				94 Inverness Terrace E
+				Englewood  CO  80112
+				US
+
+28-57-67   (hex)		Dish Technologies Corp
+285767     (base 16)		Dish Technologies Corp
+				94 Inverness Terrace E
+				Englewood  CO  80112
+				US
+
+70-55-F8   (hex)		Cerebras Systems Inc
+7055F8     (base 16)		Cerebras Systems Inc
+				175 S San Antonio Rd #100
+				Los Altos  CA  94022
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -82997,12 +83021,6 @@ F85971     (base 16)		Intel Corporate
 				Kulim  Kedah  09000
 				MY
 
-4C-82-CF   (hex)		Echostar Technologies Corp
-4C82CF     (base 16)		Echostar Technologies Corp
-				94 Inverness Terrace E
-				Englewood  CO  80112
-				US
-
 F4-96-34   (hex)		Intel Corporate
 F49634     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -86019,6 +86037,12 @@ A44027     (base 16)		zte corporation
 1C1161     (base 16)		Ciena Corporation
 				7035 Ridge Road
 				Hanover  MD  21076
+				US
+
+4C-82-CF   (hex)		Dish Technologies Corp
+4C82CF     (base 16)		Dish Technologies Corp
+				94 Inverness Terrace E
+				Englewood  CO  80112
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -114706,6 +114730,12 @@ B4F7A1     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
 				Seoul    153-801
 				KR
+
+C0-A8-F0   (hex)		Adamson Systems Engineering
+C0A8F0     (base 16)		Adamson Systems Engineering
+				1401 Scugog Line 6
+				Port Perry  Ontario  L9L 1B2
+				CA
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -143700,4 +143730,10 @@ B4-A8-B9   (hex)		Cisco Systems, Inc
 B4A8B9     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+88-B6-EE   (hex)		Dish Technologies Corp
+88B6EE     (base 16)		Dish Technologies Corp
+				94 Inverness Terrace E
+				Englewood  CO  80112
 				US
