@@ -3998,12 +3998,6 @@ B49842     (base 16)		zte corporation
 				Eden Prairie  MN  55344
 				US
 
-90-CC-24   (hex)		Synaptics, Inc
-90CC24     (base 16)		Synaptics, Inc
-				3120 Scott Blvd.
-				Santa Clara  CA  95054
-				US
-
 AC-17-02   (hex)		Fibar Group sp. z o.o.
 AC1702     (base 16)		Fibar Group sp. z o.o.
 				ul. Lotnicza 1
@@ -28811,17 +28805,35 @@ FCD848     (base 16)		Apple, Inc.
 				Espoo    02610
 				FI
 
+E8-C1-B8   (hex)		 Nanjing Bangzhong Electronic Commerce Limited
+E8C1B8     (base 16)		 Nanjing Bangzhong Electronic Commerce Limited
+				No.22, Liuzhou East Road, High - tech Zone
+				Nanjing    210000
+				CN
+
 1C-A0-B8   (hex)		Hon Hai Precision Ind. Co., Ltd.
 1CA0B8     (base 16)		Hon Hai Precision Ind. Co., Ltd.
 				GuangDongShenZhen
 				ShenZhen  GuangDong  518109
 				CN
 
-E8-C1-B8   (hex)		 Nanjing Bangzhong Electronic Commerce Limited
-E8C1B8     (base 16)		 Nanjing Bangzhong Electronic Commerce Limited
-				No.22, Liuzhou East Road, High - tech Zone
-				Nanjing    210000
-				CN
+64-98-29   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+649829     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+08-1D-C4   (hex)		Thermo Fisher Scientific Messtechnik GmbH
+081DC4     (base 16)		Thermo Fisher Scientific Messtechnik GmbH
+				Frauenauracher Strasse 96
+				Erlangen    91056
+				DE
+
+90-CC-24   (hex)		Synaptics, Inc
+90CC24     (base 16)		Synaptics, Inc
+				1251 McKay Drive
+				San Jose  CA   95131-1709
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -57689,6 +57701,24 @@ E80688     (base 16)		Apple, Inc.
 				Mountain View  CA  94043
 				US
 
+90-84-8B   (hex)		HDR10+ Technologies, LLC
+90848B     (base 16)		HDR10+ Technologies, LLC
+				3855 SW 153rd Drive
+				Beaverton  OR  97006
+				US
+
+0C-23-69   (hex)		Honeywell SPS
+0C2369     (base 16)		Honeywell SPS
+				700 Visions Dr.
+				Skaneateles Falls  NY  13153
+				US
+
+E8-DE-FB   (hex)		MESOTIC SAS
+E8DEFB     (base 16)		MESOTIC SAS
+				11, Avenue de la Division Leclerc
+				Cachan    94230
+				FR
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -61708,12 +61738,6 @@ D0D6CC     (base 16)		Wintop
 				No. 1301,Xinfei Road
 				Songjiang District  Shanghai  201612
 				CN
-
-10-1D-51   (hex)		ON-Q LLC dba ON-Q Mesh Networks
-101D51     (base 16)		ON-Q LLC dba ON-Q Mesh Networks
-				2859 Mandela Parkway
-				Oakland  CA  94611
-				US
 
 34-C9-9D   (hex)		EIDOLON COMMUNICATIONS TECHNOLOGY CO. LTD.
 34C99D     (base 16)		EIDOLON COMMUNICATIONS TECHNOLOGY CO. LTD.
@@ -86087,6 +86111,18 @@ F0C9D1     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 				Foshan  Guangdong  528311
 				CN
 
+3C-57-4F   (hex)		China Mobile Group Device Co.,Ltd.
+3C574F     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
+10-1D-51   (hex)		Mesh Networks
+101D51     (base 16)		Mesh Networks
+				 78 Bonham Strand
+				, Sheung Wan    000.
+				HK
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -88720,12 +88756,6 @@ B0D7C5     (base 16)		Logipix Ltd
 				Kesmark utca 11-13
 				Budapest  -  1158
 				HU
-
-38-C9-A9   (hex)		SMART High Reliability Solutions, Inc.
-38C9A9     (base 16)		SMART High Reliability Solutions, Inc.
-				2600 W. Geronimo Place
-				Chandler  AZ  85224
-				US
 
 BC-1A-67   (hex)		YF Technology Co., Ltd
 BC1A67     (base 16)		YF Technology Co., Ltd
@@ -114790,6 +114820,30 @@ C0A8F0     (base 16)		Adamson Systems Engineering
 				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
 				Hong Kong  KOWLOON  999077
 				HK
+
+38-C9-A9   (hex)		SMART High Reliability Solutions, Inc.
+38C9A9     (base 16)		SMART High Reliability Solutions, Inc.
+				1325 N Fiesta Blvd., #101
+				Gilbert  AZ  85233
+				US
+
+28-3B-82   (hex)		D-Link International
+283B82     (base 16)		D-Link International
+				1 Internal Business Park, #03-12,The Synergy, Singapore
+				Singapore  Singapore  609917
+				SG
+
+C4-00-AD   (hex)		Advantech Technology (CHINA) Co., Ltd.
+C400AD     (base 16)		Advantech Technology (CHINA) Co., Ltd.
+				No.666, Han-Pu Rd. Yu-Shan
+				Kun-Shan  Jiang Su  215316
+				CN
+
+34-5A-06   (hex)		SHARP Corporation
+345A06     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -143815,3 +143869,9 @@ D8D775     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+78-53-64   (hex)		SHIFT GmbH
+785364     (base 16)		SHIFT GmbH
+				Am Gänsemarkt 6
+				Wabern Falkenberg  Hessen  34590
+				DE
