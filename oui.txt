@@ -57947,17 +57947,17 @@ FCA6CD     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Copenhagen K  Denmark  1113
 				DK
 
-00-03-97   (hex)		FireBrick Limited
-000397     (base 16)		FireBrick Limited
-				C/O Andrews & Arnold Ltd, 
-				Enterprise Court, Downmill Road  Bracknell, Berks  RG12 1QS
-				GB
-
 A4-DA-22   (hex)		IEEE Registration Authority
 A4DA22     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+00-03-97   (hex)		FireBrick Limited
+000397     (base 16)		FireBrick Limited
+				C/O Andrews & Arnold Ltd, 
+				Enterprise Court, Downmill Road  Bracknell, Berks  RG12 1QS
+				GB
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -114212,6 +114212,24 @@ E42D7B     (base 16)		China Mobile IOT Company Limited
 				Kulim  Kedah  09000
 				MY
 
+84-DB-9E   (hex)		Aifloo AB
+84DB9E     (base 16)		Aifloo AB
+				Postbox 2005
+				Stockholm    10311
+				SE
+
+B0-B3-AD   (hex)		HUMAX Co., Ltd.
+B0B3AD     (base 16)		HUMAX Co., Ltd.
+				HUMAX Village, 216, Hwangsaeul-ro, Bu
+				Seongnam-si  Gyeonggi-do  463-875
+				KR
+
+38-78-62   (hex)		Sony Mobile Communications AB
+387862     (base 16)		Sony Mobile Communications AB
+				Nya Vattentornet
+				Lund  SE  22128
+				SE
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -115354,24 +115372,6 @@ CC3B58     (base 16)		Curiouser Products Inc
 				No. 218, Qianwangang Rd
 				Qingdao  Shandong  266555
 				CN
-
-84-DB-9E   (hex)		Aifloo AB
-84DB9E     (base 16)		Aifloo AB
-				Postbox 2005
-				Stockholm    10311
-				SE
-
-B0-B3-AD   (hex)		HUMAX Co., Ltd.
-B0B3AD     (base 16)		HUMAX Co., Ltd.
-				HUMAX Village, 216, Hwangsaeul-ro, Bu
-				Seongnam-si  Gyeonggi-do  463-875
-				KR
-
-38-78-62   (hex)		Sony Mobile Communications AB
-387862     (base 16)		Sony Mobile Communications AB
-				Nya Vattentornet
-				Lund  SE  22128
-				SE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -144482,14 +144482,14 @@ EC9B8B     (base 16)		Hewlett Packard Enterprise
 				Roseville  CA  95747
 				US
 
-70-D0-81   (hex)		Beijing Netpower Technologies Inc.
-70D081     (base 16)		Beijing Netpower Technologies Inc.
-				Room 201, Block B, NO. 15 Building, EastZone
-				Courtyard10, Xibeiwang East Road  Haidian District, Beijing  100094
-				CN
-
 70-C9-4E   (hex)		Liteon Technology Corporation
 70C94E     (base 16)		Liteon Technology Corporation
 				4F, 90, Chien 1 Road
 				New Taipei City  Taiwan  23585
 				TW
+
+70-D0-81   (hex)		Beijing Netpower Technologies Inc.
+70D081     (base 16)		Beijing Netpower Technologies Inc.
+				Room 201, Block B, NO. 15 Building, EastZone
+				Courtyard10, Xibeiwang East Road  Haidian District, Beijing  100094
+				CN
