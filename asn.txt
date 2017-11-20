@@ -1957,7 +1957,7 @@
 1962	MARS-ASIA-PACIFIC ISI, EU
 1963	PENRIL-AS - Penril Datacomm Networks, US
 1964	MCI-NETCS - MCI Telecommunications, US
-1965	TUELECTRIC - Vistra Corporate Services Company, US
+1965	VISTRAENERGY-1965 - Vistra Corporate Services Company, US
 1966	DNIC-AS-01966 - Navy Network Information Center (NNIC), US
 1967	METU-NET Middle East Technical University / Orta Dogu Teknik Universitesi, TR
 1968	UMASSP-DOM - University of Massachusettes, US
@@ -3099,7 +3099,7 @@
 3116	PPCI - Point to Point Communications, Inc., US
 3117	TXMHMR - Texas Dept. of Mental Health & Mental Retardation, US
 3118	ASN1 - Envision EMI, LLC, US
-3119	DATAPOINT - Datapoint Corporation, US
+3119	DATAPOINT - Datapoint U.S.A., Inc., US
 3120	MAGIC-INTRNL - General Magic, Inc., US
 3121	MAGIC-INTRNL - General Magic, Inc., US
 3122	MAGIC-INTRNL - General Magic, Inc., US
@@ -5392,7 +5392,7 @@
 5461	, RU
 5462	CABLEINET, GB
 5463	PERCEVAL, BE
-5464	NAG Germany, DE
+5464	NETD Switzerland, DE
 5466	EIRCOM Internet House, IE
 5467	MIPT MIPT-NET, RU
 5468	URFU, RU
@@ -22946,7 +22946,7 @@
 24085	QTSC-AS-VN Quang Trung Software City Development Company, VN
 24086	VIETTEL-AS-VN Viettel Corporation, VN
 24087	VNGT-AS-AP Vietnam New Generation Telecom, VN
-24088	HANOITELECOM-AS-AP Hanoi Telecom Joint Stock Company - HCMC Branch, VN
+24088	HTCHCMC-AS-VN Hanoi Telecom Joint Stock Company - HCMC Branch, VN
 24089	VNNIC-AS-AP Vietnam Internet Network Information Center, VN
 24090	UNISAINS-AS-AP Universiti Sains Malaysia (USM), MY
 24091	INNOVE-MSDDNPLUS-AP Innove Multi-Service Data Network, PH
@@ -24785,7 +24785,7 @@
 26126	READING-AREA-COMM-COL - RACC, US
 26127	FRONTIERLABRESEARCH - Frontier Communications of America, Inc., US
 26128	AS-360WISP - 360 Communications, LLC, US
-26129	HOLLYWOOD-CENTER - Hollywood Center Studios, US
+26129	HOLLYWOOD-CENTER - Sunset Las Palmas Entertainment Properties, LLC, US
 26130	LIPTINFOR-AS, NE
 26131	TMC1 - Harley-Davidson, Inc., US
 26132	GLENN-INTERNATIONAL - GLENN International, PR
@@ -25042,7 +25042,7 @@
 26383	CHILITECH - CHILITECH INTERNET SOLUTIONS, INC., US
 26384	ALLEGHENYINTEL-CUM - Atlantic Broadband Finance, LLC, US
 26385	FLETCHER-ALLEN-HEALTH-CARE-1 - The University of Vermont Medical Center Inc, US
-26386	AS-DSP - THE DESERT SUN PUBLISHING CO., US
+26386	-Reserved AS-, ZZ
 26387	WSC-WYOMISSINGPA - Weidenhammer, US
 26388	-Reserved AS-, ZZ
 26389	PRDOH-OIAT-ASN - PRDoH, PR
@@ -28830,7 +28830,7 @@
 30429	-Reserved AS-, ZZ
 30430	KPFNY - Kohn Pedersen Fox, US
 30431	ASN - Devon Canada Corporation, CA
-30432	UBTANET - UBTANET, US
+30432	STRATA-NETWORKS - UBTANET, US
 30433	-Reserved AS-, ZZ
 30434	LOEWS - LOEWS CORPORATION, US
 30435	NEW-WORLD-PASTA - New World Pasta Company, US
@@ -32229,7 +32229,6 @@
 34092	TVCOM-AS, UA
 34093	PLUSLINE-AS, CZ
 34094	AGRICOLE-AS, UA
-34095	-Reserved AS-, ZZ
 34096	ALPHABANKSERBIA-AS, RS
 34098	ZENIT-BANK-AS, RU
 34099	ROAD-TECH-COMPUTER-SYSTEMS, GB
@@ -35976,9 +35975,9 @@
 38246	SFONE-AS-VN CDMA Mobile Phone Center (S-FONE), VN
 38247	VIETNAMOBILE-AS-VN Vietnamobile Telecommunications Joint Stock Company, VN
 38248	VTC-AS-VN VTC Multimedia Corporation, VN
-38249	EPS-AS-VN Empower Securities Corporation, VN
+38249	KIS-AS-VN KIS Viet Nam Securities Corporations, VN
 38251	VNDIRECT-AS-VN VNDirect Securities Corporation, VN
-38252	IACP-AS-VN IACP ASIA Co.,Ltd, VN
+38252	IACP-AS-VN CAPGEMINI VIETNAM CO., LTD, VN
 38253	HANOITELECOM-AS-VN Hanoi Telecom JSC, VN
 38255	BRU-AS-AP Buriram Rajabhat University, TH
 38256	NATIONAL-ROUTE-BD-MHK Bengal Group Ltd. Nationwide Internet Service Provider, Bangladesh., BD
@@ -38958,7 +38957,7 @@
 41433	RIM-AS, GB
 41434	REUTERS_GDYNIA-AS, PL
 41435	UNDERNET-AS1, UA
-41436	CLOUD_WEB_MANGE, GB
+41436	CLOUDWEBMANAGE-EU, GB
 41437	KNAPP-AS, AT
 41438	MSCI-AS, CH
 41439	ALCOMM, AL
@@ -41664,7 +41663,6 @@
 44139	-Reserved AS-, ZZ
 44140	WINLIN Winlin Core network, BE
 44141	DEVCLIC-AS, FR
-44142	-Reserved AS-, ZZ
 44143	VIPMOBILE-AS, RS
 44144	OMEGASOFT, RO
 44145	RUWEBNET-AS, UA
@@ -42020,7 +42018,7 @@
 44495	PALVI-NET-AS, UA
 44496	SYSTEMGEMISCH-AS, DE
 44497	REDCORUNA-AS, ES
-44498	PASARGAD-NETWORK-OPERATIONS-CENTER, IR
+44498	TR-PASARGAD-AS, IR
 44499	GM-AS, DE
 44500	VLASIMNET, CZ
 44501	ITSOFT-AS, PL
@@ -48184,7 +48182,7 @@
 50814	AXONTRADING, GB
 50815	BTC-AS, SI
 50816	SELLERENGINE, RO
-50817	PIN-IX, RU
+50817	PITER-IX, RU
 50818	MUONA, FR
 50819	STAR-STORAGE-AS 8 Dimitrie Pompei, Feper Building, 1st Floor, RO
 50820	BILIA, SE
@@ -52564,7 +52562,7 @@
 55308	MPI-AS-VN Informatics Center-Ministry of Planning and Investment, VN
 55309	MTT-AS-VN Minh Tu Telecom Limited Company, VN
 55310	KCS-AS-VN KCS VIETNAM COMPANY LIMITED, VN
-55311	LIENVIETBANK-AS-VN LienViet Joint Stock Commercial Bank, VN
+55311	LIENVIETBANK-AS-VN LienViet Post Joint stock Commercial Bank, VN
 55312	HOANGLONG-AS-VN Golden Dragon Company, VN
 55313	HANELCOM-AS-VN Hanel Communication JSC, VN
 55314	NEWLIFE-AS-VN NEWLIFE COMPANY, VN
@@ -58254,7 +58252,6 @@
 61211	DATACROSS, HR
 61212	TELEENA-AS, NL
 61213	VISMA-AS, NO
-61214	-Reserved AS-, ZZ
 61215	IIJ-EXLAYER-AS, GB
 61216	PL-GMINA_MIASTO_ELBLAG-AS Lacznosci 1 Elblag, Poland, PL
 61217	DOLIST-AS, FR
@@ -60648,7 +60645,7 @@
 63749	LUXOFT-AS-VN Luxoft VietNam Company LTD, VN
 63750	THUHOI-AS-VN 18 Nguyen Du, Hai Ba Trung, Hanoi, VN
 63751	VCBS-AS-VN Vietcombank securities Company limited, VN
-63752	ICTHOABINH-AS-VN So Thong Tin vÃ Truyen Thong tinh Hoa Binh, VN
+63752	ICTHOABINH-AS-VN Hoa Binh Department of Information and Communications, VN
 63753	VIETLOTT-AS-VN VietNam lottery one member company limited, VN
 63754	VMG-AS-VN VMG MEDIA JOINT STOCK COMPANY, VN
 63755	VRB-AS-VN VietNam - Russia joint venture bank, VN
@@ -62471,7 +62468,7 @@
 131420	BISHANOI-AS-VN Truong Quoc te da cap Anh - HaNoi (BIS HANOI), VN
 131421	INTERCOM-AS-VN Intercom Telecom., JSC, VN
 131422	EMOBI-AS-VN Emobi games jsc, VN
-131423	LVHN-AS-VN Chi nhanh cong ty CP GPHT Long Van Ha Noi, VN
+131423	LVHN-AS-VN Branch of Long Van System Solution JSC - Hanoi, VN
 131424	ESC-AS-VN Online Solution Company Limited, VN
 131425	TGDD-AS-VN The gioi di dong jsc, VN
 131426	MISA-VN-AS MISA-, VN
@@ -62479,11 +62476,11 @@
 131428	BIZMAC-VN-AS Rainbow E-Commerce Company Limited, VN
 131429	MOBIFONE-AS-VN MOBIFONE-, VN
 131430	BAOVIETBANK-AS-VN Bao Viet bank, VN
-131431	LMHTX-AS-VN Trung tam Thong tin Hop Tac Xa VietNam, VN
+131431	LMHTX-AS-VN Information Center - Vietnam Cooperation Alliance, VN
 131432	ASIACOM-AS-VN Asia communications trading services corporation, VN
 131433	EPOSI-AS-VN Corporation Technology Development Eposi, VN
 131434	SCOM-AS-VN Scom Technology Join stock company, VN
-131435	HOABINH-AS-VN Hoa Binh Informatics joint stock company, VN
+131435	HOABINH-AS-VN Vietnam Esports and Entertainment Joint Stock Company, VN
 131436	VSSIC-AS-VN VSSIC-, VN
 131437	DTCOM-AS-VN DT Communications company limited, VN
 131438	VNPOST-AS-VN VIETNAM POST, VN
@@ -67570,7 +67567,7 @@
 137056	TREETOP-AS-AP Tree Top Health Pvt. Ltd., MV
 137057	AACO-AS-AP A.A. Company Pty Ltd, AU
 137058	AEROTHAI-AS-AP Aeronautical Radio of Thailand Ltd., TH
-137059	EASYNET1-AS-AP Mosiuddowla, BD
+137059	EASYNET1-AS-AP Easy Net, BD
 137060	CLUBGROUP-AS-AP The Club Group, AU
 137061	FLEX-SGF Flex Ltd., SG
 137062	ACGPL-AS-AP Ace Communications Group Pty Ltd, AU
@@ -73421,7 +73418,7 @@
 203475	PL-NEW-CONNECT-AS, PL
 203476	GANDI-AS-2 Domain name registrar - http://www.gandi.net, FR
 203477	UGV-AS, UA
-203478	TBSPACE, DE
+203478	TBSPACE -- Hurricane Electric --, DE
 203479	AL-AQSA-ASN1, PS
 203481	MEGATEL-AS, KZ
 203482	EU-THALESAVIONICS, NL
@@ -74592,7 +74589,7 @@
 205424	ULUNET, TR
 205425	POLYGONO, BG
 205426	SAP_ARIBA_QUADREM, NL
-205427	I22, DE
+205427	I22 i22 Digitalagentur GmbH, DE
 205428	DALNET, SK
 205429	BG-ANA-55, BG
 205430	FHU-PING, PL
@@ -80302,7 +80299,7 @@
 266150	Borille Serviços de Telecomunicações Ltda., BR
 266151	ALBERTO J DE SANTANA ME, BR
 266152	PJM TELECOM, BR
-266153	WEBLINE TELECOMUNICAÇÕES COMERCIO, SERVIÇOS E PROV, BR
+266153	WebLine Telecom, BR
 266154	WJ Internet, BR
 266155	UNIPRIME CENTRAL-CENTRAL INTER DE COOP DE CREDITO, BR
 266156	TPLink Serviços de Comunicação Ltda, BR
@@ -81717,6 +81714,8 @@
 328243	Root-Technologies-AS, ZA
 328244	Skyvision-Guinee-AS, GN
 328245	ARCEP-AS, BF
+328246	Foschini-Retail-Group-AS, ZA
+328247	Black-Cape-Network, ZA
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -82664,7 +82663,7 @@
 394168	VIRACOR-IBT - Viracor-IBT Laboratories, Inc, US
 394169	NASSAU-COMMUNITY-COLLEGE - Nassau Community College, US
 394170	SUSQUEHANNA-UNIVERSITY - Susquehanna University, US
-394171	-Reserved AS-, ZZ
+394171	ONPOINTCCU - OnPoint Community Credit Union, US
 394172	BCI-NASH-01 - Benefit Communications, Inc., US
 394173	PPS-ASN - Professional Personnel Service, INC, US
 394174	AIDC - American International Distribution Corporation, US
