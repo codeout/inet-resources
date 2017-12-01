@@ -29051,6 +29051,18 @@ F041C8     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+A4-38-CC   (hex)		Nintendo Co.,Ltd
+A438CC     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+94-6A-B0   (hex)		Arcadyan Corporation
+946AB0     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -85730,6 +85742,18 @@ E42F26     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan  Hubei  430074
 				CN
 
+94-8D-EF   (hex)		Oetiker Schweiz AG
+948DEF     (base 16)		Oetiker Schweiz AG
+				Spätzstrasse 11
+				Horgen    8810
+				CH
+
+74-72-1E   (hex)		Edison Labs Inc.
+74721E     (base 16)		Edison Labs Inc.
+				1122 Stanyan St
+				San Francisco  CA  94117
+				US
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -86727,12 +86751,6 @@ C42C4F     (base 16)		Qingdao Hisense Mobile Communication Technology Co,Ltd
 0023A8     (base 16)		Marshall Electronics
 				20608 Madrona Ave
 				Torrance  CA  90503
-				US
-
-74-72-1E   (hex)		Edison Labs Inc.
-74721E     (base 16)		Edison Labs Inc.
-				1122 Stanyan St
-				San Francisco  CA  94117
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -114548,6 +114566,24 @@ B0ACD2     (base 16)		zte corporation
 				Santa Clara  CA  95054
 				US
 
+48-18-FA   (hex)		Nocsys
+4818FA     (base 16)		Nocsys
+				1F, No. 63 Building, No. 421 Hong Cao Road, Xuhui District
+				Shanghai  Shanghai  200233
+				CN
+
+78-0F-77   (hex)		HangZhou Gubei Electronics Technology Co.,Ltd
+780F77     (base 16)		HangZhou Gubei Electronics Technology Co.,Ltd
+				HangZhou City, Zhejiang province Binjiang District Jiang Hong Road 611 Building 1 room 106
+				Hangzhou  ZheJiang  310052
+				CN
+
+0C-08-B4   (hex)		HUMAX Co., Ltd.
+0C08B4     (base 16)		HUMAX Co., Ltd.
+				HUMAX Village, 216, Hwangsaeul-ro, Bu
+				Seongnam-si  Gyeonggi-do  463-875
+				KR
+
 54-C5-7A   (hex)		Sunnovo International Limited
 54C57A     (base 16)		Sunnovo International Limited
 				1717 Haitai Building
@@ -115732,24 +115768,6 @@ D466A8     (base 16)		Riedo Networks Ltd
 				Route de la Fonderie 6
 				Fribourg    1700
 				CH
-
-48-18-FA   (hex)		Nocsys
-4818FA     (base 16)		Nocsys
-				1F, No. 63 Building, No. 421 Hong Cao Road, Xuhui District
-				Shanghai  Shanghai  200233
-				CN
-
-78-0F-77   (hex)		HangZhou Gubei Electronics Technology Co.,Ltd
-780F77     (base 16)		HangZhou Gubei Electronics Technology Co.,Ltd
-				HangZhou City, Zhejiang province Binjiang District Jiang Hong Road 611 Building 1 room 106
-				Hangzhou  ZheJiang  310052
-				CN
-
-0C-08-B4   (hex)		HUMAX Co., Ltd.
-0C08B4     (base 16)		HUMAX Co., Ltd.
-				HUMAX Village, 216, Hwangsaeul-ro, Bu
-				Seongnam-si  Gyeonggi-do  463-875
-				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
