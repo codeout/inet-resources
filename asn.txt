@@ -7195,7 +7195,7 @@
 7349	AS-TIERP-7349 - TierPoint, LLC, US
 7350	METCOMM - MetComm.Net, LLC, US
 7351	BLARG - Blarg! Online Services, Inc., US
-7352	WECOM-INC - Wecom Inc, US
+7352	WECOM-INC - WECOM INC, US
 7353	PRIMUS - Primus Communications Corp., US
 7354	PRESIDIUM-INC - Presidium Inc., US
 7355	MEITCA-AS - Mitsubishi Electric ITA (HSL), US
@@ -7953,7 +7953,7 @@
 8132	ENTEX - ENTEX Information Services, US
 8133	CYBERCOMCORP - Cybercom Corporation, US
 8134	UP-NET - Baraga Telephone Company, US
-8135	TROYST - Troy University, US
+8135	TROY-UNIVERSITY - Troy University, US
 8136	IFSI - Internet Financial Systems Inc., US
 8137	DISNEYONLINE-AS - Disney Online, US
 8138	JADE - Jade Inc., US
@@ -13629,7 +13629,7 @@
 14271	-Reserved AS-, ZZ
 14272	MCPC-ASN - MCPc Inc., US
 14273	ONLINE-RESOURCES - Online Resources Corporation, US
-14274	NETEASE - Mesa Partners, LLC, US
+14274	NETEASE - TENNESSEE WIRELESS LLC, US
 14275	WEATHERNET - Freese-Notis Global Internet, US
 14276	SS-NOC-AS - Straitshot Communications, Inc., US
 14277	GIGSTREEM - GiGstreem, US
@@ -21776,7 +21776,7 @@
 22870	AS22870 - Syniverse Technologies, LLC, US
 22871	CHALLC - CHA, US
 22872	HAPPEWARE-AZ-1 - Happ eWare, LLC., US
-22873	FNI - IIX Corp., GB
+22873	FASTCOM - Fastcom, GB
 22874	WESTERN-ILLINOIS-NET - Western Illinois Network, US
 22875	LIFEU - Life University, INC., US
 22876	JOHNSON & JOHNSON BR IND.COM.PR.SAUDE LT, BR
@@ -24390,7 +24390,7 @@
 25730	O4IT-USA - O4IT USA LLC, US
 25731	ADG-LINDON-20170907 - AccessData Group, Inc., US
 25732	TOTALCARDINC - Total Card, Inc., US
-25733	EAGLENET - Eagle Ottawa, LLC, US
+25733	LEAR - Lear Corporation (LEA), US
 25735	-Reserved AS-, ZZ
 25736	TRADEONEMKTG - TradeOne Marketing, Inc, US
 25737	ENFRA-AV - TechSpace Inc., US
@@ -58792,7 +58792,7 @@
 61770	Valtemir José Frighetto, BR
 61771	JJPG - COMERCIO E SERVICOS DE INFORMATICA LTDA ME, BR
 61772	Braudes e Sá Ltda, BR
-61773	G+ NETWORK TELECOM LTDA-ME, BR
+61773	G+ NETWORK TELECOM EIRELI - ME, BR
 61774	NEWNET INTERNET BANDA LARGA, BR
 61775	AW TELECOM LTDA - ME, BR
 61776	PROSERVNET PRODUTOS E SERVICOS EIRELI - ME, BR
@@ -67480,6 +67480,8 @@
 136874	GARUDA-AS-ID PT. Garuda Media Telematika, ID
 136875	IDNIC-SI-PRIMA-AS-ID PT Solusi Inforindo Prima, ID
 136876	IDNIC-PEMKAB-BANYUMAS-AS-ID PEMERINTAH KABUPATEN BANYUMAS, ID
+136878	IDNIC-ISN-AS-ID PT. InfoMedia Solusi Net, ID
+136879	IDNIC-JARINDO-AS-ID PT. Media Jaringan Indonesia, ID
 136890	TAALTECH-AS-AP TAAL Tech, IN
 136891	BYNTCL-AS-AP Beijing Yufei Network Technology Co., Ltd., CN
 136892	BGC-AS-AP BGC Limited, SG
@@ -67671,11 +67673,13 @@
 137082	AUGUR-AS-IN Augur Technologies, IN
 137083	MNKINFOW-AS-IN Mnk Infoway Private Limited, IN
 137084	SENSE-AS-IN Sense Connect It Pvt Ltd, IN
+137085	ANI89-AS-IN Ani Broadband Service Pvt Ltd, IN
 137095	HITECHB-AS Hitech Broadband, IN
 137096	RVRFIBER-AS Rvr Fibernet Pvt Ltd, IN
 137097	REACHTEL-AS Rohan Media Private Ltd, IN
 137098	DNSPL-AS Delix Net Solution Pvt. Ltd, IN
 137100	NBSP-AS Netmax Broadband Services, IN
+137154	SKYONLIN-AS Skyonline Technosystem Private Limited, IN
 137155	GOLANCE-AS Golance Opc Private Limited, IN
 137182	BLUE-WIRELESS-AS-AP BLUE WIRELESS PTE LTD, SG
 137183	SKYBROADBAND-AS-AP Mohammad Nazim, IN
@@ -80770,7 +80774,7 @@
 266379	T GOMES CORREIA - ME, BR
 266380	INFO TELECOMUNICACOES LTDA - ME, BR
 266381	Elismar Soares de Oliveira Eireli ME, BR
-266382	ferreira informatica serviços ltda - epp, BR
+266382	Mais Provedor Serviços de Internet Ltda - EPP, BR
 266383	Tennet Provedor, BR
 266384	TURBONET ASSESSORIA E CONSULTORIA EM TELECOM LTDA, BR
 266385	TR Servicos de Telecomunicacoes LTDA-ME, BR
