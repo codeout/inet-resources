@@ -20598,7 +20598,7 @@
 21694	FRESNOCOE - Fresno County Office of Education, US
 21695	-Reserved AS-, ZZ
 21696	MURPHYTX - City of Murphy, US
-21697	-Reserved AS-, ZZ
+21697	AS21697 - AMES CONSTRUCTION INC., US
 21698	TURBONET-NETWORK - TurboNet, US
 21699	IO - IO INC, US
 21700	-Reserved AS-, ZZ
@@ -28303,7 +28303,7 @@
 29916	WFMU - WFMU, US
 29917	KSC - Keene State College, US
 29918	IMPOL-ASN, ZA
-29919	-Reserved AS-, ZZ
+29919	29919 - SELECT PORTFOLIO SERVICING INC, US
 29920	ALASKA-AIRGROUP-SEA - Alaska Airlines, Inc., US
 29921	SAIFCO - State Accident Insurance Fund Corporation, US
 29922	SANFORD-AIRPORT-AUTHORITY - Sanford Airport Authority, US
@@ -28492,7 +28492,7 @@
 30105	-Reserved AS-, ZZ
 30106	ANCOR - Ancor Information Management, US
 30107	JOHN-L-WORTHAM - John L. Wortham & Son, L.P., US
-30108	XTX-DALL - CROSSTEX ENERGY, US
+30108	XTX-DALL - EnLink Midstream Operating, LP, US
 30109	MEDALLIA-INC - Medallia Inc., US
 30110	ADVANCED-COMMUNICATIONS-TECHNOLOGY - Advanced Communications Technology, US
 30111	COMMAUTO - Commonwealth Automobile Reinsurers, US
@@ -41006,7 +41006,6 @@
 43355	-Reserved AS-, ZZ
 43356	COMTECH-AS, TR
 43357	-Reserved AS-, ZZ
-43358	-Reserved AS-, ZZ
 43359	TARHELY, HU
 43360	MEDIAIMAGE, RO
 43361	LUMINA-AS, UA
@@ -43722,6 +43721,7 @@
 46191	5LINX-ASN - Globalinx, US
 46192	SWBC-ASN - SWBC, US
 46193	SKYWERX - SkyWerx Industries, LLC, US
+46194	SKIPTI - Skipti Inc., CA
 46195	ACTIVO-INC - ACTIVO INC, CA
 46196	RCIT-CORNET - County of Riverside, US
 46198	AS-TRILOGY-DOMINICANA - Trilogy Dominicana, S.A., DO
@@ -65773,7 +65773,7 @@
 134996	EXA-NET-AS-AP BSITC PHILS., INC., PH
 134998	NGTNETWORKS-AS-AP NGT Networks Pte Ltd, SG
 134999	AAL-AS-AP Adelaide Airport Limited, AU
-135000	ONS-AS-AP Open Network Solutions (ONS), BD
+135000	ONS-BD Open Network Solutions, BD
 135001	MNL-AS-AP Mazeda Networks Limited, BD
 135002	SGX-AS-AP Singapore Exchange Limited, SG
 135003	MULTAN-AS-AP Multan Cable & Internet Services (Pvt) Ltd, PK
