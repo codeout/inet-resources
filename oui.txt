@@ -58673,6 +58673,12 @@ A4ED4E     (base 16)		ARRIS Group, Inc.
 				Round Rock  TX  78682
 				US
 
+9C-7F-57   (hex)		DERA Co. Ltd
+9C7F57     (base 16)		DERA Co. Ltd
+				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
+				Beijing    102208
+				CN
+
 B4-E0-1D   (hex)		CONCEPTION ELECTRONIQUE
 B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 				3 boulevard de l'europe
@@ -58689,12 +58695,6 @@ B4E01D     (base 16)		CONCEPTION ELECTRONIQUE
 701D08     (base 16)		99IOT Shenzhen co.,ltd
 				609C north block, Cangsong Building, Tairan Seven Road, Futian District
 				Shenzhen  Guangdong  518000
-				CN
-
-9C-7F-57   (hex)		DERA Co. Ltd
-9C7F57     (base 16)		DERA Co. Ltd
-				Huilongguan Dongdajie No.338, Building A Room 506, Changping District
-				Beijing    102208
 				CN
 
 00-E0-09   (hex)		Stratus Technologies
@@ -58720,6 +58720,12 @@ C88629     (base 16)		Shenzhen Duubee Intelligent Technologies Co.,LTD.
 				9F, Block B, Unicenter, Xin’an Sub district, Bao’an District
 				Shenzhen  GuangDong  518000
 				CN
+
+A0-E6-17   (hex)		MATIS
+A0E617     (base 16)		MATIS
+				2/F,Hatchobori MIYATA Bldg.,1-8-2,
+				Shintomi,Chuo-Ku,  Tokyo  104-0041
+				JP
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -86228,6 +86234,48 @@ C005C2     (base 16)		ARRIS Group, Inc.
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+38-35-FB   (hex)		Sagemcom Broadband SAS
+3835FB     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+00-00-A8   (hex)		Stratus Technologies
+0000A8     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
+00-04-FC   (hex)		Stratus Technologies
+0004FC     (base 16)		Stratus Technologies
+				5 Mill and Main Place, Suite 500
+				Maynard  MA  01754
+				US
+
+00-CB-B4   (hex)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
+00CBB4     (base 16)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
+				4-5F,E1 Building,TCL International E City,No.1001 Zhongshanyuan Road,Nanshan District,Shenzhen
+				SHENZHEN  GUANGDONG  518052
+				CN
+
+70-79-B3   (hex)		Cisco Systems, Inc
+7079B3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+0C-B3-4F   (hex)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
+0CB34F     (base 16)		Shenzhen Xiaoqi Intelligent Technology Co., Ltd.
+				Room 1501, Block B4, Building 9, Section 2, Shenzhen Bay Science & Technology Ecological Park, West Shahe Road, Nanshan District,
+				Shenzhen  Guangdong  518000
+				CN
+
+F0-4C-D5   (hex)		Maxlinear, Inc
+F04CD5     (base 16)		Maxlinear, Inc
+				5966 La Place Ct. Ste# 100
+				Carlsbad  CA  92008
+				US
+
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
@@ -87544,36 +87592,6 @@ E8FAF7     (base 16)		Guangdong Uniteddata Holding Group Co., Ltd.
 				39L, Pearl River Tower, No.15 Zhujiang West Road,Tianhe District
 				GUANGZHOU  GUANGDONG  510623
 				CN
-
-38-35-FB   (hex)		Sagemcom Broadband SAS
-3835FB     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-00-00-A8   (hex)		Stratus Technologies
-0000A8     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
-
-00-04-FC   (hex)		Stratus Technologies
-0004FC     (base 16)		Stratus Technologies
-				5 Mill and Main Place, Suite 500
-				Maynard  MA  01754
-				US
-
-00-CB-B4   (hex)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
-00CBB4     (base 16)		SHENZHEN ATEKO PHOTOELECTRICITY CO.,LTD
-				4-5F,E1 Building,TCL International E City,No.1001 Zhongshanyuan Road,Nanshan District,Shenzhen
-				SHENZHEN  GUANGDONG  518052
-				CN
-
-70-79-B3   (hex)		Cisco Systems, Inc
-7079B3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -116829,6 +116847,18 @@ CCC2E0     (base 16)		Raisecom Technology CO., LTD
 7001B5     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+04-8A-E1   (hex)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+048AE1     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
+				Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC
+				Zhuhai  Guangdong  519180
+				CN
+
+A0-75-EA   (hex)		BoxLock, Inc.
+A075EA     (base 16)		BoxLock, Inc.
+				931 Monroe Dr Ste A 102-405
+				Atlanta  GA  30308
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
