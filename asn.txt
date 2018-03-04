@@ -59,11 +59,11 @@
 58	SSC-299-Z-58 - Shared Services Canada, CA
 59	WISC-MADISON-AS - University of Wisconsin Madison, US
 60	AINET-AS60 - Advanced Information Technology Services, LLC, US
-61	DEC-MARLBORO-AS - 754th Electronic Systems Group, US
+61	DEC-MARLBORO-AS - Air Force Systems Networking, US
 62	CYRS - CyrusOne LLC, US
 63	LL-MI - Massachusetts Institute of Technology, US
 64	MITRE-AS-2 - The MITRE Corporation, US
-65	AF-RASN-65 - 754th Electronic Systems Group, US
+65	AF-RASN-65 - Air Force Systems Networking, US
 66	DNIC-AS-00066 - Headquarters, USAISC, US
 67	SDC-PRC-AS - Unisys Corporation, US
 68	LANL-INET-AS - Los Alamos National Laboratory, US
@@ -105,7 +105,7 @@
 104	COLORADO-AS - University of Colorado at Boulder, US
 105	MOT-MCD-AS - Gould Computer Systems Division, US
 106	GDAIS-ASN-106 - General Dynamics Advanced Information Systems, Inc., US
-107	ECSNET-AS - 754th Electronic Systems Group, US
+107	ECSNET-AS - Air Force Systems Networking, US
 108	XEROX-AS - Xerox Corporation, US
 109	CISCOSYSTEMS - Cisco Systems, Inc., US
 110	XAIT-AS - Xerox Advanced Information Technology, US
@@ -121,7 +121,7 @@
 120	MITRE-OMAHA - The MITRE Corporation, US
 121	DNIC-AS-00121 - DoD Network Information Center, US
 122	U-PGH-NET-AS - UPMC, US
-123	LOGAIRCOMNET-AS - 754th Electronic Systems Group, US
+123	LOGAIRCOMNET-AS - Air Force Systems Networking, US
 124	DNIC-AS-00124 - DoD Network Information Center, US
 125	HI-NET-AS - Honeywell International, Inc., US
 126	DNIC-AS-00126 - DoD Network Information Center, US
@@ -130,11 +130,11 @@
 129	DNIC-AS-00129 - DoD Network Information Center, US
 130	CSOCNET-AS - Space Communications Division, US
 131	UCSB-NET-AS - University of California, Santa Barbara, US
-132	WPAFB-CSD-NET-AS - 754th Electronic Systems Group, US
-133	AFIT-AS - 754th Electronic Systems Group, US
+132	WPAFB-CSD-NET-AS - Air Force Systems Networking, US
+133	AFIT-AS - Air Force Systems Networking, US
 134	CORONA-GW-AS - Fleet Analysis Center, US
 135	DNIC-AS-00135 - DoD Network Information Center, US
-136	AF-ASN-136 - 754th Electronic Systems Group, US
+136	AF-ASN-136 - Air Force Systems Networking, US
 137	ASGARR Consortium GARR, IT
 138	DNIC-AS-00138 - DoD Network Information Center, US
 139	DNIC-AS-00139 - Navy Network Information Center (NNIC), US
@@ -144,7 +144,7 @@
 143	OOG1-AS - 1881CS/XPC, US
 144	ATT-INTERNET - Lucent Technologies/Bell Laboratories, US
 145	VBNS - MCI Communications Corporation, US
-146	HQEIS-AS - 754th Electronic Systems Group, US
+146	HQEIS-AS - Air Force Systems Networking, US
 147	DNIC-AS-00147 - DoD Network Information Center, US
 148	DNIC-AS-00148 - Navy Network Information Center (NNIC), US
 149	DNIC-AS-00149 - DoD Network Information Center, US
@@ -167,13 +167,13 @@
 166	IDA-AS - Institute for Defense Analyses, US
 167	WESLEYAN-AS - Wesleyan University, US
 168	UMASS-AMHERST - University of Massachusetts, US
-169	HANSCOM-NET-AS - 754th Electronic Systems Group, US
+169	HANSCOM-NET-AS - Air Force Systems Networking, US
 170	DNIC-AS-00170 - DoD Network Information Center, US
 171	SOX-RES - Southern Light Rail, Inc., US
 172	DNIC-AS-00172 - Headquarters, USAISC, US
 173	ERX-ECLNET Electrical Communications Laboratories, JP
 174	COGENT-174 - Cogent Communications, US
-175	PL-AS - 754th Electronic Systems Group, US
+175	PL-AS - Air Force Systems Networking, US
 176	BCN-AS - Information Systems and Networks Corporation, US
 177	UMICH-AS-1 - University of Michigan, US
 178	UMICH-AS-2 - University of Michigan, US
@@ -214,13 +214,13 @@
 213	DNIC-AS-00213 - Headquarters, USAISC, US
 214	DNIC-AS-00214 - Navy Network Information Center (NNIC), US
 215	DNIC-AS-00215 - Headquarters, USAISC, US
-216	LMSC-HOSTNET-AS - 754th Electronic Systems Group, US
+216	LMSC-HOSTNET-AS - Air Force Systems Networking, US
 217	UMN-SYSTEM - University of Minnesota, US
-218	AFOTECPCNET-AS - 754th Electronic Systems Group, US
+218	AFOTECPCNET-AS - Air Force Systems Networking, US
 219	DNIC-AS-00219 - Navy Network Information Center (NNIC), US
-220	OOALC-HOSTNET-AS - 754th Electronic Systems Group, US
-221	WRALC-HOSTNET-AS - 754th Electronic Systems Group, US
-222	SMALC-HOSTNET-AS - 754th Electronic Systems Group, US
+220	OOALC-HOSTNET-AS - Air Force Systems Networking, US
+221	WRALC-HOSTNET-AS - Air Force Systems Networking, US
+222	SMALC-HOSTNET-AS - Air Force Systems Networking, US
 223	AS223 - Parsons Corporation, US
 224	UNINETT UNINETT, The Norwegian University & Research Network, NO
 225	VIRGINIA-AS - University of Virginia, US
@@ -238,13 +238,13 @@
 237	MERIT-AS-14 - Merit Network Inc., US
 238	MERIT-AS-15 - Merit Network Inc., US
 239	UTORONTO-AS - University of Toronto, CA
-240	SAALC-HOSTNET-AS - 754th Electronic Systems Group, US
-241	OCALC-HOSTNET-AS - 754th Electronic Systems Group, US
+240	SAALC-HOSTNET-AS - Air Force Systems Networking, US
+241	OCALC-HOSTNET-AS - Air Force Systems Networking, US
 242	SSSD-AS - SUPSHIP, US
 243	HARRIS-ATD-AS - Harris Government Systems Sector, US
 244	DNIC-AS-00244 - DoD Network Information Center, US
 245	PRC-AS - Planning Research Corporation, US
-246	ASIFICS-GW-AS - 754th Electronic Systems Group, US
+246	ASIFICS-GW-AS - Air Force Systems Networking, US
 247	ROMENET-AS - Rome Air Development Center, US
 248	IDDQD-AS IDDQD-AS, DE
 249	PETERCOM-AS AS249, GB
@@ -253,7 +253,7 @@
 252	DNIC-AS-00252 - Headquarters, USAISC, US
 253	NTTA-253 - NTT America, Inc., US
 254	TWG-NET-AS - The Wollongong Group, US
-255	PAFB-GW - 754th Electronic Systems Group, US
+255	PAFB-GW - Air Force Systems Networking, US
 256	DNIC-AS-00256 - Navy Network Information Center (NNIC), US
 257	DNIC-AS-00257 - Navy Network Information Center (NNIC), US
 258	BRAGGSRI-EGP-AS - Headquarters, USAISC, US
@@ -294,12 +294,12 @@
 293	ESNET - ESnet, US
 294	FRANCE-IP-NET-AS Institut National de Recherche en Informatique et Automatique, FR
 295	USTCCLOUD - DoD Network Information Center, US
-296	ACFP-AS - 754th Electronic Systems Group, US
+296	ACFP-AS - Air Force Systems Networking, US
 297	AS297 - National Aeronautics and Space Administration, US
-298	RADC-LONEX-AS - 754th Electronic Systems Group, US
+298	RADC-LONEX-AS - Air Force Systems Networking, US
 299	UCINET-AS - University of California, Irvine, US
 300	DNIC-AS-00300 - DoD Network Information Center, US
-301	C3PO-AS - 754th Electronic Systems Group, US
+301	C3PO-AS - Air Force Systems Networking, US
 302	BCM-INFO-NET-AS - Baylor College of Medicine, US
 303	DNIC-AS-00303 - DoD Network Information Center, US
 304	SRIEXPRIGNET-AS - SRI International, US
@@ -372,141 +372,141 @@
 371	DNIC-ASBLK-00306-00371 - DoD Network Information Center, US
 372	AS372 - National Aeronautics and Space Administration, US
 373	MITRE-AS-4 - The MITRE Corporation, US
-374	BROOKS-AS - 754th Electronic Systems Group, US
+374	BROOKS-AS - Air Force Systems Networking, US
 375	TIETOTIE-AS P.O.Box 38. FI-00441 Helsinki Finland., FI
 376	RISQ-AS - Reseau d'informations scientifiques du Quebec (RISQ), CA
 377	SNLA-NET-AS - Sandia National Laboratories, US
 378	MACHBA-AS ILAN, IL
-379	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-380	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-381	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-382	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-383	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-384	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-385	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-386	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-387	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-388	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-389	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-390	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-391	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-392	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-393	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-394	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-395	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-396	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-397	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-398	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-399	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-400	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-401	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-402	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-403	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-404	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-405	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-406	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-407	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-408	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-409	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-410	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-411	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-412	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-413	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-414	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-415	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-416	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-417	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-418	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-419	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-420	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-421	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-422	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-423	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-424	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-425	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-426	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-427	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-428	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-429	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-430	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-431	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-432	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-433	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-434	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-435	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-436	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-437	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-438	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-439	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-440	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-441	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-442	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-443	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-444	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-445	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-446	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-447	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-448	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-449	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-450	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-451	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-452	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-453	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-454	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-455	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-456	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-457	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-458	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-459	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-460	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-461	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-462	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-463	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-464	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-465	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-466	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-467	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-468	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-469	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-470	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-471	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-472	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-473	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-474	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-475	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-476	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-477	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-478	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-479	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-480	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-481	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-482	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-483	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-484	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-485	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-486	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-487	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-488	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-489	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-490	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-491	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-492	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-493	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-494	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-495	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-496	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-497	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-498	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-499	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-500	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-501	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-502	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-503	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-504	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-505	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-506	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-507	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
-508	AFCONC-BLOCK1-AS - 754th Electronic Systems Group, US
+379	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+380	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+381	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+382	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+383	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+384	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+385	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+386	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+387	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+388	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+389	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+390	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+391	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+392	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+393	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+394	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+395	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+396	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+397	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+398	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+399	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+400	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+401	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+402	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+403	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+404	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+405	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+406	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+407	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+408	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+409	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+410	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+411	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+412	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+413	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+414	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+415	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+416	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+417	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+418	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+419	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+420	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+421	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+422	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+423	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+424	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+425	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+426	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+427	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+428	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+429	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+430	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+431	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+432	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+433	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+434	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+435	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+436	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+437	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+438	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+439	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+440	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+441	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+442	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+443	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+444	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+445	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+446	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+447	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+448	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+449	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+450	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+451	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+452	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+453	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+454	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+455	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+456	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+457	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+458	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+459	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+460	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+461	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+462	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+463	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+464	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+465	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+466	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+467	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+468	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+469	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+470	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+471	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+472	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+473	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+474	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+475	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+476	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+477	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+478	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+479	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+480	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+481	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+482	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+483	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+484	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+485	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+486	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+487	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+488	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+489	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+490	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+491	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+492	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+493	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+494	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+495	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+496	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+497	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+498	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+499	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+500	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+501	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+502	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+503	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+504	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+505	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+506	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+507	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
+508	AFCONC-BLOCK1-AS - Air Force Systems Networking, US
 509	DNIC-AS-00509 - DoD Network Information Center, US
 510	INTERNET - Voya Investment Management LLC, US
 511	SCOEC-ASN - Greenville Health System, US
@@ -520,7 +520,7 @@
 519	ISCNET - Systemhouse/INTERACTIVE Systems, US
 520	COINSDISNET3 - Coins Community Online Intelligence System, US
 521	FORD-SRL-AS - Ford Motor Company, US
-522	AFSC-SSD-AS - 754th Electronic Systems Group, US
+522	AFSC-SSD-AS - Air Force Systems Networking, US
 523	DNIC-AS-00523 - Headquarters, USAISC, US
 524	LVLT-524 - Level 3 Parent, LLC, US
 525	CTNOSC-525-AS - Headquarters, USAISC, US
@@ -546,7 +546,7 @@
 545	NRI - Corporation for National Research Initiatives, US
 546	PARSONS-PGS-1 - Parsons Corporation, US
 547	ASN-IBM-LEX - IBM, US
-548	HQUSAF-AS - 754th Electronic Systems Group, US
+548	HQUSAF-AS - Air Force Systems Networking, US
 549	GTANET-AS - GTAnet Networking, CA
 550	CORNETT-AS - Los Alamos National Laboratory, US
 551	AS551 - Parsons Corporation, US
@@ -568,7 +568,7 @@
 567	ASN-LNET-AS - Los Nettos, US
 568	DNIC-AS-00568 - DoD Network Information Center, US
 569	DNIC-AS-00569 - DoD Network Information Center, US
-570	SSD-NET-AS - 754th Electronic Systems Group, US
+570	SSD-NET-AS - Air Force Systems Networking, US
 571	DNIC-AS-00571 - DoD Network Information Center, US
 572	GBMC-TOW - Greater Baltimore Medical Center Inc, US
 573	DNIC-AS-00573 - DoD Network Information Center, US
@@ -579,13 +579,13 @@
 578	PKDY-ASNUMBER - Packaging Dynamics, US
 579	C4DR2 - Glynlyon, US
 580	DNIC-AS-00580 - DoD Network Information Center, US
-581	AMC-MAF-C2-ENCLAVES - 754th Electronic Systems Group, US
-582	GDSS-21AF-AS - 754th Electronic Systems Group, US
-583	GDSS-22AF-AS - 754th Electronic Systems Group, US
-584	GDSS-23AF-AS - 754th Electronic Systems Group, US
-585	GDSS-322ALD-AS - 754th Electronic Systems Group, US
-586	GDSS-834ALD-AS - 754th Electronic Systems Group, US
-587	GDSS-ANG-AS - 754th Electronic Systems Group, US
+581	AMC-MAF-C2-ENCLAVES - Air Force Systems Networking, US
+582	GDSS-21AF-AS - Air Force Systems Networking, US
+583	GDSS-22AF-AS - Air Force Systems Networking, US
+584	GDSS-23AF-AS - Air Force Systems Networking, US
+585	GDSS-322ALD-AS - Air Force Systems Networking, US
+586	GDSS-834ALD-AS - Air Force Systems Networking, US
+587	GDSS-ANG-AS - Air Force Systems Networking, US
 588	DIRECTRON - Headquarters, USAISC, US
 589	UNT-CAMPUS-AS - University of North Texas, US
 590	EASInet Operations Center, DE
@@ -705,46 +705,46 @@
 704	UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
 705	UUNET - MCI Communications Services, Inc. d/b/a Verizon Business, US
 706	TEST-AUSTIN-IBM-AS - Advanced Workstations Division, IBM Corporation, US
-707	ELAN-AS - 754th Electronic Systems Group, US
+707	ELAN-AS - Air Force Systems Networking, US
 708	SB-COMM-AS - Sentinel Byte Community, US
 709	UHEY-NET-AS Royal Air Force Base, GB
 710	BENT-NET-AS Royal Air Base, GB
 711	SB-COMM-AS - Torrejon Air Base, ES
 712	ALCON-NET-AS Royal Air Base, GB
-713	AFMPCGW-AS - 754th Electronic Systems Group, US
+713	AFMPCGW-AS - Air Force Systems Networking, US
 714	APPLE-ENGINEERING - Apple Inc., US
 715	WOODYNET-2 - WoodyNet, US
 716	DNIC-AS-00716 - Headquarters, USAISC, US
 717	DNIC-AS-00717 - DoD Network Information Center, US
 718	DNIC-AS-00718 - DoD Network Information Center, US
 719	ELISA-AS Helsinki, Finland, FI
-720	WR-LOGDIS-AS - 754th Electronic Systems Group, US
+720	WR-LOGDIS-AS - Air Force Systems Networking, US
 721	DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
 722	DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
 723	DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
 724	DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
 725	DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
 726	DNIC-ASBLK-00721-00726 - DoD Network Information Center, US
-727	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-728	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-729	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-730	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-731	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-732	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-733	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-734	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-735	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-736	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-737	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-738	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-739	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-740	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-741	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-742	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-743	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-744	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-745	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
-746	AFCONC-BLOCK2-AS - 754th Electronic Systems Group, US
+727	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+728	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+729	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+730	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+731	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+732	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+733	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+734	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+735	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+736	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+737	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+738	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+739	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+740	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+741	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+742	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+743	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+744	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+745	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
+746	AFCONC-BLOCK2-AS - Air Force Systems Networking, US
 747	DNIC-AS-00747 - Headquarters, USAISC, US
 748	DNIC-AS-00748 - DoD Network Information Center, US
 749	DNIC-AS-00749 - DoD Network Information Center, US
@@ -1240,10 +1240,10 @@
 1239	SPRINTLINK - Sprint, US
 1240	ICM-PACIFIC - Sprint, US
 1241	FORTHNET-GR Forthnet, GR
-1242	PLH-AS - 754th Electronic Systems Group, US
+1242	PLH-AS - Air Force Systems Networking, US
 1243	DNIC-AS-01243 - Headquarters, USAISC, US
 1244	AMOCO-AS - Amoco Corporation, US
-1245	DET4LAN-AS - 754th Electronic Systems Group, US
+1245	DET4LAN-AS - Air Force Systems Networking, US
 1246	TLL-WEST - Zito Media, US
 1247	DNIC-RAS-01247 - DoD Network Information Center, US
 1248	HERE, NL
@@ -1258,7 +1258,7 @@
 1257	TELE2, SE
 1258	XKL-NET-AS - XKL, LLC, US
 1259	WRAIR-ASN - Headquarters, USAISC, US
-1260	PLE - 754th Electronic Systems Group, US
+1260	PLE - Air Force Systems Networking, US
 1261	NATINST-AS-AS - National Instruments Corporation, US
 1262	AS1262 - National Aeronautics and Space Administration, US
 1263	AS1263 - National Aeronautics and Space Administration, US
@@ -1756,7 +1756,7 @@
 1755	AS1755 Svensk Teleutveckling & Produktinnovation, STUPI AB, SE
 1756	HAMYAR-AS, IR
 1757	LEXIS-AS - LexisNexis, US
-1758	AFMPCGW1-AS - 754th Electronic Systems Group, US
+1758	AFMPCGW1-AS - Air Force Systems Networking, US
 1759	TSF-IP-CORE Telia Finland Oyj, FI
 1760	INTELNET - Intel Corporation, US
 1761	TDIR-CAPNET - General Services Commission, US
@@ -2528,12 +2528,12 @@
 2542	VOUGHT - Vought Aircraft Company, US
 2543	UCIMC-AS - University of California, Irvine, US
 2544	METRO-AS - King County Gov, US
-2545	STRATHOST - 754th Electronic Systems Group, US
+2545	STRATHOST - Air Force Systems Networking, US
 2546	ARIADNE-T Ariadne-t Network, GR
 2547	BMENET-AS Budapest University of Technology and Economics, HU
 2548	ALGX-ATCW-AS - MCI Communications Services, Inc. d/b/a Verizon Business, US
 2549	Universidad de Guadalajara, MX
-2550	STRATS - 754th Electronic Systems Group, US
+2550	STRATS - Air Force Systems Networking, US
 2551	LVLT-2551 - Level 3 Parent, LLC, US
 2552	WUSTL-ASN - Washington University, US
 2553	FSU-AS - Florida State University, US
@@ -2725,12 +2725,12 @@
 2739	Facultad de Ingenieria, MX
 2740	CARIBCABLE - Caribbean Cable Communications, AI
 2741	DNIC-AS-02741 - DoD Network Information Center, US
-2742	TASDAC-LAFB - 754th Electronic Systems Group, US
-2743	AFIWC01 - 754th Electronic Systems Group, US
+2742	TASDAC-LAFB - Air Force Systems Networking, US
+2743	AFIWC01 - Air Force Systems Networking, US
 2744	DNIC-AS-02744 - DoD Network Information Center, US
 2745	DNIC-AS-02745 - DoD Network Information Center, US
 2746	DNIC-AS-02746 - Navy Network Information Center (NNIC), US
-2747	AF-PROTEUS - 754th Electronic Systems Group, US
+2747	AF-PROTEUS - Air Force Systems Networking, US
 2748	DNIC-AS-02748 - DoD Network Information Center, US
 2749	DNIC-AS-02749 - Navy Network Information Center (NNIC), US
 2750	CTNOSC-ASN-2750 - Headquarters, USAISC, US
@@ -3976,25 +3976,25 @@
 4017	BELLST - Verizon Data Services LLC, US
 4018	DIA-AS - Defence Intelligence Agency, US
 4019	IIE-AS - Institute of International Education, US
-4020	ASN-4020-1 - 754th Electronic Systems Group, US
-4021	ASN-4020-1 - 754th Electronic Systems Group, US
-4022	ASN-4020-1 - 754th Electronic Systems Group, US
-4023	ASN-4020-1 - 754th Electronic Systems Group, US
-4024	ASN-4020-1 - 754th Electronic Systems Group, US
-4025	ASN-4020-1 - 754th Electronic Systems Group, US
-4026	ASN-4020-1 - 754th Electronic Systems Group, US
-4027	ASN-4020-1 - 754th Electronic Systems Group, US
-4028	ASN-4020-1 - 754th Electronic Systems Group, US
-4029	ASN-4020-1 - 754th Electronic Systems Group, US
-4030	ASN-4020-1 - 754th Electronic Systems Group, US
-4031	ASN-4020-1 - 754th Electronic Systems Group, US
-4032	ASN-4020-1 - 754th Electronic Systems Group, US
-4033	ASN-4020-1 - 754th Electronic Systems Group, US
-4034	ASN-4020-1 - 754th Electronic Systems Group, US
-4035	ASN-4020-1 - 754th Electronic Systems Group, US
-4036	ASN-4020-1 - 754th Electronic Systems Group, US
-4037	ASN-4020-1 - 754th Electronic Systems Group, US
-4038	ASN-4020-1 - 754th Electronic Systems Group, US
+4020	ASN-4020-1 - Air Force Systems Networking, US
+4021	ASN-4020-1 - Air Force Systems Networking, US
+4022	ASN-4020-1 - Air Force Systems Networking, US
+4023	ASN-4020-1 - Air Force Systems Networking, US
+4024	ASN-4020-1 - Air Force Systems Networking, US
+4025	ASN-4020-1 - Air Force Systems Networking, US
+4026	ASN-4020-1 - Air Force Systems Networking, US
+4027	ASN-4020-1 - Air Force Systems Networking, US
+4028	ASN-4020-1 - Air Force Systems Networking, US
+4029	ASN-4020-1 - Air Force Systems Networking, US
+4030	ASN-4020-1 - Air Force Systems Networking, US
+4031	ASN-4020-1 - Air Force Systems Networking, US
+4032	ASN-4020-1 - Air Force Systems Networking, US
+4033	ASN-4020-1 - Air Force Systems Networking, US
+4034	ASN-4020-1 - Air Force Systems Networking, US
+4035	ASN-4020-1 - Air Force Systems Networking, US
+4036	ASN-4020-1 - Air Force Systems Networking, US
+4037	ASN-4020-1 - Air Force Systems Networking, US
+4038	ASN-4020-1 - Air Force Systems Networking, US
 4039	ITSON-AS - ItsOn, Inc, US
 4040	KORNET-PS-AS-KR Korea Telecom, KR
 4041	RGNET-SJ0 - The Little Garden, US
@@ -4117,10 +4117,10 @@
 4158	CITYU-AS-HK City University of Hong Kong, HK
 4159	ONEWORLD-AS-1 - One World Productions, US
 4160	SPECTRA - Internet Direct Marketing, US
-4161	TIN-1 - 754th Electronic Systems Group, US
-4162	TIN-1 - 754th Electronic Systems Group, US
-4163	TIN-1 - 754th Electronic Systems Group, US
-4164	TIN-1 - 754th Electronic Systems Group, US
+4161	TIN-1 - Air Force Systems Networking, US
+4162	TIN-1 - Air Force Systems Networking, US
+4163	TIN-1 - Air Force Systems Networking, US
+4164	TIN-1 - Air Force Systems Networking, US
 4165	DNIC-AS-04165 - DoD Network Information Center, US
 4166	APPL-AS-4166 - ClearBlue Technologies, US
 4167	CONNECTSOFT-COM - Connectsoft Commercial Network Services, US
@@ -4339,7 +4339,7 @@
 4380	DNIC-AS-04380 - Headquarters, USAISC, US
 4381	ERX-CONNECT-COM2 connect.com.au pty ltd, AU
 4382	INDONUSA-ID PT. Indonusa System Integrator Prima, ID
-4383	NAIC - 754th Electronic Systems Group, US
+4383	NAIC - Air Force Systems Networking, US
 4384	MULTI-NET - Husky Labs, Inc., US
 4385	RIT-ASN - Rochester Institute of Technology, US
 4386	SOO-ASN - State of Oregon, US
@@ -4436,17 +4436,17 @@
 4477	BBDATA - B&B Data Link, US
 4478	PNET-STL - P-Net, Inc., US
 4479	JTM - JTM Multimedia, US
-4480	CMS-AS1 - 754th Electronic Systems Group, US
-4481	CMS-AS2 - 754th Electronic Systems Group, US
-4482	CMS-AS3 - 754th Electronic Systems Group, US
-4483	EMTF-SPANG - 754th Electronic Systems Group, US
-4484	EMTF-BIT - 754th Electronic Systems Group, US
-4485	EMTF-RAMDEN - 754th Electronic Systems Group, US
-4486	EMTF-RAM - 754th Electronic Systems Group, US
-4487	EMTF-UPW - 754th Electronic Systems Group, US
-4488	EMTF-CRO - 754th Electronic Systems Group, US
-4489	EMTF-MOL - 754th Electronic Systems Group, US
-4490	EMTF-LAK - 754th Electronic Systems Group, US
+4480	CMS-AS1 - Air Force Systems Networking, US
+4481	CMS-AS2 - Air Force Systems Networking, US
+4482	CMS-AS3 - Air Force Systems Networking, US
+4483	EMTF-SPANG - Air Force Systems Networking, US
+4484	EMTF-BIT - Air Force Systems Networking, US
+4485	EMTF-RAMDEN - Air Force Systems Networking, US
+4486	EMTF-RAM - Air Force Systems Networking, US
+4487	EMTF-UPW - Air Force Systems Networking, US
+4488	EMTF-CRO - Air Force Systems Networking, US
+4489	EMTF-MOL - Air Force Systems Networking, US
+4490	EMTF-LAK - Air Force Systems Networking, US
 4491	MULTIPRO - MultiNet, LLP, US
 4492	COMMSPEED1 - CommSpeed LLC, US
 4493	Universidad de Sonora, MX
@@ -4563,7 +4563,7 @@
 4604	HOUSTON-ISD - Houston Independent School District, US
 4605	ERX-HKBUNET Hong Kong Baptist University, HK
 4606	HCI - Harbour Communications, US
-4607	NORAD-SPACE - 754th Electronic Systems Group, US
+4607	NORAD-SPACE - Air Force Systems Networking, US
 4608	APNIC-SERVICES Asia Pacific Network Information Centre, AU
 4609	CTM-MO Companhia de Telecomunicacoes de Macau SARL, MO
 4610	ODYSSEY-NZ-AP Odyssey Networks New Zealand, NZ
@@ -4703,7 +4703,7 @@
 4766	KIXS-AS-KR Korea Telecom, KR
 4767	AIT-CS-ASN Computer Science, TH
 4768	CLIX-NZ TelstraClear Ltd, NZ
-4769	ICONZ-WEBVISIONS-AP Iconz-Webvisions Pte. Ltd., MY
+4769	EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd., MY
 4770	ICONZ-AS ICONZ Ltd, NZ
 4771	SPARKNZ Spark New Zealand Trading Ltd., NZ
 4772	SINGNET-MSN-AS SingNet Business Dept, SG
@@ -4945,17 +4945,17 @@
 5008	TW-ASN-01 - Transit Wireless, LLC., US
 5009	EATEL - EATEL, US
 5010	KISNET-1 - KISNET Corporation, US
-5011	EMTF-AVI - 754th Electronic Systems Group, US
-5012	EMTF-AZO - 754th Electronic Systems Group, US
-5013	EMTF-IZM - 754th Electronic Systems Group, US
-5014	EMTF-INC - 754th Electronic Systems Group, US
+5011	EMTF-AVI - Air Force Systems Networking, US
+5012	EMTF-AZO - Air Force Systems Networking, US
+5013	EMTF-IZM - Air Force Systems Networking, US
+5014	EMTF-INC - Air Force Systems Networking, US
 5015	SHOUTING - Shouting Ground Technologies, US
 5016	BRAGG-NEC - Headquarters, USAISC, US
 5017	CITICTEL-CPC-AS5017 CITIC Telecom International CPC Limited, HK
 5018	CITICTEL-CPC-AS5018 CITIC Telecom International CPC Limited, HK
 5019	DATACOM-GATE - InterSec, Inc., US
 5020	MEA - Mitsubishi Electronics, US
-5021	PACAF-GCCS - 754th Electronic Systems Group, US
+5021	PACAF-GCCS - Air Force Systems Networking, US
 5022	SSEMC - Snapping Shoals Electric Membership Corporation, US
 5023	FIREBALL - Publication Services, US
 5024	BRIDGE - BridgeNet, LC, US
@@ -10072,7 +10072,7 @@
 10477	CEPHAS - Cephas Multimedia, Inc., US
 10478	PTINETCORP - PTI Communications, US
 10479	Instituto Tecnológico y de Estudios Superiores de Monterrey, MX
-10480	RA-N002 - Rack Alley LLC, US
+10480	RA-N002 - HIVELOCITY VENTURES CORP, US
 10481	Prima S.A., AR
 10482	SHAW-COMMUNICATIONS - Shaw Communications Inc., CA
 10483	AKPERMFUND - Alaska Permanent Fund, US
@@ -13127,7 +13127,7 @@
 13781	ENERGYNET - Hopkinsville Electric System, US
 13782	FAFCO - The First American Financial Corporation, US
 13783	RADFORD-UNIV-AS - Radford University, US
-13784	AFOTEC-AS - 754th Electronic Systems Group, US
+13784	AFOTEC-AS - Air Force Systems Networking, US
 13785	SMH - SHORE MEMORIAL HOSPITAL, US
 13786	CODEANDTHEORY - Code & Theory, LLC., US
 13787	CENTURYLINK-LEGACY-EMBARQ-JCTY - Embarq Corporation, US
@@ -19807,7 +19807,7 @@
 20775	GETIT Emil-Figge-Strasse 76-80, DE
 20776	OUTREMER-AS, FR
 20777	, LV
-20778	PKOBP, PL
+20778	-Reserved AS-, ZZ
 20781	TELETON-AS Wojska Polskiego 3, 39-300 Mielec, PL
 20782	ZEBRAELEC, GB
 20783	POP, DE
@@ -29666,7 +29666,6 @@
 31423	PROMAX-AS, PL
 31424	NEXELLENT-AS AS31424 is operated by:, CH
 31425	FORATEC-AS Foratec Net AS, RU
-31426	-Reserved AS-, ZZ
 31427	KHARTRON-AS, UA
 31428	LOGISTA-ES-AS, ES
 31429	SPYMAC-AS, DE
@@ -35863,7 +35862,7 @@
 38098	JTNET02-AS-KR JTNet, KR
 38099	KAKAO-AS-KR Kakao Corp, KR
 38100	INICIS-AS-KR INICIS Co., Ltd, KR
-38101	YEONGIDIGITAL-AS-KR Yeon Gi Digital Network, KR
+38101	YULCHON-AS-KR Yulchon LLC, KR
 38102	SCOURTFAMILYDR SCOURTFAMILY, KR
 38103	QRIXNETKS-AS-, KR
 38104	HYEJEON-AS-KR Hyejeon University, KR
@@ -36088,6 +36087,7 @@
 38344	HUAYUXINGSHENG Beijing huayuxingsheng Co., Ltd, CN
 38345	CNNIC-KNET-AP KNET Techonlogy (BeiJing) Co.,Ltd., CN
 38346	HANGTIAN-INFONET-AP HangTian Info Network Ltd., CN
+38347	NEUSTAR NeuStar, Inc., CN
 38348	CNNIC-NGTC-AP New Guoxin Telecom Corporation, CN
 38349	CNNIC-CCCNET-AP China Communication Co., Ltd, CN
 38351	CNNIC-NGTC-AP New Guoxin Telecom Corporation, CN
@@ -45407,7 +45407,6 @@
 47933	COMMIDEA, GB
 47934	INFORMSYSTEMS-AS, RU
 47935	COMTINUUM-AS Continuum, LB
-47936	-Reserved AS-, ZZ
 47937	KROKUSTV-AS, UA
 47938	FASTNET-AS, RU
 47939	YALTANET, UA
@@ -46649,7 +46648,7 @@
 49188	THREE-A-HUB, BG
 49189	RUWEB, RU
 49190	XCOMPARTNERS-AS, PL
-49191	QDE, IR
+49191	-Reserved AS-, ZZ
 49192	MOTIONITE, NL
 49193	PHONECTAS, NO
 49194	TRANSAS-, SE
@@ -47247,7 +47246,6 @@
 49787	PL-STRONG-PC-AS, PL
 49788	NEXTHOP, NO
 49789	MTT-AS, RU
-49790	-Reserved AS-, ZZ
 49791	-Reserved AS-, ZZ
 49792	IONIC-PL-AS, PL
 49793	IAIN-MCWILLIAMS-AS, GB
@@ -47610,7 +47608,7 @@
 50151	EASTERRA, GE
 50152	IMED, GB
 50153	NET-BIS-AS, PL
-50154	ANNATEL-LTD, IL
+50154	-Reserved AS-, ZZ
 50155	GR-INFO-NET, BY
 50156	BOXED-IT, BE
 50157	INDATA, RU
@@ -50095,7 +50093,7 @@
 52653	Marlon L. Larger & Cia Ltda, BR
 52654	Bi-Link Telecom, BR
 52655	Ti5 Tecnologia e Inovacao, BR
-52656	Ciss Consultoria em Informatica Serv e Softw S/A, BR
+52656	CISS Consultoria em Inf. Serv. e Software S.A, BR
 52657	NORTE TELECOMUNICAÇÕES SERVIÇOS DE INTERNET LTDA, BR
 52658	-Reserved AS-, ZZ
 52659	Maralex 335 Servicos de Provedor na Internet LTDA, BR
@@ -52817,7 +52815,7 @@
 55400	INFOXCHANGE-AS-AP Infoxchange Australia, AU
 55402	PNB1COM-PH PNB Financial Center, PH
 55403	PTTDIGITAL-AS-AP PTT Digital Solutions Company Limited, TH
-55405	ICONZ-WEBVISIONS-AP Iconz-Webvisions Pte. Ltd., MY
+55405	EXABYTES-AS-AP Exa Bytes Network Sdn.Bhd., MY
 55406	HRCTECH-01-AS-AP 26 Shyamoli, Bir Uttam A. W. Chowdhury Road, BD
 55407	OUTRIGGER-AS-AP Laguna Village Limited who business about Hotel & Resort. One site is in Thailand., TH
 55408	MCS-AS-AP Univision LLC, MN
@@ -54018,7 +54016,7 @@
 56713	NOVUM, PL
 56714	UD, SA
 56715	ALISI, FR
-56716	DIDYK, UA
+56716	XATNET, UA
 56717	RESAL-AS, CZ
 56718	INTOUCH-BROADBAND, GB
 56719	DORFNER-ASN, DE
@@ -55868,7 +55866,6 @@
 58572	CHINATELECOM-GUANGDONG-ZHAOQING-MAN CHINANET Guangdong province Foshan network, CN
 58573	CHINATELECOM-GUANGDONG-MAOMING-MAN CHINANET Guangdong province Foshan network, CN
 58574	CHINATELECOM-GUANGDONG-ZHANJIANG-MAN CHINANET Guangdong province Foshan network, CN
-58575	SCINNOVA-NET-AS-AP Unistar Credit & Finance Corporation, PH
 58576	UE-AS-AP Alinta Asset Management Pty Ltd, AU
 58577	ESDS-COMMUNICATIONS-AS-AP ESDS Internet Services Pvt Ltd, IN
 58578	PACIFICINTERNET-AS-AP Pacific Internet Pte Ltd, SG
@@ -56068,9 +56065,7 @@
 58796	THEWITSDNBHD-MY Lot No. 77-1, 1st Floor, Wisma New Far East, Jalan Lintas, MY
 58797	CARPATHIAHOSTING-HK Carpathia Hosting, HK
 58800	ACENET-BD ACE IT Networks Limited, BD
-58801	LIL-PK Lakson Investment Limited, PK
 58803	OPTIMAX-AS-AP OptiMax Communication Ltd, BD
-58804	CPBM-PK Century Paper & Board Mills Limited, PK
 58805	XENIAL-AS-AP Xenial Broadband., BD
 58806	UTCC-TH The University of Thai Chamber of Commerce, TH
 58807	CMI-INT-AS China Mobile International Limited, HK
@@ -56113,6 +56108,7 @@
 58844	OFIDC Guangdong Aofei Data Technology Co., Ltd., CN
 58847	CLOUD-WIN Shanghai Cloud Win Data Technology Co., Ltd, CN
 58848	TJ-ZANPU Tianjin Zanpu Electronic Technology Co.,Ltd, CN
+58849	WUXIN Shanghai Wuxin Communication Equipment co. LTD, CN
 58850	BBGINETCN Bloomberg Financial Information (Beijing) Co Ltd, CN
 58851	YOUWE Priority of Fashion(Beijing)Information Technology Co.,Ltd, CN
 58852	GZGD Guizhou provincial radio and television information Network Inc, CN
@@ -56249,6 +56245,7 @@
 58999	WORLDCOM Beijing stone teda communication technology co., LTD, CN
 59000	GRANDENET Grande Arche Technologies (Shanghai), Co. Ltd., CN
 59002	CQLJNET Chongqing Cloud Computing Investment&Operation Co.,Ltd, CN
+59003	TJGDKD Tianjin B&T broadband network technology Co., Ltd., CN
 59004	TNCNT Tianjin new cloud network technology co., LTD, CN
 59005	NEEDIDC Beijing All's Vision Technology co.Ltd, CN
 59006	GSSNET Beijing Gold Sunshine Networks Ltd., CN
@@ -56703,7 +56700,6 @@
 59490	MNGAIRLINES, TR
 59491	LIVENET-, PL
 59492	TELEFAX-AS, UA
-59493	-Reserved AS-, ZZ
 59494	ENIGMA-TELECOM-AS, RU
 59495	ULKM-AS, RU
 59496	LOGOTELECOM-AS, RU
@@ -58272,6 +58268,7 @@
 61059	ETELECOM-MD-AS, MD
 61060	XRCSERVICES, NL
 61061	PARS-ONLINE, IR
+61062	UNICEF, CH
 61063	GOODPING-AS, RU
 61064	TELENECIK, PL
 61065	SERBIA-BROADBAND-AS, RS
@@ -59689,6 +59686,7 @@
 62556	LANB - LOS ALAMOS NATIONAL BANK, US
 62557	AUSTALUSA - Austal USA LLC, US
 62558	WESLACO-ISD - Weslaco Independent School District, US
+62559	CITYOFPEORIAAZ - CITY OF PEORIA, US
 62560	ANDREWS-WIRELESS - Andrews Wireless Limited, CA
 62561	IEHP - Inland Empire Health Plan, US
 62562	SYNCREON-US - Syncreon America Inc, US
@@ -59708,6 +59706,9 @@
 62576	USVD-24 - USVD LLC, US
 62577	NEXUCOM - NEXUCOM, CA
 62578	PFCU-I-DRIVE-32821 - Partners Federal Credit Union, US
+62579	VIRTUALSHIELD - VirtualShield LLC, US
+62580	PILOT-CORP - Pilot Fiber, Inc., US
+62581	WPA - Wonderful Pistachios & Almonds LLC, US
 62583	CTMGMT - CT Management, Inc., US
 62584	NET3-INC - Net3 Inc., US
 62585	MC-NET - Messiah College, US
@@ -63068,7 +63069,6 @@
 132107	CLOUDPOWER-AS Cloudpower Solutions, TH
 132108	ISSL-AS IL&FS House, Plot No. 14, IN
 132109	NUSKOPE-AS-AP RA-WIFI, AU
-132110	SCINNOVA-NET-PH 26/F One Corporate Center, PH
 132111	BIGBANDNET-MY Bigband Sdn Bhd, MY
 132112	TULIP-GLOBAL-PEERING Tulip IT Services Limited, IN
 132113	CAPL-AS-AP Connected Australia PTY LTD, AU
@@ -63461,7 +63461,6 @@
 132511	CMNET-JLIDC-CN JiLin Mobile Communication Company Limited, CN
 132512	WHCL-AS-AP World Hub Communications (M) Sdn Bhd, MY
 132513	SKYTELLAO-AS-AP Sky Telecom State Company, LA
-132514	ASIAN-AS-AP Asian Broadcasting Network (M) Sdn Bhd, MY
 132515	WAMIKA-AS Wamika Broadband Pvt Ltd, IN
 132516	PACENET-AS-IN Pacenet Meghbela Broadband Pvt. Ltd., IN
 132517	MEGHBELA-AS-IN ASN Meghbela Entertainment Ltd, IN
@@ -63478,7 +63477,6 @@
 132528	DAPL-AS-AP Digicel Australia Pty Ltd, AU
 132529	W3NETWORKS-AU W3 Networks Pty Ltd, AU
 132530	BESTECTELECOMLTD-AS-AP Bestec Telecom Ltd., BD
-132531	ICE-AS-AP Ice Animations (Pvt) Ltd, PK
 132532	COMMSYSAUSTRALIA-AS-AP The trustee for The CommSys Australia Unit Trust, AU
 132533	VIBEGROUPPTYLTD-AS-AP Vibe Group Pty Ltd, AU
 132534	HEALTHLINKLIMITED-AS-AP Healthlink Limited, NZ
@@ -66792,7 +66790,6 @@
 136048	SNOC-AS-AP Secured Network Operator Center Co.Ltd., TH
 136049	FILAPAC-AS-AP FIL Asia Holdings Pte Limited, HK
 136050	BEECONNECTION-AS-AP Bee Connection, BD
-136051	YDHOST-AS-AP Dongguan Yidu information technology co.,Ltd, CN
 136052	IDNIC-IDCLOUDHOST-AS-ID PT Cloud Hosting Indonesia, ID
 136053	IDNIC-INFINETWORKS-AS-ID PT. INFINETWORKS GLOBAL, ID
 136054	COMTELINDO-AS-ID PT.COMTELINDO, ID
@@ -68110,9 +68107,10 @@
 137485	ATSTECH-AS-AP ATS Technology, BD
 137486	CDC-AS-AP CANBERRA DATA CENTRES PROPRIETARY LIMITED, AU
 137487	MERALCO-AS-AP Manila Electric Company, PH
-137488	ICEWARP-AS-AP IceWarp Technologies Pvt. Ltd., IN
+137488	ICEWARP-AS-AP icewarpcloud.in, IN
 137489	BHETCL-AS-AP Beijing Hongyi Express Trading Co. Ltd, CN
 137490	WBNC-AP W. Boot dba. Navice Consulting, NL
+137491	PEEREX-NET-AS-AP Md. Lokman Hossain, BD
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange, DE
@@ -68666,7 +68664,7 @@
 197231	KOPEX-ASN, PL
 197232	CARGOPLANET, BG
 197233	VENTUS-AS, PL
-197235	SEVEREN-VOLGA, RU
+197235	AVANTEL-SAMARA, RU
 197236	BIOVET, BG
 197238	DYCKERHOFF-, PL
 197239	ASHRIDGE-TRUST, GB
@@ -70793,7 +70791,7 @@
 199583	KRDADM-AS, RU
 199584	ASUMB, PL
 199585	TELNET, PL
-199586	MA2T, FR
+199586	MERGUEZ-NETWORK Merguez.Network, FR
 199587	SOLIDIT, CH
 199588	DHDA, IE
 199589	ARCONET, ES
@@ -72853,7 +72851,6 @@
 202136	A-SITI-AS, RU
 202137	ANSAT, SI
 202138	TEGE-AS, FR
-202139	-Reserved AS-, ZZ
 202140	DIS Web-Cloud Hosting, FR
 202141	MEGANET-AS, PL
 202142	LNET-AS, PL
@@ -74600,6 +74597,19 @@
 204284	NESTLE, SG
 204286	CDN4YOU, ES
 204287	HOSTROYALE_TECHNOLOGIES, PT
+204478	ABCNET, PL
+204479	QUICK-NET, PL
+204480	GODSPOT, DE
+204481	BNETZA, DE
+204482	SOTEHA-AS, IT
+204483	SKAN-AS, CH
+204484	ASREWOLUCJA, PL
+204485	SK-NET-AS, UA
+204486	CHES-EAST, GB
+204487	EXPORT-IMPORT-AS, UA
+204488	CONNECT-SOLUTIONS 08241 MANRESA, ES
+204489	KVADO-AS, RU
+204490	ASKONTEL, RU
 204491	LAUNCHPAD-AS, GB
 204492	NSK-AS, RU
 204493	LAG-ASN, FR
@@ -74615,7 +74625,7 @@
 204503	LUOSTEJOK, NO
 204504	CODING, IT
 204505	AS_ITWPHOSTING, CZ
-204506	TMO, LU
+204506	TMO TMO-AS, LU
 204507	BAIKALSERVISE, RU
 204508	SITEGROUND, US
 204509	MTCM, ES
@@ -74937,7 +74947,7 @@
 204825	SOLIST-AS, RU
 204826	MXROUTE, GB
 204827	RESO-AS, RU
-204828	ASN32-4B42 4b42 32-bit Autonomous System Number, CH
+204828	ASN32-4B42 4b42 32-bit Autonomous System Number, LI
 204829	ONETRA, TR
 204830	ZINGAYA-SEC-AS, RU
 204831	FISHMAN, IL
@@ -81845,6 +81855,7 @@
 266743	GEO S.A., AR
 266744	TELE AUDIO S.A., AR
 266745	INVERSIONES CREDICORP BOLIVIA S.A., BO
+266746	CONTINUM DATACENTER SOCIEDAD ANONIMA, CR
 266911	V. P. ACIOLI EIRELI - ME, BR
 266912	WILLY GUIDONE GUIMARAES 46366900876, BR
 266913	TUZINA TELECOM, BR
@@ -82107,7 +82118,7 @@
 267171	Alfa Network Solutions Inform¿tica LTDA, BR
 267172	BORBA E ANDRADE LTDA - EPP, BR
 267173	NetMontes Telecomunicações e Serviços Ltda, BR
-267174	Power Net Telecomunicação EIRELI-ME, BR
+267174	PowerNet Telecom, BR
 267175	ASBYTE TELECOMUNICACOES E SERVICOS EM INFORMATICA, BR
 267176	Rodrigues Dias Empreendimentos Ltda - ME, BR
 267177	Mayckon Felipe Rosini, BR
@@ -82176,6 +82187,7 @@
 267240	NAVEGA TELECOM LTDA EPP, BR
 267241	GMAES TELECOM LTDA ME, BR
 267242	AMAZONIA TELECOMUNICACOES LTDA, BR
+267243	NET 10 LTDA ME, BR
 267423	C.da Costa Silva Me, BR
 267424	G.C.TELECOMUNICAÇÕES LTDA-ME, BR
 267425	TSCM NET BRASIL TELECOMUNICAÇÕES LTDA, BR
