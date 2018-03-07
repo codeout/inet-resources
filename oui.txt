@@ -23270,24 +23270,6 @@ A09E1A     (base 16)		Polar Electro Oy
 				Kempele  Oulu  90440
 				FI
 
-D0-B2-C4   (hex)		Technicolor CH USA Inc.
-D0B2C4     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-FC-94-E3   (hex)		Technicolor CH USA Inc.
-FC94E3     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-FC-52-8D   (hex)		Technicolor CH USA Inc.
-FC528D     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 D8-4A-87   (hex)		OI ELECTRIC CO.,LTD
 D84A87     (base 16)		OI ELECTRIC CO.,LTD
 				7-3-16 KIKUNA
@@ -25106,12 +25088,6 @@ A4EE57     (base 16)		Seiko Epson Corporation
 				SUWA-SHI  NAGANO-KEN  392-8502
 				JP
 
-48-00-33   (hex)		Technicolor CH USA Inc.
-480033     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 14-B3-1F   (hex)		Dell Inc.
 14B31F     (base 16)		Dell Inc.
 				One Dell Way
@@ -25495,12 +25471,6 @@ E8D11B     (base 16)		ASKEY COMPUTER CORP
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
-
-14-98-7D   (hex)		Technicolor CH USA Inc.
-14987D     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 D4-CF-37   (hex)		Symbolic IO
 D4CF37     (base 16)		Symbolic IO
@@ -26201,12 +26171,6 @@ F46BEF     (base 16)		Sagemcom Broadband SAS
 				Qingdao   Shandong  266024
 				CN
 
-D0-5A-00   (hex)		Technicolor CH USA Inc.
-D05A00     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 70-F1-1C   (hex)		Shenzhen Ogemray Technology Co.,Ltd
 70F11C     (base 16)		Shenzhen Ogemray Technology Co.,Ltd
 				4/F,5Bldg,Dongwu Industrial Park, Donghuan 1st Rd, Longhua District.
@@ -26440,12 +26404,6 @@ B40F3B     (base 16)		Tenda Technology Co.,Ltd.Dongguan branch
 				Room 79,Yuanyi Road,Dalang Town,Dongguan Guangdong 523770
 				Dongguan  Guangdong  523770
 				CN
-
-10-62-D0   (hex)		Technicolor CH USA Inc.
-1062D0     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 78-02-B1   (hex)		Cisco Systems, Inc
 7802B1     (base 16)		Cisco Systems, Inc
@@ -27396,12 +27354,6 @@ D88466     (base 16)		Extreme Networks, Inc.
 8CEC4B     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
-				US
-
-3C-9A-77   (hex)		Technicolor CH USA Inc.
-3C9A77     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
 				US
 
 6C-2A-CB   (hex)		Paxton Access Ltd
@@ -28898,12 +28850,6 @@ E4EA83     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				SHENZHEN  GUANGDONG  518105
 				CN
 
-D0-8A-91   (hex)		Technicolor CH USA Inc.
-D08A91     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 00-15-D0   (hex)		ARRIS Group, Inc.
 0015D0     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -29554,6 +29500,66 @@ F4EE14     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
 				4-12-3 Higashi – Shinagaw
 				Shinagawa-ku  Tokyo  140-0002
 				JP
+
+FC-94-E3   (hex)		Technicolor CH USA Inc.
+FC94E3     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+D0-B2-C4   (hex)		Technicolor CH USA Inc.
+D0B2C4     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+48-00-33   (hex)		Technicolor CH USA Inc.
+480033     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+14-98-7D   (hex)		Technicolor CH USA Inc.
+14987D     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+D0-5A-00   (hex)		Technicolor CH USA Inc.
+D05A00     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+10-62-D0   (hex)		Technicolor CH USA Inc.
+1062D0     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+3C-9A-77   (hex)		Technicolor CH USA Inc.
+3C9A77     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+D0-8A-91   (hex)		Technicolor CH USA Inc.
+D08A91     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+FC-52-8D   (hex)		Technicolor CH USA Inc.
+FC528D     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+40-C3-C6   (hex)		SnapRoute
+40C3C6     (base 16)		SnapRoute
+				3960 Freedom Circle, Suite 100
+				Santa Clara  CA  95054
+				US
 
 E8-9E-0C   (hex)		Private
 E89E0C     (base 16)		Private
@@ -52901,29 +52907,11 @@ A020A6     (base 16)		Espressif Inc.
 				Shanghai  Shanghai  201203
 				CN
 
-88-F7-C7   (hex)		Technicolor CH USA Inc.
-88F7C7     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-08-95-2A   (hex)		Technicolor CH USA Inc.
-08952A     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 C4-BB-4C   (hex)		Zebra Information Tech Co. Ltd
 C4BB4C     (base 16)		Zebra Information Tech Co. Ltd
 				Room 415, No.569 Anchi Road, JiaDing District 
 				Shanghai    201804
 				CN
-
-8C-04-FF   (hex)		Technicolor CH USA Inc.
-8C04FF     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 00-19-72   (hex)		Plexus (Xiamen) Co.,ltd.
 001972     (base 16)		Plexus (Xiamen) Co.,ltd.
@@ -53326,12 +53314,6 @@ C411E0     (base 16)		Bull Group Co., Ltd
 				7/F, Tower C, Zhizhen Plaza, No.7 Zhichun Rd, Haidian District
 				Beijing    100191
 				CN
-
-FC-91-14   (hex)		Technicolor CH USA Inc.
-FC9114     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 1C-25-E1   (hex)		China Mobile IOT Company Limited
 1C25E1     (base 16)		China Mobile IOT Company Limited
@@ -54453,12 +54435,6 @@ D8-42-E2   (hex)		Canary Connect, Inc.
 D842E2     (base 16)		Canary Connect, Inc.
 				132 East 43rd Street
 				New York    10017
-				US
-
-50-09-59   (hex)		Technicolor CH USA Inc.
-500959     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
 				US
 
 14-33-65   (hex)		TEM Mobile Limited
@@ -56081,12 +56057,6 @@ B04089     (base 16)		Senient Systems LTD
 				Dordrecht  Zuid-Holland  3311 AL
 				NL
 
-14-B7-F8   (hex)		Technicolor CH USA Inc.
-14B7F8     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 F0-6E-32   (hex)		MICROTEL INNOVATION S.R.L.
 F06E32     (base 16)		MICROTEL INNOVATION S.R.L.
 				Via Armentera 8
@@ -56415,12 +56385,6 @@ E8E732     (base 16)		Alcatel-Lucent Enterprise
 6854ED     (base 16)		Alcatel-Lucent
 				777 E. Middlefield Rd
 				Mountain View  CA  94043
-				US
-
-B4-2A-0E   (hex)		Technicolor CH USA Inc.
-B42A0E     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
 				US
 
 E8-DE-8E   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
@@ -59144,11 +59108,65 @@ D05162     (base 16)		Sony Mobile Communications AB
 				Shinagawa-ku  Tokyo  140-0002
 				JP
 
+8C-14-B4   (hex)		zte corporation
+8C14B4     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+3C-98-72   (hex)		Sercomm Corporation.
+3C9872     (base 16)		Sercomm Corporation.
+				3F,No.81,Yu-Yih Rd.,Chu-Nan Chen
+				Miao-Lih Hsuan    115
+				TW
+
+8C-04-FF   (hex)		Technicolor CH USA Inc.
+8C04FF     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+FC-91-14   (hex)		Technicolor CH USA Inc.
+FC9114     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+50-09-59   (hex)		Technicolor CH USA Inc.
+500959     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+14-B7-F8   (hex)		Technicolor CH USA Inc.
+14B7F8     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+B4-2A-0E   (hex)		Technicolor CH USA Inc.
+B42A0E     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
 B0-18-86   (hex)		SmarDTV
 B01886     (base 16)		SmarDTV
 				Route de Genève 22
 				Cheseaux    CH-1033 
 				CH
+
+08-95-2A   (hex)		Technicolor CH USA Inc.
+08952A     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+88-F7-C7   (hex)		Technicolor CH USA Inc.
+88F7C7     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -82031,24 +82049,6 @@ AC040B     (base 16)		Peloton Interactive, Inc
 				YOKOHAMA  KANAGAWA-KEN  222-0011
 				JP
 
-44-32-C8   (hex)		Technicolor CH USA Inc.
-4432C8     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-E0-88-5D   (hex)		Technicolor CH USA Inc.
-E0885D     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-80-29-94   (hex)		Technicolor CH USA Inc.
-802994     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 20-6A-8A   (hex)		Wistron Infocomm (Zhongshan) Corporation
 206A8A     (base 16)		Wistron Infocomm (Zhongshan) Corporation
 				168# First Avenue,Kunshan Export Processing Zone
@@ -84607,12 +84607,6 @@ C4AE12     (base 16)		Samsung Electronics Co.,Ltd
 				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
 				Hsinchu  Taiwan ROC.  30352 
 				TW
-
-80-B2-34   (hex)		Technicolor CH USA Inc.
-80B234     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 B8-77-C3   (hex)		METER Group
 B877C3     (base 16)		METER Group
@@ -88219,6 +88213,36 @@ D82477     (base 16)		Universal Electric Corporation
 				4-12-3 Higashi – Shinagaw
 				Shinagawa-ku  Tokyo  140-0002
 				JP
+
+38-6E-88   (hex)		zte corporation
+386E88     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+80-29-94   (hex)		Technicolor CH USA Inc.
+802994     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+E0-88-5D   (hex)		Technicolor CH USA Inc.
+E0885D     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+44-32-C8   (hex)		Technicolor CH USA Inc.
+4432C8     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+80-B2-34   (hex)		Technicolor CH USA Inc.
+80B234     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -101153,12 +101177,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Kita-ku  Tokyo  115-0044
 				JP
 
-00-12-A5   (hex)		Stargen, Inc.
-0012A5     (base 16)		Stargen, Inc.
-				225 Cedar Hill Street
-				Marlborough  MA  01752
-				US
-
 00-12-AA   (hex)		IEE, Inc.
 0012AA     (base 16)		IEE, Inc.
 				7740 Lemona Avenue
@@ -111575,36 +111593,6 @@ D8E0B8     (base 16)		BULAT LLC
 				Hong kong    999077
 				CN
 
-CC-35-40   (hex)		Technicolor CH USA Inc.
-CC3540     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-C4-27-95   (hex)		Technicolor CH USA Inc.
-C42795     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-58-23-8C   (hex)		Technicolor CH USA Inc.
-58238C     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-70-5A-9E   (hex)		Technicolor CH USA Inc.
-705A9E     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-80-C6-AB   (hex)		Technicolor CH USA Inc.
-80C6AB     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 90-A4-DE   (hex)		Wistron Neweb Corporation
 90A4DE     (base 16)		Wistron Neweb Corporation
 				20 Park Avenue II, Hsinchu Science Park, 
@@ -114389,12 +114377,6 @@ EC42B4     (base 16)		ADC Corporation
 				 Chengdu   Sichuan  611731
 				CN
 
-38-17-E1   (hex)		Technicolor CH USA Inc.
-3817E1     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 64-16-66   (hex)		Nest Labs Inc.
 641666     (base 16)		Nest Labs Inc.
 				3400 Hillview Ave.
@@ -115390,12 +115372,6 @@ D4AD2D     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				7 Floor, 3 Blvd., More Centre, 87 Gudun Rd., Xihu District
 				Hangzhou  Zhejiang  310012
 				CN
-
-10-C2-5A   (hex)		Technicolor CH USA Inc.
-10C25A     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 8C-59-73   (hex)		Zyxel Communications Corporation
 8C5973     (base 16)		Zyxel Communications Corporation
@@ -117710,11 +117686,71 @@ B4527D     (base 16)		Sony Mobile Communications AB
 				Shinagawa-ku  Tokyo  140-0002
 				JP
 
+58-23-8C   (hex)		Technicolor CH USA Inc.
+58238C     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+C4-27-95   (hex)		Technicolor CH USA Inc.
+C42795     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+CC-35-40   (hex)		Technicolor CH USA Inc.
+CC3540     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+80-C6-AB   (hex)		Technicolor CH USA Inc.
+80C6AB     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+70-5A-9E   (hex)		Technicolor CH USA Inc.
+705A9E     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+38-17-E1   (hex)		Technicolor CH USA Inc.
+3817E1     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+10-C2-5A   (hex)		Technicolor CH USA Inc.
+10C25A     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+00-12-A5   (hex)		Dolphin Interconnect Solutions AS
+0012A5     (base 16)		Dolphin Interconnect Solutions AS
+				NILS Hansens Vei 13
+				Oslo    0667
+				NO
+
+24-D3-F2   (hex)		zte corporation
+24D3F2     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
 00-01-49   (hex)		TDT AG
 000149     (base 16)		TDT AG
 				Siemensstraße 18
 				    
 				DE
+
+00-7E-95   (hex)		Cisco Systems, Inc
+007E95     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -142640,24 +142676,6 @@ C4F1D1     (base 16)		BEIJING SOGOU TECHNOLOGY DEVELOPMENT CO., LTD.
 				Tokyo    100-8310
 				JP
 
-B0-C2-87   (hex)		Technicolor CH USA Inc.
-B0C287     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-CC-03-FA   (hex)		Technicolor CH USA Inc.
-CC03FA     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
-28-BE-9B   (hex)		Technicolor CH USA Inc.
-28BE9B     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 50-9F-3B   (hex)		OI ELECTRIC CO.,LTD
 509F3B     (base 16)		OI ELECTRIC CO.,LTD
 				7-3-16 KIKUNA
@@ -142705,12 +142723,6 @@ FC3D93     (base 16)		LONGCHEER TELECOMMUNICATION LIMITED
 				Building 1,No.401,Caobao Rd
 				Shanghai  Xuhui District  200233
 				CN
-
-48-F7-C0   (hex)		Technicolor CH USA Inc.
-48F7C0     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway
-				Lawrenceville  GA  30044
-				US
 
 00-40-9F   (hex)		Telco Systems, Inc. 
 00409F     (base 16)		Telco Systems, Inc. 
@@ -143173,12 +143185,6 @@ C0854C     (base 16)		Ragentek Technology Group
 				No.147, Sec. 3, Beishen Rd
 				Shenkeng Dist  New Taipei City  ---
 				TW
-
-0C-02-27   (hex)		Technicolor CH USA Inc.
-0C0227     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 C0-28-8D   (hex)		Logitech, Inc
 C0288D     (base 16)		Logitech, Inc
@@ -144085,12 +144091,6 @@ F00FEC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Unnam 1 gil, 3 
 				Seocho-gu  Seoul  06778
 				KR
-
-54-A6-5C   (hex)		Technicolor CH USA Inc.
-54A65C     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
 
 C0-98-DA   (hex)		China Mobile IOT Company Limited
 C098DA     (base 16)		China Mobile IOT Company Limited
@@ -146942,12 +146942,6 @@ BC903A     (base 16)		Robert Bosch GmbH
 				Leonberg    71226
 				DE
 
-60-3D-26   (hex)		Technicolor CH USA Inc.
-603D26     (base 16)		Technicolor CH USA Inc.
-				101 West 103rd St.
-				Indianapolis  IN  46290
-				US
-
 38-20-A8   (hex)		ColorTokens, Inc.
 3820A8     (base 16)		ColorTokens, Inc.
 				2101 Tasman Dr. Suite 200A
@@ -147337,3 +147331,51 @@ D469A5     (base 16)		Miura Systems Ltd.
 				Axis 40, Oxford Road, Stokenchurch
 				High Wycombe  Buckinghamshire  HP143SX
 				GB
+
+28-BE-9B   (hex)		Technicolor CH USA Inc.
+28BE9B     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+CC-03-FA   (hex)		Technicolor CH USA Inc.
+CC03FA     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+B0-C2-87   (hex)		Technicolor CH USA Inc.
+B0C287     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+48-F7-C0   (hex)		Technicolor CH USA Inc.
+48F7C0     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+0C-02-27   (hex)		Technicolor CH USA Inc.
+0C0227     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+60-3D-26   (hex)		Technicolor CH USA Inc.
+603D26     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+54-A6-5C   (hex)		Technicolor CH USA Inc.
+54A65C     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+00-BC-60   (hex)		Cisco Systems, Inc
+00BC60     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
