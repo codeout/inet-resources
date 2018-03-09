@@ -29513,12 +29513,6 @@ A8D498     (base 16)		Avira Operations GmbH & Co. KG
 				Stafford    ST16 1TW
 				GB
 
-FC-52-8D   (hex)		Technicolor CH USA Inc.
-FC528D     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
 FC-94-E3   (hex)		Technicolor CH USA Inc.
 FC94E3     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -29563,6 +29557,24 @@ D05A00     (base 16)		Technicolor CH USA Inc.
 
 D0-8A-91   (hex)		Technicolor CH USA Inc.
 D08A91     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+90-4C-81   (hex)		Hewlett Packard Enterprise
+904C81     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
+8C-35-79   (hex)		QDIQO Sp. z o.o.
+8C3579     (base 16)		QDIQO Sp. z o.o.
+				Stanisława Wyspiańskiego 11
+				Zielona Góra  lubuskie  65-036
+				PL
+
+FC-52-8D   (hex)		Technicolor CH USA Inc.
+FC528D     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
@@ -59166,6 +59178,12 @@ B01886     (base 16)		SmarDTV
 88F7C7     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
+				US
+
+A8-99-69   (hex)		Dell Inc.
+A89969     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -117750,6 +117768,18 @@ CC3540     (base 16)		Technicolor CH USA Inc.
 007E95     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+A4-EA-8E   (hex)		Extreme Networks, Inc.
+A4EA8E     (base 16)		Extreme Networks, Inc.
+				6480 Via Del Oro
+				San Jose  CA  95119
+				US
+
+B8-85-84   (hex)		Dell Inc.
+B88584     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
