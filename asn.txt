@@ -2567,7 +2567,7 @@
 2581	GAO - U.S. Government Accountability Office, US
 2582	CDE - California Department of Education, US
 2583	ADG-CASTLEACCESS - Affinity Development Group, US
-2584	CUMMINS - Cummins Engine Co. Inc., US
+2584	CUMMINS - Cummins Inc., US
 2585	OPTICTELECOM-AS, RU
 2586	UNINET-AS Sopruse pst 145, FI
 2587	FREE-NET-AS2587, RU
@@ -2700,7 +2700,7 @@
 2714	GSA-GOV - General Services Administration, US
 2715	Fundação Carlos Chagas Filho de Amparo a Pesquisa, BR
 2716	Universidade Federal do Rio Grande do Sul, BR
-2717	CUMMINS-AS1 - Cummins Engine Co. Inc., US
+2717	CUMMINS-AS1 - Cummins Inc., US
 2718	APSCN-AR - Arkansas Public School Computer Network, US
 2719	PIXEL8 - Panzura, Inc, US
 2720	PARKED-CLUSTER1-AMERICAS - Parked.com, Ltd., KY
@@ -10010,7 +10010,7 @@
 10416	EVCOM-ASN - Evolution Communications, Inc., US
 10417	Fundação de Desenvolvimento da Pesquisa, BR
 10418	TEKNOS - TEKNOS Consulting Corporation, US
-10419	SOLUTIONWARE - SolutionWare, Ltd., US
+10419	-Reserved AS-, ZZ
 10420	Banco de Mexico, MX
 10421	TTUNET - Texas Tech University, US
 10422	NETEXPLORER - Net Explorer, Inc., US
@@ -11018,7 +11018,7 @@
 11430	BESTNAP - Austin Bestline, US
 11431	-Reserved AS-, ZZ
 11432	Telium Telecomunicações Ltda, BR
-11433	CURATEL - Curatel, LLC, US
+11433	CURATEL - Apeiron, US
 11434	VCS-AS - Virtacore Systems Inc, US
 11435	LA-CAPITALE - La Capitale, cie d'assurance generale, CA
 11436	WMPINC - West Marine Products Inc., US
@@ -12804,7 +12804,7 @@
 13458	DKP-ASN - Davidson Kempner Capital Management LLC, US
 13459	PHOENIX CONDOR SOLUTION SERVICE INFORMATICA LTDA, BR
 13460	EARTHCAM - EarthCam, Inc., US
-13461	-Reserved AS-, ZZ
+13461	OCC-AS13461 - The Options Clearing Corporation, US
 13462	IEEE - Institute of Electrical and Electronics Engineers, US
 13463	CHASE - JPMorgan Chase & Co., US
 13464	CPLP-ASN - Centerbridge Partners, L.P., US
@@ -29365,7 +29365,6 @@
 31064	VIRTIX, NL
 31065	MCIT, EG
 31067	SEAC-AS, IT
-31068	-Reserved AS-, ZZ
 31069	UNU-KHARKOV-AS, UA
 31071	AGI, PL
 31072	KCIC-AS, UA
@@ -40200,7 +40199,6 @@
 42595	BDNC, SE
 42596	ANTILO-AS, DE
 42597	ENTER-AS, RU
-42598	-Reserved AS-, ZZ
 42599	KSS-NET, RU
 42600	GMSU-NET, UA
 42601	PADMEDIA, LU
@@ -41310,7 +41308,6 @@
 43712	OPENSYSTEMS-AS --- Peers ---, RU
 43713	MOSTBG-AS, BG
 43714	EPL-AS, RU
-43715	-Reserved AS-, ZZ
 43716	TR-IDO, TR
 43717	UBIFRANCE-AS DES ENTERPRISES EPIC, FR
 43718	STBG-AS, BG
@@ -43945,7 +43942,7 @@
 46479	MOUST-PRIMARY-ASN - Pyramid.Net, US
 46480	PEKIN-INSURANCE-HOME-OFFICE - Pekin Insurance, US
 46481	TOPCO - Topco Associates LLC, US
-46482	CONTIGO - Contigo Systems Inc., CA
+46482	CONTIGO - Vecima Networks Inc., CA
 46483	RGHS - Rochester General Hospital, US
 46484	MFENET - McAfee, Inc., US
 46485	BGIM-ASN - Brandywine Global Investments, US
@@ -48244,7 +48241,7 @@
 50807	COMTEC-ASN, IM
 50808	TECHCOMUA-AS, UA
 50809	ASN-DIGITELITALIA, IT
-50810	MOBINNET-AS Gcore CDN AS is AS199524, IR
+50810	MOBINNET-AS AS61209 belong to University of Sistan and Baluchestan that is mobinnet customer, IR
 50811	NYUAD-ASN, AE
 50812	AXESS-ONLINE, FR
 50813	PAY-AND-SHOP-LIMITED-AS, GB
@@ -60172,6 +60169,7 @@
 63061	CARLSONWAGONLITTRAVEL - Carlson Wagonlit Travel, Inc, US
 63062	HUGHESNET-CDN - Hughes Network Systems, US
 63063	APSALAR - Apsalar Inc., US
+63064	PTVM-ASN - Pretium Resources Inc., CA
 63065	AS-ECMPUB - ECM Publishers, Inc., US
 63066	ATHOME-GR - Garden Ridge, L.P., US
 63067	NJ-CNB-DC03 - City National Bank, US
@@ -60185,6 +60183,7 @@
 63075	OHCBGPNET - Orlando Health Central, Inc, US
 63076	CSDPS - Commission scolaire des premieres seigneuries, CA
 63077	CMV-1 - ConnectMe, LLC., US
+63078	ADS-AS1 - A. Duda & Sons, Inc., US
 63079	NRA-AS - National Restaurant Association, US
 63080	ROCK-DFW-01 - CheapCaribbean.com, US
 63081	STOF-GAMING-TAMPA - Seminole Gaming, US
@@ -60210,10 +60209,12 @@
 63101	MOSAIC-451 - Mosaic451, LLC, US
 63102	MESSA-AS - Michigan Education Special Services Association, US
 63103	OCF-AS - Ochsner Clinic Foundation, US
+63104	MOHAWK-NETWORKS - Mohawk Networks LLC, US
 63105	NEILL-TECH-BTR - Neill Corporation, US
 63106	NEILL-TECH-DAL - Neill Corporation, US
 63107	ECIN - Bijou Telephone Co-op Association, Inc., US
 63108	MMRSAG-10 - Mobile Medical Response Inc, US
+63109	FCEMC-NETWORKS - Four County Electric Membership Corporation, US
 63110	-Reserved AS-, ZZ
 63111	ACE-US - ACE INA HOLDINGS INC., US
 63112	SERVICENOW-CORP - Service-now.com, US
@@ -66263,6 +66264,7 @@
 135435	ADNTECH-AS-AP ADN Technologies Ltd., BD
 135436	LMAXHONGKONGLTD-AS-AP LMAX Hong Kong Ltd, HK
 135437	NGISL-AS-AP New Generation Internet Services Limited, BD
+135438	MST-AS-AP MD ALAUDDIN, BD
 135439	ADNET-AS-ID PT ADNET MEDIA INDONESIA, ID
 135440	IDNIC-PELINDO4-AS-ID PELABUHAN INDONESIA IV, ID
 135441	IDNIC-FASAPAY-AS-ID PT. FASA CENTRA ARTAJAYA, ID
@@ -71478,7 +71480,6 @@
 200600	SEZNAM-CZ-DC, CZ
 200602	GIGABAJT-AS, PL
 200603	JOB-MASTERS-SRL, RO
-200604	-Reserved AS-, ZZ
 200605	ASN-KOMSOFT, PL
 200606	VIATEL-AS, SE
 200607	MANIFONE, FR
@@ -83134,6 +83135,7 @@
 328282	TEOLIS-SAU, TG
 328283	BBDP1-AS, AO
 328284	SMDT1-AS, ML
+328285	EDELNET-AS, ZA
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
