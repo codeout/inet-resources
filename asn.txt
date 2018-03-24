@@ -11735,7 +11735,7 @@
 12152	AS12152 - Ascensus, Inc., US
 12153	HBI-ASN1 - HBI Branded Apparel Enterprises, LLC, US
 12154	INFOUSA - InfoUSA, US
-12155	AS-HMPL - Henderson Municipal Power & Light, Inc., US
+12155	AS-HMPL - Henderson Municipal Power & Light, US
 12156	AURORA-COLORADO - City of Aurora Colorado, US
 12157	ECM-ASN - Element Capital Management LLC, US
 12158	ILLUMINA - ILLUMINA, INC., US
@@ -12370,7 +12370,7 @@
 12929	NETCOM-AS Oslo, Norway, NO
 12930	CARDCOMPLETE-AS, AT
 12931	IDKOM IDKOM Networks GmbH, DE
-12932	TELETEXT-LTD-AS, RU
+12932	-Reserved AS-, ZZ
 12933	DONBASS-IX Donetsk, Ukraine, UA
 12935	NOCOM Central node, SE
 12936	ECCE-TERRAM-, DE
@@ -13504,7 +13504,7 @@
 14161	LANDOLAKES - Land O'Lakes, Inc., US
 14162	FHLB-PITT - FEDERAL HOME LOAN BANK of PITTSBURGH, US
 14163	SHEARMAN - Shearman & Sterling, US
-14164	BGPCRX - Bluegrass Cellular Inc., US
+14164	BGP-INTC - Bluegrass Cellular Inc., US
 14165	FASTLINE-PUBLICATIONS - Fastline Publications, LLC, US
 14166	SOFTCOMCA - Softcom Technology Consulting Inc., CA
 14167	MULTI-AD - Multi-Ad Services, Inc., US
@@ -28540,7 +28540,7 @@
 30183	-Reserved AS-, ZZ
 30184	RESI-BGP1 - RESI, US
 30185	-Reserved AS-, ZZ
-30186	CLOUD-SYNCINC - Cloud Sync Inc., US
+30186	CLOUD-SYNCINC - Cloud Sync Inc, US
 30187	BROWARD-COUNTY-COMMISION - Broward County Commission, US
 30188	TELEVERGENCE - Televergence Solutions Inc., US
 30189	CRUMP-AS-30189 - Crump Life Insurance Services, Inc, US
@@ -37469,7 +37469,7 @@
 39866	ENGEC-AS, RU
 39867	IC-AS, GR
 39868	FRANSABANK, LB
-39869	SITEL-PL SITEL - Polish IP Transit Networks, PL
+39869	LIVENET-, PL
 39870	NETNOD-MMO Netnod Equipment located at IX in Malmoe, SE
 39871	NETNOD-GBG Netnod Equipment located at IX in Gothenburg, SE
 39872	SODO-AS, SI
@@ -42413,7 +42413,7 @@
 44840	TRN-AS, RU
 44841	ALTOLAN, BY
 44842	SUSI-NETWORK, FR
-44843	AMSTEL-AS Amsterdamtelecom Ltd., RU
+44843	AMSTEL-AS OBTEL Ltd., RU
 44844	UNITLINE_VLG_NET, RU
 44845	CIT, RU
 44846	CEVA_DSP, IL
@@ -44775,7 +44775,7 @@
 47325	SPEAKAS, NL
 47326	TRADEADS-AS Bdul Unirii Nr 19 Bl 4B Parter, RO
 47327	ITS2, SA
-47328	TRI-AS, ES
+47328	TRI-AS True Records Inc., ES
 47329	WDM-AS, PL
 47330	MOBINNET-AS, IR
 47331	TTNET, TR
@@ -46377,7 +46377,7 @@
 48949	MEDIA-TV-AS, RU
 48950	RTCOMM-SIBIR-KRS-AS, RU
 48951	ASN-TSI-IAS Internet and VPN Service Provider, DE
-48952	NUEVAWIFI360, ES
+48952	LUXUNIT, ES
 48953	BROADMAX Broadmax Iletisim Ltd, TR
 48954	AIMES-AS, GB
 48955	IPV4-AS, RO
@@ -46592,7 +46592,7 @@
 49168	ISP-BROK-X ISP Brok-X, UA
 49169	ETA2U-AS Ghe Dima nr. 1, RO
 49170	MKSBALASHIHI-AS, RU
-49171	INFONETUZ =====================================, UZ
+49171	-Reserved AS-, ZZ
 49172	SVENSKASPEL, SE
 49173	ASN-TELECABLE, ES
 49174	TEENTELECOM, RO
@@ -55412,7 +55412,7 @@
 58143	MEDIABRIDGE-AS ****************************************************, RU
 58144	ASN-TSC, GB
 58145	MAGNUS-NET, DE
-58146	LITIX, LT
+58146	LITIX Litix peering, LT
 58147	BELLINTEGRATOR, RU
 58148	IRONSIDE, GB
 58149	VBL-AS, DE
@@ -56241,6 +56241,7 @@
 59032	TYNET Tianying Information and Technology Co. Ltd., CN
 59033	WDW6 Nantong Wanda Network Services Limited, CN
 59034	WISHNET BeiJing Wish Network Technology CO.,LTD., CN
+59035	C-STARNET Chengdu Canxing Technology Co., Ltd., CN
 59036	MAGINETWORK Shanghai Maginetwork Cro,.Ltd., CN
 59037	ZJCERT National Computer Network And Information, CN
 59038	GMW Guangming Online Communication Co.,Ltd, CN
@@ -58612,7 +58613,7 @@
 61436	ASMAP-AS, RU
 61437	ALEXESCAPE, BG
 61438	IP-IT-AS, AT
-61439	VOYSAT-AS, RS
+61439	-Reserved AS-, ZZ
 61440	Digital Energy Technologies Chile SpA, CL
 61441	CABASE Camara Arg de Base de Datos y Serv en Linea, AR
 61442	PASWER INTERNATIONAL S.A., UY
@@ -58810,7 +58811,7 @@
 61713	Virtual Internet Ltda Me, BR
 61714	Core3 Soluções em Tecnologia EIRELLI-ME, BR
 61715	Policard Systems e Serviços S/C Ltda, BR
-61716	-Reserved AS-, ZZ
+61716	Rede Tupiniquim de Comunicação Ltda - ME, BR
 61717	NetTri Telecom, BR
 61718	ELOS HOST BRASIL TELECOMUNICACOES EIRELI - ME, BR
 61719	SP TELECOMUNICAÇÕES LTDA, BR
@@ -61296,7 +61297,7 @@
 64473	-Reserved AS-, ZZ
 64474	ASN-M5I, GB
 64475	FREIFUNK-FRANKFURT, DE
-64476	BLADE, FR
+64476	BLADE For peering related business, please mail peering@blade-group.com, FR
 64477	PL-SOKOLA-AS, PL
 64478	SKSGROUP, BE
 64479	TANDZHIN-AS, BG
@@ -64886,6 +64887,7 @@
 133934	AUSIT-AS-AP AUS IT SERVICES PTY LTD, AU
 133935	USGBORAL-AS-AP USG Boral Building Products Pty Ltd, AU
 133936	X86NETWORK-AS-AP X86 Network Sdn Bhd, MY
+133937	MEGAPORTPTYLTD-AS-AP Megaport Pty Ltd, AU
 133938	XEON-BD Xeon, BD
 133939	NGSSUPER-AS-AP NGS Super Pty Limited, AU
 133940	CERTEGYEZIPAY-AS-AP CERTEGY EZI-PAY PTY LTD, AU
@@ -66782,6 +66784,8 @@
 135935	BINHMINH-AS-VN Binh Minh Software Service Company Limited, VN
 135936	AIPACIFIC-AS-VN Pacific Artificial Intellegence Joint Stock Company, VN
 135937	NEXTTECH-AS-VN Next Technology Investment and Development Company Limited, VN
+135938	HOMECREDIT-AS-VN Home Credit Viet nam Finance Company Limited, VN
+135939	VNPTEPAY-AS-VN VNPT Electronic Payment Joint Stock Company, VN
 136000	LBPL-AS-AP Lightning Broadband Pty Ltd, AU
 136001	CHRISTIE-AS-AP Christie Networks - Domestic AS, AU
 136002	PRTM-AS-AP PT RIVEN TEKNO MANDIRI, ID
@@ -67887,6 +67891,7 @@
 137118	SPARKLI-AS-IN Sparklink Net Pvt Ltd, IN
 137119	ZARAINFO-AS-IN Zara Infotech, IN
 137120	TWINCITY-AS Twincity Communication Private Limited, IN
+137125	NETSAT-AS Netsat Communications Private Limited, IN
 137129	ANGROW-AS Angrow Netcomm Pvt. Ltd, IN
 137130	ITDPNB-AS Punjab National Bank, IN
 137131	DNET-AS-IN Dnet E Solutions Pvt Ltd, IN
@@ -67919,6 +67924,8 @@
 137166	DSCONNPT-AS Digital Satellite Connect Pvt Ltd, IN
 137167	CHERRY-AS Cherri Technologies, IN
 137168	GMLBROADBAND-AS Gml Teleservices Private Limites, IN
+137169	SPEEDDIG-AS Speedmaxx Digital Networks Pvt Ltd, IN
+137170	ACBSPL-AS Ajay Cable And Broadband Services Opc Pvt. Ltd., IN
 137176	CCIL-AS The Clearing Corporation Of India Limited, IN
 137177	GOODWILL-AS Goodwill Smartlink Pvt. Ltd., IN
 137178	INVENSYS-AS Invensys Netrworks Pvt. Ltd., IN
@@ -68066,6 +68073,7 @@
 137321	IDNIC-NAM2-AS-ID PT THE NIELSEN COMPANY INDONESIA, ID
 137322	GOSTNET-AS-ID PT. GLOBAL SARANA TELEMATIKA, ID
 137323	IDNIC-PEMPROVPAPUABARAT-AS-ID DINAS KOMINFO PEMDA PAPUA BARAT, ID
+137324	IDNIC-METROCOM-AS-ID PT Metrocom Indonesia, ID
 137385	SADDAMHOSSAIN-AS-AP Saddam Hossain t/a Asian Network, BD
 137386	CW-AS-AP Child Wisdom Limited, HK
 137387	HUALONG3-AS-AP HUALONG TECHNOLOGY DEVELOPMENT CO.,LIMITED, HK
@@ -69543,7 +69551,7 @@
 198087	ALONCELL, IL
 198088	GLOBALNET-AS, UA
 198089	IPVN-AS01, NL
-198090	WAVECON-AS, IT
+198090	ASLIBRA, IT
 198091	E-CALL-POLSKA, PL
 198093	DFRI-AS, SE
 198094	VOXEL-AS, PL
@@ -70719,7 +70727,7 @@
 199383	CMRP-SELFSERVEUR, FR
 199385	TSL, GB
 199386	ZILORE, GB
-199387	DBD-SECONDARY, CH
+199387	-Reserved AS-, ZZ
 199389	TKT-NET-AS Trzebnica, PL
 199390	ALFAKS, PL
 199391	XGLOBE-199391, IL
@@ -70785,7 +70793,7 @@
 199463	NFC-AS, RU
 199464	ASN-INFBUD, PL
 199466	CLRTY, GB
-199468	SCASNUM, GB
+199468	SOLWAY-COMMS-UK, GB
 199469	AIR_NET, GE
 199470	OREBRO-LANS-LANDSTING, SE
 199472	FAITID-AS, RU
@@ -74403,7 +74411,7 @@
 204000	YAHOO-LOB, GB
 204001	YAZDUNI, IR
 204002	ADITROCLOUD, FI
-204003	ORTGIES-IT, DE
+204003	ORTGIES-IT Jan-Eric Ortgies, DE
 204004	AIREBULLAS, ES
 204005	HAGENDORN, DE
 204006	IQOPTION, CY
@@ -74508,7 +74516,7 @@
 204111	BAZTEL, GB
 204112	G1-AS, RU
 204113	CSIS, CZ
-204114	ASLIBRA, IT
+204114	ASLIBRA, ZZ
 204115	ASOCCREDEGAL, ES
 204116	FYBER, DE
 204117	ART-PLAY-AS, RU
@@ -74670,6 +74678,9 @@
 204284	NESTLE, SG
 204286	CDN4YOU, ES
 204287	HOSTROYALE_TECHNOLOGIES, PT
+204375	SYCHROVNETPEERING2, CZ
+204376	BASNET-AS, PL
+204377	DAYAN-SHABAKEH, IR
 204378	WAVESQUID, AU
 204379	INNOVIASRL, IT
 204380	STARBRIDGE-, LV
@@ -76891,6 +76902,7 @@
 206596	NOOR-IDC, IR
 206597	RATIONAL_AG, DE
 206598	NOVA-SYSTEMS-SERVICE, IT
+206599	FNACDARTY, FR
 206600	MFA, LV
 206601	TVINTEL, UA
 206602	TVTCABLE, ES
@@ -82042,6 +82054,7 @@
 266756	EBESTPHONE ECUADOR S.A., EC
 266757	SATELITAL TELECOMUNICACIONES S.A.C, PE
 266758	CESAR GERMAN NUÑEZ - (LINK-SAT CBA), AR
+266759	BIT2NET S.A, AR
 266911	V. P. ACIOLI EIRELI - ME, BR
 266912	WILLY GUIDONE GUIMARAES 46366900876, BR
 266913	TUZINA TELECOM, BR
@@ -82439,6 +82452,8 @@
 267306	Wendell dos Santos Oliveira Me, BR
 267307	RC DE MORAES - ME ( WG - TELECOM ), BR
 267308	JLX PROVEDOR DE TELECOMUNICAÇÕES LTDA - ME, BR
+267309	ZENVIA MOBILE SERVICOS DIGITAIS S.A., BR
+267310	COMPANHIA NACIONAL DE ABASTECIMENTO, BR
 267423	C.da Costa Silva Me, BR
 267424	G.C.TELECOMUNICAÇÕES LTDA-ME, BR
 267425	TSCM NET BRASIL TELECOMUNICAÇÕES LTDA, BR
@@ -83298,6 +83313,8 @@
 328289	Ceedee-Investment-AS, SL
 328290	Vodacom-AS, CI
 328291	Veritran-AS, ZW
+328292	AgentBanking-AS, UG
+328293	RDED-AS, TG
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -83681,6 +83698,7 @@
 393586	VERSCEND-TECHNOLOGIES - Verscend Technologies, US
 393587	ULTA-BGP - Ulta, Inc., US
 393588	-Reserved AS-, ZZ
+393589	MIDWESTDATAINCZCL - Midwest Data, Inc., US
 393590	HBHGA - The Original Honey Baked Ham Company of Georgia, Inc., US
 393591	GAMEWOODTECHNOLOGYGROUP - Gamewood Technology Group, Inc., US
 393592	IDSD - Bonneville Joint School District no. 93, US
@@ -83738,6 +83756,7 @@
 393644	OTR-GLOBAL-LLC - OTR Global LLC, US
 393645	CENTURYLINK-TSDS-TNJCTY - CenturyTel Internet Holdings, Inc., US
 393646	PRIMELINK-ASN - Primelink Services LLC, US
+393647	OFS-NORCROSS - OFS FITEL, LLC, US
 393648	ACTON-SOFTWARE - Act-On Software, US
 393649	BOOZ-AS2 - Booz Allen Hamilton Inc., US
 393650	CCBCMD - CCBC, US
@@ -83746,6 +83765,7 @@
 393653	WIZ1 - Wizard Tower Techno Services, CA
 393654	EXP-TOR2014 - Experian, US
 393655	LC-SJC-393655 - LendingClub Corporation, US
+393656	WIT - WIT.COM Inc., US
 393657	COLORADOMESAUNIVERSITY - Colorado Mesa University, US
 393658	ATYPON - Atypon Systems, Inc., US
 393659	NWRP-AS - North West Redwater Partnership, CA
@@ -83773,6 +83793,7 @@
 393681	ALL-BLUE-SOLUTIONS-INC - All Blue Solutions Inc., US
 393682	AICASNREQ10232014 - AIsleCom, GD
 393683	CURRYCOLLEGE - Curry College, US
+393684	NFINITYLINK - Infinity Network Services, Inc., US
 393685	SCOPUSFUND - Scopus Asset Management, L.P., US
 393686	GPNETWORKS - G.P.N. Wireless Network Solutions Ltd., CA
 393687	DELAWARE-RIVER-AND-BAY-AUTHORITY - Delaware River and Bay Authority, US
@@ -83830,6 +83851,7 @@
 393739	AJN-DC-USA - Al Jazeera International (USA), Inc., US
 393740	PROGRESSIVETEL - Progressive Rural Telephone Cooperative, Inc, US
 393741	ENDGAMEINC - ENDGAME, INC, US
+393742	CONCENTRICSKY - Concentric Sky Inc, US
 393743	ADVANCED-ICU-CARE - Advanced ICU Care, Inc., US
 393744	KYMETA-AS-01 - Kymeta Corporation, US
 393745	WI-TRONIX-AS1 - Wi-Tronix LLC, US
@@ -86586,6 +86608,296 @@
 396536	SENTRACAM-SLC01 - SentraCam, US
 396537	UKFCU - University of Kentucky Federal Credit Union, US
 396538	NORTHSITE-DATA - Northsite Data, LLC, US
+396539	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396540	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396541	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396542	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396543	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396544	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396545	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396546	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396547	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396548	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396549	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396550	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396551	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396552	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396553	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396554	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396555	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396556	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396557	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396558	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396559	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396560	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396561	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396562	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396563	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396564	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396565	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396566	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396567	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396568	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396569	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396570	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396571	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396572	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396573	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396574	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396575	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396576	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396577	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396578	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396579	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396580	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396581	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396582	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396583	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396584	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396585	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396586	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396587	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396588	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396589	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396590	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396591	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396592	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396593	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396594	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396595	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396596	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396597	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396598	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396599	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396600	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396601	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396602	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396603	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396604	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396605	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396606	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396607	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396608	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396609	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396610	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396611	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396612	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396613	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396614	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396615	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396616	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396617	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396618	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396619	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396620	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396621	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396622	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396623	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396624	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396625	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396626	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396627	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396628	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396629	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396630	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396631	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396632	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396633	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396634	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396635	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396636	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396637	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396638	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396639	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396640	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396641	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396642	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396643	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396644	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396645	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396646	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396647	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396648	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396649	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396650	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396651	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396652	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396653	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396654	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396655	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396656	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396657	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396658	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396659	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396660	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396661	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396662	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396663	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396664	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396665	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396666	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396667	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396668	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396669	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396670	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396671	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396672	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396673	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396674	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396675	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396676	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396677	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396678	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396679	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396680	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396681	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396682	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396683	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396684	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396685	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396686	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396687	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396688	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396689	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396690	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396691	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396692	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396693	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396694	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396695	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396696	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396697	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396698	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396699	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396700	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396701	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396702	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396703	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396704	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396705	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396706	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396707	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396708	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396709	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396710	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396711	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396712	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396713	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396714	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396715	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396716	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396717	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396718	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396719	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396720	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396721	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396722	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396723	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396724	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396725	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396726	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396727	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396728	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396729	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396730	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396731	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396732	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396733	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396734	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396735	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396736	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396737	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396738	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396739	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396740	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396741	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396742	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396743	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396744	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396745	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396746	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396747	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396748	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396749	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396750	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396751	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396752	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396753	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396754	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396755	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396756	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396757	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396758	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396759	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396760	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396761	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396762	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396763	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396764	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396765	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396766	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396767	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396768	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396769	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396770	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396771	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396772	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396773	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396774	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396775	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396776	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396777	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396778	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396779	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396780	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396781	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396782	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396783	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396784	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396785	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396786	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396787	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396788	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396789	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396790	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396791	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396792	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396793	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396794	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396795	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396796	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396797	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396798	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396799	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396800	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396801	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396802	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396803	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396804	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396805	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396806	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396807	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396808	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396809	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396810	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396811	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396812	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396813	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396814	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396815	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396816	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396817	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396818	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396819	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396820	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396821	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396822	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396823	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396824	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396825	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396826	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396827	VRSN-AC50-340 - VeriSign Global Registry Services, US
+396828	VRSN-AC50-340 - VeriSign Global Registry Services, US
 397193	VRSN-AC28 - VeriSign Global Registry Services, US
 397194	VRSN-AC28 - VeriSign Global Registry Services, US
 397195	VRSN-AC28 - VeriSign Global Registry Services, US
