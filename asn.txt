@@ -4660,7 +4660,7 @@
 4716	POWEREDCOM KDDI CORPORATION, JP
 4717	AI3 WIDE Project, JP
 4718	CKP Cyber Kansai Project, JP
-4719	OET ONKYO ENTERTAINMENT TECHNOLOGY CORPORATION, JP
+4719	ONKYO Onkyo Corporation, JP
 4721	JCN Jupiter Telecommunications Co., Ltd., JP
 4722	SB4722 SoftBank Corp., JP
 4723	DOLPHIN Dolphin, JP
@@ -7570,7 +7570,7 @@
 7750	ONSALE - Software Partners, Inc., US
 7751	DANCRIS - Dancris Telecom L.L.C, US
 7752	THRES - THRESHOLD COMMUNICATIONS,INC., US
-7753	IPHOUSE-1 - ipHouse, US
+7753	GREENCLOUD - ipHouse, US
 7754	MCAFEE - McAfee, Inc., US
 7755	COMBASE - ComBase Communications, US
 7756	SCRR-7756 - Time Warner Cable Internet LLC, US
@@ -21040,7 +21040,7 @@
 22163	TAMHSC - Texas A&M University System Health Science Center, US
 22164	CCSD - Clark County School District, US
 22165	BGP-DUCKS-CA - Ducks Unlimited Canada, CA
-22166	BERTRAM-COM2 - Bertram Corporation, US
+22166	BERTRAM-COM2 - Bertram Communications LLC, US
 22167	FINTECH-INTERNET - Fintech, US
 22168	SUPERIORESSEXATT - SUPERIOR ESSEX Inc., US
 22169	OMNIS-ANYCAST-1 - Omnis Network, LLC, US
@@ -24261,7 +24261,7 @@
 25633	DATAMATX-ATL - DATAMATX INC, US
 25634	DTI-ATL - DOCUMENT TECHNOLOGIES, LLC, US
 25635	SAIT-AS - Southern Alberta Institute of Technology, CA
-25636	ONTL-2002 - ONTel, Inc., CA
+25636	ONTL-2002 - NorthernTel Limited Partnership, CA
 25637	PRMTC - The Park Region Mutual Telephone Co, US
 25638	1911INT - Adaptive Imaging Solutions, LTD, US
 25639	-Reserved AS-, ZZ
@@ -25194,7 +25194,7 @@
 26571	ZBI - Ziff Brothers Investments, LLC, US
 26572	CAMDEN-ASSET-MANAGEMENT - Camden Asset Management, US
 26573	NY-DC - Luxoft USA Inc, US
-26574	STANTEC - STANTEC CONSULTING SERVICES INC., US
+26574	STANTEC - STANTEC CONSULTING SERVICES INC., CA
 26575	SERENA01 - Serena Software, Inc., US
 26576	MERCURIA-ENERGY-TRADING-INC - MERCURIA ENERGY TRADING, INC., US
 26577	BAESYSTEMS - BAE Systems Inc., US
@@ -33831,7 +33831,7 @@
 35998	PDSB-PEER-1 - Peel District School Board, CA
 35999	NYPL - The New York Public Library/LIONS, US
 36000	NHA-ASN1 - Northern Health Authority, CA
-36001	BERTRAM-COMMUNICATIONS-LLC - Bertram Corporation, US
+36001	BERTRAM-COMMUNICATIONS-LLC - Bertram Communications LLC, US
 36002	STRAT-ASN01 - STRATACARE INC, US
 36003	NOS-NOG - NOS Network Operations Group, US
 36004	ASN-IRVING - JD IRVING LIMITED, CA
@@ -51592,7 +51592,7 @@
 54198	VIANET - ViaNetTV Inc, CA
 54199	CSC - Curriculum Services Canada, CA
 54200	JXIX - Jacksonville Internet Exchange, US
-54201	WE-LINK-NETWORKS-LLC - We Link Networks LLC, US
+54201	WEWORK-MANAGEMENT-LLC - We Link Networks LLC, US
 54202	EGOVSTRATEGIES - eGov Strategies LLC, US
 54203	RBLHST-FL - Strong Technology, LLC., US
 54204	WVTM-TV - HEARST CORPORATION, US
@@ -52295,7 +52295,7 @@
 54901	0815 - Wave2Net LLC, US
 54902	GCEFALU - G. Cefalu & Bro., Inc., US
 54903	SVLSA-AS - SV Life Sciences Advisers, LLC, US
-54904	NCCML-01 - Nine Chapters Capital Management, LLC., US
+54904	-Reserved AS-, ZZ
 54905	DIGITAL-LANDSCAPE - Digital Landscape, Inc., US
 54906	BENCODENTAL - Benco Dental Company, US
 54907	NCOLNET - NCOL.NET, Inc., US
@@ -53427,7 +53427,7 @@
 56138	AXIATA-ROBI-AS-AP Axiata (Bangladesh) Limited, BD
 56140	NOCSER-MY ModernOne Data Solutions Sdn. Bhd., MY
 56141	DSP-AS-VN Danang ICT Infrastructure Development Center, VN
-56142	BPEOC-AS-VN BP Exploration Operating Company, VN
+56142	TNKVIETNAM-AS-VN BP Exploration Operating Company, VN
 56143	VDATA-AS-VN VDATA-, VN
 56144	AIAVN-AS-VN AIA Life Insurance Company limited, VN
 56145	TTN-AS-VN Thanh Nien Net Telecom JSC, VN
@@ -58905,7 +58905,7 @@
 61802	E2Network Telecom Brasil Ltda., BR
 61803	Provedor Corporativo Internet Ltda, BR
 61804	TRANS KOTHE TRANSPORTES RODOVIARIOS S/A, BR
-61805	E-MEX TELECOMUNICACOES DO BRASIL LTDA - ME, BR
+61805	Emex Telecomunicações do Brasil LTDA, BR
 61806	W DE SOUZA POLVORA ME, BR
 61807	Ministério da Educação, BR
 61808	ATIVY - SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA, BR
@@ -66793,6 +66793,7 @@
 135938	HOMECREDIT-AS-VN Home Credit Viet nam Finance Company Limited, VN
 135939	VNPTEPAY-AS-VN VNPT Electronic Payment Joint Stock Company, VN
 135940	NICETECHCENTER-AS-VN Nice Tech Center Vietnam Limited Company, VN
+135941	PLAY17-AS-VN Play 17 Vietnam Company Limited, VN
 136000	LBPL-AS-AP Lightning Broadband Pty Ltd, AU
 136001	CHRISTIE-AS-AP Christie Networks - TRANSIT AS, AU
 136002	PRTM-AS-AP PT RIVEN TEKNO MANDIRI, ID
@@ -83466,7 +83467,6 @@
 393251	FRANCIS-MARION-UNIVERSITY - Francis Marion University, US
 393252	MCCARTHY-HOLDINGS-INC - McCarthy Holdings Inc., US
 393253	NATIONAL-POWERSPORT-AUCTIONS - NATIONAL POWERSPORT AUCTIONS, US
-393254	-Reserved AS-, ZZ
 393255	AS-SAFETY-INSURANCE2 - Safety Insurance Company, US
 393256	DTE-ASN - DTE Energy Company, US
 393257	LAWREN-1 - Lawrence University, US
@@ -83523,7 +83523,6 @@
 393308	IA-CIC-AS - City of Iowa City, US
 393309	BAYNETAS - Bay District Schools, US
 393310	ARMC - Anderson Regional Medical Center, US
-393311	-Reserved AS-, ZZ
 393312	TFX-ASN - TELEFLEX INCORPORATED, US
 393313	IIR-ARIN - THE INSTITUTE FOR INTERGOVERNMENTAL RESEARCH, INC., US
 393314	UPONOR-NAWAV-1 - Uponor, Inc., US
@@ -83719,7 +83718,6 @@
 393504	XNSTG - XNS Technology Group Inc., CA
 393505	CENTRACU - Centra Credit Union, US
 393506	MYCOMUS-AS - MY.COM US, INC., US
-393507	-Reserved AS-, ZZ
 393508	VALLEYINTERNET - PERSONAL NETWORK COMPUTING, US
 393509	INCAP-HOLD-LLC - Incapital Holdings LLC, US
 393510	SFHSH-ASNUMBER - St Francis Healthcare System of Hawaii, US
@@ -84059,7 +84057,6 @@
 393844	PINE-NET - Pine Telephone Company, US
 393845	CARBON60-TOR2 - Carbon60 Networks, Inc, CA
 393846	UNGGOY - Unggoy Broadband LLC, US
-393847	-Reserved AS-, ZZ
 393848	IKEA-NA-AS - IKEA North America Services, LLC, US
 393849	PALOS-GARZA - Palos Garza Forwarding, LLC, US
 393850	CLEVERSAFE - CLEVERSAFE, US
@@ -84434,7 +84431,6 @@
 394219	MRESORT - The M Resort Spa Casino, US
 394220	AMWAYCENTER - Orlando Venues, US
 394221	COVESTRO-US-ASN - Covestro LLC, US
-394222	-Reserved AS-, ZZ
 394223	BUFFALOCONNECT - M&T BANK CORPORATION, US
 394224	PROGRESSIVEHEALTHSYSTEMS - Progressive Health Systems, US
 394225	GRAND-ASN - Grand Telephone Company, Inc., US
@@ -84492,7 +84488,6 @@
 394277	ASTRAL-INTERNET - Astral internet Inc., CA
 394278	VSE-COLO - Starwood Vacation Ownership, US
 394279	QUICKPACKET-2 - QuickPacket, LLC, US
-394280	-Reserved AS-, ZZ
 394281	XHOSTSERVER - Xhostserver, LLC, US
 394282	TESTOUTCORP - TestOut Corporation, US
 394283	BEACON-HEALTH-SYSTEM - Beacon Health System, Inc., US
@@ -84509,7 +84504,6 @@
 394294	OTC-AS - Oriental Trading Company, Inc., US
 394295	MOLNII - Federal Hill Solutions, US
 394296	ACCELLION - Accellion, Inc., US
-394297	-Reserved AS-, ZZ
 394298	US-SC-DAL-AS - Globetouch Inc, US
 394299	ELLIOTT-ELECTRIC - Elliott Electric Supply Inc., US
 394300	TAB-BANK - TAB Bank, US
@@ -85279,6 +85273,7 @@
 395064	DOUGLASCOLLEGE - Douglas College, CA
 395065	HBUHSD - Huntington Beach Union High School District, US
 395066	DIGITAL-TECHNOLOGY-GROUP - Digital Technology Group, LLC, US
+395067	BRFBR-ARL - B. RILEY FBR, INC., US
 395068	MCHENRYCOUNTYCOLLEGEASN - McHenry County College District 528, US
 395069	IBC-SA-TESORO - International Bank of Commerce, US
 395070	ALLSOUTH-INTERNET - AllSouth Federal Credit Union, US
@@ -85346,6 +85341,7 @@
 395132	MWCU - Meriwest Credit Union, US
 395133	MEDQUEST - MedQuest Associates, Inc., US
 395134	CITYOFDAVIS - City of Davis, US
+395135	BTI-COMMUNICATIONS - BTI Communications, US
 395136	TJMNYC - The Jewish Museum, US
 395137	EPC-55-ASN - Edgewell Personal Care Brands, LLC, US
 395138	ARHL-AS-01 - Argus Radiology Holdings, LLC, US
@@ -85410,6 +85406,7 @@
 395197	AARONS - Aaron's, Inc, US
 395198	BANQUE-NATIONALE-DU-CANADA - Banque Nationale du Canada, CA
 395199	C7BLUFF - Castle & Cooke Mortgage, LLC, US
+395200	SSQ-ASSURANCE - SSQ, Societe d'assurance-vie inc., CA
 395201	UDT - United Data Technologies, Inc., US
 395202	BRADFORD-COUNTY-FLORIDA - Bradford County Board of County Commissioners, US
 395203	SCHOOLCRAFTDEVELOPMENTAUTHORITY - Schoolcraft Development Authority, Inc, US
@@ -85438,12 +85435,14 @@
 395226	SACRAMENTO-COE - Sacramento County Office of Education, US
 395227	CLAYTON - CMH Services Inc., US
 395228	ADIENT - Adient US LLC, US
+395229	TEMPLE-COLLEGE-TX - Temple College, US
 395230	ABM-IND-DR - ABM Industries, US
 395231	AEROHIVE - Aerohive Networks, Inc., US
 395232	NEAXCOMM-NY - Nexacomm, LLC, US
 395233	NMEDIA1047 - Nmedia Solutions Inc, CA
 395234	ANESTHESIALLC - ANESTHESIA BUSINESS CONSULTANTS LLC, US
 395235	STEGH-AS - St. Thomas-Elgin General Hospital, CA
+395236	STARTELCO - Star Communications, US
 395237	CENTRIC-INTERNET-SERVICES - Centric Internet Services Corporation, US
 395238	BRAZOSPORTISD-01 - Brazosport Independent School District, US
 395239	CREDITSIGHTS-NJ - CreditSights, Inc, US
