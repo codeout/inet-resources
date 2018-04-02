@@ -7064,7 +7064,7 @@
 7223	CSRLINK - CSRLink, Inc., US
 7224	AMAZON-AS - Amazon.com, Inc., US
 7225	GLOBALNETCORP - Global Net Corporation, US
-7226	DATA393-ASN2 - Latisys-Denver, LLC, US
+7226	ZCOLO-ATL01 - Latisys-Denver, LLC, US
 7227	KPMGL-AS - KPMG LLP, US
 7228	AS-PAETEC-NET - PaeTec Communications, Inc., US
 7229	GLOBAL-ONE-RESTON - Global One Communications L.L.C., US
@@ -22633,7 +22633,7 @@
 23773	EKZM EKZM co.,ltd., JP
 23774	A-DNS-JP Japan Registry Service Co., Ltd., JP
 23775	TAMATELE-NET Tamashima TV Inc., JP
-23776	NEXS NEC Nexsolutions,Ltd., JP
+23776	NEC NEC Corporation, JP
 23777	VIPALETTE NTT BUSINESS SOLUTIONS CORPORATION, JP
 23778	CANET IMIZU CABLE NETWORK CO.,LTD., JP
 23779	N-BONE NTT Communications Corporation, JP
@@ -24488,7 +24488,7 @@
 25861	NDEVIX - nDeviX, US
 25862	TRADEONEAS2 - TRADEONE MARKETING, INC, US
 25863	HUNTERENG - Hunter Engineering Company, US
-25864	INTELENET-ALT - Latisys-Irvine, LLC, US
+25864	ZAYO-CLOUD-TOR01 - Latisys-Irvine, LLC, US
 25865	PINNA-86 - Pinnacle Telecom, LLC., US
 25866	ND-K12-I2 - State of North Dakota, ITD, US
 25867	INTRIA-HP-CORP - HEWLETT PACKARD ENTERPRISE COMPANY, US
@@ -30436,7 +30436,7 @@
 32258	SDNGLOBAL - SDN Global, US
 32259	AREA-EDUCATION-AGENCY-267 - Area Education Agency 267, US
 32260	ASN-HCPI - Health Care Property Investors, Inc., US
-32261	OCTO - Flowroute, US
+32261	SUBSPACE - subspace, US
 32262	I-NET-AS - Industry I-Net, Inc., US
 32263	CATALYST-REPOSITORY-SYSTEMS-US - Catalyst Repository Systems, Inc., US
 32264	KMTELECOM - KMTelecom, US
@@ -62846,6 +62846,8 @@
 131612	CHT-IDC Internet Dept., Data Communication Group of CHT Ltd., TW
 131613	SHINCHENG-AS-TW Shin Cheng of Digital Co., Ltd., TW
 131614	TAIWANMOBILE-AS Taiwan Mobile Co., Ltd., TW
+131615	CHIEFCLOUDSAAS-AS-TW Chief Telecom Inc., TW
+131616	CHIEFCLOUDHEALTH-AS-TW Chief Telecom Inc., TW
 131684	UNIVERSALCONNECTIONSTECHNOLOGIES-AS-AP Universal Connections Technologies (M) Sdn. Bhd., MY
 131685	SUN-HK Sun Network (Hong Kong) Limited, HK
 131686	CCN-AS-AP MD. Khurshid Alom t/a Computer Complex Network, BD
@@ -67227,6 +67229,7 @@
 136434	DCOMMBD-AS-AP Digital Communication, BD
 136435	SILICONNET-AS-AP Muhammad Manzur Iqbal T/A SILICON NET, BD
 136436	CIGNA-AS-AP CIGNA LIFE INSURANCE NEW ZEALAND LIMITED, NZ
+136437	TRANSUNION-AS-AP TransUnion Global Technology Center LLP, IN
 136438	ADDANETWORK-AS-AP Husnul Bari t/a Adda Network, BD
 136439	CAT-AS-AP Cat Networks K.K., JP
 136440	SASPL-AS-AP Sungard Availability Services (India) Private Limited, IN
@@ -68216,7 +68219,7 @@
 137502	NOMINET-AS-AP NOMINET UK, GB
 137503	OCCL-AS-AP One Connection company limited, MM
 137504	KIMBERLYCLARK-AS-AP Kimberly-Clark Corporation, IN
-137505	E-CELL-AS-AP Mohammad Shah Iqbal, BD
+137505	E-CELL-AS-AP E-CELL, BD
 137506	CMC-DC2-AS-AP CMC MARKETS ASIA PACIFIC PTY LTD, AU
 137507	OPENTEXT-AS-AP-PH-MAN OpenText ( Philippines), Inc., PH
 137508	STARS-AS-AP Oriental Star Network Limited, HK
@@ -79872,7 +79875,7 @@
 264422	DIGITAL WAVE DE MERITI PROVEDOR DE INTERNET LTDA, BR
 264423	Departamento de Trânsito do Estado do Pará, BR
 264424	Enormity Brasil Tecnologia Ltda, BR
-264425	SARA DE FATIMA DIOGO GOMES ME, BR
+264425	VASTELECOM E INFORMATICA LTDA ME, BR
 264426	VM Provedora de Internet Ltda Me, BR
 264427	FUNDAÇÃO INSTITUTO NACIONAL DE TELECOMUNICAÇÕES, BR
 264428	GTEC NET INFORMATICA LTDA ME, BR
@@ -83419,6 +83422,9 @@
 328297	Qcell-AS, SL
 328298	Duara-AS, KE
 328299	Attijariwafa-AS, EG
+328300	Malawi-Bank-AS, MW
+328301	Messagelabs-AS, KE
+328302	Cloudone-AS, KE
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -83467,6 +83473,7 @@
 393251	FRANCIS-MARION-UNIVERSITY - Francis Marion University, US
 393252	MCCARTHY-HOLDINGS-INC - McCarthy Holdings Inc., US
 393253	NATIONAL-POWERSPORT-AUCTIONS - NATIONAL POWERSPORT AUCTIONS, US
+393254	MEHEALTH-WEST - Franklin Memorial Hospital, US
 393255	AS-SAFETY-INSURANCE2 - Safety Insurance Company, US
 393256	DTE-ASN - DTE Energy Company, US
 393257	LAWREN-1 - Lawrence University, US
@@ -83523,6 +83530,7 @@
 393308	IA-CIC-AS - City of Iowa City, US
 393309	BAYNETAS - Bay District Schools, US
 393310	ARMC - Anderson Regional Medical Center, US
+393311	PCF-201803 - Loblaw Companies Limited, CA
 393312	TFX-ASN - TELEFLEX INCORPORATED, US
 393313	IIR-ARIN - THE INSTITUTE FOR INTERGOVERNMENTAL RESEARCH, INC., US
 393314	UPONOR-NAWAV-1 - Uponor, Inc., US
@@ -83718,6 +83726,7 @@
 393504	XNSTG - XNS Technology Group Inc., CA
 393505	CENTRACU - Centra Credit Union, US
 393506	MYCOMUS-AS - MY.COM US, INC., US
+393507	GUSHISYS - Gush I Systems, US
 393508	VALLEYINTERNET - PERSONAL NETWORK COMPUTING, US
 393509	INCAP-HOLD-LLC - Incapital Holdings LLC, US
 393510	SFHSH-ASNUMBER - St Francis Healthcare System of Hawaii, US
@@ -83985,7 +83994,7 @@
 393772	GCECD - GalCo911, US
 393773	OPOWER - Oracle Corporation, US
 393774	NNB-ASN - Nicolet National Bank, US
-393775	IPP-AS-393775 - IP Pathways, LLC, US
+393775	IPP-AS-DSM1 - IP Pathways, LLC, US
 393776	BSTG - Braxton Technologies, LLC, US
 393777	DIGIARCH - State of WA Secretary of State, US
 393778	GSIC-4 - Radial, Inc., US
@@ -84057,6 +84066,7 @@
 393844	PINE-NET - Pine Telephone Company, US
 393845	CARBON60-TOR2 - Carbon60 Networks, Inc, CA
 393846	UNGGOY - Unggoy Broadband LLC, US
+393847	AAMC-AS1 - Association of American Medical Colleges, US
 393848	IKEA-NA-AS - IKEA North America Services, LLC, US
 393849	PALOS-GARZA - Palos Garza Forwarding, LLC, US
 393850	CLEVERSAFE - CLEVERSAFE, US
@@ -84431,6 +84441,7 @@
 394219	MRESORT - The M Resort Spa Casino, US
 394220	AMWAYCENTER - Orlando Venues, US
 394221	COVESTRO-US-ASN - Covestro LLC, US
+394222	REALLY - Really Really, Inc., US
 394223	BUFFALOCONNECT - M&T BANK CORPORATION, US
 394224	PROGRESSIVEHEALTHSYSTEMS - Progressive Health Systems, US
 394225	GRAND-ASN - Grand Telephone Company, Inc., US
@@ -84488,6 +84499,7 @@
 394277	ASTRAL-INTERNET - Astral internet Inc., CA
 394278	VSE-COLO - Starwood Vacation Ownership, US
 394279	QUICKPACKET-2 - QuickPacket, LLC, US
+394280	INTEGRATED-NETWORK-CONCEPTS - Integrated Network Concepts, US
 394281	XHOSTSERVER - Xhostserver, LLC, US
 394282	TESTOUTCORP - TestOut Corporation, US
 394283	BEACON-HEALTH-SYSTEM - Beacon Health System, Inc., US
@@ -84504,6 +84516,7 @@
 394294	OTC-AS - Oriental Trading Company, Inc., US
 394295	MOLNII - Federal Hill Solutions, US
 394296	ACCELLION - Accellion, Inc., US
+394297	IPP-AS-OMA1 - IP Pathways, LLC, US
 394298	US-SC-DAL-AS - Globetouch Inc, US
 394299	ELLIOTT-ELECTRIC - Elliott Electric Supply Inc., US
 394300	TAB-BANK - TAB Bank, US
@@ -85074,7 +85087,7 @@
 394865	CHESAPEAKE-BAY-COMMUNICATIONS-LLC - Chesapeake Bay Communications, LLC, US
 394866	CORNERSTONE-HOME-LENDING-INC - Cornerstone Home Lending, Inc., US
 394867	KONSULTEK-NETWORK-SERVICES - Konsultek, US
-394868	LOOP-INTERNET - NEPA Fiber, US
+394868	LOOP-INTERNET - Loop Internet, US
 394869	APNC - Asia Pacific Network Corporation, US
 394870	ASSURITY - Assurity Group Inc, US
 394871	TELI - teli Communications, LLC, US
