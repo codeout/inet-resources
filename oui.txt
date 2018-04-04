@@ -29711,6 +29711,12 @@ EC58EA     (base 16)		Ruckus Wireless
 				Nagaokakyo-shi  Kyoto  617-8555
 				JP
 
+B0-B8-67   (hex)		Hewlett Packard Enterprise
+B0B867     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -58991,9 +58997,6 @@ E0BAB4     (base 16)		Arrcus, Inc
 				Wuhan  Hubei  430074
 				CN
 
-CC-3A-DF   (hex)		Private
-CC3ADF     (base 16)		Private
-
 60-4B-AA   (hex)		Private
 604BAA     (base 16)		Private
 
@@ -59425,6 +59428,15 @@ E4D124     (base 16)		 Mojo Networks, Inc.
 				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
 				Chongqing  Chongqing  401332
 				CN
+
+40-31-3C   (hex)		XIAOMI Electronics,CO.,LTD
+40313C     (base 16)		XIAOMI Electronics,CO.,LTD
+				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
+				Beijing  Beijing  100085
+				CN
+
+CC-3A-DF   (hex)		Private
+CC3ADF     (base 16)		Private
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -88561,6 +88573,12 @@ E0735F     (base 16)		NUCOM
 				Arte, 21,5B
 				Madrid  Madrid  28033
 				ES
+
+40-DC-9D   (hex)		HAJEN
+40DC9D     (base 16)		HAJEN
+				102-1302, Sinwon-ro 88, Yeongtong-gu
+				Suwon-Si  Gyeonggi-do  16681
+				KR
 
 B8-7C-6F   (hex)		NXP (China) Management Ltd.
 B87C6F     (base 16)		NXP (China) Management Ltd.
@@ -147686,12 +147704,6 @@ A019B2     (base 16)		IEEE Registration Authority
 				Beijing    100084
 				CN
 
-D4-67-61   (hex)		United Gulf Gate Co.
-D46761     (base 16)		United Gulf Gate Co.
-				Office 20 - Qibla Tower
-				Qibla    0000
-				KW
-
 48-F7-C0   (hex)		Technicolor CH USA Inc.
 48F7C0     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -147920,8 +147932,26 @@ A46191     (base 16)		NamJunSa
 				SAPPORO  HOKKAIDO  060-0002
 				JP
 
+40-A1-08   (hex)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+40A108     (base 16)		Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+				No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan
+				Wuhan  Hubei  430000
+				CN
+
 C0-03-80   (hex)		Juniper Networks
 C00380     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
+				US
+
+D4-67-61   (hex)		United Gulf Gate Co.
+D46761     (base 16)		United Gulf Gate Co.
+				XonTel, Borj ALadel Tower, Fahad Al-Salem St Fl 21
+				Kuwait    0000
+				KW
+
+98-03-9B   (hex)		Mellanox Technologies, Inc.
+98039B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
 				US
