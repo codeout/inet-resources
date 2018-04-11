@@ -2249,12 +2249,6 @@ F42853     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
 				Shenzhen  Guangdong  518000
 				CN
 
-F0-76-1C   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-F0761C     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
-
 F4-28-33   (hex)		MMPC Inc.
 F42833     (base 16)		MMPC Inc.
 				#F313, KAIST-ICC, 193 Munjiro Yuseong-gu
@@ -2856,12 +2850,6 @@ CC3429     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 9C039E     (base 16)		Beijing Winchannel Software Technology Co., Ltd
 				8F, Block E, Dazhongsi Zhongkun Plaza No. A
 				Haidian District  BEIJING  100089
-				CN
-
-F8-A9-63   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-F8A963     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
 				CN
 
 48-A2-B7   (hex)		Kodofon JSC
@@ -21404,23 +21392,11 @@ C4282D     (base 16)		Embedded Intellect Pty Ltd
 				CEDEX  Paris  75512
 				FR
 
-B8-70-F4   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-B870F4     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU  215300
-				CN
-
 00-0F-B0   (hex)		COMPAL ELECTRONICS, INC.
 000FB0     (base 16)		COMPAL ELECTRONICS, INC.
 				581 Juikuang Road,Neihu,
 				Taipei    114
 				TW
-
-1C-75-08   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-1C7508     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU   215300 
-				CN
 
 38-29-DD   (hex)		ONvocal Inc
 3829DD     (base 16)		ONvocal Inc
@@ -29729,11 +29705,47 @@ FCB10D     (base 16)		Shenzhen Tian Kun Technology Co.,LTD.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+88-DF-9E   (hex)		New H3C Technologies Co., Ltd
+88DF9E     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+2C-7C-E4   (hex)		Wuhan Tianyu Information Industry Co., Ltd.
+2C7CE4     (base 16)		Wuhan Tianyu Information Industry Co., Ltd.
+				HUST Industry Park, East-Lake Development Zone
+				Wuhan  Hubei  430223
+				CN
+
 34-27-92   (hex)		FREEBOX SAS
 342792     (base 16)		FREEBOX SAS
 				16 rue de la Ville l'Eveque
 				PARIS  IdF  75008
 				FR
+
+F8-A9-63   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+F8A963     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+B8-70-F4   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+B870F4     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
+				CN
+
+1C-75-08   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+1C7508     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU   215300 
+				CN
+
+F0-76-1C   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+F0761C     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -34030,12 +34042,6 @@ B86091     (base 16)		Onnet Technologies and Innovations LLC
 				1, 82/83 Street, New Industrial Area -II
 				Ajman  Ajman  52141
 				AE
-
-20-1A-06   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-201A06     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
 
 D4-CA-6E   (hex)		u-blox AG
 D4CA6E     (base 16)		u-blox AG
@@ -51194,42 +51200,6 @@ C05627     (base 16)		Belkin International Inc.
 				RUEIL MALMAISON CEDEX  Hauts de Seine  92848
 				FR
 
-B8-88-E3   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-B888E3     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu, 
-				KUNSHAN   SUZHOU  215300
-				CN
-
-00-26-22   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-002622     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
-
-00-1E-EC   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-001EEC     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD Street
-				KUNSHAN CITY  SUZHOU PROVINCE  215300
-				CN
-
-DC-0E-A1   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-DC0EA1     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu, 
-				KUNSHAN   SUZHOU  215300
-				CN
-
-FC-45-96   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-FC4596     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				 NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON
-				KUNSHAN  SUZHOU  215300
-				CN
-
-20-89-84   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-208984     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone
-				KUNSHAN   SUZHOU   215300 
-				CN
-
 24-7C-4C   (hex)		Herman Miller
 247C4C     (base 16)		Herman Miller
 				Unit 2, 2/F The Factory, 1 Yip Fat Street
@@ -59090,17 +59060,17 @@ D8F3DB     (base 16)		Post CH AG
 				Framingham  MA  01701-9168
 				US
 
-3C-F4-F9   (hex)		Moda-InnoChips
-3CF4F9     (base 16)		Moda-InnoChips
-				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
-				Ansan-si   Gyeonggi-Do  15433
-				KR
-
 30-88-41   (hex)		Sichuan AI-Link Technology Co., Ltd.
 308841     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 				Anzhou,Industrial Park
 				Anzhou,Industrial Park  Sichuan  621000
 				CN
+
+80-50-F6   (hex)		ITEL MOBILE LIMITED
+8050F6     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
 
 0C-01-DB   (hex)		Infinix mobility limited
 0C01DB     (base 16)		Infinix mobility limited
@@ -59108,11 +59078,11 @@ D8F3DB     (base 16)		Post CH AG
 				HongKong  HongKong  999077
 				HK
 
-80-50-F6   (hex)		ITEL MOBILE LIMITED
-8050F6     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
+3C-F4-F9   (hex)		Moda-InnoChips
+3CF4F9     (base 16)		Moda-InnoChips
+				42-7(Wonsi-Dong),Dongsan-ro 27beon-gil,Danwon-gu
+				Ansan-si   Gyeonggi-Do  15433
+				KR
 
 40-1B-5F   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 401B5F     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
@@ -59210,11 +59180,11 @@ A4DA32     (base 16)		Texas Instruments
 				Miao-Lih Hsuan    115
 				TW
 
-B0-18-86   (hex)		SmarDTV
-B01886     (base 16)		SmarDTV
-				Route de Genève 22
-				Cheseaux    CH-1033 
-				CH
+8C-04-FF   (hex)		Technicolor CH USA Inc.
+8C04FF     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 FC-91-14   (hex)		Technicolor CH USA Inc.
 FC9114     (base 16)		Technicolor CH USA Inc.
@@ -59240,6 +59210,12 @@ B42A0E     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
+B0-18-86   (hex)		SmarDTV
+B01886     (base 16)		SmarDTV
+				Route de Genève 22
+				Cheseaux    CH-1033 
+				CH
+
 08-95-2A   (hex)		Technicolor CH USA Inc.
 08952A     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -59252,23 +59228,17 @@ B42A0E     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
-8C-04-FF   (hex)		Technicolor CH USA Inc.
-8C04FF     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
+30-24-32   (hex)		Intel Corporate
+302432     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 A8-99-69   (hex)		Dell Inc.
 A89969     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
-
-30-24-32   (hex)		Intel Corporate
-302432     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
 
 88-01-18   (hex)		BLT Co
 880118     (base 16)		BLT Co
@@ -59306,24 +59276,6 @@ C43ABE     (base 16)		Sony Mobile Communications Inc
 				Shinagawa-ku  Tokyo  140-0002
 				JP
 
-94-CE-2C   (hex)		Sony Mobile Communications Inc
-94CE2C     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-D0-51-62   (hex)		Sony Mobile Communications Inc
-D05162     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-00-16-20   (hex)		Sony Mobile Communications Inc
-001620     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
 84-C7-EA   (hex)		Sony Mobile Communications Inc
 84C7EA     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
@@ -59348,6 +59300,18 @@ D05162     (base 16)		Sony Mobile Communications Inc
 				Mountain View  CA  94043
 				US
 
+94-CE-2C   (hex)		Sony Mobile Communications Inc
+94CE2C     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+D0-51-62   (hex)		Sony Mobile Communications Inc
+D05162     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
 00-25-E7   (hex)		Sony Mobile Communications Inc
 0025E7     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
@@ -59356,12 +59320,6 @@ D05162     (base 16)		Sony Mobile Communications Inc
 
 40-2B-A1   (hex)		Sony Mobile Communications Inc
 402BA1     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-00-12-EE   (hex)		Sony Mobile Communications Inc
-0012EE     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
 				Shinagawa-ku  Tokyo  140-0002
 				JP
@@ -59377,6 +59335,18 @@ D05162     (base 16)		Sony Mobile Communications Inc
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+00-12-EE   (hex)		Sony Mobile Communications Inc
+0012EE     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+00-16-20   (hex)		Sony Mobile Communications Inc
+001620     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
 
 28-9E-97   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 289E97     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -59466,6 +59436,54 @@ E0-62-67   (hex)		Xiaomi Communications Co Ltd
 E06267     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+20-1A-06   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+201A06     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+B8-88-E3   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+B888E3     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu, 
+				KUNSHAN   SUZHOU  215300
+				CN
+
+00-26-22   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+002622     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+00-1E-EC   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+001EEC     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street
+				KUNSHAN CITY  SUZHOU PROVINCE  215300
+				CN
+
+DC-0E-A1   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+DC0EA1     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu, 
+				KUNSHAN   SUZHOU  215300
+				CN
+
+FC-45-96   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+FC4596     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				 NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZON
+				KUNSHAN  SUZHOU  215300
+				CN
+
+20-89-84   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+208984     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone
+				KUNSHAN   SUZHOU   215300 
+				CN
+
+58-03-FB   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+5803FB     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road
+				Hangzhou  Zhejiang  310052
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -80249,18 +80267,6 @@ A01B29     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  Hauts de Seine  92848
 				FR
 
-00-23-5A   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-00235A     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO 25, The 3rd street,
-				KuanShan  SUZHOU  215300
-				CN
-
-00-1B-38   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-001B38     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD AVENUE
-				KUNSHAN CITY  SUZHOU PROVINCE  215300
-				CN
-
 E4-6F-13   (hex)		D-Link International
 E46F13     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
@@ -88628,6 +88634,18 @@ A0D635     (base 16)		WBS Technology
 				München    80799
 				DE
 
+00-23-5A   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+00235A     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO 25, The 3rd street,
+				KuanShan  SUZHOU  215300
+				CN
+
+00-1B-38   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+001B38     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD AVENUE
+				KUNSHAN CITY  SUZHOU PROVINCE  215300
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -90301,12 +90319,6 @@ E48501     (base 16)		Geberit International AG
 				Schachenstrasse 77
 				Jona  SG  8645
 				CH
-
-1C-39-47   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-1C3947     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
 
 2C-AD-13   (hex)		SHENZHEN ZHILU TECHNOLOGY CO.,LTD
 2CAD13     (base 16)		SHENZHEN ZHILU TECHNOLOGY CO.,LTD
@@ -118250,6 +118262,18 @@ F0BCC9     (base 16)		PFU LIMITED
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+C0-D0-FF   (hex)		China Mobile IOT Company Limited
+C0D0FF     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area Chongqing,China
+				Chongqing  Chongqing  401336
+				CN
+
+1C-39-47   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+1C3947     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -126163,12 +126187,6 @@ A05DE7     (base 16)		DIRECTV, Inc.
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-70-5A-B6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-705AB6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
 
 00-3A-9A   (hex)		Cisco Systems, Inc
 003A9A     (base 16)		Cisco Systems, Inc
@@ -140000,12 +140018,6 @@ AA0000     (base 16)		DIGITAL EQUIPMENT CORPORATION
 				Rueil Malmaison Cedex  Hauts de Seine  92848
 				FR
 
-88-AE-1D   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-88AE1D     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD.
-				NO. 25, THE 3RD STREET KUNSHAN EXPORT PROCESSING ZONE
-				KUNSHAN  SUZHOU  215300
-				CN
-
 5C-35-3B   (hex)		Compal Broadband Networks, Inc.
 5C353B     (base 16)		Compal Broadband Networks, Inc.
 				13F., No.1, Taiyuan 1st St.
@@ -147632,12 +147644,6 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				SUWON  KYUNGGI-DO  443-743
 				KR
 
-54-BF-64   (hex)		Dell Inc.
-54BF64     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 00-13-4F   (hex)		Rapidus Wireless Networks Inc.
 00134F     (base 16)		Rapidus Wireless Networks Inc.
 				47 - 14550 Morris Valley Road
@@ -147649,6 +147655,12 @@ A8CAB9     (base 16)		SAMSUNG ELECTRO MECHANICS CO., LTD.
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
+
+54-BF-64   (hex)		Dell Inc.
+54BF64     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 78-81-02   (hex)		Sercomm Corporation.
 788102     (base 16)		Sercomm Corporation.
@@ -147686,17 +147698,17 @@ C493D9     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-48-8A-D2   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-488AD2     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
-				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
 48-6D-BB   (hex)		Vestel Elektronik San ve Tic. A.Ş.
 486DBB     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
 				Organize san
 				Manisa  Turket  45030
 				TR
+
+48-8A-D2   (hex)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+488AD2     (base 16)		MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.
+				Mid-Fourth Flr.,Building 28,Cui Xi Fourth Road,Ke Yuan West,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
 
 70-54-B4   (hex)		Vestel Elektronik San ve Tic. A.Ş.
 7054B4     (base 16)		Vestel Elektronik San ve Tic. A.Ş.
@@ -147716,18 +147728,6 @@ CC7B61     (base 16)		NIKKISO CO., LTD.
 				Shibuya-ku  Tokyo  150-6022
 				JP
 
-78-04-73   (hex)		Texas Instruments
-780473     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
-4C-3F-D3   (hex)		Texas Instruments
-4C3FD3     (base 16)		Texas Instruments
-				12500 TI Blvd
-				Dallas  TX  75243
-				US
-
 CC-50-E3   (hex)		Espressif Inc.
 CC50E3     (base 16)		Espressif Inc.
 				Room 204, Building 2, 690 Bibo Road, Pudong New Area
@@ -147739,6 +147739,18 @@ DCAF68     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 				Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China
 				Weifang  Shandong  261205
 				CN
+
+78-04-73   (hex)		Texas Instruments
+780473     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+4C-3F-D3   (hex)		Texas Instruments
+4C3FD3     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 A0-19-B2   (hex)		IEEE Registration Authority
 A019B2     (base 16)		IEEE Registration Authority
@@ -147752,11 +147764,17 @@ A019B2     (base 16)		IEEE Registration Authority
 				Beijing    100084
 				CN
 
-D4-69-A5   (hex)		Miura Systems Ltd.
-D469A5     (base 16)		Miura Systems Ltd.
-				Axis 40, Oxford Road, Stokenchurch
-				High Wycombe  Buckinghamshire  HP143SX
-				GB
+48-F7-C0   (hex)		Technicolor CH USA Inc.
+48F7C0     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+0C-02-27   (hex)		Technicolor CH USA Inc.
+0C0227     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 60-3D-26   (hex)		Technicolor CH USA Inc.
 603D26     (base 16)		Technicolor CH USA Inc.
@@ -147776,6 +147794,12 @@ D469A5     (base 16)		Miura Systems Ltd.
 				San Jose  CA  94568
 				US
 
+D4-69-A5   (hex)		Miura Systems Ltd.
+D469A5     (base 16)		Miura Systems Ltd.
+				Axis 40, Oxford Road, Stokenchurch
+				High Wycombe  Buckinghamshire  HP143SX
+				GB
+
 28-BE-9B   (hex)		Technicolor CH USA Inc.
 28BE9B     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -147790,18 +147814,6 @@ CC03FA     (base 16)		Technicolor CH USA Inc.
 
 B0-C2-87   (hex)		Technicolor CH USA Inc.
 B0C287     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-48-F7-C0   (hex)		Technicolor CH USA Inc.
-48F7C0     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-0C-02-27   (hex)		Technicolor CH USA Inc.
-0C0227     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
@@ -147830,6 +147842,24 @@ C0B6F9     (base 16)		Intel Corporate
 				St. Gallen  St. Gallen  9016
 				CH
 
+E4-1F-E9   (hex)		Dunkermotoren GmbH
+E41FE9     (base 16)		Dunkermotoren GmbH
+				Allmendstr. 11
+				Bonndorf  Baden-Württemberg  79848
+				DE
+
+B4-52-7E   (hex)		Sony Mobile Communications Inc
+B4527E     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
+44-D4-E0   (hex)		Sony Mobile Communications Inc
+44D4E0     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
+
 9C-5C-F9   (hex)		Sony Mobile Communications Inc
 9C5CF9     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
@@ -147848,11 +147878,11 @@ D4389C     (base 16)		Sony Mobile Communications Inc
 				SHENZHEN  GUANGDONG  518100
 				CN
 
-9C-5A-44   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-9C5A44     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
-				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
-				KUNSHAN  SUZHOU  215300
-				CN
+84-8E-DF   (hex)		Sony Mobile Communications Inc
+848EDF     (base 16)		Sony Mobile Communications Inc
+				4-12-3 Higashi – Shinagawa
+				Shinagawa-ku  Tokyo  140-0002
+				JP
 
 5C-B5-24   (hex)		Sony Mobile Communications Inc
 5CB524     (base 16)		Sony Mobile Communications Inc
@@ -147872,26 +147902,14 @@ D4389C     (base 16)		Sony Mobile Communications Inc
 				Shinagawa-ku  Tokyo  140-0002
 				JP
 
+9C-5A-44   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+9C5A44     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE 
+				KUNSHAN  SUZHOU  215300
+				CN
+
 8C-64-22   (hex)		Sony Mobile Communications Inc
 8C6422     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-B4-52-7E   (hex)		Sony Mobile Communications Inc
-B4527E     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-44-D4-E0   (hex)		Sony Mobile Communications Inc
-44D4E0     (base 16)		Sony Mobile Communications Inc
-				4-12-3 Higashi – Shinagawa
-				Shinagawa-ku  Tokyo  140-0002
-				JP
-
-84-8E-DF   (hex)		Sony Mobile Communications Inc
-848EDF     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
 				Shinagawa-ku  Tokyo  140-0002
 				JP
@@ -147907,12 +147925,6 @@ B4527E     (base 16)		Sony Mobile Communications Inc
 				4-12-3 Higashi – Shinagawa
 				Shinagawa-ku  Tokyo  140-0002
 				JP
-
-E4-1F-E9   (hex)		Dunkermotoren GmbH
-E41FE9     (base 16)		Dunkermotoren GmbH
-				Allmendstr. 11
-				Bonndorf  Baden-Württemberg  79848
-				DE
 
 8C-6D-77   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 8C6D77     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -148027,3 +148039,27 @@ A09351     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+88-3F-99   (hex)		Siemens AG
+883F99     (base 16)		Siemens AG
+				Werner-von-Siemens-Str. 48
+				Amberg    92224
+				DE
+
+70-5A-B6   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+705AB6     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 15, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+88-AE-1D   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+88AE1D     (base 16)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
+				NO. 25, THE 3RD STREET KUNSHAN EXPORT PROCESSING ZONE
+				KUNSHAN  SUZHOU  215300
+				CN
+
+98-BB-99   (hex)		Phicomm (Sichuan) Co.,Ltd.
+98BB99     (base 16)		Phicomm (Sichuan) Co.,Ltd.
+				125 longquan street park road,longquan district,chengdu city
+				Sichuan  Chengdu  610015
+				CN
