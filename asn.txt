@@ -8645,7 +8645,7 @@
 8990	AHRT-AS, HU
 8991	HCMR-NET, GR
 8992	-Reserved AS-, ZZ
-8995	, SE
+8995	JOGBACK, SE
 8996	, SE
 8997	ASN-SPBNIT Macro Region North-West Autonomous System, RU
 8998	TUMTTL-AS, RU
@@ -11029,7 +11029,7 @@
 11441	-Reserved AS-, ZZ
 11442	NCSU - North Carolina State University, US
 11443	OLM - OLM, LLC, US
-11444	-Reserved AS-, ZZ
+11444	ISHK-NTK - Neuteck LLC, US
 11445	ASN1-SCF - State Compensation Fund, US
 11446	LAKELAND-AS - Lakeland Community College, US
 11448	RG-FIBER - RG Fiber, LLC, US
@@ -11217,7 +11217,7 @@
 11632	ASPS-HQ-ASN01 - American Society of Plastic Surgeons, US
 11633	4LIFE-HOLDINGS-LLC - 4Life Research USA, LLC, US
 11634	HHC-AS - Hilton Hotels Corporation, US
-11635	-Reserved AS-, ZZ
+11635	AS-ENVI-1 - 1443394 Ontario Inc., CA
 11636	-Reserved AS-, ZZ
 11637	METRODATAPATH - MetroDataPath, Inc., US
 11638	IQSOL-AS1 - IQ Solutions, Inc., US
@@ -11335,7 +11335,7 @@
 11750	Interdotnet Argentina S.A., AR
 11751	INSTITUTO CYBER DE ENSINO E PESQUISA, BR
 11752	Núcleo de Inf. e Coord. do Ponto BR - NIC., BR
-11753	PA-ONLINE - Pennsylvania Online, US
+11753	NETREPID1 - Netrepid, US
 11754	GUS - GLOBAL IT, US
 11755	WAYMARKCOMM - Waymark Internet Services, Inc., US
 11756	CHLA - Children's Hospital Los Angeles, US
@@ -13023,7 +13023,7 @@
 13684	ASN-MEDTRONIC-1 - Medtronic, Incorporated, US
 13685	NEWAYS - Neways Worldwide Inc., US
 13686	BARCLAYS-CENTER - AEG, US
-13687	-Reserved AS-, ZZ
+13687	LCCN - Love City Community Network, VI
 13688	PSEG - Public Service Enterprise Group, US
 13689	BLUELINX-CORP - BlueLinx Corporation, US
 13690	AMR - American Medical Response, Inc., US
@@ -13603,7 +13603,7 @@
 14268	ASNCSL - Northern Computer Solutions Ltd., CA
 14269	VA-DMV - Virginia Department of Motor Vehicles, US
 14270	EAGLE-CA-1 - EAGLE., CA
-14271	-Reserved AS-, ZZ
+14271	AZURE-MICROSOFT-PEERING - Proconex, Inc., US
 14272	MCPC-ASN - MCPc Inc., US
 14273	ONLINE-RESOURCES - Online Resources Corporation, US
 14274	TENNESSEE-WIRELESS-LLC - TENNESSEE WIRELESS LLC, US
@@ -14119,7 +14119,7 @@
 14786	GHS - Gwinnett Hospital Systems, US
 14787	ASN1GUARD23ATTWINSTAR - Guardian Industries Corp, US
 14788	LALLY-MCFARLAND - Lally McFarland & Pantello, US
-14789	-Reserved AS-, ZZ
+14789	CLOUDFLARENET-AUS - Cloudflare, Inc., US
 14790	CAMERON - Cameron Memorial Community Hospital, US
 14791	ASN-CENTRAMEDIA-ISP - Centramedia Incorporated, US
 14792	DST-ASN - DST Systems, Inc., US
@@ -14423,7 +14423,7 @@
 15091	SHENTEL - Shentel Communications, LLC, US
 15092	STAR2STAR - Star2Star Communications, LLC, US
 15093	NEWWAVECOMM2 - New Wave Communications, US
-15094	-Reserved AS-, ZZ
+15094	SISC - SIS Consulting, CA
 15095	DEALER-DOT-COM-AS1 - Dealer Dot Com Inc., US
 15096	SONN - SONN, US
 15097	FFF-AS - FFF Enterprises, Inc, US
@@ -14532,7 +14532,6 @@
 15201	Universo Online S.A., BR
 15202	GELLER - Geller & Company LLC, US
 15203	MHMRAHC-ASN - MHMRA, US
-15204	-Reserved AS-, ZZ
 15205	NCPDAS - Nassau County Police Department, US
 15206	-Reserved AS-, ZZ
 15207	FIMC - Fairway Independent Mortgage Corporation, US
@@ -18386,7 +18385,6 @@
 19296	INFLOW19296 - Inflow Inc., US
 19297	WEATHERCITY - WeatherCity Services, CA
 19298	DEDICATED-LOGISTICS - Dedicated Logistics, Inc., US
-19299	-Reserved AS-, ZZ
 19300	KUBRA-USA - Kubra, US
 19301	CERIDIAN-TAX - CERIDIAN TAX SERVICE, INC, US
 19302	USCC-DC - US Chamber of Commerce, US
@@ -18928,7 +18926,6 @@
 19838	BLUE-WATER-NETWORKS - Blue Water Networks, US
 19839	SANDSBETHLEHEM - Sands Casino Resort Bethlehem, US
 19840	OAKTREECAP - Oaktree Capital Management, LLC, US
-19841	-Reserved AS-, ZZ
 19842	COLOSSEUM-ONL - Colosseum Online, Inc., CA
 19843	PROSPERMARKETPLACE - Prosper Marketplace, Inc, US
 19844	GORACK - GoRack LLC, US
@@ -22155,7 +22152,6 @@
 23290	ELPASO-COUNTY-GOVERNMENT-COLORADO - El Paso County, US
 23291	FLAGSTAR-BANK-US - Flagstar Bank, US
 23292	MILLENIUM-DIGITAL - Broadstripe, US
-23293	-Reserved AS-, ZZ
 23294	ULM-1 - The University of Louisiana at Monroe, US
 23295	-Reserved AS-, ZZ
 23296	LINCARE-HOLDINGS-INC - LINCARE INC, US
@@ -22390,7 +22386,6 @@
 23525	CNC-CNB - Canandaigua National Corporation, US
 23526	CARLSONCAPITAL - Carlson Capital, L.P., US
 23527	CHRISTCATHEDRALCA - Christ Catholic Cathedral Corporation, US
-23528	-Reserved AS-, ZZ
 23529	BONAPPETIT - BON APPETIT MGMT CO, US
 23530	CASECENTRAL - Guidance Software, Inc., US
 23531	SUNRISE-BANKS - Sunrise Banks, US
@@ -23434,7 +23429,6 @@
 24659	VESSO-BEL, BY
 24660	EVOZON-AS, RO
 24661	COMPLETEDATA-AS MDS Technologies Ltd - Corsham, Wiltshire UK, GB
-24662	-Reserved AS-, ZZ
 24663	COMPLAT-AS, RU
 24664	NADRA-AS, UA
 24665	SUTC-AS, RU
@@ -24321,7 +24315,7 @@
 25704	AGI - The Alexander Group, Inc, US
 25705	AMERICATEL PERU S.A., PE
 25706	INTERLINKCI-AS1 - Interlink Connectivity Inc, CA
-25707	ITECH - Pennsylvania Online, US
+25707	NETREPID2 - Netrepid, US
 25708	SNAUTO - Sonic Automotive, Inc., US
 25709	LAMARUNIV - Lamar University, US
 25710	FULL-CHANNEL - Full Channel, US
@@ -28523,7 +28517,6 @@
 30180	MEDIAGRIF - Mediagrif Interactive Technologies Inc., CA
 30181	QHG - Intuit Inc., US
 30182	WJ-AS1 - Wyndham Jade, L.P., US
-30183	-Reserved AS-, ZZ
 30184	RESI-BGP1 - RESI, US
 30185	-Reserved AS-, ZZ
 30186	CLOUD-SYNCINC - Cloud Sync Inc, US
@@ -30400,7 +30393,6 @@
 32239	INTERACTIVECARE - InteractiveCare, LLC, US
 32240	USA-TRUCK-USAK - USA Truck Inc, US
 32241	ACPANA - Acpana Business Systems Inc., CA
-32242	-Reserved AS-, ZZ
 32243	ATI-ASN - ATI, US
 32244	LIQUIDWEB - Liquid Web, L.L.C, US
 32245	-Reserved AS-, ZZ
@@ -37894,7 +37886,6 @@
 40375	MELLON-EXTRANET-A - Mellon Bank, US
 40376	MELLON-EXTRANET-B - Mellon Bank, US
 40377	DUNCOM - DUNKLIN COMMUNICATIONS LLC, US
-40378	-Reserved AS-, ZZ
 40379	PIO-1846 - Carroll College, US
 40380	SIERRATRADINGPOST - SIERRA TRADING POST, Inc., US
 40381	KLWINES - BBCK ENTERPRISES, US
@@ -51081,7 +51072,6 @@
 53755	IOFLOOD - Input Output Flood LLC, US
 53756	AS-PROSPECTION-QC - Prospection Inc., CA
 53757	UNILINK - Unilink Networks Inc., CA
-53758	-Reserved AS-, ZZ
 53759	VND - Visual Net Design LC, US
 53760	XT-NEWORLEANS - Xenir, LLC, US
 53761	LFUSA - LF USA Inc., US
@@ -51143,7 +51133,6 @@
 53817	WOWACCESS - WOW Access, US
 53818	MDUPRO - MDU Pro LLC, US
 53819	PICTOMETRY-1 - PICTOMETRY INTERNATIONAL CORP., US
-53820	-Reserved AS-, ZZ
 53821	CPS-TAM-DTINET - Chase Paymentech Solutions, LLC, US
 53822	MDX-MEDICAL - MDx Medical, US
 53823	SMTA - Scio Mutual Telephone Association, US
@@ -51608,7 +51597,6 @@
 54282	JJINTEROP - Johnson & Johnson, US
 54283	FCU-IN - FORUM Credit Union, US
 54284	GIGSKY - GigSky Mobile LLC, US
-54285	-Reserved AS-, ZZ
 54286	FLEXI-VAN - Flexi-Van Leasing, Inc., US
 54287	ASXCIE-SJC - Axcient, Inc, US
 54288	SOLIDTOOLSINC - SolidTools Technology, Inc., US
@@ -51659,7 +51647,6 @@
 54333	-Reserved AS-, ZZ
 54334	ROYA - Roya Hosting LLC, US
 54335	XGRID - Xgrid Inc, US
-54336	-Reserved AS-, ZZ
 54337	BW-LYNVA - BWX Technologies, Inc., US
 54338	SREB-FAILOVER-AS - Southern Regional Education Board, US
 54339	FEDHEATH - Federal Heath Sign Company, LLC, US
@@ -51897,7 +51884,7 @@
 54571	COOLEY - Cooley LLP, US
 54572	AS-ASN-2 - Nasdaq, Inc., US
 54573	GTECH-PRODUCTION - GTECH Corporation, US
-54574	DMIT-INC - DMIT Inc., US
+54574	DMIT-CLOUD-SOLUTIONS - DMIT Inc., US
 54575	SUKUT-ASN - SUKUT CONSTRUCTION, INC, US
 54576	THREE-BRIDGES-CAPITAL - Three Bridges Capital, LP., US
 54577	NEXTGENHEALTH - NextGen Healthcare Information Systems, LLC., US
@@ -52046,7 +52033,6 @@
 54720	GIPN-TIER2 - Global IP Networks INC, US
 54721	AS-NGEN - NGEN Networks, LLC, US
 54722	BMOS - Museum of Science, US
-54723	-Reserved AS-, ZZ
 54724	EGSCF151LAWRENCE - Edwin Gould Services For Children and Families, US
 54725	ITC-CLOUD-HOSTING - Transitional LLC, US
 54726	AET - AET Hosting Solutions, Inc., US
@@ -52413,7 +52399,6 @@
 55087	BRAZOS-ASN-1 - Brazos County, US
 55088	AI-ASN - Adviser Investments LLC, US
 55089	SC-ASN - THE SEGERDAHL CORP., US
-55090	-Reserved AS-, ZZ
 55091	LAYER-3-COMMUNICATIONS - Layer 3 Communications, US
 55092	SANSUM-CLINIC - Sansum Santa Barbara Medical Foundation Clinic, US
 55093	ACSMI - Advance Central Services Michigan, US
@@ -60293,7 +60278,7 @@
 63259	WCAPITAL - W Capital Management, LLC, US
 63260	GRUSS-ASN - GCM NYO, LLC, US
 63261	GHCO-DCA - Graham Holdings Company, US
-63262	-Reserved AS-, ZZ
+63262	HOSTAWARE - Univera Network, US
 63263	RETS-NA-GCC - RELX inc., US
 63264	ACW-ASN - Alternative Choice Wireless, LLC, US
 63265	BTMU-AMERICA-MUFG - The Bank of Tokyo-Mitsubishi UFJ, US
@@ -61049,7 +61034,7 @@
 64209	LBVCO-1 - Lake Buena Vista LBV Company, US
 64210	ALTERA-ASN - Altera Corporation, US
 64211	ALL-POINTS-BROADBAND-4 - All Points Broadband, US
-64212	ADVANTAGE-SALES-AND-MARKETING - Advantage Sales & Marketing LLC, US
+64212	ADVANTAGE - Advantage Sales & Marketing LLC, US
 64213	ELITE-IX - eLIT Exchange, US
 64214	MEGAPORTUSAINC-ORDIX-US - Megaport (USA) Inc., US
 64215	MEGAPORTUSAINC-SFOIX-US - Megaport (USA) Inc., US
@@ -74643,7 +74628,7 @@
 204182	AWV-TELEMATICA, BE
 204183	ORC-UK, GB
 204184	PTROMANIA, RO
-204185	STARCLOUD-AS, CH
+204185	STARCLOUD-AS StarCloud global network powered by high-end Arduino BGP routers, CH
 204186	KRASNOGOR-AS, RU
 204187	MOSMOG-AS, RU
 204188	AS-ITSG, DE
@@ -83576,6 +83561,7 @@
 328303	INETCOM-AS, GH
 328304	WAKA-AS, GA
 328305	Yappingo-AS, NG
+328306	Avanti-AS, ZA
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
