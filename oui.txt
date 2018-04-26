@@ -59624,6 +59624,12 @@ C46E7B     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
 				Malmö  Skåne  21375
 				SE
 
+70-4F-08   (hex)		Shenzhen Huisheng Information Technology Co., Ltd.
+704F08     (base 16)		Shenzhen Huisheng Information Technology Co., Ltd.
+				 Room 4A-205, Software Industry Base, Yuehai St
+				Nanshan District, Shenzhen  Guangdong  518000
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -118556,11 +118562,17 @@ C048FB     (base 16)		Shenzhen JingHanDa Electronics Co.Ltd
 				shenzhen  guangdong  518057
 				CN
 
-E8-B5-41   (hex)		zte corporation
-E8B541     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
+6C-F9-D2   (hex)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
+6CF9D2     (base 16)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
+				High - West West West Center Road on the 4th
+				 Chengdu   Sichuan  611731
 				CN
+
+78-52-4A   (hex)		Ensenso GmbH
+78524A     (base 16)		Ensenso GmbH
+				Gundelfingerstr. 2
+				Freiburg    79108
+				DE
 
 94-C3-E4   (hex)		Atlas Copco IAS GmbH
 94C3E4     (base 16)		Atlas Copco IAS GmbH
@@ -118574,16 +118586,16 @@ E8B541     (base 16)		zte corporation
 				Taoyuan   Taiwan   32455
 				TW
 
-6C-F9-D2   (hex)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
-6CF9D2     (base 16)		CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD
-				High - West West West Center Road on the 4th
-				 Chengdu   Sichuan  611731
+E8-B5-41   (hex)		zte corporation
+E8B541     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
 				CN
 
-78-52-4A   (hex)		Ensenso GmbH
-78524A     (base 16)		Ensenso GmbH
-				Gundelfingerstr. 2
-				Freiburg    79108
+E0-AF-4F   (hex)		Deutsche Telekom AG
+E0AF4F     (base 16)		Deutsche Telekom AG
+				Friedrich-Ebert-Allee 140
+				Bonn    53113
 				DE
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -148423,3 +148435,9 @@ F8369B     (base 16)		Texas Instruments
 				Sumitomo Fudosan Shinjuku Grand Tower 31F,8-17-1
 				Nishi-shinjuku,Shinjuku-ku  Tokyo  160-6131
 				JP
+
+E8-A7-88   (hex)		XIAMEN LEELEN TECHNOLOGY CO., LTD
+E8A788     (base 16)		XIAMEN LEELEN TECHNOLOGY CO., LTD
+				65 Sunban South Rd., Jimei North Industrial Zone, 
+				Xiamen   Fujian  361021
+				CN
