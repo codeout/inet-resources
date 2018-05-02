@@ -29825,17 +29825,17 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
-88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
-889F6F     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 00-90-93   (hex)		EIZO Corporation
 009093     (base 16)		EIZO Corporation
 				153 Shimokashiwano
 				Hakusan  Ishikawa  924-8856
 				JP
+
+88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
+889F6F     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -59684,6 +59684,18 @@ F09FFC     (base 16)		SHARP Corporation
 				Pompano Beach  FL  33064
 				US
 
+58-2F-40   (hex)		Nintendo Co.,Ltd
+582F40     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+14-37-19   (hex)		PT Prakarsa Visi Valutama
+143719     (base 16)		PT Prakarsa Visi Valutama
+				Jl. Cideng Timur No.11D
+				Jakarta Pusat  Indonesia  10130
+				ID
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -68955,12 +68967,6 @@ A893E6     (base 16)		JIANGXI JINGGANGSHAN CKING COMMUNICATION TECHNOLOGY CO.,LT
 001E87     (base 16)		Realease Limited
 				15/F, Morrison Commercial Building
 				WanChai    
-				HK
-
-00-1E-80   (hex)		Last Mile Ltd.
-001E80     (base 16)		Last Mile Ltd.
-				12/F VIP Commercial Centre
-				Tsimshatsui    
 				HK
 
 00-1E-FC   (hex)		JSC MASSA-K
@@ -88945,6 +88951,12 @@ A4D990     (base 16)		Samsung Electronics Co.,Ltd
 				Hanehoshet 10
 				Tel Aviv  Israel  6971072
 				IL
+
+00-1E-80   (hex)		Icotera A/S
+001E80     (base 16)		Icotera A/S
+				12/F VIP Commercial Centre
+				Tsimshatsui    
+				HK
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118717,6 +118729,18 @@ CC2119     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+48-88-1E   (hex)		EthoSwitch LLC
+48881E     (base 16)		EthoSwitch LLC
+				1298 Evans Road
+				Wall Township   NJ  07719
+				US
+
+08-90-BA   (hex)		Danlaw Inc
+0890BA     (base 16)		Danlaw Inc
+				23700 research Dr.
+				Farmington Hills    48335
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -148603,3 +148627,9 @@ B8BEF4     (base 16)		devolo AG
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
+
+E4-FC-82   (hex)		Juniper Networks
+E4FC82     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
