@@ -29825,12 +29825,6 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Aachen  NRW  52068
 				DE
 
-00-90-93   (hex)		EIZO Corporation
-009093     (base 16)		EIZO Corporation
-				153 Shimokashiwano
-				Hakusan  Ishikawa  924-8856
-				JP
-
 88-9F-6F   (hex)		Samsung Electronics Co.,Ltd
 889F6F     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -29843,11 +29837,23 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				Piscataway  NJ  08554
 				US
 
+00-90-93   (hex)		EIZO Corporation
+009093     (base 16)		EIZO Corporation
+				153 Shimokashiwano
+				Hakusan  Ishikawa  924-8856
+				JP
+
 E0-49-ED   (hex)		Audeze LLC
 E049ED     (base 16)		Audeze LLC
 				3410 S Susan st
 				Santa Ana  CA  92704
 				US
+
+40-62-EA   (hex)		China Mobile Group Device Co.,Ltd.
+4062EA     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -88981,6 +88987,12 @@ DCF719     (base 16)		Cisco Systems, Inc
 				Vibeholms Allé 16
 				Brøndby    2605
 				DK
+
+94-A3-CA   (hex)		KonnectONE, LLC
+94A3CA     (base 16)		KonnectONE, LLC
+				30 N Gould Street STE 4004
+				Sheridan  WY  82801
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
