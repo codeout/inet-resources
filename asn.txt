@@ -553,7 +553,7 @@
 552	DNIC-AS-00552 - DoD Network Information Center, US
 553	BELWUE BelWue-Koordination, DE
 554	CALINET-AS - California Internet Federation, US
-555	VTSII - Velocity Technology Solutions II, Inc., US
+555	VTSII - Velocity Technology Solutions, Inc, US
 556	CALREN-AS - USC/Information Sciences Institute, US
 557	UMAINE-SYS-AS - University of Maine System, US
 558	NNEXT - NV Next LLC, US
@@ -2119,7 +2119,6 @@
 2129	HP-EUROPE-AS-TRADE, GB
 2130	PHILIPS-GLOBAL-NETWORK, NL
 2131	SOFTWAREPARK-HAGENBERG, AT
-2133	-Reserved AS-, ZZ
 2134	GSVNET-AS GS Virtual Network Produban, ES
 2137	DNIC-AS-02137 - DoD Network Information Center, US
 2138	DOW2-AS - Houston Dow Center, US
@@ -7941,7 +7940,7 @@
 8149	ABACUS-GROUP2 - Abacus Group LLC, US
 8150	MOBILEPS - Mobile Public School System, US
 8151	Uninet S.A. de C.V., MX
-8152	VMNODE - Broderbund Networks, US
+8152	BRODER208 - Broderbund Networks, US
 8153	NORTELRCH2 - Nortel (Northern Telecom), CA
 8154	GTC - Gulf Telephone Company, US
 8155	THE-LINK-MGM - The Link, US
@@ -14503,7 +14502,7 @@
 15203	MHMRAHC-ASN - MHMRA, US
 15204	FHL - Fayette Holdings Limited, US
 15205	NCPDAS - Nassau County Police Department, US
-15206	-Reserved AS-, ZZ
+15206	6X7 - 6x7 Networks LLC, US
 15207	FIMC - Fairway Independent Mortgage Corporation, US
 15208	Servicio de Impuestos Internos, CL
 15209	COMMVAULT - CommVault Systems, US
@@ -16068,7 +16067,7 @@
 16992	FLT-15 - FIRST LINK TECHNOLOGY, INC., US
 16993	ASN-CFI - Cumberland Farms, Inc., US
 16994	VISTA-BANK - Vista Bank, US
-16995	ASN-NTG - Names To Go Inc., CA
+16995	ASN-NTG - Sable Voice Services Inc., CA
 16996	TARRANTCOUNTYTX-GOV - Tarrant County, US
 16997	EPICOR - EPICOR, US
 16998	ZEUSINC-AS - Zeus Industrial Products, Inc., US
@@ -18521,7 +18520,7 @@
 19465	AS-GOSFIELD - Gosfield North Communications Co-operative Limited, CA
 19466	EZ-PING-ASN - EZ Ping Networks Inc, US
 19467	TWGINC - THE WORKING GROUP INC., CA
-19468	SCHOOLDESK - ResolutionTech, LLC, US
+19468	VEEYA - ResolutionTech, LLC, US
 19469	AS-SMSAC - SMS.ac, Inc., US
 19470	LCPS - LAS CRUCES PUBLIC SCHOOLS, US
 19471	CENARKTEL - Central Arkansas Telephone Cooperative, Inc., US
@@ -28210,6 +28209,7 @@
 29905	BAIN-CAPITAL - Bain Capital, LP, US
 29906	WESTAT-AS1 - Westat, Inc., US
 29907	CIRRUS9-INC - Cirrus9 Inc., CA
+29908	TECH-CLOUD-ASN - Tech Electronics, Inc., US
 29909	LESSE - MetroOptic, Inc., CA
 29910	IACP - INTL. ASSN OF CHIEF OF POLICEI, US
 29911	XTIME-US - Xtime, US
@@ -37518,6 +37518,7 @@
 40045	-Reserved AS-, ZZ
 40046	TRIFICIENT-TECHNOLOGIES - TRIFICIENT BROADBAND TECHNOLOGIES, LLC, US
 40047	IU1-KITS - Intermediate Unit 1, US
+40048	SAP-US-AS3 - SAP America Inc., US
 40049	ESC-2 - Education Service Center, Region 2, US
 40050	BRNL - Blue Rim Networks, LLC, US
 40051	DWS-HK - Disney Worldwide Services, Inc., US
@@ -38205,7 +38206,7 @@
 40733	MORTMAST - Mortgage Master, Inc., US
 40734	LOMBARD-ODIER-1798 - 1798 Global Partners (USA), Corp., US
 40735	HAIB - HudsonAlpha Institute for Biotechnology, US
-40736	-Reserved AS-, ZZ
+40736	BOSE-CORPORATION-US - Bose Corporation, US
 40737	EMFINC-ASN1 - EMF Inc., US
 40738	IVENUE - Ivenue.com Inc., US
 40739	SPYFU - Spy Fu, Inc., US
@@ -47736,7 +47737,6 @@
 50412	AES-AS Castlewood House, 77-91 New Oxford Street, GB
 50413	MAGNUM-AS, RO
 50414	KIJIJI, NL
-50415	-Reserved AS-, ZZ
 50416	TKBBANK-AS, RU
 50417	WKEY-CORE-AS, IT
 50418	NETSOLUTIONS, RU
@@ -65281,7 +65281,7 @@
 134422	CHINATELECOM-JIANGSU-XINGANG-IDC Nanjing, CN
 134423	CHINATELECOM-JIANGSU-LONGJIANG-IDC Nanjing, CN
 134424	PAVEITSOLUTIONS-AS-AP PAVE IT SOLUTIONS PTY LTD, AU
-134425	GSMNETWORK-AS-AP Orange Communication Dhaka, BD
+134425	ORANGE_COMMUNICATION-AS-AP Orange Communication Dhaka, BD
 134426	MAHATAA-AS-AP Mahataa Information India Private Limited, IN
 134427	MANAGEDITPTYLTD-AS-AP Managed IT Pty Ltd, AU
 134428	UNIVERSAL-AS-AP Universal Power Systems Private Limited, IN
@@ -67880,7 +67880,7 @@
 137179	MARUTINA-AS Jay Marutinandan Cablenet Pvt. Ltd., IN
 137180	UNI6711-AS Unified Voice Communication Private Ltd, IN
 137181	WINDSOR-AS Windsor Internet Private Limited, IN
-137182	BLUE-WIRELESS-AS-AP BLUE WIRELESS PTE LTD, SG
+137182	BLUE-WIRELESS-SG BLUE WIRELESS PTE LTD, SG
 137183	SKYBROADBAND-AS-AP Mohammad Nazim, IN
 137184	SUNIWAYTELECOM-AS-AP Suniway Group of Companies Inc., PH
 137185	HGTHC-AS-AP HK GALAXY TELECOM HOLDING CO.,LIMITED, HK
@@ -76374,7 +76374,7 @@
 205776	VISUALCOMP-AS, PL
 205777	THOMASGLASS, FR
 205778	APASN, GB
-205779	NO-MIMOA-HOLDING, NO
+205779	NO-NOSMOKE-ARENDAL, NO
 205780	EQUATE, KW
 205781	CITYLAN-KRASNODAR-AS, RU
 205782	TUBITAK-UME-AS, TR
@@ -87428,6 +87428,8 @@
 396852	CFS-NY - Clarity Fiber Solutions, US
 396853	NCW-AS2 - NewCore Wireless, LLC, US
 396854	LIFE-STORAGE-LP - Life Storage LP, US
+396855	TNC - TNC COMMUNICATIONS, INC., US
+396856	FEDNAV-ASN - Fednav Limited, CA
 397193	VRSN-AC28 - VeriSign Global Registry Services, US
 397194	VRSN-AC28 - VeriSign Global Registry Services, US
 397195	VRSN-AC28 - VeriSign Global Registry Services, US
