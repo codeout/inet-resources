@@ -19700,12 +19700,6 @@ A8CE90     (base 16)		CVC
 				IRVINE  CA  92718
 				US
 
-00-20-3D   (hex)		Honeywell ECC
-00203D     (base 16)		Honeywell ECC
-				1985 Douglas Drive
-				Golden Valley  MN  55422
-				US
-
 00-20-19   (hex)		OHLER GMBH
 002019     (base 16)		OHLER GMBH
 				MAYBACHSTRASE 30
@@ -29895,6 +29889,12 @@ D4741B     (base 16)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
 3009F9     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
+				US
+
+00-20-3D   (hex)		Honeywell Environmental & Combustion Controls
+00203D     (base 16)		Honeywell Environmental & Combustion Controls
+				1985 Douglas Drive
+				Golden Valley  MN  55422
 				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -50417,12 +50417,6 @@ D0D286     (base 16)		Beckman Coulter K.K.
 				VIENNA  VA  22182-3964
 				US
 
-00-40-84   (hex)		HONEYWELL ACS
-004084     (base 16)		HONEYWELL ACS
-				
-				Fort Washington  PA  19034
-				US
-
 00-40-B8   (hex)		IDEA ASSOCIATES
 0040B8     (base 16)		IDEA ASSOCIATES
 				29 DUNHAM ROAD
@@ -59779,6 +59773,18 @@ AC5474     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
 				Chongqing  Chongqing  401336
 				CN
+
+00-40-84   (hex)		Honeywell International HPS
+004084     (base 16)		Honeywell International HPS
+				
+				Fort Washington  PA  19034
+				US
+
+64-5D-86   (hex)		Intel Corporate
+645D86     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -118766,12 +118772,6 @@ E0AF4F     (base 16)		Deutsche Telekom AG
 				Heuchelheim  Hessen  35452
 				DE
 
-3C-89-94   (hex)		BSkyB Ltd
-3C8994     (base 16)		BSkyB Ltd
-				130 Kings Road
-				Brentwood  Essex  08854
-				GB
-
 F4-06-8D   (hex)		devolo AG
 F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
@@ -118783,6 +118783,12 @@ F4068D     (base 16)		devolo AG
 				Charlottenburger Allee 67
 				Aachen  NRW  52068
 				DE
+
+3C-89-94   (hex)		BSkyB Ltd
+3C8994     (base 16)		BSkyB Ltd
+				130 Kings Road
+				Brentwood  Essex  08854
+				GB
 
 A8-5A-F3   (hex)		Shanghai Siflower Communication Technology Co., Ltd
 A85AF3     (base 16)		Shanghai Siflower Communication Technology Co., Ltd
@@ -118850,6 +118856,12 @@ E42D7B     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
+B0-53-65   (hex)		China Mobile IOT Company Limited
+B05365     (base 16)		China Mobile IOT Company Limited
+				NO.8 Yu Ma Road, NanAn Area
+				Chongqing  Chongqing  401336
+				CN
+
 C0-D0-FF   (hex)		China Mobile IOT Company Limited
 C0D0FF     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
@@ -118862,17 +118874,17 @@ A0950C     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
-B0-53-65   (hex)		China Mobile IOT Company Limited
-B05365     (base 16)		China Mobile IOT Company Limited
-				NO.8 Yu Ma Road, NanAn Area
-				Chongqing  Chongqing  401336
-				CN
-
 58-D5-6E   (hex)		D-Link International
 58D56E     (base 16)		D-Link International
 				1 Internal Business Park, #03-12,The Synergy, Singapore
 				Singapore  Singapore  609917
 				SG
+
+48-F0-27   (hex)		Chengdu newifi Co.,Ltd
+48F027     (base 16)		Chengdu newifi Co.,Ltd
+				C11 Building 2001,No.219 ,2nd Tianhua Road,Hi-tech zone
+				Chengdu  Sichuan  610000
+				CN
 
 28-3E-76   (hex)		Common Networks
 283E76     (base 16)		Common Networks
@@ -118880,11 +118892,11 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				San Francisco  CA  94102
 				US
 
-48-F0-27   (hex)		Chengdu newifi Co.,Ltd
-48F027     (base 16)		Chengdu newifi Co.,Ltd
-				C11 Building 2001,No.219 ,2nd Tianhua Road,Hi-tech zone
-				Chengdu  Sichuan  610000
-				CN
+1C-1B-B5   (hex)		Intel Corporate
+1C1BB5     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -148766,6 +148778,12 @@ E4FC82     (base 16)		Juniper Networks
 				St Louis Park  MN  55416
 				US
 
+18-93-7F   (hex)		AMPAK Technology, Inc.
+18937F     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
+
 64-F8-8A   (hex)		China Mobile IOT Company Limited
 64F88A     (base 16)		China Mobile IOT Company Limited
 				NO.8 Yu Ma Road, NanAn Area
@@ -148778,8 +148796,8 @@ C098DA     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
-18-93-7F   (hex)		AMPAK Technology, Inc.
-18937F     (base 16)		AMPAK Technology, Inc.
-				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
-				Hsinchu  Taiwan ROC.  30352 
-				TW
+A8-01-6D   (hex)		Aiwa Corporation
+A8016D     (base 16)		Aiwa Corporation
+				965 W Chicago Ave
+				Chicago  IL  60642
+				US
