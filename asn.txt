@@ -3286,7 +3286,7 @@
 3351	IOFFE-PHYSICAL-THECHICAL-INSTITUTE-AS, RU
 3352	TELEFONICA_DE_ESPANA, ES
 3354	THENET-AS-3354 - University of Texas System, US
-3355	LITC - LOCKHEED INFORMATION TECHNOLOGY COMPANY, US
+3355	LITC - Lockheed Martin Corporation, US
 3356	LEVEL3 - Level 3 Parent, LLC, US
 3357	DJEDU-AS-KR DongJak District office of Education, KR
 3358	UCIA-AS - Central Intelligence Agency, US
@@ -9755,7 +9755,7 @@
 10188	HANMAG-AS-KR HanMag Futures Corporation, KR
 10189	HMM-AS-KR Hyundai Ubiquitous & Information Technology), KR
 10190	JB-AS-KR Joongbu University, KR
-10191	UYCATV-AS-KR C&M Ulsan Cable TV, KR
+10191	SGMF-AS-KR SEEGENE MEDICAL FOUNDATION, KR
 10192	KIWOOM-AS-KR kiwoom Securities.co.,Ltd, KR
 10193	BUSANBANK-AS-KR BUSANBANK, KR
 10194	DOOSANHEAVY-AS-KR Doosan Heavy Industries & Construction Co.Ltd, KR
@@ -24812,7 +24812,7 @@
 26239	ATLASAIR - Atlas Air, Inc., US
 26240	SSKC1 - STATE STREET, US
 26241	3ZNET-CVG001 - 3z.net, US
-26242	BLOCKDAEMON - Blockdaemon, Inc., US
+26242	AS-BLOCKDAEMON - Blockdaemon, Inc., US
 26243	INTELSAT-S - Intelsat, US
 26244	BGMU - Bowling Green Municipal Utilities, US
 26245	ROBERT-H - Robert Half International, US
@@ -34236,7 +34236,7 @@
 36469	ATL-COLO - Noble Systems Corporation, US
 36470	-Reserved AS-, ZZ
 36471	S2NET - Stage 2 Networks, LLC, US
-36472	-Reserved AS-, ZZ
+36472	STBLNET - VivosWeb Inc., CA
 36473	BLACKMESH-RST - BlackMesh Inc., US
 36474	SPG-PARTNERS - SPG Partners, LLC, US
 36475	ZACKS-AS-1 - Zacks Investment Research Inc., US
@@ -43126,7 +43126,7 @@
 45771	WESTLINK-PH TELERURAL COMMUNICATION MANAGEMENT INC., PH
 45772	INTERACTIVELABS-AS-AP Interactive Labs, AU
 45773	HECPERN-AS-PK PERN AS Content Servie Provider, Islamabad, Pakistan, PK
-45774	SPIDIGO-AS-IN Chandra Net Pvt. Limited, India, IN
+45774	SPIDIGO-AS-IN SPiDiGO, IN
 45775	WISHNET-AS-AP WISH NET PRIVATE LIMITED, IN
 45776	ACTIV8ME-AS2-AP Australian Private Networks Pty Ltd, AU
 45779	LDN-AS-PK IGI Financial Services, PK
@@ -56100,7 +56100,7 @@
 58982	DATAPIPE-SG-AP DataPipe, SG
 58983	ANSB-MY ACODA Networks Sdn Bhd, MY
 58984	DKPL-IN DIGITAL KITES PRIVATE LIMITED, IN
-58985	FHNC-HK GS Network (Hong Kong) Ltd., HK
+58985	FHNC-HK Gs Network (Hong Kong) Ltd., HK
 58986	IDLE2-IN IDLE ANTS MEDIA PRIVATE LIMITED, IN
 58987	STARTEL-PK Starlite Telecommunications (Pvt.) Ltd., PK
 58988	EXPERIECO-AS-AP Experieco Limited, NZ
@@ -60156,6 +60156,7 @@
 63147	USCP - United States Capitol Police, US
 63148	QTI - Quick Technologies Inc., US
 63149	AS-SILO - ScienceLogic, Inc, US
+63150	OTXIGLOBAL - Online Technology Exchange, Inc., US
 63151	CPSL-ASN - The Children's Place, US
 63152	DENVERCOLO - DenverColo.net, LLC, US
 63153	STEWART-STEVENSON - Stewart & Stevenson LLC, US
@@ -62906,6 +62907,7 @@
 131930	TBS-NET Tokyo Broadcasting System Television, Inc., JP
 131931	ACTV-NET Aomori Cable TV Co., Ltd., JP
 131932	JEIS-NET JR East Information Systems Company, JP
+131933	TTV-NET TAMA Television Co., Ltd, JP
 131993	QUINNOX-IN UNIT 107 MULTISTORIED BUILDING, SEEPZ, IN
 131994	DBINDIA-IN Deutsche Bank AG, HK
 131995	XLPROG-AS-AP XLPM, NC
@@ -65798,7 +65800,7 @@
 135001	MNL-AS-AP Mazeda Networks Limited, BD
 135002	SGX-AS-AP Singapore Exchange Limited, SG
 135003	MULTAN-AS-AP Multan Cable & Internet Services (Pvt) Ltd, PK
-135004	NORTHERN-GLOBAL_TRANSIT Northern-Global Transit, AU
+135004	SIGHTWIRELESS_CANADA SightWireless Canada, AU
 135005	ATATELECOM-AS-AP ATA TELECOM Co., Ltd, KH
 135006	BHICL-AS-AP Bit Huitong (Beijing) Information Co., Ltd., CN
 135007	RIGL-AS-AP REGINA INTERNATIONAL GROUP (HK) LIMITED, HK
@@ -66719,6 +66721,7 @@
 135941	PLAY17-AS-VN Play 17 Vietnam Company Limited, VN
 135942	ADSOTA-AS-VN Adsota Corporation, VN
 135943	TMT-AS-VN Truong Minh Thinh Online Trading And Service Co., Ltd, VN
+135944	VINACIS-AS-VN VinhNam Commercial informatics service corporation, VN
 136000	LBPL-AS-AP Lightning Broadband Pty Ltd, AU
 136001	CHRISTIE-AS-AP Christie Networks - TRANSIT AS, AU
 136002	PRTM-AS-AP PT RIVEN TEKNO MANDIRI, ID
@@ -68314,6 +68317,7 @@
 137821	HUOBI-AS-AP Huobi Universal (HK) Limited, HK
 137822	ITCORP-AS-AP IT CORPORATE PTY. LTD., AU
 137823	TECHNOCORE-AS-AP Technocore Bangladesh Ltd, BD
+137824	VNT-ISP-AS-AP Ahmad Khalid Qaderi, AF
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange, DE
@@ -73123,7 +73127,7 @@
 202477	THERION-3, RU
 202478	MABLORSKIE-SWIATLOWODY, PL
 202479	IFOG, CH
-202480	FLICK2-AS, UA
+202480	FLK-AS, UA
 202481	REAPOLIS-AS, SE
 202482	RESIS-AS, UA
 202483	CRAFT-AS, UA
@@ -77746,7 +77750,7 @@
 207101	MEGA-CENTRUM-PLUS, PL
 207102	INTERSAT, HR
 207103	URAL-DDOS, RU
-207104	BIZONE-AS uplinks, RU
+207104	BIZONE-AS UL, RU
 207105	Q4NET, PL
 207106	FIBI, IL
 207107	NNG, HU
@@ -85340,7 +85344,7 @@
 394716	HEBISD - HEBISD, US
 394717	SGO-BROADBAND - S-Go Video and Internet, US
 394718	-Reserved AS-, ZZ
-394719	STBLNET - VivosWeb Inc., CA
+394719	-Reserved AS-, ZZ
 394720	STLUKESHOSPITAL - St. Luke's Hospital, US
 394721	-Reserved AS-, ZZ
 394722	NIMBIX-1 - Nimbix, Inc., US
@@ -86547,7 +86551,7 @@
 395923	FROST-SCIENCE-MUSEUM - Patrica and Phillip Frost Museum of Science, US
 395924	GC-AMERICA - Globecast America, US
 395925	NELSWEST - Nelson Westerberg Inc., US
-395926	OTXIGLOBAL - Online Technology Exchange, Inc., US
+395926	-Reserved AS-, ZZ
 395927	MILEHIGHNETWORKS - Mile High Networks, LLC, US
 395928	PROV-EQUITY - Providence Equity Partners LLC, US
 395929	VHL - Virtuwave Holdings LLC, US
@@ -87481,6 +87485,12 @@
 396857	WPC-1 - Northern Trust Company, US
 396858	OBXTEK-INC - OBXtek, Inc, US
 396859	APC-1 - Northern Trust Company, US
+396860	MORNET1 - MORnet Communications, LLC, US
+396861	PROPATH - ProPath Services, LLC, US
+396862	NMHS - Nebraska Methodist Health System, Inc., US
+396863	COBA-SYSTEMS - Coba Systems, US
+396864	8BIRDS - 8 Birds Video Inc, US
+396865	BACKBLAZE - Backblaze Inc, US
 397193	VRSN-AC28 - VeriSign Global Registry Services, US
 397194	VRSN-AC28 - VeriSign Global Registry Services, US
 397195	VRSN-AC28 - VeriSign Global Registry Services, US
