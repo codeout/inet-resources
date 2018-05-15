@@ -26429,9 +26429,6 @@ A00460     (base 16)		NETGEAR
 				Hong Kong  KOWLOON  999077
 				HK
 
-FC-C2-33   (hex)		Private
-FCC233     (base 16)		Private
-
 28-30-AC   (hex)		Frontiir Co. Ltd.
 2830AC     (base 16)		Frontiir Co. Ltd.
 				5 Bayint Naung Road, Hlaing Township
@@ -29896,6 +29893,21 @@ D4741B     (base 16)		Beijing HuaDa ZhiBao Electronic System Co.,Ltd.
 				1985 Douglas Drive
 				Golden Valley  MN  55422
 				US
+
+80-B6-24   (hex)		IVS
+80B624     (base 16)		IVS
+				807-809 , Woorim E-biz center, 35, Gwangnaru-ro 6-gil
+				Seoul  Seongdong-gu  04799
+				KR
+
+DC-F5-05   (hex)		AzureWave Technology Inc.
+DCF505     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
+FC-C2-33   (hex)		Private
+FCC233     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -59105,9 +59117,6 @@ E0BAB4     (base 16)		Arrcus, Inc
 				Wuhan  Hubei  430074
 				CN
 
-60-4B-AA   (hex)		Private
-604BAA     (base 16)		Private
-
 2C-58-4F   (hex)		ARRIS Group, Inc.
 2C584F     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
@@ -59501,12 +59510,6 @@ ACDE48     (base 16)		Private
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-CC-F0-FD   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
-CCF0FD     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
-				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District, Hangzhou, Zhejiang
-				Hangzhou  Zhejiang  310000
-				CN
-
 30-D6-59   (hex)		Merging Technologies SA
 30D659     (base 16)		Merging Technologies SA
 				Le Verney 4
@@ -59786,16 +59789,52 @@ AC5474     (base 16)		China Mobile IOT Company Limited
 				Kulim  Kedah  09000
 				MY
 
+8C-92-46   (hex)		Oerlikon Textile Gmbh&Co.KG
+8C9246     (base 16)		Oerlikon Textile Gmbh&Co.KG
+				NO.9 Changyang Street
+				Suzhou  Jiangsu  215000
+				CN
+
 7C-24-0C   (hex)		Telechips, Inc.
 7C240C     (base 16)		Telechips, Inc.
 				19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu,
 				Seoul  Seoul  05510
 				KR
 
-8C-92-46   (hex)		Oerlikon Textile Gmbh&Co.KG
-8C9246     (base 16)		Oerlikon Textile Gmbh&Co.KG
-				NO.9 Changyang Street
-				Suzhou  Jiangsu  215000
+60-4B-AA   (hex)		Magic Leap, Inc.
+604BAA     (base 16)		Magic Leap, Inc.
+				1855 Griffin Rd, Room B454
+				Dania Beach  FL  33004
+				US
+
+CC-F0-FD   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+CCF0FD     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District, Hangzhou, Zhejiang
+				Hangzhou  Zhejiang  310000
+				CN
+
+4C-01-43   (hex)		eero inc.
+4C0143     (base 16)		eero inc.
+				660 3rd Street
+				San Francisco  CA  94107
+				US
+
+9C-AA-1B   (hex)		Microsoft Corporation
+9CAA1B     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
+18-D7-17   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+18D717     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+0C-9A-42   (hex)		FN-LINK TECHNOLOGY LIMITED
+0C9A42     (base 16)		FN-LINK TECHNOLOGY LIMITED
+				A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District
+				SHENZHEN  GUANGDONG  518100
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -89101,6 +89140,18 @@ E00EE1     (base 16)		We Corporation Inc.
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+F8-5E-3C   (hex)		SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD
+F85E3C     (base 16)		SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD
+				4F,Bldg A2,Hedian Industrial Park,NO.8 Shijing Rd,Guanlan,Longhua District,ShenZhen,China
+				shengzhen    518110
+				CN
+
+7C-03-AB   (hex)		Xiaomi Communications Co Ltd
+7C03AB     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -118927,6 +118978,18 @@ B05365     (base 16)		China Mobile IOT Company Limited
 				60-39, Gasan-dong, Geumcheon-gu
 				Seoul    153-801
 				KR
+
+A8-9A-93   (hex)		Sagemcom Broadband SAS
+A89A93     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
+14-C6-97   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+14C697     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
