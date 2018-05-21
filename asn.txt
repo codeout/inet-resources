@@ -11267,7 +11267,7 @@
 11712	BELLSOUTH - AT&T Services, Inc., US
 11713	GBGDC-IP1 - Granite Block Global Data Center, Inc, US
 11714	NETWORK NEBRASKA - Network Nebraska, US
-11715	-Reserved AS-, ZZ
+11715	ROUTE86 - 1538556 Ontario Inc., CA
 11716	WON-AS - William O'Neil & Company, US
 11717	AS-SOLARUS - Solarus, US
 11718	DG-2009 - DESIGN GROUP STAFFING INC., CA
@@ -11689,7 +11689,7 @@
 12136	Núcleo de Inf. e Coord. do Ponto BR - NIC., BR
 12137	LHBIS-IPV4-NET01 - LightHouse Business Information Solutions, LLC, US
 12138	TAX-AIR - Tax AirFreight, Inc., US
-12139	AMNET - AMNET, US
+12139	AMNET - AMNET US LLC, US
 12140	Lanis Ltda, BR
 12141	EPOCHWIDE-01 - Epoch Systems, Inc., US
 12142	SULLIVAN-CROMWELL - Sullivan & Cromwell, US
@@ -12676,7 +12676,7 @@
 13366	CHGNET - Calfee, Halter & Griswold, LLP, US
 13367	COMCAST-13367 - Comcast Cable Communications, LLC, US
 13368	JCP - James Cable, LLC, US
-13369	-Reserved AS-, ZZ
+13369	NURIX - Nurix, Inc., US
 13370	LOCALTEL - LocalTel Communications, US
 13371	DUKE-INTERCHANGE - Duke University, US
 13372	FEDERATEDINV - Federated Investors, US
@@ -14571,7 +14571,7 @@
 15273	KDDIA-USPEN - KDDI America Inc., US
 15274	House Internet S.R.L., AR
 15275	GREENFIELDNET-WLT-CT - TOLUNA USA Inc., US
-15276	-Reserved AS-, ZZ
+15276	ZENDA-ASN - Zenda Telephone, US
 15277	HILLINTL-USMRL1 - Hill International, Inc., US
 15278	SAVVY-NET - Savvy Networks USA, US
 15279	PHHMORT-AS - PHH Mortgage Corporation, US
@@ -15718,7 +15718,6 @@
 16641	ACBB-BITS-ASN - ACBB-BITS, LLC, US
 16642	OGILVYGROUP - The Ogilvy Group, Inc., US
 16643	VCU-ASN1 - Virginia Commonwealth University, US
-16644	-Reserved AS-, ZZ
 16645	EPIQSYSTEMS - EPIQ Systems, Inc, US
 16646	BI-LO-AS - BI-LO LLC, US
 16647	PERIMETERWATCH - Perimeterwatch Technologies, INC, US
@@ -15814,7 +15813,6 @@
 16737	STABLEHOST - Nerdie Networks LLC, US
 16738	LMI - Logistics Management Institute, US
 16739	INVISIMAX-AS-GF - Midcontinent Communications, US
-16740	-Reserved AS-, ZZ
 16741	CITY-OF-LAKELAND - City Of Lakeland, US
 16742	Universidad Catolica de Valparaiso, CL
 16743	FTSBROADBAND - FTS Broadband, US
@@ -21228,7 +21226,7 @@
 22397	COASTALSIERRA - Skyline Broadband Service, US
 22398	NT-T - NT&T, US
 22399	COBA-1 - Commerzbank AG, US
-22400	SIMPLELINK - SimpleLink LLC, US
+22400	SIMPLELINK - Web2Objects LLC, US
 22401	PFM - Public Financial Management, Inc., US
 22402	NEXTCO-AS - Nextera Communications LLC, US
 22403	TRINICOM - TRINICOM COMMUNICATIONS, US
@@ -28008,7 +28006,6 @@
 29708	FINANCIAL-SECURITY-ASSURANCE - Assured Guaranty Corp, US
 29709	NEONET - Northeast Ohio Network for Education Technology, US
 29710	BUNCOMBECOSCHOOLS - Buncombe County Schools, US
-29711	-Reserved AS-, ZZ
 29712	GALAXY - FiservGALAXY 2000 Division, US
 29713	ELIA-60 - Reliable Hosting Services, US
 29714	NAHB-RESEARCH-CENTER - Home Innovation Research Labs, Inc., US
@@ -38377,7 +38374,7 @@
 40909	-Reserved AS-, ZZ
 40910	BAYLOR - Baylor Health Care Systems, US
 40911	L2NC-AS - L2Networks Corp., US
-40912	8E6-ASN-1 - M86 Security, US
+40912	8E6-ASN-1 - Trustwave Holdings, Inc., US
 40913	QTS-SJC1 - Quality Technology Services Santa Clara, LLC, US
 40914	OFFICEIBC1717 - International Business Centre, US
 40915	PC-HELPLINE - PC Helpline Computer Support Inc., CA
@@ -52545,7 +52542,6 @@
 55236	CBC - CBC, US
 55237	WFSCORP-AS - Wausau Financial Systems, Inc., US
 55238	KMCPHX - PING, INC., US
-55239	-Reserved AS-, ZZ
 55240	UNIFOCUS - UniFocus LP, US
 55241	-Reserved AS-, ZZ
 55242	ZSCALER-ATLANTA - ZSCALER, INC., US
@@ -66120,6 +66116,7 @@
 135313	CCA-AS-AP Coca-Cola Amatil, AU
 135314	IMCLOUD-AS-AP IMCLOUD TECHNOLOGY COMPANY LIMITED, HK
 135315	NOKIAOYJ-AS-AP Nokia Oyj, SG
+135316	ACSL-AS-AP AMBITIONS COMMUNICATION SYSTEM (SMC-PRIVATE) LIMITED, PK
 135317	BBIOPL-AS-AP BHP BILLITON IRON ORE PTY. LTD., AU
 135318	SUNDII-AS-AP SUNDII TECHNOLOGY LIMITED, HK
 135319	WOPOP-AS-AP Wopop International Limited, HK
@@ -69615,7 +69612,7 @@
 197996	FLEXMULTIMEDIA, CH
 197997	REGISTER, BG
 197998	AFKGROUP-AS, RU
-197999	EM-IT-AS # Neotel @interxion, AT
+197999	EM-IT-AS, AT
 198000	SMPOLNOC, PL
 198001	INFOGLOB, PL
 198002	FDLNET-CZ-AS, CZ
