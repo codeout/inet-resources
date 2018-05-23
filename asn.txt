@@ -22485,6 +22485,7 @@
 23673	ONLINE-AS Cogetel Online, Cambodia, ISP, KH
 23674	NAYATEL-PK Nayatel (Pvt) Ltd, PK
 23675	TSMCGDN-AS-AP Taiwan Semiconductor Manufactoring Company, Ltd., TW
+23676	MARIIX-GU University of Guam, GU
 23677	SUPERLOOP-AS-AP SUPERLOOP (AUSTRALIA) PTY LTD, AU
 23678	MYKRIS-AS-MY MyKRIS Asia Sdn Bhd, MY
 23679	NUSANET-AS-ID Media Antar Nusa PT., ID
@@ -66192,6 +66193,7 @@
 135391	AOFEI-HK AOFEI DATA INTERNATIONAL COMPANY LIMITED, HK
 135392	HOSTBALTIC UAB HostBaltic, HK
 135393	KIWIVOIP-AS-AP Kiwi VoIP, NZ
+135394	OTSB-AS-AP Orient Telecoms Sdn. Bhd, MY
 135395	SYSTEMS-AS-AP Systems Limited, PK
 135396	TAFEQUEENSLAND-AS-AP TAFE Queensland, AU
 135397	CIGNITI-AS-AP Cigniti Technologies Limited, IN
@@ -68069,6 +68071,9 @@
 137355	IDNIC-MULTISTRADA-AS-ID PT. MULTISTRADA ARAH SARANA TBK, ID
 137356	IDNIC-UPY-AS-ID Universities PGRI Yogyakarta, ID
 137357	IDNIC-BUMA-AS-ID PT BUKIT MAKMUR MANDIRI UTAMA, ID
+137358	JPDN-AS-ID PT. Jaringan Prima Data Nusantara, ID
+137359	SKYREACH-AS-ID PT. SKYREACH, ID
+137360	IDNIC-UMSBY-AS-ID Universitas Muhammadiyah Surabaya, ID
 137385	SADDAMHOSSAIN-AS-AP Saddam Hossain t/a Asian Network, BD
 137386	CW-AS-AP Child Wisdom Limited, HK
 137387	HUALONG3-AS-AP HUALONG TECHNOLOGY DEVELOPMENT CO.,LIMITED, HK
@@ -68273,6 +68278,7 @@
 137587	VMOBB-AS-IN Vmo Broadband Pvt Ltd, IN
 137588	ARKCOM-AS-IN Arkcom Telecommunications Pvt Ltd., IN
 137598	SKYNTZNE-AS-IN Skynet Zone Wifi Services Pvt. Ltd., IN
+137599	SHRIMANO-AS Shree Manoranjan Broadband Pvt. Ltd., IN
 137601	UNISP-AS-IN M. P. Commodities Private Ltd, IN
 137602	MCOMVIVA-AS Comviva Technologies Limited, IN
 137603	AARDE12-AS Aar Dee Solutions Pvt Ltd, IN
@@ -68282,12 +68288,14 @@
 137607	PATELW-AS Patel Wealth Advisors Private Limited, IN
 137608	SPEDSTER-AS Speedster Communications Pvt. Ltd., IN
 137615	AONEC-AS-IN Aonedpn Communications Pvt. Ltd., IN
+137616	FIBERNTI-AS-IN Fibernetisp Pvt Ltd, IN
 137628	UNQCOMPL-AS Unq Communication Private Limited, IN
 137629	SNTEL-AS Sn Telematix Private Limited, IN
 137630	MORBIINF-AS Morbi Infocom Pvt Ltd, IN
 137631	DIVINEBS-AS Divine Broadband Services Pvt. Ltd, IN
 137632	OILINDIA-AS Oil India Limited, IN
 137633	GIGALINE-AS Gigaline Teleservices Opc Private Limited, IN
+137635	JSKY-AS J.sky Media Pvt.ltd., IN
 137636	RSGSN-AS R.s.g. Smart Network, IN
 137637	FILINDIA-AS Fil India Business And Research Services Private Limited, IN
 137638	ARINACE-AS Ace Designers Ltd, IN
@@ -68315,6 +68323,7 @@
 137706	NATIONAL-UNIVERSITY-AS-AP National University, BD
 137707	PERFECTNETWORKS-AS-AP MD. Delower Hossain, BD
 137708	VIRTUALNODE-AS-AP VIRTUAL NODE PTY LTD, AU
+137802	AGOTOZ AgotoZ technologies (Beijing) corporation ltd., CN
 137804	CNIX China Internet Exchange, CN
 137805	JD-FINANCE-NETWORK Beijing JD Finance Technology Holding Co., Ltd., CN
 137806	WALMART-GS WMGS Consulting (Shenzhen) Co.Ltd, CN
@@ -68363,6 +68372,9 @@
 137851	AMR-IX-AS Amaravati Internet Exchange, IN
 137852	BIZCOMNT-AS-AP BIZCOM (NT) PTY. LTD., AU
 137853	TELNETCOLTD-AS-AP TELNET CO.,LTD, KH
+137854	RELIANTBALIYA-AS-AP Reliant Techno Networking Pvt. Ltd., NP
+137855	MATE-AS-AP Mate Communicate Pty Ltd, AU
+137856	TNICF-AS-AP Thai Network Information Center Foundation, TH
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-AS32 DE-CIX, the German Internet Exchange, DE
@@ -72858,7 +72870,7 @@
 201908	RST, PL
 201909	INTEL-TECH-DEVELOPMENT-SRL, RO
 201911	AVANTA-AS, RU
-201913	TUCHKOVO-NETWORK Network Tuchkovo Ruzski raion, RU
+201913	MARKED_FOR_DELETE, RU
 201914	ROZTEH-AS, RU
 201915	VTIX-AS, PL
 201916	CONTACTC, RU
@@ -83936,7 +83948,7 @@
 328307	Unipack-AS, TN
 328308	Azurde-Jewelry-AS, EG
 328309	Globacom-AS, NG
-328310	Global-Tech-AS, TD
+328310	GLOBALTECH-Telecoms-AS, TD
 328311	Conexxia-AS, GQ
 328312	Deloitte-AS, ZA
 328313	GVSC-AS, ZA
