@@ -59873,6 +59873,12 @@ ECB313     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				tosimaku  tokyo  170-0013
 				JP
 
+DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
 00-90-04   (hex)		3COM EUROPE LTD
 009004     (base 16)		3COM EUROPE LTD
 				3COM CENTRE, BOUNDARY WAY
@@ -59921,16 +59927,16 @@ ECB313     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				SANTA CLARA  CA  95052
 				US
 
-DC-37-57   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-DC3757     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-				Phase 3, Bayan Lepas FIZ
-				Bayan Lepas  Penang  11900
-				MY
-
 02-60-8C   (hex)		3COM
 02608C     (base 16)		3COM
 				5400 BAYFRONT PLAZA
 				SANTA CLARA  CA  95052
+				US
+
+00-1B-6E   (hex)		Keysight Technologies, Inc.
+001B6E     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
 				US
 
 00-8C-FA   (hex)		INVENTEC CORPORATION
@@ -59950,12 +59956,6 @@ B4CB57     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
-
-00-1B-6E   (hex)		Keysight Technologies, Inc.
-001B6E     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
-				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -89333,17 +89333,17 @@ A02833     (base 16)		IEEE Registration Authority
 				SANTA CLARA  CA  95052
 				US
 
-60-35-C0   (hex)		SFR
-6035C0     (base 16)		SFR
-				12 rue jean-philippe Rameau CS 80001
-				La plaine saint denis   FRANCE  93634
-				FR
-
 20-D8-0B   (hex)		Juniper Networks
 20D80B     (base 16)		Juniper Networks
 				1133 Innovation Way
 				Sunnyvale  CA  94089
 				US
+
+60-35-C0   (hex)		SFR
+6035C0     (base 16)		SFR
+				12 rue jean-philippe Rameau CS 80001
+				La plaine saint denis   FRANCE  93634
+				FR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119177,12 +119177,6 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Roseville  CA  95747
 				US
 
-00-10-5A   (hex)		3COM
-00105A     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-D0-D8   (hex)		3COM
 00D0D8     (base 16)		3COM
 				2133 LEGHORN STREET
@@ -119207,12 +119201,6 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Taipei    111
 				TW
 
-00-18-49   (hex)		nVent, Schroff GmbH
-001849     (base 16)		nVent, Schroff GmbH
-				Langenalber Strasse 96-100
-				Straubenhardt    75334
-				DE
-
 00-05-1A   (hex)		3COM EUROPE LTD
 00051A     (base 16)		3COM EUROPE LTD
 				3COM CENTRE
@@ -119224,6 +119212,18 @@ B0907E     (base 16)		Cisco Systems, Inc
 				BOUNDARY WAY
 				  UNITED  KINGDOM
 				GB
+
+00-10-5A   (hex)		3COM
+00105A     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-18-49   (hex)		nVent, Schroff GmbH
+001849     (base 16)		nVent, Schroff GmbH
+				Langenalber Strasse 96-100
+				Straubenhardt    75334
+				DE
 
 9C-0C-DF   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 9C0CDF     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
