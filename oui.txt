@@ -29897,6 +29897,18 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Paris    75008
 				FR
 
+00-20-AF   (hex)		3COM
+0020AF     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
+
+00-04-75   (hex)		3COM
+000475     (base 16)		3COM
+				5400 Bayfront Plaza
+				Santa Clara  CA  95052
+				US
+
 00-07-3A   (hex)		INVENTEL
 00073A     (base 16)		INVENTEL
 				35, rue Toumefort
@@ -29915,28 +29927,22 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Taipei    111
 				TW
 
+00-26-54   (hex)		3COM
+002654     (base 16)		3COM
+				5353 Betsy Ross Drive
+				Santa Clara  California  95054-1162
+				US
+
 00-50-04   (hex)		3COM
 005004     (base 16)		3COM
 				5400 BAYFRONT PLAZA
 				SANTA CLARA  CA  95052
 				US
 
-00-20-AF   (hex)		3COM
-0020AF     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
-00-04-75   (hex)		3COM
-000475     (base 16)		3COM
-				5400 Bayfront Plaza
-				Santa Clara  CA  95052
-				US
-
-00-26-54   (hex)		3COM
-002654     (base 16)		3COM
-				5353 Betsy Ross Drive
-				Santa Clara  California  95054-1162
+CC-C5-E5   (hex)		Dell Inc.
+CCC5E5     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
 				US
 
 10-A2-4E   (hex)		GOLD3LINK ELECTRONICS CO., LTD
@@ -29945,11 +29951,11 @@ C8C2F5     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Taipei  Taiwan  114
 				TW
 
-CC-C5-E5   (hex)		Dell Inc.
-CCC5E5     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
+E8-6A-64   (hex)		LCFC(HeFei) Electronics Technology co., ltd
+E86A64     (base 16)		LCFC(HeFei) Electronics Technology co., ltd
+				YunGu Road 3188-1
+				Hefei  Anhui  230000
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -59957,6 +59963,18 @@ B4CB57     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+BC-B2-2B   (hex)		EM-Tech
+BCB22B     (base 16)		EM-Tech
+				40, Changwon-daero 1144beon-gil
+				Seongsan-gu Changwon  Gyeongsangnam-do  KR 642-120
+				KR
+
+94-91-7F   (hex)		ASKEY COMPUTER CORP
+94917F     (base 16)		ASKEY COMPUTER CORP
+				10F,No.119,JIANKANG RD,ZHONGHE DIST
+				NEW TAIPEI  TAIWAN  23585
+				TW
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -89344,6 +89362,12 @@ A02833     (base 16)		IEEE Registration Authority
 				12 rue jean-philippe Rameau CS 80001
 				La plaine saint denis   FRANCE  93634
 				FR
+
+0C-7C-28   (hex)		Nokia
+0C7C28     (base 16)		Nokia
+				Karaportti 3
+				Espoo  Finland  02610
+				FI
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119230,6 +119254,12 @@ B0907E     (base 16)		Cisco Systems, Inc
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+58-B5-68   (hex)		SECURITAS DIRECT ESPAÑA, SAU
+58B568     (base 16)		SECURITAS DIRECT ESPAÑA, SAU
+				C/ Priégola, 2
+				Pozuelo de Alarcon  Madrid  28224
+				ES
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -149181,4 +149211,10 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 8C8F8B     (base 16)		China Mobile Chongqing branch
 				6 building, No. 2, Xingguang three road
 				Yubei District  Chongqing  401120
+				CN
+
+68-43-D7   (hex)		Agilecom Photonics Solutions Guangdong Limited
+6843D7     (base 16)		Agilecom Photonics Solutions Guangdong Limited
+				No.1-6, Shenwan Industrial Park, Shenwan Town
+				Zhongshan  Guangdong  528462
 				CN
