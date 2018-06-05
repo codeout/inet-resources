@@ -29981,6 +29981,30 @@ A4ED43     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+48-5F-99   (hex)		Cloud Network Technology (Samoa) Limited
+485F99     (base 16)		Cloud Network Technology (Samoa) Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
+C0-40-04   (hex)		Medicaroid Corporation
+C04004     (base 16)		Medicaroid Corporation
+				1-6-4, Minatojima-minamimachi, Chuo-ku
+				Kobe    650-0047
+				JP
+
+8C-61-A3   (hex)		ARRIS Group, Inc.
+8C61A3     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+70-4F-B8   (hex)		ARRIS Group, Inc.
+704FB8     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -59273,12 +59297,6 @@ A82BB9     (base 16)		Samsung Electronics Co.,Ltd
 				Waterloo  ON  N2L 5R9
 				CA
 
-00-90-7F   (hex)		Watchguard Technologies, Inc.
-00907F     (base 16)		Watchguard Technologies, Inc.
-				505 Fifth Ave South
-				Seattle  WA  98104
-				US
-
 14-57-9F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 14579F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -60016,6 +60034,30 @@ B86A97     (base 16)		Edgecore Networks Corporation
 				3rd Floor, Building 14, No. 518 Xinzhuan Road, Songjiang District,
 				Shanghai    201600
 				CN
+
+EC-79-F2   (hex)		Startel
+EC79F2     (base 16)		Startel
+				Xi Chuang Industrial Park，Second industrial district of Guan Long Village，Xili town ，Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+28-31-66   (hex)		vivo Mobile Communication Co., Ltd.
+283166     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+4C-12-65   (hex)		ARRIS Group, Inc.
+4C1265     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+00-90-7F   (hex)		WatchGuard Technologies, Inc.
+00907F     (base 16)		WatchGuard Technologies, Inc.
+				605 Fifth Ave. S
+				Seattle  WA  98104-3892
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -89333,30 +89375,6 @@ A02833     (base 16)		IEEE Registration Authority
 				San Jose    95119
 				US
 
-7C-D3-0A   (hex)		INVENTEC CORPORATION
-7CD30A     (base 16)		INVENTEC CORPORATION
-				Inventec Building, 66 Hou-Kang Street
-				Taipei    111
-				TW
-
-00-1A-C5   (hex)		Keysight Technologies, Inc.
-001AC5     (base 16)		Keysight Technologies, Inc.
-				1400 Fountaingrove Pkwy.
-				Santa Rosa  CA  95403
-				US
-
-00-E0-5C   (hex)		PHC Corporation
-00E05C     (base 16)		PHC Corporation
-				2-38-5 Nishishimbashi
-				Minato-ku  Tokyo  105-8433
-				JP
-
-00-60-97   (hex)		3COM
-006097     (base 16)		3COM
-				5400 BAYFRONT PLAZA
-				SANTA CLARA  CA  95052
-				US
-
 00-50-DA   (hex)		3COM
 0050DA     (base 16)		3COM
 				5400 BAYFRONT PLAZA
@@ -89387,11 +89405,35 @@ A02833     (base 16)		IEEE Registration Authority
 				SANTA CLARA  CA  95052
 				US
 
+7C-D3-0A   (hex)		INVENTEC CORPORATION
+7CD30A     (base 16)		INVENTEC CORPORATION
+				Inventec Building, 66 Hou-Kang Street
+				Taipei    111
+				TW
+
+00-1A-C5   (hex)		Keysight Technologies, Inc.
+001AC5     (base 16)		Keysight Technologies, Inc.
+				1400 Fountaingrove Pkwy.
+				Santa Rosa  CA  95403
+				US
+
+00-E0-5C   (hex)		PHC Corporation
+00E05C     (base 16)		PHC Corporation
+				2-38-5 Nishishimbashi
+				Minato-ku  Tokyo  105-8433
+				JP
+
 74-34-00   (hex)		MTG Co., Ltd.
 743400     (base 16)		MTG Co., Ltd.
 				MTG No. 2 HIKARI Bldg., 4-13 Honjindori
 				Nakamura-ku, Nagoya  Aichi  453-0041
 				JP
+
+00-60-97   (hex)		3COM
+006097     (base 16)		3COM
+				5400 BAYFRONT PLAZA
+				SANTA CLARA  CA  95052
+				US
 
 20-D8-0B   (hex)		Juniper Networks
 20D80B     (base 16)		Juniper Networks
@@ -106589,12 +106631,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Shinagawa-ku, Tokyo 140-0002    
 				JP
 
-00-01-21   (hex)		Watchguard Technologies, Inc.
-000121     (base 16)		Watchguard Technologies, Inc.
-				605 Fifth Ave. S
-				Seattle  WA  98104-3892
-				US
-
 00-01-28   (hex)		EnjoyWeb, Inc.
 000128     (base 16)		EnjoyWeb, Inc.
 				3000 Scott Blvd. #107
@@ -119326,6 +119362,18 @@ B0907E     (base 16)		Cisco Systems, Inc
 				5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan
 				Wuhan  CN/Hubei  430000
 				CN
+
+88-F7-BF   (hex)		vivo Mobile Communication Co., Ltd.
+88F7BF     (base 16)		vivo Mobile Communication Co., Ltd.
+				#283,BBK Road
+				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+00-01-21   (hex)		WatchGuard Technologies, Inc.
+000121     (base 16)		WatchGuard Technologies, Inc.
+				605 Fifth Ave. S
+				Seattle  WA  98104-3892
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -149243,17 +149291,17 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				TAIPEI    100
 				TW
 
-64-62-8A   (hex)		evon GmbH
-64628A     (base 16)		evon GmbH
-				Frank-Stronach-Straße 8
-				Gleisdorf  Styria  8200
-				AT
-
 24-21-24   (hex)		Nokia
 242124     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+64-62-8A   (hex)		evon GmbH
+64628A     (base 16)		evon GmbH
+				Frank-Stronach-Straße 8
+				Gleisdorf  Styria  8200
+				AT
 
 80-09-02   (hex)		Keysight Technologies, Inc.
 800902     (base 16)		Keysight Technologies, Inc.
@@ -149285,6 +149333,12 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Zhongshan  Guangdong  528462
 				CN
 
+88-34-FE   (hex)		Bosch Automotive Products (Suzhou) Co. Ltd
+8834FE     (base 16)		Bosch Automotive Products (Suzhou) Co. Ltd
+				No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China
+				Suzhou  Jiangsu  215021
+				CN
+
 54-C3-3E   (hex)		Ciena Corporation
 54C33E     (base 16)		Ciena Corporation
 				7035 Ridge Road
@@ -149303,8 +149357,14 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Shenzhen  Guangdong Province  518101
 				CN
 
-88-34-FE   (hex)		Bosch Automotive Products (Suzhou) Co. Ltd
-8834FE     (base 16)		Bosch Automotive Products (Suzhou) Co. Ltd
-				No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China
-				Suzhou  Jiangsu  215021
-				CN
+18-C2-BF   (hex)		BUFFALO.INC
+18C2BF     (base 16)		BUFFALO.INC
+				AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku
+				Nagoya  Aichi Pref.  460-8315
+				JP
+
+D4-AB-82   (hex)		ARRIS Group, Inc.
+D4AB82     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
