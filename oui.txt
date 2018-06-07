@@ -36011,12 +36011,6 @@ F081AF     (base 16)		IRZ AUTOMATION TECHNOLOGIES LTD
 				Seoul    150-871
 				KR
 
-AC-86-74   (hex)		Open Mesh, Inc.
-AC8674     (base 16)		Open Mesh, Inc.
-				5837 NW Skyline Blvd
-				Portland  OR  97229
-				US
-
 14-A9-E3   (hex)		MST CORPORATION
 14A9E3     (base 16)		MST CORPORATION
 				4th Floor Lawford House
@@ -60063,6 +60057,24 @@ EC79F2     (base 16)		Startel
 00907F     (base 16)		WatchGuard Technologies, Inc.
 				605 Fifth Ave. S
 				Seattle  WA  98104-3892
+				US
+
+F0-B0-14   (hex)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+F0B014     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
+				Alt-Moabit 95
+				Berlin  Berlin  10559
+				DE
+
+A8-10-87   (hex)		Texas Instruments
+A81087     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+AC-86-74   (hex)		Open Mesh, Inc.
+AC8674     (base 16)		Open Mesh, Inc.
+				111 SW 5th Ave Ste1150
+				Portland  OR  97204
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -89464,6 +89476,18 @@ FC61E9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
+
+D0-03-DF   (hex)		Samsung Electronics Co.,Ltd
+D003DF     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
+
+6C-C3-74   (hex)		Texas Instruments
+6CC374     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119381,10 +119405,22 @@ B0907E     (base 16)		Cisco Systems, Inc
 				Seattle  WA  98104-3892
 				US
 
-F8-D9-B8   (hex)		Open Mesh, Inc.
-F8D9B8     (base 16)		Open Mesh, Inc.
-				111 SW 5th Ave, #1150
-				Portland  OR  97204
+54-6A-D8   (hex)		Elster Water Metering Limited
+546AD8     (base 16)		Elster Water Metering Limited
+				Mas des Cavaliers II, 471 Rue Charles Nungesser 
+				Mauguio    34130
+				FR
+
+18-62-E4   (hex)		Texas Instruments
+1862E4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+68-47-49   (hex)		Texas Instruments
+684749     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 5C-D2-0B   (hex)		Yytek Co., Ltd.
@@ -119392,6 +119428,12 @@ F8D9B8     (base 16)		Open Mesh, Inc.
 				No.1 Bao Sheng South Road, Room 401, Ao Bei Technology Park, Ling Zhi Center
 				Beijing    100192
 				CN
+
+F8-D9-B8   (hex)		Open Mesh, Inc.
+F8D9B8     (base 16)		Open Mesh, Inc.
+				111 SW 5th Ave Ste1150
+				Portland  OR  97204
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -149381,8 +149423,26 @@ A49B4F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Nagoya  Aichi Pref.  460-8315
 				JP
 
+70-03-7E   (hex)		Technicolor CH USA Inc.
+70037E     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+C4-4F-33   (hex)		Espressif Inc.
+C44F33     (base 16)		Espressif Inc.
+				Room 204, Building 2, 690 Bibo Road, Pudong New Area
+				Shanghai  Shanghai  201203
+				CN
+
 D4-AB-82   (hex)		ARRIS Group, Inc.
 D4AB82     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
+				US
+
+14-59-C0   (hex)		NETGEAR
+1459C0     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
 				US
