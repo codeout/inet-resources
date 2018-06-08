@@ -30011,6 +30011,24 @@ C04004     (base 16)		Medicaroid Corporation
 				Saratoga  CA  95070
 				US
 
+78-05-5F   (hex)		Shenzhen WYC Technology Co., Ltd.
+78055F     (base 16)		Shenzhen WYC Technology Co., Ltd.
+				No.618 Wenzhengxin Building，Hi-tech Park，Nanshan District
+				Shenzhen  Guangdong  518000
+				CN
+
+E0-63-DA   (hex)		Ubiquiti Networks Inc.
+E063DA     (base 16)		Ubiquiti Networks Inc.
+				2580 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
+50-57-9C   (hex)		Seiko Epson Corporation
+50579C     (base 16)		Seiko Epson Corporation
+				2070 Kotobuki Koaka
+				Matsumoto-shi  Nagano-ken  399-8702
+				JP
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60077,6 +60095,12 @@ AC8674     (base 16)		Open Mesh, Inc.
 				Portland  OR  97204
 				US
 
+18-E8-29   (hex)		Ubiquiti Networks Inc.
+18E829     (base 16)		Ubiquiti Networks Inc.
+				2580 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -89488,6 +89512,18 @@ D003DF     (base 16)		Samsung Electronics Co.,Ltd
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
+
+40-C8-1F   (hex)		Shenzhen Xinguodu Technology Co., Ltd.
+40C81F     (base 16)		Shenzhen Xinguodu Technology Co., Ltd.
+				F17A, JinSong Building, Tairan Industrial & Trade Park, Chegongmiao, Shennan Road，Futian District
+				Shenzhen  Guangdong  518040
+				CN
+
+24-FC-E5   (hex)		Samsung Electronics Co.,Ltd
+24FCE5     (base 16)		Samsung Electronics Co.,Ltd
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -119428,6 +119464,18 @@ B0907E     (base 16)		Cisco Systems, Inc
 				No.1 Bao Sheng South Road, Room 401, Ao Bei Technology Park, Ling Zhi Center
 				Beijing    100192
 				CN
+
+74-83-C2   (hex)		Ubiquiti Networks Inc.
+7483C2     (base 16)		Ubiquiti Networks Inc.
+				2580 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
+C0-84-7D   (hex)		AMPAK Technology, Inc.
+C0847D     (base 16)		AMPAK Technology, Inc.
+				No.1,Jen Ai Road Hsinchu Industrial Park, Hukou
+				Hsinchu  Taiwan ROC.  30352 
+				TW
 
 F8-D9-B8   (hex)		Open Mesh, Inc.
 F8D9B8     (base 16)		Open Mesh, Inc.
@@ -149445,4 +149493,10 @@ D4AB82     (base 16)		ARRIS Group, Inc.
 1459C0     (base 16)		NETGEAR
 				350 East Plumeria Drive
 				San Jose  CA  95134
+				US
+
+80-96-21   (hex)		Lenovo
+809621     (base 16)		Lenovo
+				1009 Think Place
+				Morrisvilee  NC  27560
 				US
