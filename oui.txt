@@ -53501,12 +53501,6 @@ C81FBE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				MianYang  SiChuan  PRC 621000
 				CN
 
-E4-1D-2D   (hex)		Mellanox Technologies, Inc.
-E41D2D     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 B8-00-18   (hex)		Htel
 B80018     (base 16)		Htel
 				Dunchon-dearo, Jungwon-gu
@@ -60226,6 +60220,24 @@ F0D7DC     (base 16)		Wesine (Wuhan) Technology Co., Ltd.
 				Xiaomi Building, No.68 Qinghe Middle Street,Haidian District
 				Beijing  Beijing  100085
 				CN
+
+B0-AE-25   (hex)		Varikorea
+B0AE25     (base 16)		Varikorea
+				#505 kolon digital tower aston, gasan, geumcheon
+				seoul    08502
+				KR
+
+E8-93-63   (hex)		Nokia
+E89363     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
+E4-1D-2D   (hex)		Mellanox Technologies, Inc.
+E41D2D     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -83612,18 +83624,6 @@ B4A984     (base 16)		Symantec Corporation
 				Piscataway  NJ  08554
 				US
 
-24-8A-07   (hex)		Mellanox Technologies, Inc.
-248A07     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-00-25-8B   (hex)		Mellanox Technologies, Inc.
-00258B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 3C-2D-B7   (hex)		Texas Instruments
 3C2DB7     (base 16)		Texas Instruments
 				12500 TI Boulevard, MS 8723
@@ -84685,12 +84685,6 @@ F0219D     (base 16)		Cal-Comp Electronics & Communications Company Ltd.
 				NO.1199 Bin An Road,Binjiang District,HangZhou,P.R.China
 				HangZhou  ZheJiang  310053
 				CN
-
-EC-0D-9A   (hex)		Mellanox Technologies, Inc.
-EC0D9A     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
 
 00-00-64   (hex)		Yokogawa Digital Computer Corporation
 000064     (base 16)		Yokogawa Digital Computer Corporation
@@ -86623,12 +86617,6 @@ D49CF4     (base 16)		Palo Alto Networks
 				32 Xuanwumen West Street,Xicheng District
 				Beijing    100053
 				CN
-
-50-6B-4B   (hex)		Mellanox Technologies, Inc.
-506B4B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
 
 F8-C1-20   (hex)		Xi'an Link-Science Technology Co.,Ltd
 F8C120     (base 16)		Xi'an Link-Science Technology Co.,Ltd
@@ -89673,6 +89661,36 @@ D003DF     (base 16)		Samsung Electronics Co.,Ltd
 20AD56     (base 16)		Continental Automotive Systems Inc.
 				21440 W. Lake Cook Rd.
 				Deer Park  IL  60010
+				US
+
+18-38-AE   (hex)		CONSPIN SOLUTION
+1838AE     (base 16)		CONSPIN SOLUTION
+				2F, Geonwoong Bldg. 109, Gwanak-ro, Gwanak-gu
+				Seoul    08833
+				KR
+
+00-25-8B   (hex)		Mellanox Technologies, Inc.
+00258B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+24-8A-07   (hex)		Mellanox Technologies, Inc.
+248A07     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+EC-0D-9A   (hex)		Mellanox Technologies, Inc.
+EC0D9A     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+50-6B-4B   (hex)		Mellanox Technologies, Inc.
+506B4B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -113078,18 +113096,6 @@ DC1A01     (base 16)		Ecoliv Technology ( Shenzhen ) Ltd.
 				Shenzhen  Guangdong  518109
 				CN
 
-7C-FE-90   (hex)		Mellanox Technologies, Inc.
-7CFE90     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-00-02-C9   (hex)		Mellanox Technologies, Inc.
-0002C9     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 D0-5F-B8   (hex)		Texas Instruments
 D05FB8     (base 16)		Texas Instruments
 				12500 TI BLVD
@@ -119667,6 +119673,24 @@ C0847D     (base 16)		AMPAK Technology, Inc.
 04EB40     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+7C-0C-F6   (hex)		Guangdong Huiwei High-tech Co., Ltd.
+7C0CF6     (base 16)		Guangdong Huiwei High-tech Co., Ltd.
+				E Block No. 1 in Ecological Area in Puzhai NewArea
+				Fengshun County, Meizhou  Guangdong province  514000
+				CN
+
+00-02-C9   (hex)		Mellanox Technologies, Inc.
+0002C9     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+7C-FE-90   (hex)		Mellanox Technologies, Inc.
+7CFE90     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -143507,12 +143531,6 @@ D0FF50     (base 16)		Texas Instruments
 				Shenzhen  Guangdong  518125
 				CN
 
-F4-52-14   (hex)		Mellanox Technologies, Inc.
-F45214     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 68-9E-19   (hex)		Texas Instruments
 689E19     (base 16)		Texas Instruments
 				12500 TI BLVD
@@ -149345,12 +149363,6 @@ D46761     (base 16)		United Gulf Gate Co.
 				Kuwait    0000
 				KW
 
-98-03-9B   (hex)		Mellanox Technologies, Inc.
-98039B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 F8-27-2E   (hex)		Mercku
 F8272E     (base 16)		Mercku
 				509 Beaver Creek Rd.
@@ -149733,4 +149745,22 @@ BC3F4E     (base 16)		Teleepoch Ltd
 00EABD     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
+				US
+
+C8-47-82   (hex)		Areson Technology Corp.
+C84782     (base 16)		Areson Technology Corp.
+				11F., No. 646, Sec. 5, Chongxin Rd., Sanchong District
+				New Taipei City    24158
+				TW
+
+98-03-9B   (hex)		Mellanox Technologies, Inc.
+98039B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+F4-52-14   (hex)		Mellanox Technologies, Inc.
+F45214     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
 				US
