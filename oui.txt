@@ -25334,9 +25334,6 @@ F0D2F1     (base 16)		Amazon Technologies Inc.
 				Reno  NV  89507
 				US
 
-F0-A2-25   (hex)		Private
-F0A225     (base 16)		Private
-
 E0-48-AF   (hex)		Premietech Limited
 E048AF     (base 16)		Premietech Limited
 				Unit 805, Tower 3, Enterprise Square I
@@ -30196,6 +30193,15 @@ CCBBFE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+0C-41-01   (hex)		Ruichi Auto Technology (Guangzhou) Co., Ltd.
+0C4101     (base 16)		Ruichi Auto Technology (Guangzhou) Co., Ltd.
+				No. 171 Haibin Road, Nansha District, Guangzhou, China
+				Guangzhou  Guangdong Province  511400
+				CN
+
+F0-A2-25   (hex)		Private
+F0A225     (base 16)		Private
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -89981,6 +89987,12 @@ D4BD1E     (base 16)		5VT Technologies,Taiwan LTd.
 				Dongguan    523808
 				CN
 
+38-30-F9   (hex)		LG Electronics (Mobile Communications)
+3830F9     (base 16)		LG Electronics (Mobile Communications)
+				60-39, Gasan-dong, Geumcheon-gu
+				Seoul    153-801
+				KR
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -120119,6 +120131,18 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				San Jose  CA  94568
 				US
 
+14-EF-CF   (hex)		SCHREDER
+14EFCF     (base 16)		SCHREDER
+				Rue Lusambo 67
+				Brussels    1190
+				BE
+
+54-80-28   (hex)		Hewlett Packard Enterprise
+548028     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -143045,12 +143069,6 @@ A09D91     (base 16)		SoundBridge
 				Newcastle upon Tyne    NE3 3PF
 				GB
 
-2C-21-D7   (hex)		IMAX Corporation
-2C21D7     (base 16)		IMAX Corporation
-				4320 La Jolla Village Drive  Suite #250
-				San Diego  CA  92122
-				US
-
 00-26-F7   (hex)		Nivetti Systems Pvt. Ltd.
 0026F7     (base 16)		Nivetti Systems Pvt. Ltd.
 				#727,8th Main, JP Nagar 3rd Phase
@@ -150238,3 +150256,9 @@ FCB6D8     (base 16)		Apple, Inc.
 				No.6, 4th Yunpu Road, Yunpu industry District
 				Gunagzhou  Guangdong  510530
 				CN
+
+2C-21-D7   (hex)		IMAX Corporation
+2C21D7     (base 16)		IMAX Corporation
+				2525 Speakman Drive
+				Mississauga  Ontario  L5K 1B1
+				CA
