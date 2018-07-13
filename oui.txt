@@ -30236,6 +30236,12 @@ A83FA1     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+B8-31-B5   (hex)		Microsoft Corporation
+B831B5     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND  WA  98052
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -90103,6 +90109,24 @@ A0A4C5     (base 16)		Intel Corporate
 				16/F, CEO Tower, 77 Wing Hong Street, Kowloon
 				Hong Kong    00000
 				HK
+
+A4-11-94   (hex)		Lenovo
+A41194     (base 16)		Lenovo
+				1009 Think Place
+				Morrisvilee  NC  27560
+				US
+
+94-EA-EA   (hex)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
+94EAEA     (base 16)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
+				Av. Buriti, 1900 – Setor B – Distrito Industrial
+				Manaus  Amazonas  69075-000
+				BR
+
+50-76-AF   (hex)		Intel Corporate
+5076AF     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -150451,3 +150475,9 @@ F4D108     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+00-B1-E3   (hex)		Cisco Systems, Inc
+00B1E3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
