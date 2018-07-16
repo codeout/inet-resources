@@ -27218,7 +27218,7 @@
 28745	SUTTK-AS, RU
 28746	TELCOROUTE, TR
 28747	EASYHOST-COLO-AS, BE
-28748	ALPHACRON-AS AlphaCron Datensysteme AS, DE
+28748	ALPHACRON-AS AlphaCron Datensysteme, DE
 28749	MSC-AS Data Center, CH
 28750	VINNEST-AS VinNest ISP Autonomous System, UA
 28751	CAUCASUS-NET-AS, GE
@@ -28508,7 +28508,7 @@
 30212	HYPERMEDIA-SYSTEMS - Hypermedia Systems, Inc., US
 30213	CHARTER - Charter Communications, US
 30214	AS-IRONP-CASP - Cisco Systems Ironport Division, US
-30215	AS-IRONP-ELM - Cisco Systems Ironport Division, US
+30215	AS-CISCOHPS-APAC - Cisco Systems Ironport Division, US
 30216	STARMAX - StarMax Corporation, US
 30217	DESYNC - Desync Networks, US
 30218	AS-VICOM - Vicom Computer Services Inc, US
@@ -37709,6 +37709,7 @@
 40229	MAINEHEALTH-MAINE-MEDICAL-CENTER - MaineHealth Maine Medical Center, US
 40230	COLUMBUS-TEL-KS - Columbus Telephone Company Incorporated, US
 40231	ETHRN1 - Ethr.Net LLC, US
+40232	MIDSTATES-WIRELESS - Mid-States Services, LLC., US
 40233	SLOM-INC - SLOMIN'S INC., US
 40234	RAPIDPARTS - Rapidparts, Inc., US
 40235	WEXFORD-CAPITAL-LLC - Wexford Capital LLC, US
@@ -51263,7 +51264,7 @@
 53948	ONEIRIC - Oneiric Systems, LLC, US
 53949	BCT-AS1 - Benton Cooperative Telephone Company, US
 53950	ASHEREFARGO - HERE North America LLC, US
-53951	GLMX-AS - GLM Operations LLC, US
+53951	GLMX-AS - GLMX, LLC, US
 53952	LMISP - Lockheed Martin, US
 53953	PROD-MAIN-DR - OptionMonster Holdings, Inc, US
 53954	AAC-DAL-TP-9 - Taylor Publishing Company, US
@@ -51743,7 +51744,7 @@
 54428	FRD-ASN - DRS Technologies, Inc., US
 54429	WAVEFRONT - Wavefront Innovation Society, CA
 54430	CRL-CORP - Clinical Reference Laboratory, US
-54431	AJUBEO - Ajubeo, LLC, US
+54431	GREENHOUSEDATA-AJUBEO - Green House Data, Inc., US
 54432	PARALLELS - Parallels Inc, US
 54433	-Reserved AS-, ZZ
 54434	WNMC - WNM Communications, US
@@ -54511,7 +54512,6 @@
 57322	RO-YOUWOWME, RO
 57323	ASKUBANOPTPRODTORG, RU
 57324	MASARAT, IQ
-57325	-Reserved AS-, ZZ
 57326	ASN-INFOTREAT, RO
 57327	FOILHAT-ANYCAST, SE
 57328	MIR-SYAZI, RU
@@ -55182,7 +55182,6 @@
 57993	HLINK-AS, RO
 57994	ASN-IDCNET, GB
 57995	IT4BUSINESS-AS, UA
-57996	-Reserved AS-, ZZ
 57997	NEXTHOP, NO
 57998	ANFA-, PL
 57999	DATANETISP-AS, UA
@@ -75421,7 +75420,6 @@
 204213	NETMIHAN, IR
 204214	SIC-ASN, CZ
 204215	NELT, RS
-204216	-Reserved AS-, ZZ
 204217	SLAVIA-AS, RU
 204218	RUHNET, DE
 204219	PETROLESPORT-AS, RU
@@ -88153,6 +88151,7 @@
 396951	TC-EQ-DA3 - TransCanada Pipelines Ltd., CA
 396952	NET253 - Net253, LLC, US
 396953	GRUNDY-IP-TRANSPORT - Grundy IP Transport Inc., US
+396958	SBT - Sterling Bank & Trust, FSB, US
 396959	APPLE-BANK-FOR-SAVINGS - Apple Bank for Savings, US
 396960	TC-EQ-CH2 - TransCanada Pipelines Ltd., CA
 397193	VRSN-AC28 - VeriSign Global Registry Services, US

@@ -60524,12 +60524,6 @@ C07878     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 				Zhuhai  Guangdong  519180
 				CN
 
-F4-DB-E6   (hex)		Cisco Systems, Inc
-F4DBE6     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 E0-46-E5   (hex)		Gosuncn Technology Group Co., Ltd.
 E046E5     (base 16)		Gosuncn Technology Group Co., Ltd.
 				6F, 2819 KaiChuang Blvd., Science Town, Huangpu District
@@ -60541,6 +60535,12 @@ E046E5     (base 16)		Gosuncn Technology Group Co., Ltd.
 				Systems Engineering
 				FÃ¼rth  Deutschlang  90766
 				DE
+
+F4-DB-E6   (hex)		Cisco Systems, Inc
+F4DBE6     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -120272,17 +120272,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-54-80-28   (hex)		Hewlett Packard Enterprise
-548028     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
-				US
-
 10-B9-F7   (hex)		Niko-Servodan
 10B9F7     (base 16)		Niko-Servodan
 				Stenager 5
 				Sønderborg    6400
 				DK
+
+54-80-28   (hex)		Hewlett Packard Enterprise
+548028     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -150446,17 +150446,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-A4-FC-77   (hex)		Mega Well Limited
-A4FC77     (base 16)		Mega Well Limited
-				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
-				Chongqing  Chongqing  401332
-				CN
-
 E4-B9-7A   (hex)		Dell Inc.
 E4B97A     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+A4-FC-77   (hex)		Mega Well Limited
+A4FC77     (base 16)		Mega Well Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
