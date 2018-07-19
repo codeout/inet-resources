@@ -60542,12 +60542,6 @@ F4DBE6     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-DC-F4-01   (hex)		Dell Inc.
-DCF401     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 F4-95-1B   (hex)		Hefei Radio Communication Technology Co., Ltd 
 F4951B     (base 16)		Hefei Radio Communication Technology Co., Ltd 
 				 No.108, YinXing Road, High-tech Development Zone 
@@ -60565,6 +60559,12 @@ E85AD1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
+
+DC-F4-01   (hex)		Dell Inc.
+DCF401     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -120386,6 +120386,12 @@ BC9325     (base 16)		Ningbo Joyson Preh Car Connect Co.,Ltd.
 				Ningbo   Zhejiang  315040
 				CN
 
+2C-61-04   (hex)		SHENZHEN FENGLIAN TECHNOLOGY CO., LTD.
+2C6104     (base 16)		SHENZHEN FENGLIAN TECHNOLOGY CO., LTD.
+				ORIENTAL CYBERPORT, HIGHTECH 6 ROAD
+				SHENZHEN  GUANGDONG  518057
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -150494,17 +150500,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-E4-B9-7A   (hex)		Dell Inc.
-E4B97A     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 A4-FC-77   (hex)		Mega Well Limited
 A4FC77     (base 16)		Mega Well Limited
 				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
 				Chongqing  Chongqing  401332
 				CN
+
+E4-B9-7A   (hex)		Dell Inc.
+E4B97A     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
