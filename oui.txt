@@ -20816,12 +20816,6 @@ A8CE90     (base 16)		CVC
 				RICHARDSON  TX  75081
 				
 
-00-00-BD   (hex)		MITSUBISHI CABLE COMPANY
-0000BD     (base 16)		MITSUBISHI CABLE COMPANY
-				520 MADISON AVENUE
-				NEW YORK  NY  10022
-				US
-
 00-00-37   (hex)		OXFORD METRICS LIMITED
 000037     (base 16)		OXFORD METRICS LIMITED
 				UNIT 8, 7 WEST WAY,
@@ -30253,6 +30247,12 @@ E8ADA6     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+00-00-BD   (hex)		Mitsubishi Cable Industries, Ltd. / Ryosei Systems
+0000BD     (base 16)		Mitsubishi Cable Industries, Ltd. / Ryosei Systems
+				 8, NISHINO-CHO, HIGASHI-MUKOJIMA
+				AMAGASAKI  HYOGO  660-0856
+				JP
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -60500,12 +60500,6 @@ C89C13     (base 16)		Inspiremobile
 				Anyang-si  Gyeonggi-do  14057
 				KR
 
-84-32-6F   (hex)		AVA Electronics Co., Ltd.
-84326F     (base 16)		AVA Electronics Co., Ltd.
-				Science town luogang district guangzhou city branch bead road 232 profit people park 301, building 2
-				guangzhou   guangdong  510000
-				CN
-
 E0-5D-5C   (hex)		Oy Everon Ab
 E05D5C     (base 16)		Oy Everon Ab
 				Teräskatu 8
@@ -60554,6 +60548,12 @@ F4DBE6     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+DC-F4-01   (hex)		Dell Inc.
+DCF401     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 F4-95-1B   (hex)		Hefei Radio Communication Technology Co., Ltd 
 F4951B     (base 16)		Hefei Radio Communication Technology Co., Ltd 
 				 No.108, YinXing Road, High-tech Development Zone 
@@ -60572,12 +60572,6 @@ E85AD1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan  Hubei  430074
 				CN
 
-DC-F4-01   (hex)		Dell Inc.
-DCF401     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
-
 BC-75-96   (hex)		Beijing Broadwit Technology Co., Ltd.
 BC7596     (base 16)		Beijing Broadwit Technology Co., Ltd.
 				Beijing Changping District Beijing International Information Industry Base Jizhida Building 3rd Floor Southeast
@@ -60588,6 +60582,24 @@ BC7596     (base 16)		Beijing Broadwit Technology Co., Ltd.
 6C2CDC     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
 				7F,Block A,Skyworth Building,
 				Shenzhen  Guangdong  518057
+				CN
+
+CC-72-86   (hex)		Xi'an Fengyu Information Technology Co., Ltd.
+CC7286     (base 16)		Xi'an Fengyu Information Technology Co., Ltd.
+				5F, Block A, STRC, No.10, Zhangba 5th Road, Yanta
+				Xi'an  Shaanxi  710077
+				CN
+
+04-92-26   (hex)		ASUSTek COMPUTER INC.
+049226     (base 16)		ASUSTek COMPUTER INC.
+				15,Li-Te Rd., Peitou, Taipei 112, Taiwan
+				Taipei  Taiwan  112
+				TW
+
+84-32-6F   (hex)		GUANGZHOU AVA ELECTRONICS TECHNOLOGY CO.,LTD 
+84326F     (base 16)		GUANGZHOU AVA ELECTRONICS TECHNOLOGY CO.,LTD 
+				Science town luogang district guangzhou city branch bead road 232 profit people park 301, building 2
+				guangzhou   guangdong  510000
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -90194,6 +90206,12 @@ F43909     (base 16)		Hewlett Packard
 				Houston  TX  77070
 				US
 
+D0-B6-0A   (hex)		Xingluo Technology Company  Limited
+D0B60A     (base 16)		Xingluo Technology Company  Limited
+				28F, Building A, Aerospace Science And Technology Square, Nanshan District
+				ShenZhen  GuangDong   518067
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -91399,12 +91417,6 @@ BC9C31     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-90-C9-9B   (hex)		Recore Systems
-90C99B     (base 16)		Recore Systems
-				Capitool 5
-				Enschede  Overijssel  7521 PL
-				NL
 
 5C-B5-59   (hex)		CNEX Labs
 5CB559     (base 16)		CNEX Labs
@@ -120439,6 +120451,24 @@ E013B5     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
+
+54-83-3A   (hex)		Zyxel Communications Corporation
+54833A     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
+98-D3-E7   (hex)		Netafim L
+98D3E7     (base 16)		Netafim L
+				Kibutz Magal
+				Kibutz Magal    38845
+				IL
+
+90-C9-9B   (hex)		Tesorion Nederland B.V.
+90C99B     (base 16)		Tesorion Nederland B.V.
+				Auke Vleerstraat 6-D
+				Enschede    7521 PG
+				NL
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -150548,17 +150578,17 @@ FCB6D8     (base 16)		Apple, Inc.
 				Waldenburg    74638
 				DE
 
-A4-FC-77   (hex)		Mega Well Limited
-A4FC77     (base 16)		Mega Well Limited
-				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
-				Chongqing  Chongqing  401332
-				CN
-
 E4-B9-7A   (hex)		Dell Inc.
 E4B97A     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+A4-FC-77   (hex)		Mega Well Limited
+A4FC77     (base 16)		Mega Well Limited
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
 
 0C-A2-F4   (hex)		Chameleon Technology (UK) Limited
 0CA2F4     (base 16)		Chameleon Technology (UK) Limited
@@ -150590,6 +150620,12 @@ F4D108     (base 16)		Intel Corporate
 				Beijing  Beijing  100044
 				CN
 
+1C-FD-08   (hex)		IEEE Registration Authority
+1CFD08     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 0C-1C-19   (hex)		LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD
 0C1C19     (base 16)		LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD
 				Building B, No. 42 Xingye Road, Phoenix First Industrial Zone, Fuyong, Baoan District
@@ -150608,14 +150644,14 @@ F4D108     (base 16)		Intel Corporate
 				Suwon  Gyeonggi-Do  16677
 				KR
 
-1C-FD-08   (hex)		IEEE Registration Authority
-1CFD08     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 78-35-A0   (hex)		Zurn Industries LLC
 7835A0     (base 16)		Zurn Industries LLC
 				1747 Commerce Way
 				Paso Robles  CA  93446
 				US
+
+64-EE-B7   (hex)		Netcore Technology Inc
+64EEB7     (base 16)		Netcore Technology Inc
+				Building 6, Baolong Plant, Able Technology Park, Longgang District, 
+				Shenzhen    518116
+				CN
