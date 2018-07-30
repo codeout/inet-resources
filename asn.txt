@@ -11101,7 +11101,7 @@
 11548	HERITAGE-UNIV-AS - Heritage University, US
 11549	TWRS-TN - Towerstream I, Inc., US
 11550	SDL-20-AS - Smithville Digital, LLC, US
-11551	SINEP-BROADST-AS - Sinep Corporation, US
+11551	SINEP-BROADST-AS - Frontline Communications, US
 11552	PHOENIX-LIFE-INSURANCE-COMPANY - Phoenix Life Insurance, Inc., US
 11553	MANNAWEB - Mannatech INC., US
 11554	SOLIDNETWORK-AS-01 - SolidNetwork Technologies, Inc., US
@@ -11328,7 +11328,7 @@
 11775	CRV-INC - CRV, Inc., US
 11776	ATLANTICBB-JOHNSTOWN - Atlantic Broadband Finance, LLC, US
 11777	NCAOC - North Carolina Adminstrative Office of the Courts, US
-11778	SINEP-PR-NET - Sinep Corporation, US
+11778	SINEP-PR-NET - Frontline Communications, US
 11779	MCC-GROUPZ - Morris Communications Corporation, US
 11780	BASIN-NETWORKING - Basin Networking, US
 11781	NETRADA-NA - TradeGlobal, LLC, US
@@ -17951,7 +17951,7 @@
 18899	AS-JDASOFTSCT - JDA Software Group Inc., US
 18900	CQG-INC - CQG, Inc., US
 18901	SAMCODC1 - Samco Software Inc., CA
-18902	CONSULATE-IT - CMC II, LLC, US
+18902	CMC-II-LLC - CMC II, LLC, US
 18903	LENDINGTREE - LENDING TREE, US
 18904	CONVERGEDTECHGROUP - Converged Technology Group Inc., US
 18905	VCI-18905 - Virtual Citadel Inc., US
@@ -30685,7 +30685,7 @@
 32571	TLSNET-A - tls.net, Inc., US
 32572	AVENIR - Avenir Solutions Inc., US
 32573	ASN-TNE-32573 - TNE Telephone, US
-32574	AUTH - Symantec Corporation, US
+32574	DIGI-AS32574 - DigiCert, Inc., US
 32575	DIGICERT - DigiCert, Inc., US
 32576	LOANMART - 1-800LoanMart, US
 32577	KROGER - The Kroger Co., US
@@ -31497,7 +31497,7 @@
 33383	HPES - Hewlett-Packard Company, US
 33384	TEVA-NA - Teva Pharmaceuticals USA, INC, US
 33385	-Reserved AS-, ZZ
-33386	EFRONTIER-0 - Efficient Frontier, Inc., US
+33386	EFRONTIER-0 - Adobe Systems Inc., US
 33387	DATASHACK - DataShack, LC, US
 33388	CSN - Community School of Naples, Inc., US
 33389	COLLEGEBOREAL - College Boreal, CA
@@ -31608,7 +31608,7 @@
 33494	IHNET - IHNetworks, LLC, US
 33495	ASN-FCIX-RS - Fremont Cabal Internet Exchange, US
 33496	ISC - ISC CONSTRUCTORS, LLC, US
-33497	SEMO-COM - Semo Communications Inc, US
+33497	SEMO-COM - Charter Communications, US
 33498	TALCOTT-RESOLUTION-INSURANCE - Talcott Resolution Life Insurance Company, US
 33499	LHP-NET - LHP Hospital Group Inc., US
 33500	WIS-INC - WAITEX INFORMATION SYSTEMS, INC., US
@@ -50732,7 +50732,7 @@
 53398	BERKA-ASN - Berkadia Commercial Mortgage LLC, US
 53399	CLARKSTOWN-CENTRAL-SCHOOL-DISTRICT - Clarkstown Central School District, US
 53400	DBRIN - GTT 360, Inc., US
-53401	AS53401 - Symantec Corporation, US
+53401	DIGI-AS53401 - DigiCert, Inc., US
 53402	DSCLOGISTICS - DSC Logistics, Inc., US
 53403	MOUNT-ROYAL-COLLEGE - Mount Royal University, CA
 53404	GEARTELECOM-LLC - Gear Telecom LLC, US
@@ -59969,6 +59969,7 @@
 62929	186-ASN - 186 Communications, LLC., US
 62930	-Reserved AS-, ZZ
 62931	PLAZA-LAS-AMERICAS - Plaza Las Americas, Inc., PR
+62932	VISALIAUNIFIEDSCHOOLDISTRICT - VUSD, US
 62933	SMC-AS - Statewide Central Station, US
 62934	FFBF-PROD01 - First Federal Bank of Florida, US
 62935	DNL-AS-001 - Discovery Networks LLC, US
@@ -60505,7 +60506,7 @@
 63466	AS-COMMU-166 - Communication Construction Services Inc., US
 63467	PADI-WW - PADI Worldwide Corp, US
 63468	INFINITTNA - Infinitt North America, Inc., US
-63469	SRLABS - S R Labs LLC, US
+63469	VELA-TRADING-SYSTEMS - VELA TRADING SYSTEMS LLC, US
 63470	DATAVALET-ASN - Datavalet Technologies Inc., CA
 63471	HIDGLOBAL-AS - HID Global Corporation, US
 63472	EINETWORK - eiNetwork, US
@@ -60960,7 +60961,7 @@
 64009	HK36CLOUD-HK 18/F, Well Tech Centre, HK
 64010	BASICBRIX-AS-AP BasicBrix LLP, SG
 64012	MSCML-AS-AP Meghna Seeds Crushing Mills Ltd, BD
-64013	PING-HK Ping Network Limited, HK
+64013	PING-GLOBAL Ping Global ASN, HK
 64014	MORGANSFINANCIAL-AS-AP MORGANS FINANCIAL LIMITED, AU
 64015	PUREIP-AS-AP Pure IP Limited, NZ
 64016	ATT-AS-AP AT&T, AU
@@ -63662,7 +63663,7 @@
 132718	SAMARADPTYLTD-AS-AP Samarad Pty Ltd t/as, AU
 132719	CWDDTCL-AS-AP Chengdu West Dimension Digital Technology Co., Ltd, CN
 132720	EXPN-AS-AP Experian Marketing Services (Malaysia) Sdn. Bhd., MY
-132721	PING-GLOBAL-AS Ping Network Limited Global POP, NL
+132721	PING-GLOBAL-AS Ping Global Amsterdam POP ASN, NL
 132722	ITL-AS-AP Intellium Technology Limited, NZ
 132723	TDC-AS-AP Tararua District Council, NZ
 132724	NARKOV-AS-AP NARKOV Pty Ltd, AU
@@ -68716,7 +68717,6 @@
 196711	-Reserved AS-, ZZ
 196713	ABANSYS_AND_HOSTYTEC-AS C./ Charles Robert Darwin, 11, ES
 196714	TNETKOM-AS, DE
-196715	-Reserved AS-, ZZ
 196716	PEGASCRIMEA, UA
 196719	NEWLINE-TELECOM-AS, RU
 196721	ASO-NET, RU
@@ -70037,7 +70037,6 @@
 198176	PUW-PL-AS1, PL
 198177	EKINO-AS, FR
 198179	ILYICH-AS, UA
-198180	-Reserved AS-, ZZ
 198181	OPENTECH-NSK, RU
 198182	VLADIVOSTOK-TELECOM, RU
 198183	NAWAND-TELECOM, IQ
@@ -70083,7 +70082,6 @@
 198226	KP-AS, RU
 198227	NEWTELECOM-AS, UA
 198228	STS-AS, BG
-198229	-Reserved AS-, ZZ
 198230	E-CHO-AS, PL
 198231	ASN-INFORMEL-, PL
 198232	TELEKAB-AS, PL
@@ -76528,7 +76526,7 @@
 205145	STARTTELECOM, UA
 205146	AVANET-AS, PL
 205147	OPTIMAFIBRE, FR
-205148	PSHQ, PL
+205148	PSHQ # ----------UPSTREAM----------, PL
 205149	COMARCH, FR
 205150	-Reserved AS-, ZZ
 205151	FIBRA, SE
@@ -84587,6 +84585,7 @@
 328341	Capricom-AS, ZA
 328342	NaafiHelpdesk-AS, ZA
 328343	Netsol-AS, BW
+328344	STETechplus-AS, CG
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
