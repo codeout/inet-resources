@@ -30308,6 +30308,18 @@ B82CA0     (base 16)		Resideo
 				Melville  NY  11747
 				US
 
+AC-AE-19   (hex)		Roku, Inc
+ACAE19     (base 16)		Roku, Inc
+				150 Winchester Circle
+				Los Gatos  CA  95032
+				US
+
+60-A7-30   (hex)		Shenzhen Yipinfang Internet Technology Co.,Ltd
+60A730     (base 16)		Shenzhen Yipinfang Internet Technology Co.,Ltd
+				Shenzhen Konka R & D Building, 28th floor 21
+				GuangDong  Nanshan District  518000
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60692,11 +60704,11 @@ A887B3     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-00-D0-2D   (hex)		Resideo
-00D02D     (base 16)		Resideo
-				2 Corporate Center Dr.
-				Melville  NY  11747
-				US
+70-BB-E9   (hex)		Xiaomi Communications Co Ltd
+70BBE9     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 10-12-B4   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 1012B4     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
@@ -60708,6 +60720,12 @@ A887B3     (base 16)		Samsung Electronics Co.,Ltd
 3C9BD6     (base 16)		Vizio, Inc
 				39 Tesla
 				Irvine  CA  92618
+				US
+
+00-D0-2D   (hex)		Resideo
+00D02D     (base 16)		Resideo
+				2 Corporate Center Dr.
+				Melville  NY  11747
 				US
 
 58-46-E1   (hex)		Baxter International Inc
@@ -90338,6 +90356,18 @@ C0132B     (base 16)		Sichuan Changhong Electric Ltd.
 				Gumi  Gyeongbuk  730-350
 				KR
 
+80-69-40   (hex)		LEXAR CO.,LIMITED
+806940     (base 16)		LEXAR CO.,LIMITED
+				10TH FLOOR,CHINA AEROSPACE CENTRE,143 HOI BUN ROAD,KWUN TONG,KOWLOON, HONG KONG
+				HONG KONG    999077
+				HK
+
+A4-26-55   (hex)		LTI Motion (Shanghai) Co., Ltd.
+A42655     (base 16)		LTI Motion (Shanghai) Co., Ltd.
+				NO.80, Lane 2927, LaiYang Road Pudong New District
+				Shanghai  Shanghai  200137
+				CN
+
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -99037,12 +99067,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				C8-C9, Community Center,
 				New Delhi    110058
 				IN
-
-00-23-50   (hex)		LynTec
-002350     (base 16)		LynTec
-				8401 Melrose Drive
-				Lenexa  KS  66214
-				US
 
 00-23-49   (hex)		Helmholtz Centre Berlin for Material and Energy
 002349     (base 16)		Helmholtz Centre Berlin for Material and Energy
@@ -120638,17 +120662,41 @@ D43260     (base 16)		GoPro
 				San Mateo  CA  94402
 				US
 
-64-7B-CE   (hex)		Samsung Electronics Co.,Ltd
-647BCE     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+78-70-52   (hex)		Welotec GmbH
+787052     (base 16)		Welotec GmbH
+				zum Hagenbach 7
+				Laer  NRW  48366
+				DE
 
 50-DB-3F   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 50DB3F     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				SONGGANG
 				SHENZHEN  GUANGDONG  518105
 				CN
+
+64-7B-CE   (hex)		Samsung Electronics Co.,Ltd
+647BCE     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+00-23-50   (hex)		RDC, Inc. dba LynTec
+002350     (base 16)		RDC, Inc. dba LynTec
+				8385 Melrose Drive
+				Lenexa  KS  66214
+				US
+
+98-5D-82   (hex)		Arista Networks
+985D82     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+D8-D6-F3   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+D8D6F3     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -150884,6 +150932,12 @@ B033A6     (base 16)		Juniper Networks
 				Dallas  TX  75243
 				US
 
+10-81-B4   (hex)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
+1081B4     (base 16)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
+				No. 39, Jian Shan Road
+				Changsha  Hunan  410205
+				CN
+
 F4-7D-EF   (hex)		Samsung Electronics Co.,Ltd
 F47DEF     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
@@ -150902,8 +150956,14 @@ DCF756     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
-10-81-B4   (hex)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
-1081B4     (base 16)		Hunan Greatwall Galaxy Science and Technology Co.,Ltd.
-				No. 39, Jian Shan Road
-				Changsha  Hunan  410205
+64-F8-1C   (hex)		Huawei Technologies Co., Ltd.
+64F81C     (base 16)		Huawei Technologies Co., Ltd.
+				 Bantian, Longgang District, Shenzhen, 518129, P.R.C
+				Shenzhen  GUANGDONG Province  518000
 				CN
+
+74-5F-90   (hex)		LAM Technologies
+745F90     (base 16)		LAM Technologies
+				Viale Ludovico Ariosto, 492/D
+				Sesto Fiorentino  FIRENZE  50019
+				IT
