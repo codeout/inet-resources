@@ -30146,17 +30146,23 @@ B831B5     (base 16)		Microsoft Corporation
 				CHENGDU  SICHUAN  611330
 				CN
 
+E8-AD-A6   (hex)		Sagemcom Broadband SAS
+E8ADA6     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 00-00-BD   (hex)		Mitsubishi Cable Industries, Ltd. / Ryosei Systems
 0000BD     (base 16)		Mitsubishi Cable Industries, Ltd. / Ryosei Systems
 				 8, NISHINO-CHO, HIGASHI-MUKOJIMA
 				AMAGASAKI  HYOGO  660-0856
 				JP
 
-E8-AD-A6   (hex)		Sagemcom Broadband SAS
-E8ADA6     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+70-6D-15   (hex)		Cisco Systems, Inc
+706D15     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 84-E5-D8   (hex)		Guangdong UNIPOE IoT Technology Co.,Ltd.
 84E5D8     (base 16)		Guangdong UNIPOE IoT Technology Co.,Ltd.
@@ -30181,12 +30187,6 @@ E8ADA6     (base 16)		Sagemcom Broadband SAS
 				256 Yang Guang Street, Neihu
 				Taipei  Taiwan  11491
 				TW
-
-70-6D-15   (hex)		Cisco Systems, Inc
-706D15     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
 
 D8-96-85   (hex)		GoPro
 D89685     (base 16)		GoPro
@@ -30224,24 +30224,6 @@ B82CA0     (base 16)		Resideo
 				Melville  NY  11747
 				US
 
-AC-AE-19   (hex)		Roku, Inc
-ACAE19     (base 16)		Roku, Inc
-				150 Winchester Circle
-				Los Gatos  CA  95032
-				US
-
-60-A7-30   (hex)		Shenzhen Yipinfang Internet Technology Co.,Ltd
-60A730     (base 16)		Shenzhen Yipinfang Internet Technology Co.,Ltd
-				Shenzhen Konka R & D Building, 28th floor 21
-				GuangDong  Nanshan District  518000
-				CN
-
-A0-B5-49   (hex)		Arcadyan Corporation
-A0B549     (base 16)		Arcadyan Corporation
-				No.8, Sec.2, Guangfu Rd.
-				Hsinchu City  Hsinchu  30071
-				TW
-
 F8-A4-5F   (hex)		Xiaomi Communications Co Ltd
 F8A45F     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
@@ -30278,6 +30260,24 @@ F8A45F     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
+60-A7-30   (hex)		Shenzhen Yipinfang Internet Technology Co.,Ltd
+60A730     (base 16)		Shenzhen Yipinfang Internet Technology Co.,Ltd
+				Shenzhen Konka R & D Building, 28th floor 21
+				GuangDong  Nanshan District  518000
+				CN
+
+A0-B5-49   (hex)		Arcadyan Corporation
+A0B549     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
+AC-AE-19   (hex)		Roku, Inc
+ACAE19     (base 16)		Roku, Inc
+				150 Winchester Circle
+				Los Gatos  CA  95032
+				US
+
 C4-0B-CB   (hex)		Xiaomi Communications Co Ltd
 C40BCB     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
@@ -30308,6 +30308,12 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				Beijing  Beijing  100089
 				CN
 
+48-35-2E   (hex)		Shenzhen Wolck Network Product Co.,LTD
+48352E     (base 16)		Shenzhen Wolck Network Product Co.,LTD
+				9# BuJi BanTian LongBi Industry Area
+				Shenzhen  Guangdong  518129
+				CN
+
 9C-2E-A1   (hex)		Xiaomi Communications Co Ltd
 9C2EA1     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
@@ -30326,11 +30332,17 @@ E446DA     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-48-35-2E   (hex)		Shenzhen Wolck Network Product Co.,LTD
-48352E     (base 16)		Shenzhen Wolck Network Product Co.,LTD
-				9# BuJi BanTian LongBi Industry Area
-				Shenzhen  Guangdong  518129
-				CN
+6C-A9-28   (hex)		HMD Global Oy
+6CA928     (base 16)		HMD Global Oy
+				Karaportti 2
+				Espoo    02610
+				FI
+
+00-D8-61   (hex)		Micro-Star INTL CO., LTD.
+00D861     (base 16)		Micro-Star INTL CO., LTD.
+				No.69, Lide St.,
+				New Taipei City  Taiwan  235
+				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -60560,6 +60572,12 @@ F4DBE6     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+DC-F4-01   (hex)		Dell Inc.
+DCF401     (base 16)		Dell Inc.
+				One Dell Way
+				Round Rock  TX  78682
+				US
+
 F4-95-1B   (hex)		Hefei Radio Communication Technology Co., Ltd 
 F4951B     (base 16)		Hefei Radio Communication Technology Co., Ltd 
 				 No.108, YinXing Road, High-tech Development Zone 
@@ -60577,12 +60595,6 @@ E85AD1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
 				Wuhan  Hubei  430074
 				CN
-
-DC-F4-01   (hex)		Dell Inc.
-DCF401     (base 16)		Dell Inc.
-				One Dell Way
-				Round Rock  TX  78682
-				US
 
 BC-75-96   (hex)		Beijing Broadwit Technology Co., Ltd.
 BC7596     (base 16)		Beijing Broadwit Technology Co., Ltd.
@@ -60656,6 +60668,12 @@ A887B3     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+00-D0-2D   (hex)		Resideo
+00D02D     (base 16)		Resideo
+				2 Corporate Center Dr.
+				Melville  NY  11747
+				US
+
 10-12-B4   (hex)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 1012B4     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 				NO.198 FIRST SECTION,SNOW MOUNTAIN AVENUE, JINYUAN TOWN, DAYI COUNTY, 
@@ -60668,11 +60686,11 @@ A887B3     (base 16)		Samsung Electronics Co.,Ltd
 				Irvine  CA  92618
 				US
 
-00-D0-2D   (hex)		Resideo
-00D02D     (base 16)		Resideo
-				2 Corporate Center Dr.
-				Melville  NY  11747
-				US
+74-23-44   (hex)		Xiaomi Communications Co Ltd
+742344     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 D8-32-E3   (hex)		Xiaomi Communications Co Ltd
 D832E3     (base 16)		Xiaomi Communications Co Ltd
@@ -60704,8 +60722,14 @@ E06267     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-14-F6-5A   (hex)		Xiaomi Communications Co Ltd
-14F65A     (base 16)		Xiaomi Communications Co Ltd
+F0-B4-29   (hex)		Xiaomi Communications Co Ltd
+F0B429     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+0C-98-38   (hex)		Xiaomi Communications Co Ltd
+0C9838     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
@@ -60722,23 +60746,35 @@ E06267     (base 16)		Xiaomi Communications Co Ltd
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-F0-B4-29   (hex)		Xiaomi Communications Co Ltd
-F0B429     (base 16)		Xiaomi Communications Co Ltd
+14-F6-5A   (hex)		Xiaomi Communications Co Ltd
+14F65A     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
-0C-98-38   (hex)		Xiaomi Communications Co Ltd
-0C9838     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
+B4-F9-49   (hex)		optilink networks pvt ltd
+B4F949     (base 16)		optilink networks pvt ltd
+				501/502, sanjona complex, hemu kalani marg, chembur
+				mumbai  maharashtra  400071
+				IN
 
-74-23-44   (hex)		Xiaomi Communications Co Ltd
-742344     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
+3C-5C-C4   (hex)		Amazon Technologies Inc.
+3C5CC4     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
+88-71-B1   (hex)		ARRIS Group, Inc.
+8871B1     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+F0-AF-85   (hex)		ARRIS Group, Inc.
+F0AF85     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90379,6 +90415,24 @@ F48B32     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+74-C1-7D   (hex)		Infinix mobility limited
+74C17D     (base 16)		Infinix mobility limited
+				RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
+				HongKong  HongKong  999077
+				HK
+
+9C-C8-FC   (hex)		ARRIS Group, Inc.
+9CC8FC     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+FC-AE-34   (hex)		ARRIS Group, Inc.
+FCAE34     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -120410,17 +120464,17 @@ F063F9     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Brussels    1190
 				BE
 
-10-B9-F7   (hex)		Niko-Servodan
-10B9F7     (base 16)		Niko-Servodan
-				Stenager 5
-				Sønderborg    6400
-				DK
-
 54-80-28   (hex)		Hewlett Packard Enterprise
 548028     (base 16)		Hewlett Packard Enterprise
 				8000 Foothills Blvd.
 				Roseville  CA  95747
 				US
+
+10-B9-F7   (hex)		Niko-Servodan
+10B9F7     (base 16)		Niko-Servodan
+				Stenager 5
+				Sønderborg    6400
+				DK
 
 10-5B-AD   (hex)		Mega Well Limited
 105BAD     (base 16)		Mega Well Limited
@@ -120542,6 +120596,12 @@ F4DD9E     (base 16)		GoPro
 				San Mateo  CA  94402
 				US
 
+D4-D9-19   (hex)		GoPro
+D4D919     (base 16)		GoPro
+				3000 Clearview Way
+				San Mateo  CA  94402
+				US
+
 D8-A9-8B   (hex)		Texas Instruments
 D8A98B     (base 16)		Texas Instruments
 				12500 TI Blvd
@@ -120560,12 +120620,6 @@ B07E11     (base 16)		Texas Instruments
 				Bangpakong  Chachoengsao  24180
 				TH
 
-D4-D9-19   (hex)		GoPro
-D4D919     (base 16)		GoPro
-				3000 Clearview Way
-				San Mateo  CA  94402
-				US
-
 50-A0-A4   (hex)		Nokia
 50A0A4     (base 16)		Nokia
 				600 March Road
@@ -120578,17 +120632,17 @@ D4D919     (base 16)		GoPro
 				Mauguio    34130
 				FR
 
+64-7B-CE   (hex)		Samsung Electronics Co.,Ltd
+647BCE     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
 D4-32-60   (hex)		GoPro
 D43260     (base 16)		GoPro
 				3000 Clearview Way
 				San Mateo  CA  94402
 				US
-
-78-70-52   (hex)		Welotec GmbH
-787052     (base 16)		Welotec GmbH
-				zum Hagenbach 7
-				Laer  NRW  48366
-				DE
 
 50-DB-3F   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 50DB3F     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
@@ -120596,29 +120650,11 @@ D43260     (base 16)		GoPro
 				SHENZHEN  GUANGDONG  518105
 				CN
 
-64-7B-CE   (hex)		Samsung Electronics Co.,Ltd
-647BCE     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
-00-23-50   (hex)		RDC, Inc. dba LynTec
-002350     (base 16)		RDC, Inc. dba LynTec
-				8385 Melrose Drive
-				Lenexa  KS  66214
-				US
-
-98-5D-82   (hex)		Arista Networks
-985D82     (base 16)		Arista Networks
-				5453 Great America Parkway
-				Santa Clara  CA  95054
-				US
-
-D8-D6-F3   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-D8D6F3     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
-				Phase 3, Bayan Lepas FIZ
-				Bayan Lepas  Penang  11900
-				MY
+78-70-52   (hex)		Welotec GmbH
+787052     (base 16)		Welotec GmbH
+				zum Hagenbach 7
+				Laer  NRW  48366
+				DE
 
 58-44-98   (hex)		Xiaomi Communications Co Ltd
 584498     (base 16)		Xiaomi Communications Co Ltd
@@ -120640,36 +120676,6 @@ ACC1EE     (base 16)		Xiaomi Communications Co Ltd
 
 50-8F-4C   (hex)		Xiaomi Communications Co Ltd
 508F4C     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
-00-9E-C8   (hex)		Xiaomi Communications Co Ltd
-009EC8     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
-7C-1D-D9   (hex)		Xiaomi Communications Co Ltd
-7C1DD9     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
-A0-86-C6   (hex)		Xiaomi Communications Co Ltd
-A086C6     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
-10-2A-B3   (hex)		Xiaomi Communications Co Ltd
-102AB3     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
-				CN
-
-AC-F7-F3   (hex)		Xiaomi Communications Co Ltd
-ACF7F3     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
@@ -120709,6 +120715,78 @@ AC587B     (base 16)		JCT Healthcare
 				1/25 London Road
 				Mile End South  South Australia  5031
 				AU
+
+00-23-50   (hex)		RDC, Inc. dba LynTec
+002350     (base 16)		RDC, Inc. dba LynTec
+				8385 Melrose Drive
+				Lenexa  KS  66214
+				US
+
+98-5D-82   (hex)		Arista Networks
+985D82     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+D8-D6-F3   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+D8D6F3     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
+00-9E-C8   (hex)		Xiaomi Communications Co Ltd
+009EC8     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+7C-1D-D9   (hex)		Xiaomi Communications Co Ltd
+7C1DD9     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+A0-86-C6   (hex)		Xiaomi Communications Co Ltd
+A086C6     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+10-2A-B3   (hex)		Xiaomi Communications Co Ltd
+102AB3     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+AC-F7-F3   (hex)		Xiaomi Communications Co Ltd
+ACF7F3     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+08-35-1B   (hex)		Shenzhen Jialihua Electronic Technology Co., Ltd
+08351B     (base 16)		Shenzhen Jialihua Electronic Technology Co., Ltd
+				Building 26,Xin'e Industrial Area,E'gongling Village,Pinghu Town,Longgang District
+				Shenzhen  Guangdong  518111
+				CN
+
+8C-7B-F0   (hex)		Xufeng Development Limited
+8C7BF0     (base 16)		Xufeng Development Limited
+				FLAT/RM1616 16F INTERATIONAL TRADE CENTRE 11-19 SHA TSUI RD TSUEN WAN
+				HongKong  HongKong  999077
+				HK
+
+AC-50-93   (hex)		Magna Electronics Europe GmbH & Co. OHG
+AC5093     (base 16)		Magna Electronics Europe GmbH & Co. OHG
+				Kurfürst-Eppstein-Ring 9
+				Sailauf  Bavaria  63877
+				DE
+
+E0-A5-09   (hex)		Bitmain Technologies Inc
+E0A509     (base 16)		Bitmain Technologies Inc
+				Building 25, North Olympic Science & Technology Park, Baosheng South Road, Haidian District, Beijing, China
+				Beijing  BEIJING  CHINA
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -150991,3 +151069,15 @@ D8A756     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+24-53-BF   (hex)		Enernet
+2453BF     (base 16)		Enernet
+				1007 B-dong, Hyundai Knowledge Industry Center, 70 Dusan-ro, Geumcheon-gu, Seoul, KOREA
+				SEOUL    08584
+				KR
+
+AC-15-85   (hex)		silergy corp
+AC1585     (base 16)		silergy corp
+				Oleander  Way，802 West  Bay  Road，P.O. BOX    32052
+				Grand   Cayman  KYI-1208，Cayman Islands    32052
+				US
