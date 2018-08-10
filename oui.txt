@@ -60833,6 +60833,12 @@ E4388C     (base 16)		Digital Products Limited
 				Niantic  CT  06357
 				US
 
+18-4B-DF   (hex)		Caavo Inc
+184BDF     (base 16)		Caavo Inc
+				1525 McCarthy Blvd., #1182
+				Milpitas    95035
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90497,12 +90503,6 @@ FCAE34     (base 16)		ARRIS Group, Inc.
 AC-F8-5C   (hex)		Private
 ACF85C     (base 16)		Private
 
-10-2C-6B   (hex)		AMPAK Technology, Inc.
-102C6B     (base 16)		AMPAK Technology, Inc.
-				3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu, Taiwan (R.O.C.)
-				Hsinchu  Taiwan ROC.  30352
-				TW
-
 6C-2B-59   (hex)		Dell Inc.
 6C2B59     (base 16)		Dell Inc.
 				One Dell Way
@@ -90520,6 +90520,18 @@ ACF85C     (base 16)		Private
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+10-2C-6B   (hex)		AMPAK Technology, Inc.
+102C6B     (base 16)		AMPAK Technology, Inc.
+				3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu, Taiwan (R.O.C.)
+				Hsinchu  Taiwan ROC.  30352
+				TW
+
+20-79-18   (hex)		Intel Corporate
+207918     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -151216,3 +151228,9 @@ FC7774     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+B4-0B-78   (hex)		Brusa Elektronik AG
+B40B78     (base 16)		Brusa Elektronik AG
+				Neudorf 14
+				Sennwald  St. Gallen  9466
+				CH
