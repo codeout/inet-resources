@@ -60911,18 +60911,6 @@ A020A6     (base 16)		Espressif Inc.
 				Stockholm    SE-164 80
 				SE
 
-C0-3D-D9   (hex)		MitraStar Technology Corp.
-C03DD9     (base 16)		MitraStar Technology Corp.
-				No. 6, Innovation Road II,
-				Hsinchu    300
-				TW
-
-DC-08-0F   (hex)		Apple, Inc.
-DC080F     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 F8-2D-7C   (hex)		Apple, Inc.
 F82D7C     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -60937,6 +60925,24 @@ F82D7C     (base 16)		Apple, Inc.
 
 14-D0-0D   (hex)		Apple, Inc.
 14D00D     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+C0-3D-D9   (hex)		MitraStar Technology Corp.
+C03DD9     (base 16)		MitraStar Technology Corp.
+				No. 6, Innovation Road II,
+				Hsinchu    300
+				TW
+
+A0-A3-B8   (hex)		WISCLOUD
+A0A3B8     (base 16)		WISCLOUD
+				Tech Park Xia Sha
+				Hangzhou  Zhejiang  310000
+				CN
+
+DC-08-0F   (hex)		Apple, Inc.
+DC080F     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -121085,12 +121091,6 @@ A047D7     (base 16)		Best IT World (India) Pvt Ltd
 				Piscataway  NJ  08554
 				US
 
-08-6B-D7   (hex)		Silicon Laboratories
-086BD7     (base 16)		Silicon Laboratories
-				7000 W. William Cannon Dr.
-				Austin  TX  78735
-				US
-
 B0-C3-87   (hex)		GOEFER, Inc.
 B0C387     (base 16)		GOEFER, Inc.
 				118 N. Market St.
@@ -121115,6 +121115,12 @@ E83617     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
+08-6B-D7   (hex)		Silicon Laboratories
+086BD7     (base 16)		Silicon Laboratories
+				7000 W. William Cannon Dr.
+				Austin  TX  78735
+				US
+
 34-42-62   (hex)		Apple, Inc.
 344262     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -121126,6 +121132,12 @@ C09AD0     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
+
+04-F9-D9   (hex)		Speaker Electronic(Jiashan) Co.,Ltd
+04F9D9     (base 16)		Speaker Electronic(Jiashan) Co.,Ltd
+				No. 8 Development Zone Road, Huimin Sub-district
+				 Jiashan  Zhejiang  314112
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -151463,18 +151475,6 @@ C01B23     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
-94-F6-D6   (hex)		Apple, Inc.
-94F6D6     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-40-BC-60   (hex)		Apple, Inc.
-40BC60     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 58-6B-14   (hex)		Apple, Inc.
 586B14     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -151483,6 +151483,18 @@ C01B23     (base 16)		SICHUAN TIANYI COMHEART TELECOM CO.,LTD
 
 94-B0-1F   (hex)		Apple, Inc.
 94B01F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+94-F6-D6   (hex)		Apple, Inc.
+94F6D6     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+40-BC-60   (hex)		Apple, Inc.
+40BC60     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
