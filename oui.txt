@@ -30470,6 +30470,12 @@ A8B456     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
+F4-C7-C8   (hex)		Kelvin Inc.
+F4C7C8     (base 16)		Kelvin Inc.
+				400 Centennial Parkway, Suite 190
+				Louisville  CO  80027
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60965,12 +60971,6 @@ A020A6     (base 16)		Espressif Inc.
 				Stockholm    SE-164 80
 				SE
 
-DC-08-0F   (hex)		Apple, Inc.
-DC080F     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
 F8-2D-7C   (hex)		Apple, Inc.
 F82D7C     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -60979,6 +60979,12 @@ F82D7C     (base 16)		Apple, Inc.
 
 9C-64-8B   (hex)		Apple, Inc.
 9C648B     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+14-D0-0D   (hex)		Apple, Inc.
+14D00D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -60995,8 +61001,8 @@ A0A3B8     (base 16)		WISCLOUD
 				Hangzhou  Zhejiang  310000
 				CN
 
-14-D0-0D   (hex)		Apple, Inc.
-14D00D     (base 16)		Apple, Inc.
+DC-08-0F   (hex)		Apple, Inc.
+DC080F     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -61006,12 +61012,6 @@ A0A3B8     (base 16)		WISCLOUD
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
-
-34-93-42   (hex)		TTE Corporation
-349342     (base 16)		TTE Corporation
-				7/F, Building 22E 22 Science Park East Avenue Hong Kong Science Park Shatin, N.T.
-				Hong Kong    999077
-				HK
 
 48-E6-95   (hex)		Insigma Inc
 48E695     (base 16)		Insigma Inc
@@ -61031,11 +61031,11 @@ F80DF1     (base 16)		Sontex SA
 				sonceboz  Bern  2605
 				CH
 
-9C-8C-D8   (hex)		Hewlett Packard Enterprise
-9C8CD8     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
-				US
+34-93-42   (hex)		TTE Corporation
+349342     (base 16)		TTE Corporation
+				7/F, Building 22E 22 Science Park East Avenue Hong Kong Science Park Shatin, N.T.
+				Hong Kong    999077
+				HK
 
 88-D2-11   (hex)		Eko Devices, Inc.
 88D211     (base 16)		Eko Devices, Inc.
@@ -61054,6 +61054,12 @@ F80DF1     (base 16)		Sontex SA
 				A-1407, 767, Sinsu-ro, Suji-gu,
 				Yongin-si  Gyeonggi-do  16827
 				KR
+
+9C-8C-D8   (hex)		Hewlett Packard Enterprise
+9C8CD8     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 74-F7-37   (hex)		KCE
 74F737     (base 16)		KCE
@@ -61084,6 +61090,18 @@ A89CA4     (base 16)		Furrion Limited
 				10F,No.119,JIANKANG RD,ZHONGHE DIST
 				NEW TAIPEI  TAIWAN  23585
 				TW
+
+6C-DF-FB   (hex)		IEEE Registration Authority
+6CDFFB     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+DC-21-B9   (hex)		Sentec Co.Ltd
+DC21B9     (base 16)		Sentec Co.Ltd
+				10, Baekseokgongdan 1-ro, Seobuk-gu
+				 Cheonan-si  Chungcheongnam-do  31094
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90886,6 +90904,12 @@ F81308     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+08-F1-EA   (hex)		Hewlett Packard Enterprise
+08F1EA     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 FC-94-CE   (hex)		zte corporation
 FC94CE     (base 16)		zte corporation
@@ -121403,12 +121427,6 @@ E0189F     (base 16)		EM Microelectronic
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-80-54-6A   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-80546A     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-				SONGGANG
-				SHENZHEN  GUANGDONG  518105
-				CN
-
 18-B9-05   (hex)		Hong Kong Bouffalo Lab Limited
 18B905     (base 16)		Hong Kong Bouffalo Lab Limited
 				RM 1903, 19/F Lee Garden One 33 Hysan Avenue, Causeway Bay
@@ -121419,6 +121437,12 @@ E0189F     (base 16)		EM Microelectronic
 90869B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
+				CN
+
+80-54-6A   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+80546A     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
 				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
