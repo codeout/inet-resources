@@ -6668,12 +6668,6 @@ A0DDE5     (base 16)		SHARP Corporation
 				Oulu    90570
 				FI
 
-84-DB-2F   (hex)		Sierra Wireless Inc
-84DB2F     (base 16)		Sierra Wireless Inc
-				1381 Wireless Way
-				Richmond  BC  V6V 3A4
-				CA
-
 C8-93-83   (hex)		Embedded Automation, Inc.
 C89383     (base 16)		Embedded Automation, Inc.
 				17345 Abbey Drive
@@ -27479,12 +27473,6 @@ A06610     (base 16)		FUJITSU LIMITED
 				Bayan Lepas  Penang  11900
 				MY
 
-00-A0-D5   (hex)		Sierra Wireless Inc
-00A0D5     (base 16)		Sierra Wireless Inc
-				13811 Wireless Way
-				  RICHMOND B.C.  V6V 3A4
-				CA
-
 6C-38-38   (hex)		Marking System Technology Co., Ltd.
 6C3838     (base 16)		Marking System Technology Co., Ltd.
 				76-1, Hirakawa Yokomichi
@@ -30475,6 +30463,24 @@ F4C7C8     (base 16)		Kelvin Inc.
 				400 Centennial Parkway, Suite 190
 				Louisville  CO  80027
 				US
+
+68-45-F1   (hex)		TOSHIBA CLIENT SOLUTIONS CO., LTD.
+6845F1     (base 16)		TOSHIBA CLIENT SOLUTIONS CO., LTD.
+				Tachihi Building No.2, 6-1-3, Sakae-Cho
+				Tachikawa-shi  Tokyo  190-0003
+				JP
+
+84-DB-2F   (hex)		Sierra Wireless
+84DB2F     (base 16)		Sierra Wireless
+				1381 Wireless Way
+				Richmond  BC  V6V 3A4
+				CA
+
+00-A0-D5   (hex)		Sierra Wireless
+00A0D5     (base 16)		Sierra Wireless
+				13811 Wireless Way
+				Richmond  RICHMOND B.C.  V6V 3A4
+				CA
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -61103,6 +61109,12 @@ DC21B9     (base 16)		Sentec Co.Ltd
 				 Cheonan-si  Chungcheongnam-do  31094
 				KR
 
+E4-D3-AA   (hex)		FUJITSU CONNECTED TECHNOLOGIES LIMITED
+E4D3AA     (base 16)		FUJITSU CONNECTED TECHNOLOGIES LIMITED
+				4-1-1, Kamikodanaka, Nakahara-ku
+				Kawasaki  Kanagawa  2118588
+				JP
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90922,6 +90934,18 @@ ECF0FE     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
+
+88-50-F6   (hex)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+8850F6     (base 16)		Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd
+				3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan Distric
+				Shenzhen  Guangdong  518055
+				CN
+
+D8-A6-FD   (hex)		Ghost Locomotion
+D8A6FD     (base 16)		Ghost Locomotion
+				800 California St.  Suite 200
+				Mountain View  CA  94041
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -121421,11 +121445,11 @@ B40FB3     (base 16)		vivo Mobile Communication Co., Ltd.
 				Shanghai    200120
 				CN
 
-E0-18-9F   (hex)		EM Microelectronic
-E0189F     (base 16)		EM Microelectronic
-				Rue des Sors 3
-				Marin-Epagnier  Neuchatel  2074
-				CH
+80-54-6A   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+80546A     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
 
 18-B9-05   (hex)		Hong Kong Bouffalo Lab Limited
 18B905     (base 16)		Hong Kong Bouffalo Lab Limited
@@ -121439,11 +121463,11 @@ E0189F     (base 16)		EM Microelectronic
 				shenzhen  guangdong  518057
 				CN
 
-80-54-6A   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-80546A     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-				SONGGANG
-				SHENZHEN  GUANGDONG  518105
-				CN
+E0-18-9F   (hex)		EM Microelectronic
+E0189F     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
