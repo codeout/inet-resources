@@ -30482,6 +30482,18 @@ F4C7C8     (base 16)		Kelvin Inc.
 				Richmond  RICHMOND B.C.  V6V 3A4
 				CA
 
+28-EC-9A   (hex)		Texas Instruments
+28EC9A     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+70-B3-17   (hex)		Cisco Systems, Inc
+70B317     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -60977,6 +60989,12 @@ A020A6     (base 16)		Espressif Inc.
 				Stockholm    SE-164 80
 				SE
 
+DC-08-0F   (hex)		Apple, Inc.
+DC080F     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
 F8-2D-7C   (hex)		Apple, Inc.
 F82D7C     (base 16)		Apple, Inc.
 				1 Infinite Loop
@@ -60985,12 +61003,6 @@ F82D7C     (base 16)		Apple, Inc.
 
 9C-64-8B   (hex)		Apple, Inc.
 9C648B     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-14-D0-0D   (hex)		Apple, Inc.
-14D00D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -61007,8 +61019,8 @@ A0A3B8     (base 16)		WISCLOUD
 				Hangzhou  Zhejiang  310000
 				CN
 
-DC-08-0F   (hex)		Apple, Inc.
-DC080F     (base 16)		Apple, Inc.
+14-D0-0D   (hex)		Apple, Inc.
+14D00D     (base 16)		Apple, Inc.
 				1 Infinite Loop
 				Cupertino  CA  95014
 				US
@@ -61018,6 +61030,12 @@ DC080F     (base 16)		Apple, Inc.
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+34-93-42   (hex)		TTE Corporation
+349342     (base 16)		TTE Corporation
+				7/F, Building 22E 22 Science Park East Avenue Hong Kong Science Park Shatin, N.T.
+				Hong Kong    999077
+				HK
 
 48-E6-95   (hex)		Insigma Inc
 48E695     (base 16)		Insigma Inc
@@ -61037,11 +61055,11 @@ F80DF1     (base 16)		Sontex SA
 				sonceboz  Bern  2605
 				CH
 
-34-93-42   (hex)		TTE Corporation
-349342     (base 16)		TTE Corporation
-				7/F, Building 22E 22 Science Park East Avenue Hong Kong Science Park Shatin, N.T.
-				Hong Kong    999077
-				HK
+9C-8C-D8   (hex)		Hewlett Packard Enterprise
+9C8CD8     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 88-D2-11   (hex)		Eko Devices, Inc.
 88D211     (base 16)		Eko Devices, Inc.
@@ -61060,12 +61078,6 @@ F80DF1     (base 16)		Sontex SA
 				A-1407, 767, Sinsu-ro, Suji-gu,
 				Yongin-si  Gyeonggi-do  16827
 				KR
-
-9C-8C-D8   (hex)		Hewlett Packard Enterprise
-9C8CD8     (base 16)		Hewlett Packard Enterprise
-				8000 Foothills Blvd.
-				Roseville  CA  95747
-				US
 
 74-F7-37   (hex)		KCE
 74F737     (base 16)		KCE
@@ -61114,6 +61126,18 @@ E4D3AA     (base 16)		FUJITSU CONNECTED TECHNOLOGIES LIMITED
 				4-1-1, Kamikodanaka, Nakahara-ku
 				Kawasaki  Kanagawa  2118588
 				JP
+
+BC-E7-96   (hex)		Wireless CCTV Ltd
+BCE796     (base 16)		Wireless CCTV Ltd
+				charles Babbage house
+				Rochdale  Greater Manchester  ol164nw
+				GB
+
+B0-02-47   (hex)		AMPAK Technology, Inc.
+B00247     (base 16)		AMPAK Technology, Inc.
+				3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu
+				Hsinchu  Taiwan ROC.  30352
+				TW
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -90866,12 +90890,6 @@ A8F5DD     (base 16)		ARRIS Group, Inc.
 				Shenzhen   guangdong  518053
 				CN
 
-4C-E5-AE   (hex)		BEEBOXES TECHNOLOGY LIMITED
-4CE5AE     (base 16)		BEEBOXES TECHNOLOGY LIMITED
-				23A,JingYuan Arts Center, No.3 GuangQu Road,ChaoYang District,
-				Beijing    100124
-				CN
-
 FC-BE-7B   (hex)		vivo Mobile Communication Co., Ltd.
 FCBE7B     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
@@ -90945,6 +90963,42 @@ D8-A6-FD   (hex)		Ghost Locomotion
 D8A6FD     (base 16)		Ghost Locomotion
 				800 California St.  Suite 200
 				Mountain View  CA  94041
+				US
+
+94-58-CB   (hex)		Nintendo Co.,Ltd
+9458CB     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+90-E2-02   (hex)		Texas Instruments
+90E202     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+24-7D-4D   (hex)		Texas Instruments
+247D4D     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+4C-E5-AE   (hex)		Tianjin Beebox Intelligent Technology Co.,Ltd.
+4CE5AE     (base 16)		Tianjin Beebox Intelligent Technology Co.,Ltd.
+				Room 103，NO.1 of the 2nd Street
+				Tianjin Pilot Free Trade Zone Airport EconomicArea  Airport International Logistics Zone, Tianjin  300300
+				CN
+
+28-75-D8   (hex)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+2875D8     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+				19-22# Building, Star-net Science Plaza, Juyuanzhou,
+				FUZHOU  FUJIAN  350002
+				CN
+
+70-35-09   (hex)		Cisco Systems, Inc
+703509     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -121445,11 +121499,11 @@ B40FB3     (base 16)		vivo Mobile Communication Co., Ltd.
 				Shanghai    200120
 				CN
 
-80-54-6A   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-80546A     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-				SONGGANG
-				SHENZHEN  GUANGDONG  518105
-				CN
+E0-18-9F   (hex)		EM Microelectronic
+E0189F     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
 
 18-B9-05   (hex)		Hong Kong Bouffalo Lab Limited
 18B905     (base 16)		Hong Kong Bouffalo Lab Limited
@@ -121463,11 +121517,17 @@ B40FB3     (base 16)		vivo Mobile Communication Co., Ltd.
 				shenzhen  guangdong  518057
 				CN
 
-E0-18-9F   (hex)		EM Microelectronic
-E0189F     (base 16)		EM Microelectronic
-				Rue des Sors 3
-				Marin-Epagnier  Neuchatel  2074
-				CH
+80-54-6A   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+80546A     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
+				CN
+
+B4-A9-FC   (hex)		Quanta Computer Inc.
+B4A9FC     (base 16)		Quanta Computer Inc.
+				No. 211, Wen-Hwa 2nd Rd.,Kuei-Shan Dist.
+				Taoyuan City  Taiwan  33377
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -151912,3 +151972,9 @@ B447F5     (base 16)		Earda Technologies co Ltd
 				Block A,Lianfeng Creative Park, #2 Jisheng Rd., Nansha District
 				Guangzhou  Guangdong  511455
 				CN
+
+38-0B-3C   (hex)		Texas Instruments
+380B3C     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
