@@ -4423,7 +4423,7 @@
 4489	EMTF-MOL - Air Force Systems Networking, US
 4490	EMTF-LAK - Air Force Systems Networking, US
 4491	MULTIPRO - MultiNet, LLP, US
-4492	COMMSPEED1 - CommSpeed LLC, US
+4492	SPEEDCONNECT-4492 - SpeedConnect, LLC, US
 4493	Universidad de Sonora, MX
 4494	INTERBYTES - Megabytes.inc., US
 4495	TERRAPORT - TerraPort Online Inc., CA
@@ -17827,7 +17827,7 @@
 18783	-Reserved AS-, ZZ
 18784	MCD-US-ASN - McDonald's Corporation, US
 18785	-Reserved AS-, ZZ
-18786	ALL-POINTS-BROADBAND-1 - Shelby Broadband, US
+18786	ALL-POINTS-BROADBAND-1 - All Points Broadband, US
 18787	DANAHER - Danaher, US
 18788	INTEGRYS-ENERGY - Integrys Business Support, LLC, US
 18789	NETMLH-AS - Main Line Health, Inc., US
@@ -28618,7 +28618,7 @@
 30335	AS-WWU - Walla Walla University, US
 30336	XITTEL-AS - Telecommunications Xittel inc., CA
 30337	DELOITTE-US-ASN - Deloitte Services LP, US
-30338	CFI-JOPLIN - Con-way Truckload Inc., US
+30338	CFI-JOPLIN - CFI, US
 30339	DGLAW - Davis & Gilbert LLP, US
 30340	AS-TIERP-30340 - TierPoint, LLC, US
 30341	SCTA-ASN - South Central Telephone Association, US
@@ -67965,7 +67965,7 @@
 137183	SKYBROADBAND-AS-AP Mohammad Nazim, IN
 137184	SUNIWAYTELECOM-AS-AP Suniway Group of Companies Inc., PH
 137185	HGTHC-AS-AP HK GALAXY TELECOM HOLDING CO.,LIMITED, HK
-137186	XIAOMA XiaoMa Technology Co., Ltd., TW
+137186	XIAOMA -XiaoMa Technology Co., Ltd., TW
 137187	WLINK-CDN-AS-AP WorldLink Communications, NP
 137188	ACU-AS-AP Australian Catholic University Limited, AU
 137189	BORNIL1-AS-AP Bornil Networks System Limited, BD
@@ -85062,6 +85062,7 @@
 328371	PerfectWorx-AS, ZA
 328372	Etranzact-AS, GH
 328373	Village-Operator-AS, ZA
+328374	Spar-AS, ZA
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -87225,7 +87226,7 @@
 395366	MCKINSEY-GLOBAL - McKinsey & Company, Inc., US
 395367	LWBB-333 - Lightwave Broadband LLC, US
 395368	RAGINGWIRE - RagingWire Data Centers, Inc., US
-395369	HPSAS001 - Highbridge Principal Strategies, LLC, US
+395369	HPSAS001 - HPS Investment Partners, LLC, US
 395370	MCKINSEY-US-AMP - McKinsey & Company, Inc., US
 395371	FNASN - Fortress Networks, Inc., US
 395372	FIRSTCOMMANDFINANCIALSERVICES - First Command Financial Services, Inc., US
@@ -88920,6 +88921,12 @@
 397061	HRL-LABS-01 - HRL Laboratories, LLC, US
 397062	SMG - Sun-Maid Growers of California, US
 397063	CITYOFSTCLOUD-AS-FOR-IPV6-RESERVATIONO - City of St. Cloud, MN, US
+397064	BAYFIELD-WIRELESS - Bayfield Wireless, US
+397065	US-NJ - Hillside (Technology US) LLC, US
+397066	COMPUTER-INN-CORP - Computer Inn Corp., PR
+397067	LBHI-ASN-001 - Lehman Brothers Holdings, Inc., US
+397068	CAROLINACONNECT-01 - CarolinaConnect Cooperative, US
+397192	US-CDN-01 - Hillside (Technology US) LLC, US
 397193	VRSN-AC28 - VeriSign Global Registry Services, US
 397194	VRSN-AC28 - VeriSign Global Registry Services, US
 397195	VRSN-AC28 - VeriSign Global Registry Services, US
