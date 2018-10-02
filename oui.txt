@@ -30572,6 +30572,18 @@ A06610     (base 16)		FUJITSU LIMITED
 				Marlow  Buckinghamshire  SL7 1TF
 				GB
 
+EC-C5-7F   (hex)		Suzhou Pairlink Network Technology
+ECC57F     (base 16)		Suzhou Pairlink Network Technology
+				Room304, Building 4, No.209, Zhu Yuan Road, Suzhou new district
+				Suzhou  Jiangsu  215011
+				CN
+
+B0-E7-DE   (hex)		Homa Technologies JSC
+B0E7DE     (base 16)		Homa Technologies JSC
+				Building 5, Quang Trung Software City, District 12
+				Ho Chi Minh    729226
+				VN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61187,6 +61199,18 @@ A83944     (base 16)		Actiontec Electronics, Inc
 				Santa Clara  CA  95054
 				US
 
+00-24-7B   (hex)		Actiontec Electronics, Inc
+00247B     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
+70-F2-20   (hex)		Actiontec Electronics, Inc
+70F220     (base 16)		Actiontec Electronics, Inc
+				301 Olcott St
+				Santa Clara  CA  95054
+				US
+
 AC-57-75   (hex)		HMD Global Oy
 AC5775     (base 16)		HMD Global Oy
 				Karaportti 2
@@ -61205,23 +61229,29 @@ D43D39     (base 16)		FCI. Inc
 				Gemla    35599
 				SE
 
-00-24-7B   (hex)		Actiontec Electronics, Inc
-00247B     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
-70-F2-20   (hex)		Actiontec Electronics, Inc
-70F220     (base 16)		Actiontec Electronics, Inc
-				301 Olcott St
-				Santa Clara  CA  95054
-				US
-
 AC-7A-4D   (hex)		ALPS ELECTRIC CO., LTD.
 AC7A4D     (base 16)		ALPS ELECTRIC CO., LTD.
 				6-1
 				KAKUDA-CITY  MIYAGI-PREF  981-1595
 				JP
+
+58-C6-F0   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+58C6F0     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+64-9D-99   (hex)		FS COM INC
+649D99     (base 16)		FS COM INC
+				380 Centerpoint Blvd New Castle
+				New Castle  DE  19720
+				US
+
+00-19-3B   (hex)		LigoWave
+00193B     (base 16)		LigoWave
+				138 Mountain Brook Drive
+				Canton  GA  30115
+				US
 
 FC-62-B9   (hex)		ALPS ELECTRIC CO., LTD.
 FC62B9     (base 16)		ALPS ELECTRIC CO., LTD.
@@ -61252,24 +61282,6 @@ FC62B9     (base 16)		ALPS ELECTRIC CO., LTD.
 				6-1
 				Kakuda  Miyagi-Pref  981-1595
 				JP
-
-64-9D-99   (hex)		FS COM INC
-649D99     (base 16)		FS COM INC
-				380 Centerpoint Blvd New Castle
-				New Castle  DE  19720
-				US
-
-00-19-3B   (hex)		LigoWave
-00193B     (base 16)		LigoWave
-				138 Mountain Brook Drive
-				Canton  GA  30115
-				US
-
-58-C6-F0   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-58C6F0     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
 
 88-4A-18   (hex)		Opulinks
 884A18     (base 16)		Opulinks
@@ -121913,6 +121925,12 @@ B09928     (base 16)		FUJITSU LIMITED
 				Walnut  CA  91789
 				US
 
+78-DD-12   (hex)		Arcadyan Corporation
+78DD12     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -152279,6 +152297,12 @@ F46E95     (base 16)		Extreme Networks, Inc.
 				Santa Clara  CA  95054
 				US
 
+28-80-88   (hex)		NETGEAR
+288088     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
+
 00-7F-28   (hex)		Actiontec Electronics, Inc
 007F28     (base 16)		Actiontec Electronics, Inc
 				301 Olcott St
@@ -152333,23 +152357,17 @@ A0A3E2     (base 16)		Actiontec Electronics, Inc
 				Piscataway  NJ  08554
 				US
 
-C8-08-73   (hex)		Ruckus Wireless
-C80873     (base 16)		Ruckus Wireless
-				350 West Java Drive
-				Sunnyvale  CA  94089
-				US
-
-28-80-88   (hex)		NETGEAR
-288088     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
-				US
-
 E8-5B-B7   (hex)		Ample Systems Inc.
 E85BB7     (base 16)		Ample Systems Inc.
 				11F-2, No. 95 Minquan Rd.
 				New Taipei City     231
 				TW
+
+C8-08-73   (hex)		Ruckus Wireless
+C80873     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
+				US
 
 08-00-30   (hex)		CERN
 080030     (base 16)		CERN
@@ -152405,11 +152423,11 @@ E85BB7     (base 16)		Ample Systems Inc.
 				Osaki  Miyagi-pref  989-6181
 				JP
 
-84-A0-6E   (hex)		Sagemcom Broadband SAS
-84A06E     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
+5C-9A-D8   (hex)		FUJITSU LIMITED
+5C9AD8     (base 16)		FUJITSU LIMITED
+				403, Kosugi-cho 1-chome, Nakahara-ku
+				Kawasaki  Kanagawa  211-0063
+				JP
 
 B0-AC-FA   (hex)		FUJITSU LIMITED
 B0ACFA     (base 16)		FUJITSU LIMITED
@@ -152429,8 +152447,8 @@ B0ACFA     (base 16)		FUJITSU LIMITED
 				Kawasaki  Kanagawa  211-0063
 				JP
 
-5C-9A-D8   (hex)		FUJITSU LIMITED
-5C9AD8     (base 16)		FUJITSU LIMITED
-				403, Kosugi-cho 1-chome, Nakahara-ku
-				Kawasaki  Kanagawa  211-0063
-				JP
+84-A0-6E   (hex)		Sagemcom Broadband SAS
+84A06E     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
