@@ -207,7 +207,7 @@
 206	CSC-IGN-AMER - Computer Sciences Corporation, US
 207	CLI-GW-AS - Computational Logic, Inc., US
 208	DNIC-AS-00208 - Navy Network Information Center (NNIC), US
-209	CENTURYLINK-US-LEGACY-QWEST - Qwest Communications Company, LLC, US
+209	CENTURYLINK-US-LEGACY-QWEST - CenturyLink Communications, LLC, US
 210	WEST-NET-WEST - Utah Education Network, US
 211	RADC-LONS-GW-AS - Rome Air Development Center, US
 212	HQAFSC-LONS-GW-AS - Headquarters, Air Force Systems Command, US
@@ -1248,7 +1248,7 @@
 1247	DNIC-RAS-01247 - DoD Network Information Center, US
 1248	HERE, NL
 1249	FIVE-COLLEGES-AS - Five Colleges Network, US
-1250	ERX-SINGAPORE-AS National University of Singapore, SG
+1250	ERX-SINGAPORE-AS NUS Information Technology, SG
 1251	FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO SÃO PAULO, BR
 1252	UNMC-AS - University of Nebraska Medical Center, US
 1253	VEROAUTOSYS-AS The National Board of Taxation, FI
@@ -3839,9 +3839,9 @@
 3905	CONSORCIO REDUNO S.A. de C.V, MX
 3906	ADS-1-AS - Advanced Data Systems, US
 3907	CONNECT-1-NET - Connected INC, US
-3908	CENTURYLINK-ASIA-LEGACY-QWEST - Qwest Communications Company, LLC, US
-3909	CENTURYLINK-LEGACY-QWEST-VDOC - Qwest Communications Company, LLC, US
-3910	CENTURYLINK-EUROPE-LEGACY-QWEST - Qwest Communications Company, LLC, US
+3908	CENTURYLINK-ASIA-LEGACY-QWEST - CenturyLink Communications, LLC, US
+3909	CENTURYLINK-LEGACY-QWEST-VDOC - CenturyLink Communications, LLC, US
+3910	CENTURYLINK-EUROPE-LEGACY-QWEST - CenturyLink Communications, LLC, US
 3911	MIS-AS - Micron, US
 3912	CHECS - CHECS, US
 3913	UMSM - University of Miami, US
@@ -3882,7 +3882,7 @@
 3948	NTTA-3946 - NTT America, Inc., US
 3949	NTTA-3946 - NTT America, Inc., US
 3950	IXL-AS - Internet Exchange, Ltd., US
-3951	CENTURYLINK-LEGACY-QWEST-SPA-COLUMBUS - Qwest Communications Company, LLC, US
+3951	CENTURYLINK-LEGACY-QWEST-SPA-COLUMBUS - CenturyLink Communications, LLC, US
 3952	TELLABS-ASN - TELLABS Operations, Inc., US
 3953	PROFILE - Profile International, US
 3954	DNIC-AS-03954 - DoD Network Information Center, US
@@ -3946,7 +3946,7 @@
 4012	DCM - DCM, US
 4013	ASN-GAN - Galaxy Access Network, US
 4014	WIS - B3 Corporation, US
-4015	CENTURYLINK-LEGACY-QWEST-SPA-OMAHA - Qwest Corporation, US
+4015	CENTURYLINK-LEGACY-QWEST-SPA-OMAHA - CenturyLink Communications, LLC, US
 4016	RIS - Regional Information System, US
 4017	BELLST - Verizon Data Services LLC, US
 4018	DIA-AS - Defence Intelligence Agency, US
@@ -3979,7 +3979,7 @@
 4045	AS-WINTERNET - StarNet Communications, Inc., US
 4046	FAA - Federal Aviation Administration, US
 4047	CIRS-AS - Community Information & Referral, US
-4048	CENTURYLINK-SOUTH-AMERICA-LEGACY-QWEST - Qwest Communications Company, LLC, US
+4048	CENTURYLINK-SOUTH-AMERICA-LEGACY-QWEST - CenturyLink Communications, LLC, US
 4049	CCL-AS-AP Computer Concepts Limited, NZ
 4050	OMNINET-PRI-AS - OMNINET COMMUNICATIONS, US
 4051	PACAFINY-GW - U. S. Air Force, US
@@ -4588,7 +4588,7 @@
 4654	TECHNOWORKS-AS TECHNOWORKS AUSTRALIA, HK
 4655	UNSPECIFIED Sing Tao Electronic Daily, HK
 4656	TIGLION-HK Tiglion Consultancy Company Limited, HK
-4657	STARHUBINTERNET-AS StarHub Internet Exchange, SG
+4657	STARHUB-INTERNET StarHub Ltd, SG
 4658	M2012LIMITED-AS 2012 Limited / Netfront, HK
 4659	CHINA169-CN CNCGROUP old Jitong IP network, CN
 4660	HANSOL-AS-KR Hansol Telecom, KR
@@ -4819,7 +4819,7 @@
 4908	AS-CONCENTRIC - MCI Communications Services, Inc. d/b/a Verizon Business, US
 4909	DNIC-AS-04909 - DoD Network Information Center, US
 4910	SPRINTNET-NC - Sprint Mid-Atlantic Telecom, US
-4911	CENTURYLINK-LEGACY-QWEST-SPA-MARION - Qwest Communications Company, LLC, US
+4911	CENTURYLINK-LEGACY-QWEST-SPA-MARION - CenturyLink Communications, LLC, US
 4912	CENTIER - CENTIER BANK, US
 4913	NET-CPRK - Speedcast Communications, Inc, US
 4914	Red Nacional de Honduras, HONDUNet, HN
@@ -5605,7 +5605,7 @@
 5734	TIENET, ZA
 5735	GALT-TECHNO - Galt Technologies, US
 5736	VEL-AS - Velocity Networks, Inc., US
-5737	CENTURYLINK-QC-MOE-BILLINGS-GREAT-FALLS - Qwest Corporation, US
+5737	CENTURYLINK-QC-MOE-BILLINGS-GREAT-FALLS - CenturyLink Communications, LLC, US
 5738	SOVER-ASN - SoVerNet, Inc., US
 5739	UCSC - University of California, Santa Cruz, US
 5740	WORKFORCE - WorkForce Software LLC, US
@@ -6089,11 +6089,11 @@
 6220	AS6220 - inContact Inc., US
 6221	USCYBERSITES - US Cybersites, Inc, US
 6222	CENTURYLINK-LEGACY-EMBARQ-CLTN - CenturyLink Communications, LLC, US
-6223	CENTURYLINK-MTIPS1 - Qwest Communications Company, LLC, US
-6224	CENTURYLINK-MTIPS2 - Qwest Communications Company, LLC, US
-6225	CENTURYLINK-LEGACY-QWEST-PROJECT-LION1 - Qwest Communications Company, LLC, US
-6226	CENTURYLINK-LEGACY-QWEST-PROJECT-LION2 - Qwest Communications Company, LLC, US
-6227	CENTURYLINK-LEGACY-QWEST-PROJECT-LION3 - Qwest Communications Company, LLC, US
+6223	CENTURYLINK-MTIPS1 - CenturyLink Communications, LLC, US
+6224	CENTURYLINK-MTIPS2 - CenturyLink Communications, LLC, US
+6225	CENTURYLINK-LEGACY-QWEST-PROJECT-LION1 - CenturyLink Communications, LLC, US
+6226	CENTURYLINK-LEGACY-QWEST-PROJECT-LION2 - CenturyLink Communications, LLC, US
+6227	CENTURYLINK-LEGACY-QWEST-PROJECT-LION3 - CenturyLink Communications, LLC, US
 6228	BSDI-ASN - BSDI (Berkeley Software Design, Inc), US
 6229	NETVOYAGE - Digital Design (NETVOYAGE-DOM), US
 6230	GANET - Global Access Network, US
@@ -6506,7 +6506,7 @@
 6637	INFOEX - Infoexchange/Sprint, US
 6638	OANET - OA Internet Inc., CA
 6639	CWCAYMAN - Cable & Wireless (Cayman Islands) Ltd., KY
-6640	CENTURYLINK-TIER3-CLOUD - Qwest Communications Company, LLC, US
+6640	CENTURYLINK-TIER3-CLOUD - CenturyLink Communications, LLC, US
 6641	SPORTSLINE - SportsLine USA Inc., US
 6642	RDSB-ASN - Rainbow District School Board, CA
 6643	JIVECOMMUNICATIONS - Jive Communications, Inc., US
@@ -6972,7 +6972,7 @@
 7158	NETFEED-AS - NetEx Online Services, US
 7159	NTTCNET - New Trier Technology Cooperative, US
 7160	NETDYNAMICS - Oracle Corporation, US
-7161	CENTURYLINK-QC-MOE-WYOMING - Qwest Corporation, US
+7161	CENTURYLINK-QC-MOE-WYOMING - CenturyLink Communications, LLC, US
 7162	Universo Online S.A., BR
 7163	NYLI-AS - New York Life Insurance Company, US
 7164	LIPS-AS - Local IP Service, Inc., US
@@ -7170,7 +7170,7 @@
 7356	MONDAYRE - Monday Properties, US
 7357	AMERICANDATANET - American Data Net, US
 7358	DNB-NBIC - Dun & Bradstreet, US
-7359	CENTURYLINK-SPA-ZUNI - Qwest Corporation, US
+7359	CENTURYLINK-SPA-ZUNI - CenturyLink Communications, LLC, US
 7360	PUREATRIA - Pure Atria Software, US
 7361	MEDIASTREAM - Mediastream, US
 7362	HST-CHRON - Hearst Newspapers, LLC, US
@@ -7281,7 +7281,7 @@
 7469	CCLOUD-AS-AP Comwire Cloud Pty Ltd, AU
 7470	TRUEINTERNET-AS-AP TRUE INTERNET Co.,Ltd., TH
 7471	DAREBIN-AS-AU City of Darebin, AU
-7472	NUS-AS-AP Computer Centre, SG
+7472	NUS-AS-AP NUS Information Technology, SG
 7473	SINGTEL-AS-AP Singapore Telecommunications Ltd, SG
 7474	OPTUSCOM-AS01-AU SingTel Optus Pty Ltd, AU
 7475	UQ-COMMERCIAL-AP The University of Queensland, AU
@@ -9438,7 +9438,7 @@
 9871	KBE-AS-KR Gyeong Sang Buk-Do Office of Education, KR
 9872	ITNET-NZ-AS-AP Actrix Networks Ltd, NZ
 9873	TELECOM-LA-AS-AP Lao Telecom Communication, LTC, LA
-9874	STARHUB-IX StarHub Broadband, SG
+9874	STARHUB-MOBILE StarHub Ltd, SG
 9875	PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID
 9876	NOWNEW-AS-AP NOW New Zealand Ltd., NZ
 9877	NGEEANN-POLY-AS-AP Ngee Ann Polytechnic Computer Center, SG
@@ -9652,7 +9652,7 @@
 10088	KWANGWOON-AS-KR KWANGWOON UNIVERSITY, KR
 10089	DTNCORP-TH-AP Total Access Communication PLC., TH
 10090	LDSCHURCH-AS-AP LDS Church of Jesus Christ, AU
-10091	SCV-AS-AP StarHub Cable Vision Ltd, SG
+10091	STARHUB-CABLE StarHub Ltd, SG
 10092	AUDOMAINADMIN-AS-AP Australian Domain Administration Limited, AU
 10093	ACTWEBNET-AS-AP WebOne Internet, AU
 10094	BRUNET-ASN BruNet - Telekom Brunei Berhad, BN
@@ -9939,7 +9939,7 @@
 10380	NETXS - Net XS Communications, US
 10381	SWCP-AS - Southwest Cyberport, Inc., US
 10382	NPTI - Northwest Pennsylvania Technical Institute, US
-10383	CENTURYLINK-QC-MOE-GRAND-ISLAND - Qwest Corporation, US
+10383	CENTURYLINK-QC-MOE-GRAND-ISLAND - CenturyLink Communications, LLC, US
 10384	TVA - Tennessee Valley Authority, US
 10385	EIGER - eiger, US
 10386	IC-ASN - VoyageurWeb, US
@@ -9980,7 +9980,7 @@
 10421	TTUNET - Texas Tech University, US
 10422	NETEXPLORER - Net Explorer, Inc., US
 10423	SPARTAN-NET - Spartan-Net, US
-10424	CENTURYLINK-CO-LAN - Qwest Corporation, US
+10424	CENTURYLINK-CO-LAN - CenturyLink Communications, LLC, US
 10425	AWG-BOS - Advanced Wireless Group, LLC, US
 10426	AUTOBAHN - autobahn Internet Solutions, US
 10427	RAMS-FIE-AS - Federal Information Exchange, US
@@ -10380,15 +10380,15 @@
 10822	UNISTAR - Unistar Entertainment, Inc, US
 10823	NETCARRIER - NetCarrier, Inc., US
 10824	BANQUE DE LA REPUBLIQUE D'HAITI, HT
-10825	CENTURYLINK-QC-MOE-DENVER-COLORADO-SPRINGS - Qwest Corporation, US
-10826	CENTURYLINK-QC-MOE-PHOENIX - Qwest Corporation, US
-10827	CENTURYLINK-QC-MOE-FARGO-BISMARCK - Qwest Corporation, US
-10828	CENTURYLINK-QC-MOE-MINNESOTA - Qwest Corporation, US
-10829	CENTURYLINK-QC-MOE-ALBUQUERQUE - Qwest Corporation, US
-10830	CENTURYLINK-QC-MOE-SEATTLE - Qwest Corporation, US
-10831	CENTURYLINK-QC-MOE-PORTLAND - Qwest Corporation, US
-10832	CENTURYLINK-QC-MOE-UTAH - Qwest Corporation, US
-10833	CENTURYLINK-QC-MOE-DES-MOINES-DAVENPORT-SIOUX-CITY - Qwest Corporation, US
+10825	CENTURYLINK-QC-MOE-DENVER-COLORADO-SPRINGS - CenturyLink Communications, LLC, US
+10826	CENTURYLINK-QC-MOE-PHOENIX - CenturyLink Communications, LLC, US
+10827	CENTURYLINK-QC-MOE-FARGO-BISMARCK - CenturyLink Communications, LLC, US
+10828	CENTURYLINK-QC-MOE-MINNESOTA - CenturyLink Communications, LLC, US
+10829	CENTURYLINK-QC-MOE-ALBUQUERQUE - CenturyLink Communications, LLC, US
+10830	CENTURYLINK-QC-MOE-SEATTLE - CenturyLink Communications, LLC, US
+10831	CENTURYLINK-QC-MOE-PORTLAND - CenturyLink Communications, LLC, US
+10832	CENTURYLINK-QC-MOE-UTAH - CenturyLink Communications, LLC, US
+10833	CENTURYLINK-QC-MOE-DES-MOINES-DAVENPORT-SIOUX-CITY - CenturyLink Communications, LLC, US
 10834	Telefonica de Argentina, AR
 10835	VISIONARY - Visionary Communications, Inc., US
 10836	ASN-NJCC - New Jersey Computer Connection, US
@@ -10515,7 +10515,7 @@
 10957	REALMED - REALMED CORPORATION, US
 10958	ROYELLCOMM-AS - Royell Communications, Inc., US
 10959	BAC-NPC - Bank of America, US
-10960	CENTURYLINK-QC-MOE-TUCSON - Qwest Corporation, US
+10960	CENTURYLINK-QC-MOE-TUCSON - CenturyLink Communications, LLC, US
 10961	BGP-AS - Boston GigaPoP, US
 10962	CERNER-CORP-ASN - Cerner Corporation, US
 10963	PROTERRA-SC - PROTERRA, Inc., US
@@ -10658,7 +10658,7 @@
 11101	PALMETTOHEALTHAS - Palmetto Health, US
 11102	VYANET-OPERATING-GROUP-INC - VYANET, US
 11103	EXECULINK-ASN - Execulink Telecom Inc., CA
-11104	CENTURYLINK-QC-MOE-BOISE - Qwest Corporation, US
+11104	CENTURYLINK-QC-MOE-BOISE - CenturyLink Communications, LLC, US
 11105	SFU-AS - Simon Fraser University, CA
 11106	WOLFRAM-AS - Wolfram Research, Inc., US
 11107	FREMONT-COMM - Blackfoot Telephone Cooperative, Inc., US
@@ -10778,8 +10778,8 @@
 11222	PRL - Polo Ralph Lauren, US
 11223	MECHOSHADE - Mechoshade Systems INC, US
 11224	SIR - Schaeffer's Investment Research, US
-11225	CENTURYLINK-QC-MOE-OMAHA-GRAND-ISLAND - Qwest Corporation, US
-11226	CENTURYLINK-QC-MOE-CEDAR-RAPIDS - Qwest Corporation, US
+11225	CENTURYLINK-QC-MOE-OMAHA-GRAND-ISLAND - CenturyLink Communications, LLC, US
+11226	CENTURYLINK-QC-MOE-CEDAR-RAPIDS - CenturyLink Communications, LLC, US
 11227	AS-DALLAS - Morningstar, Inc., US
 11228	ARINC - ARINC, Inc., US
 11229	SUNVALE-2 - Sunvale Inc., AG
@@ -10962,7 +10962,7 @@
 11409	EFXSECURE - Equifax, Inc., US
 11410	REGIONALNETWORK - Regional Network Communications, Inc, US
 11411	Tournet S.A., AR
-11412	CENTURYLINK-QC-MOE-SIOUX-FALLS - Qwest Corporation, US
+11412	CENTURYLINK-QC-MOE-SIOUX-FALLS - CenturyLink Communications, LLC, US
 11413	IHERB-AS-IHERB-NETWORKS - IHERB INC, US
 11414	NVIDIA-NET - Nvidia Corporation, US
 11415	LEVEL3 COMUNICAÇÕES DO BRASIL LTDA., BR
@@ -11084,7 +11084,7 @@
 11535	NET-UALNET-AS - United Airlines, US
 11536	SRC-ASN01 - Sunrise Communications LLC, US
 11537	ABILENE - Internet2, US
-11538	CENTURYLINK-QC-MOE-SPOKANE - Qwest Corporation, US
+11538	CENTURYLINK-QC-MOE-SPOKANE - CenturyLink Communications, LLC, US
 11539	LIAISONBGP - Liaison Technologies, INC., US
 11540	RTI - Research Triangle Institute, US
 11541	AIR-ADVANTAGE-ASN2 - Air Advantage LLC, US
@@ -14506,7 +14506,7 @@
 15218	ASN-CXA-OK-15218-CBS - Cox Communications Inc., US
 15219	AS-15219 - ANPI, LLC, US
 15220	RCG - Rosenthal Collins Group LLC, US
-15221	FALCON-BB - Vanion, Inc., US
+15221	FALCON-BROADBAND - StratusIQ, US
 15222	GAROFALO-ET-AL - Garofalo, Schreiber, Hart & Storm Chartered, US
 15223	TXWES - Texas Wesleyan University, US
 15224	OMNITURE - Adobe Systems Inc., US
@@ -16106,7 +16106,7 @@
 17044	TRUENORTHCOMM - True North Communications, US
 17045	-Reserved AS-, ZZ
 17046	ACTION-COMM - Action Communications, Inc., US
-17047	CENTURYLINK-CENTURYTELECOMM - CenturyTel Solutions, LLC, US
+17047	CENTURYLINK-CENTURYTELECOMM - CenturyLink Communications, LLC, US
 17048	AWKNET - Awknet Communications, LLC, US
 17049	MBO-NET - MBO Video, LLC, US
 17050	MCVP-AS-NO - TAC Partners, Inc., US
@@ -20985,7 +20985,7 @@
 22172	MITCHELL-INTERNATIONAL-DC2 - Mitchell International, US
 22173	PDP-SUPERIOR - PLAIN DEALER PUBLISHING CO., US
 22174	NET-SUC-TECH-ALF - State University of New York College ofTechnology at Alfred, US
-22175	TWOSIGMA - TWO SIGMA INVESTMENTS, LLC, US
+22175	TWOSIGMA - TWO SIGMA INVESTMENTS, LP, US
 22176	PCI-ASN - PCI, US
 22177	Transit do Brasil S/A, BR
 22178	PA-SENATE - Senate of Pennsylvania, US
@@ -21933,7 +21933,7 @@
 23123	ATHOC-BGP - AtHoc Inc, US
 23124	VEEAM-US2 - VEEAM SOFTWARE CORPORATION, US
 23125	BWW-DC - Buffalo Wild Wings, US
-23126	CENTURYLINK-CLEC-VARIOUS-SHARED-USE-AND-LOCATIONS - CenturyTel Solutions, LLC, US
+23126	CENTURYLINK-CLEC-VARIOUS-SHARED-USE-AND-LOCATIONS - CenturyLink Communications, LLC, US
 23127	SOFNETINC - Sofnet, Inc., US
 23128	KIRTON BANK S.A. - BANCO MULTIPLO, BR
 23129	SUTTERHEALTH - Sutter Health, US
@@ -30145,6 +30145,7 @@
 32052	SULLCROM - Sullivan & Cromwell, US
 32053	SULLCROM - Sullivan & Cromwell, US
 32054	ROTADYNE - Rotadyne, US
+32055	JAGNET - JagNet Broadband, US
 32056	SHAMROCKFOODS-INTERNET-01 - SHAMROCK FOODS COMPANY, US
 32057	BRMHMRB - BLUEGRASS REGIONAL MENTAL HEALTH-MENTAL RETARDATION BOARD, INC., US
 32058	SBG-AS1 - Sinclair Broadcast Group, US
@@ -34404,7 +34405,7 @@
 36668	WINDES-LB - Windes + McClaughry, US
 36669	SONIC-MSM-DATACENTER - AMERICAN ESOTERIC LABORATORIES, US
 36670	PEAK10-FLL - Peak 10, Inc., US
-36671	TWOSIGMA2 - TWO SIGMA INVESTMENTS, LLC, US
+36671	TWOSIGMA2 - TWO SIGMA INVESTMENTS, LP, US
 36672	-Reserved AS-, ZZ
 36673	VECTREN63-64-13-1 - Vectren Utility Holdings, Inc., US
 36674	ULINE - Uline, US
@@ -35096,7 +35097,6 @@
 37419	TRA, TZ
 37420	UNIV-JOS, NG
 37421	Cellulant, KE
-37422	FIRSTNET, ZA
 37423	ADN, TZ
 37424	Spacetel, BJ
 37425	Somcable, SO
@@ -35404,7 +35404,7 @@
 37779	TISPA-MBIXP-PEERING-AS, TZ
 37780	GABIX-PEERING-AS, GA
 37781	SOIXP-PEERING-AS, SO
-37782	CGIX-PointeNoire-AS-PEERING, ZZ
+37782	CGIX-PointeNoire-AS-PEERING, CG
 37783	-Reserved AS-, ZZ
 37784	-Reserved AS-, ZZ
 37785	-Reserved AS-, ZZ
@@ -36377,7 +36377,7 @@
 38858	SOMERVILLE-AS-AU-AP Somerville, AU
 38859	PREMIERTECH-AU Premier Technologies Pty Ltd, AU
 38860	DOCOMOINTERTOUCH-HK DOCOMO interTouch - Hong Kong, SG
-38861	STARHUB-INTERNET-EXCHANGE-AS-AP StarHub Internet Exchange 2, SG
+38861	STARHUB-INTERNET2 StarHub Ltd, SG
 38862	TULLETTPREBON-AS-SG-AP TullettPrebon Singapore multihoming ISP connection AS, SG
 38863	GOLDCOAST-NON-AU-AS-1 Gold Coast City Council., AU
 38864	CITIC-MOBILE-AP Citic Telecom International (Data) Limited., HK
@@ -51737,6 +51737,7 @@
 54403	-Reserved AS-, ZZ
 54404	EL-ORLANDO-FL - Ellucian Company LP, US
 54405	MGALE-1 - Martingale Asset Management Limited Partnership, US
+54406	CONVERMAX - Convermax Corp, US
 54407	ARENT-FOX-LLP - ARENT FOX LLP, US
 54408	FICOH - First Insurance Company of Hawaii, US
 54409	SWC-AS - SWC Technology Partners, Inc., US
@@ -52743,7 +52744,7 @@
 55427	BROADLINK-AS-AP Broadlink Nepal, NP
 55428	MASSINFONET-AS-AP Mass Infonet (P) Ltd., IN
 55429	LLNW-IN Limelight Networks India, IN
-55430	STARHUBINTERNET-AS-NGNBN Starhub Internet Pte Ltd, SG
+55430	STARHUB-NGNBN Starhub Ltd, SG
 55431	PHCOLO-AS-AP PHCOLO INC., PH
 55433	CDAC-NON-AS-AP Centre for Development of Advanced Computing, IN
 55434	ADS-AS-EAST-AP Airbus Defence and Space AS, NO
@@ -60091,7 +60092,7 @@
 63056	HOOPESTON-AREA-SCHOOLS - Hoopeston Area Schools, US
 63057	AXINN - Axinn, Veltrop & Harkrider LLP, US
 63058	ACTIANCE - Actiance, US
-63059	-Reserved AS-, ZZ
+63059	63059 - Cisco Systems, Inc., US
 63060	ALTIUS-IN-AS - ALTIUS Broadband, LLC, US
 63061	CARLSONWAGONLITTRAVEL - Carlson Wagonlit Travel, Inc, US
 63062	HUGHESNET-CDN - Hughes Network Systems, US
@@ -62393,7 +62394,6 @@
 131194	PGI-NET-AS-AP-SG PGi, SG
 131195	SIM-SG-AS-AP SIM Headquarters, SG
 131196	ENABLENET-AS-AP Enable Networks, NZ
-131197	GLOBALSPEED-PH 5th Flr JY Square Bldg, PH
 131198	MEDIATRIBELIMITED-AS-AP Mediatribe Limited, NZ
 131199	NEXEON-AS-AP Nexeon Technologies, Inc., US
 131200	UNISYSLTD-AS-AP UNISYS AUSTRALIA PTY LIMITED, AU
@@ -63171,6 +63171,7 @@
 132209	GOLDFIELDS-AS-AP Gold Fields, PH
 132210	REIGNICT ReignICT, BD
 132211	FXCM-ASIA-AP FX Corporate LLC, JP
+132212	ACRETECHNOLOGIES-AS-AP ACRE COMPUTER SERVICES LIMITED, NZ
 132213	CNX-IXP Cambodian Network Exchange (free peering), KH
 132214	BULLETPROOF-AS Bulletproof, Mission Critical Cloud, AU
 132215	POWERGRID-IN Power Grid Corporation of India Limited, IN
@@ -64028,7 +64029,7 @@
 133094	HPIMRI-AS-AP Harry Perkins Institute of Medical Research Inc, AU
 133095	BJN-AU BJN AU / NZ, AU
 133096	MOTHERSHIP-AS-AP MOTHERSHIP, NZ
-133097	STARHUBINTERNET-AS-AP StarHub Regional IPVPN, SG
+133097	STARHUB-IPVPN StarHub Ltd, SG
 133098	SAPHRP-AS-AP Starwood Asia Pacific Hotels & Resorts Pte. Ltd., SG
 133099	SAPHRPL-AS-AP Starwood Asia Pacific Hotels & Resorts Pte. Ltd., SG
 133100	DEDAUS-AS-AP Dedicated Servers Australia, AU
@@ -66439,7 +66440,6 @@
 135585	CCGL-AS-AP Credit Corp Group Limited, AU
 135586	INTERLINK-CSLOXINFO-AS-AP INTERLINK COMMUNICATION PCL., TH
 135587	S-TECH-AS-AP S-Tech Development Co., Ltd, LA
-135588	ICPL-AS-AP Intercloud Pty Ltd, AU
 135589	IMNCL-AS-AP Internet Maekhong Network Company Limited, MM
 135590	SEBANET-AS-AP Md. Aminur Rahman Khan T/A Seba Net, BD
 135591	DBESS-AS-AP Lee Cheung Loong t/a Dbess Marketing, MY
@@ -68288,7 +68288,7 @@
 137511	CAAM-AS-AP Civil Aviation Authority of Mongolia, MN
 137512	MCLPL-AS-AP McLanahan Corporation, AU
 137513	HBLBANKPVTLTD-AS-AP HBL Bank Pvt Ltd., PK
-137514	ABROAD-AS-AP Md. Habibur Rahman, BD
+137514	ABROAD-AS-AP ABROAD, BD
 137515	FRC-AP Md. Raisul Islam, BD
 137516	NSDRA-AS-AP Northern SEQ Distributor Retailer Authority, AU
 137517	FLAMEHOSTING-AS-AP FLAMEHOSTING INC, PK
@@ -68714,7 +68714,7 @@
 138021	CLOUDTC-AS-AP DET-IO Pty. Ltd., AU
 138022	ROWSHANARA-AS-AP Mohammad Mohiuddin, BD
 138023	CREATION-AS-AP Creation Online, BD
-138024	NETPLUSONLINE-AS-AP Md. Yusuf Ahmed, BD
+138024	NETPLUSONLINE-AS-AP NETPLUS ONLINE, BD
 138025	RBCCABLE-AS-AP RBC Cable, PH
 138026	KGNSB-AS-AP Krypton Global Networks (Malaysia) Sdn Bhd, MY
 138027	CRYPTOPIA-AS-AP Cryptopia Limited, NZ
@@ -68768,6 +68768,7 @@
 138075	MTMBALI-AS-ID PT MITRA TELEMEDIA MANUNGGAL, ID
 138076	IDNIC-POS-ID PT Pos Indonesia (Persero), ID
 138078	IDNIC-UNSIL-AS-ID Universitas Siliwangi, ID
+138079	FASTAMA-AS-ID PT. Fiqran Solusindo Mediatama, ID
 138145	ADVANCED-AS-AP Advanced Information Company Limited, HK
 138146	NORTHBENGALONLINE-AS-AP Mohammad SAHIDUL ISLAM, BD
 138147	PCTA-AS-AP Philippine Cable Television Association, Inc., PH
@@ -68857,9 +68858,11 @@
 138291	MDPL-AS-IN Mall And Mall Digiworld Pvt Ltd, IN
 138292	GALAXY01-AS Galaxy Digitech India Private Limited, IN
 138293	SPACETRA-AS-IN Spacetrade Internet Pvt Ltd, IN
+138295	SKYINT-AS Skyline Internet, IN
 138296	STARNET7-AS Juweriyah Networks Private Limited, IN
 138297	NETLINKW-AS Netlink Websolution Pvt. Ltd., IN
 138298	COREIT-AS Coreit Services Private Limited, IN
+138300	ONPL-AS Opticom Networks Private Limited, IN
 138320	FALCONLINK1-AS-AP Shamsuzzaman Mamun, BD
 138321	AETOS-AS-AP AETOS Capitial Group Pty Ltd., AU
 138322	AWCC-AS-AP Afghan Wireless, AF
@@ -68875,6 +68878,8 @@
 138332	VOICEPRINTDATA-1-AS-AP VOICE PRINT & DATA AUSTRALIA PTY LTD, AU
 138333	HINGCLOUD-AS-AP Hingcloud, CN
 138334	ZAAICL-AS-AP ZSL Amusement and Investment Co. Ltd., HK
+138335	BBIOPL-AS-AP BHP BILLITON IRON ORE PTY. LTD., AU
+138336	THE-AS-AP Kaniz Subarna, BD
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-ACADEMY DE-CIX Academy Educational Network, DE
@@ -78966,6 +78971,15 @@
 207257	IONAUTOMATION, NL
 207258	FENIX-AS, RU
 207259	ENERGO, RU
+210112	IAN, ES
+210113	BANK-ROSSIYA-2-AS, RU
+210114	HUNGAROCONTROL-AS, HU
+210115	ARTEMIS1, CZ
+210116	PS-QUINTIEZ, PS
+210117	ASORAVA, SK
+210118	SALNET-AS, FR
+210119	VPSSC-AS, UA
+210120	FJ-EURONET-TRANSIT-CE, DE
 210121	GUAITA, ES
 210122	ASN-NEXIM, IT
 210123	NUBBITEL, ES
@@ -79082,7 +79096,7 @@
 210234	LEWY6NETWORKS LEWY 6NETWORKS, PL
 210235	AGL-DIVISION-AS, PL
 210236	COMPUNET, DE
-210237	LEGENDARY, GB
+210237	-Reserved AS-, ZZ
 210238	DIEFFEITALIA, IT
 210239	ISKRA-AS, UA
 210240	NTC-AS, RU
@@ -79626,7 +79640,7 @@
 262599	OSTARA TELECOMUNICAÇÕES LTDA, BR
 262600	ASE TELECOMUNICAÇÕES LTDA ME, BR
 262601	GTNET PROVEDOR DE ACESSO A INTERNET LTDA-ME, BR
-262602	Ibiritenet Telecom e serv. de inf. ltda, ZZ
+262602	Ibiritenet Telecom e serv. de inf. ltda, BR
 262603	GX INTERNET E WEB HOSTING SERV DE INFORMATICA LTDA, BR
 262604	Click.com telecomunicações ltda-me, BR
 262605	LEOVIN INTERNET PROVIDER, BR
@@ -81075,7 +81089,6 @@
 264078	KAITIANA FERREIRA DOS SANTOS, BR
 264079	ALANN EUDES DE SOUZA PEREIRA - ME, BR
 264080	MINISTERIO DE MINAS E ENERGIA, BR
-264081	Rc Telecom, BR
 264082	NATIVA NETWORK LTDA - ME, BR
 264083	CONFEDERACAO BRASILEIRA DE FUTEBOL, BR
 264084	FOXX PROVIDER TELECOM, BR
@@ -84608,7 +84621,6 @@
 327822	Airpark-Beaufort-West, ZA
 327823	Crown-Interactive, NG
 327824	Converged-Telecoms, ZA
-327825	Neelana-Communications, ZA
 327826	SAFRICOM, ZA
 327828	Somali-Optical-Networks, SO
 327829	SKYTIC-TELECOM, CG
@@ -85155,6 +85167,8 @@
 328376	Alfa-O-AS, NG
 328377	DET-Africa-AS, ZA
 328378	PS-Extra-AS, EG
+328379	CGIX-PointeNoire-AS-MGT, CG
+328380	Prime-Bank-AS, KE
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
