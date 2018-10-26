@@ -17381,7 +17381,7 @@
 18337	KSUCC-AS-KR KyungSan University, KR
 18338	STARVAN-AS-KR STARVANKOREA, KR
 18339	KHCU-AS-KR Kyung Hee Cyber University, KR
-18340	KORAC-HEALTHSCI1-AS-KR Korea University, KR
+18340	SBKOREA-AS-KR SBKorea, KR
 18341	GUMI-AS-KR Gumi College, KR
 18342	KJTJC-AS-KR KunJang College, KR
 18343	TAEGUTECH-AS-KR Daegu Technical College, KR
@@ -66814,6 +66814,7 @@
 135950	ICTBINHDUONG-AS-VN Binh Duong E-Government Information Center, VN
 135951	WEBICO-AS-VN Webico Company Limited, VN
 135952	VPBS-AS-VN VPBANK Securities Joint Stock Company, VN
+135953	BKHOST-AS-VN Vietnam Online Network Solution Joint Stock Compnay, VN
 136000	LBPL-AS-AP Lightning Broadband Pty Ltd, AU
 136001	CHRISTIE-AS-AP Christie Networks - BACKBONE AS, AU
 136002	PRTM-AS-AP PT RIVEN TEKNO MANDIRI, ID
@@ -68796,6 +68797,7 @@
 138091	IDNIC-PAJAKKU-AS-ID PT Mitra Pajakku, ID
 138092	IDNIC-NEBULA-AS-ID PT. Nebula Surya Corpora, ID
 138093	LINTASMAYA-AS-ID PT. LINTASMAYA MULTI MEDIA, ID
+138094	IDNIC-VPINDO-AS-ID PT Vieda Prakarsa Indonesia, ID
 138145	ADVANCED-AS-AP Advanced Information Company Limited, HK
 138146	NORTHBENGALONLINE-AS-AP Mohammad SAHIDUL ISLAM, BD
 138147	PCTA-AS-AP Philippine Cable Television Association, Inc., PH
@@ -68943,6 +68945,18 @@
 138364	UNIFYNETSOL-AS-AP UNIFY NETSOL PRIVATE LIMITED, IN
 138365	ESPORTS-AS-AP eSports Limited, AU
 138366	TMS-AS-AP Tanamet Petcharustanakul, Prapawan Petcharustanakul, TH
+138367	TFNSWOS-AS-AP Transport for NSW, AU
+138368	INSTACOMPVTLTD-AS-AP INSTACOM Pvt. LTD, PK
+138369	CNGI-SJZ-IX-AS-AP CERNET2 regional IX at Hebei Normal University, CN
+138370	CNGI-NCH-IX-AS-AP CERNET2 regional IX at Nanchang University, CN
+138371	CNGI-QDA-IX-AS-AP CERNET2 regional IX at Ocean University of China, CN
+138372	JANOME-AS-AP Janome Australia Pty Ltd, AU
+138373	CNGI-FZH-IX-AS-AP CERNET2 regional IX at Fuzhou University, CN
+138374	CNGI-TYN-IX-AS-AP CERNET2 regional IX at Taiyuan University, CN
+138375	CNGI-HHT-IX-AS-AP CERNET2 regional IX at Inner Mongolia University, CN
+138376	CNGI-YCH-IX-AS-AP CERNET2 regional IX at Ningxia University, CN
+138377	CNGI-XNN-IX-AS-AP CERNET2 regional IX at Qinghai Normal University, CN
+138378	CNGI-KMN-IX-AS-AP CERNET2 regional IX at Yunnan University, CN
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-ACADEMY DE-CIX Academy Educational Network, DE
@@ -81295,7 +81309,7 @@
 264147	INTERA COMUNICAÇÃO MULTIMIDIA E INFORMÁTICA, BR
 264148	Corrêa Sat Telecomunicações Ltda ME, BR
 264149	Sannet DRN Provedores Ltda ME, BR
-264150	GIGAFLEX TELECOM, ZZ
+264150	GIGAFLEX TELECOM, BR
 264151	MAXWI SOLUCOES EM INFORMATICA LTDA, BR
 264152	NetWork Digital Ltda., BR
 264153	Cable.com Telecomunicações LTDA, BR
@@ -85319,6 +85333,7 @@
 328387	COZ-Internet-AS, NG
 328388	Internet-SA, ZA
 328389	STARCOM-AS, BF
+328390	Internet-Telecoms, ZA
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -89232,6 +89247,11 @@
 397116	WMLPNET-AS-01 - Wellesley Municipal Light Plant, US
 397117	MEDIUM-01 - A Medium Corporation, US
 397118	-Reserved AS-, ZZ
+397119	GEN2-ASN-BGP - Gen II Fund Services, LLC, US
+397120	CHEMUNGCONY - Chemung County, New York, US
+397121	KAMAN-AS-1 - Kaman Corporation, US
+397122	NORVADO-NET - Chequamegon Communications Cooperative, Inc., US
+397123	WSB-TV - Cox Media Group, LLC, US
 397191	SIEL-AS2 - Sony Interactive Entertainment LLC., US
 397192	US-CDN-01 - Hillside (Technology US) LLC, US
 397193	VRSN-AC28 - VeriSign Global Registry Services, US
