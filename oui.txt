@@ -30722,6 +30722,18 @@ F010AB     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				Hangzhou  Zhejiang  310000
 				CN
 
+F8-2F-6A   (hex)		ITEL MOBILE LIMITED
+F82F6A     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
+1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
+				Room 413, Nangong Building, 399 Linquan Street, SIP
+				Suzhou  Jiangsu  215123
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -61529,6 +61541,12 @@ DC6723     (base 16)		barox Kommunikation GmbH
 				Zurich    8048
 				CH
 
+7C-D9-5C   (hex)		Google, Inc.
+7CD95C     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -91271,11 +91289,11 @@ D8A6FD     (base 16)		Ghost Locomotion
 				Taipei    114
 				TW
 
-04-07-2E   (hex)		VTech Electronics Ltd.
-04072E     (base 16)		VTech Electronics Ltd.
-				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
-				Tai Po, N.T.    NA
-				HK
+E0-9F-2A   (hex)		Iton Technology Corp. 
+E09F2A     (base 16)		Iton Technology Corp. 
+				Room 1302, Block A, Building 4，Huangge Road, Longgang District
+				Shenzhen   Guangdong   518116
+				CN
 
 48-FD-A3   (hex)		Xiaomi Communications Co Ltd
 48FDA3     (base 16)		Xiaomi Communications Co Ltd
@@ -91295,23 +91313,23 @@ D8A6FD     (base 16)		Ghost Locomotion
 				San Jose  CA  94568
 				US
 
-E0-9F-2A   (hex)		Iton Technology Corp. 
-E09F2A     (base 16)		Iton Technology Corp. 
-				Room 1302, Block A, Building 4，Huangge Road, Longgang District
-				Shenzhen   Guangdong   518116
-				CN
-
-48-4A-30   (hex)		George Robotics Limited
-484A30     (base 16)		George Robotics Limited
-				Salisbury House, Station Road
-				Cambridge    CB1 2LA
-				GB
+04-07-2E   (hex)		VTech Electronics Ltd.
+04072E     (base 16)		VTech Electronics Ltd.
+				23rd Floor, Block 1, Tai Ping Industrial Centre, 57 Ting Kok Road
+				Tai Po, N.T.    NA
+				HK
 
 68-4F-64   (hex)		Dell Inc.
 684F64     (base 16)		Dell Inc.
 				One Dell Way
 				Round Rock  TX  78682
 				US
+
+48-4A-30   (hex)		George Robotics Limited
+484A30     (base 16)		George Robotics Limited
+				Salisbury House, Station Road
+				Cambridge    CB1 2LA
+				GB
 
 50-AD-92   (hex)		NX Technologies
 50AD92     (base 16)		NX Technologies
@@ -91349,41 +91367,23 @@ E09F2A     (base 16)		Iton Technology Corp.
 				Austin  TX  78759
 				US
 
-94-67-7E   (hex)		Belden India Private Limited
-94677E     (base 16)		Belden India Private Limited
-				Plot No. D-228, Chakan MIDC Phase 2, 
-				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
-				IN
-
 70-BC-10   (hex)		Microsoft Corporation
 70BC10     (base 16)		Microsoft Corporation
 				One Microsoft Way
 				REDMOND  WA  98052
 				US
 
+94-67-7E   (hex)		Belden India Private Limited
+94677E     (base 16)		Belden India Private Limited
+				Plot No. D-228, Chakan MIDC Phase 2, 
+				Village Bhamboli, Taluka:Khed  Pune, Maharashtra  410 507
+				IN
+
 80-D3-36   (hex)		CERN
 80D336     (base 16)		CERN
 				CH-1211 
 				GENEVE  SUISSE/SWITZ  023
 				CH
-
-F0-51-EA   (hex)		Fitbit, Inc.
-F051EA     (base 16)		Fitbit, Inc.
-				199 Fremont Street, 14th Fl
-				San Francisco  CA  94105
-				US
-
-00-16-FE   (hex)		ALPS ELECTRIC CO., LTD.
-0016FE     (base 16)		ALPS ELECTRIC CO., LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
-
-00-1B-FB   (hex)		ALPS ELECTRIC CO., LTD.
-001BFB     (base 16)		ALPS ELECTRIC CO., LTD.
-				1-2-1, Okinouchi,
-				Soma-city,  Fukushima-pref.,  976-8501
-				JP
 
 48-F0-7B   (hex)		ALPS ELECTRIC CO., LTD.
 48F07B     (base 16)		ALPS ELECTRIC CO., LTD.
@@ -91403,6 +91403,12 @@ AC5AEE     (base 16)		China Mobile Group Device Co.,Ltd.
 				Beijing    100053
 				CN
 
+F0-51-EA   (hex)		Fitbit, Inc.
+F051EA     (base 16)		Fitbit, Inc.
+				199 Fremont Street, 14th Fl
+				San Francisco  CA  94105
+				US
+
 04-98-F3   (hex)		ALPS ELECTRIC CO., LTD.
 0498F3     (base 16)		ALPS ELECTRIC CO., LTD.
 				6-1 NISHIDA
@@ -91421,17 +91427,23 @@ E0750A     (base 16)		ALPS ELECTRIC CO., LTD.
 				kakuda-City    981-1595
 				US
 
+00-16-FE   (hex)		ALPS ELECTRIC CO., LTD.
+0016FE     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
+00-1B-FB   (hex)		ALPS ELECTRIC CO., LTD.
+001BFB     (base 16)		ALPS ELECTRIC CO., LTD.
+				1-2-1, Okinouchi,
+				Soma-city,  Fukushima-pref.,  976-8501
+				JP
+
 BC-75-36   (hex)		ALPS ELECTRIC CO., LTD.
 BC7536     (base 16)		ALPS ELECTRIC CO., LTD.
 				nishida  6-1 
 				Kakuda-City  Miyagi-Pref  981-1595
 				JP
-
-10-8E-BA   (hex)		Molekule
-108EBA     (base 16)		Molekule
-				1184 Harrison Street
-				San Francisco    94103
-				US
 
 C0-B5-D7   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 C0B5D7     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
@@ -91450,6 +91462,12 @@ C0B5D7     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				No.1199,Waterfront Road 
 				Hangzhou  Zhejiang  310053
 				CN
+
+10-8E-BA   (hex)		Molekule
+108EBA     (base 16)		Molekule
+				1184 Harrison Street
+				San Francisco    94103
+				US
 
 C4-7D-46   (hex)		FUJITSU LIMITED
 C47D46     (base 16)		FUJITSU LIMITED
@@ -91511,10 +91529,28 @@ C8F742     (base 16)		HangZhou Gubei Electronics Technology Co.,Ltd
 				Lawrenceville  GA  30044
 				US
 
+18-B4-30   (hex)		Nest Labs Inc.
+18B430     (base 16)		Nest Labs Inc.
+				3400 Hillview Ave.
+				Palo Alto  CA  94304
+				US
+
+C8-28-32   (hex)		Beijing Xiaomi Electronics Co., Ltd.
+C82832     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
+				Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District
+				Beijing  Beijing  10085
+				CN
+
 74-60-FA   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 7460FA     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
+				CN
+
+30-DF-8D   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+30DF8D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
+				SONGGANG
+				SHENZHEN  GUANGDONG  518105
 				CN
 
 88-40-3B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -91534,24 +91570,6 @@ B8C385     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
-
-30-DF-8D   (hex)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-30DF8D     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
-				SONGGANG
-				SHENZHEN  GUANGDONG  518105
-				CN
-
-C8-28-32   (hex)		Beijing Xiaomi Electronics Co., Ltd.
-C82832     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
-				Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District
-				Beijing  Beijing  10085
-				CN
-
-18-B4-30   (hex)		Nest Labs Inc.
-18B430     (base 16)		Nest Labs Inc.
-				3400 Hillview Ave.
-				Palo Alto  CA  94304
-				US
 
 44-3C-88   (hex)		FICOSA MAROC INTERNATIONAL
 443C88     (base 16)		FICOSA MAROC INTERNATIONAL
@@ -91595,6 +91613,12 @@ C8F6C8     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Wuhan  Hubei  430074
 				CN
 
+30-4F-75   (hex)		DASAN Network Solutions
+304F75     (base 16)		DASAN Network Solutions
+				DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu
+				Seongnam-si  Gyeonggi-do  13493
+				KR
+
 00-07-02   (hex)		Varex Imaging
 000702     (base 16)		Varex Imaging
 				1678 South Pioneer Road
@@ -91603,12 +91627,6 @@ C8F6C8     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 
 38-AF-D0   (hex)		Private
 38AFD0     (base 16)		Private
-
-30-4F-75   (hex)		DASAN Network Solutions
-304F75     (base 16)		DASAN Network Solutions
-				DASAN Tower 8F, 49 Daewangpangyo-ro644beon-gil Bundang-gu
-				Seongnam-si  Gyeonggi-do  13493
-				KR
 
 C8-F7-50   (hex)		Dell Inc.
 C8F750     (base 16)		Dell Inc.
@@ -91622,11 +91640,11 @@ DC58BC     (base 16)		Thomas-Krenn.AG
 				Freyung    94078
 				DE
 
-C8-4F-86   (hex)		Sophos Ltd
-C84F86     (base 16)		Sophos Ltd
-				The Pentagon
-				Abingdon  Oxfordshire  OX14 3YP
-				GB
+68-9A-87   (hex)		Amazon Technologies Inc.
+689A87     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
 
 A4-5F-9B   (hex)		Nexell
 A45F9B     (base 16)		Nexell
@@ -91640,17 +91658,29 @@ A45F9B     (base 16)		Nexell
 				Oakland  CA  94621
 				US
 
-68-9A-87   (hex)		Amazon Technologies Inc.
-689A87     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102
-				Reno  NV  89507
-				US
+C8-4F-86   (hex)		Sophos Ltd
+C84F86     (base 16)		Sophos Ltd
+				The Pentagon
+				Abingdon  Oxfordshire  OX14 3YP
+				GB
 
 D0-6E-DE   (hex)		Sagemcom Broadband SAS
 D06EDE     (base 16)		Sagemcom Broadband SAS
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+C0-D8-34   (hex)		xvtec ltd
+C0D834     (base 16)		xvtec ltd
+				Ha'nagar 24
+				Hod Hasharon  Israel  4527713
+				IL
+
+4C-AE-A3   (hex)		Hewlett Packard Enterprise
+4CAEA3     (base 16)		Hewlett Packard Enterprise
+				8000 Foothills Blvd.
+				Roseville  CA  95747
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -122366,6 +122396,12 @@ B8C253     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
+B0-68-E6   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+B068E6     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -152960,14 +152996,14 @@ F89173     (base 16)		AEDLE SAS
 				Jeonju-si     54873
 				KR
 
-D0-58-C0   (hex)		Qingdao Haier Multimedia Limited. 
-D058C0     (base 16)		Qingdao Haier Multimedia Limited. 
-				Pingban Building, Haier Industry Park, Laoshan District,
-				Qingdao  Shandong  266103
-				CN
-
 18-0D-2C   (hex)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
 180D2C     (base 16)		INDÚSTRIA DE TELECOMUNICAÇÃO ELETRÔNICA
 				BR 101, KM 210
 				São Jose  Santa Catarina  88104-800
 				BR
+
+D0-58-C0   (hex)		Qingdao Haier Multimedia Limited. 
+D058C0     (base 16)		Qingdao Haier Multimedia Limited. 
+				Pingban Building, Haier Industry Park, Laoshan District,
+				Qingdao  Shandong  266103
+				CN
