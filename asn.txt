@@ -16293,7 +16293,7 @@
 17232	ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US
 17233	ATT-CERFNET-BLOCK - AT&T Enhanced Network Services, US
 17234	GAC - Gustavus Adolphus College, US
-17235	COMTIME - Commercial Timesharing, Inc., US
+17235	COMTIME - Commercial Time Sharing, Inc., US
 17236	TULSAL-74103 - Tulsa City-County Library, US
 17237	WPG-CONSULT - Walsh Patel Group Consulting, LLC, US
 17238	CSEG-1 - Columbia Southern Education Group, Inc., US
@@ -31228,7 +31228,7 @@
 33134	KTCFV-USA - Kingston Technology Company, US
 33135	NETNUMBER - NetNumber, Inc., US
 33136	-Reserved AS-, ZZ
-33137	-Reserved AS-, ZZ
+33137	NG-OFFICE - NextGen Healthcare, US
 33138	AS-NYPD - New York City Police Department, US
 33139	CANACA-210 - Canaca-com Inc., CA
 33140	SAN-ISABEL-TELECOM-INC - San Isabel Telecom, Inc., US
@@ -31394,7 +31394,7 @@
 33300	EDAASN - Electricity Distributors Association, CA
 33301	CMCLNET - Finiti Group, LLC, US
 33302	ONS-COS - Data 102, LLC, US
-33303	METROBRIDGE-ORG - Metrobridge Networks USA Corporation, CA
+33303	CYCLONE-ORG - Cyclone Systems Inc., CA
 33304	RACETRAC - RaceTrac Petroleum, Inc., US
 33305	INFODIR - Info Directions, Inc., US
 33306	HANDI-FOIL - Handi-foil Corp., US
@@ -38695,6 +38695,7 @@
 41197	KYLIX-AS, RO
 41198	ATRONIC Am Seering 13-14, AT
 41199	MONYNET-AS Sold. Tina Petre, nr. 6 bl. L31, sc. B, ap. 57, RO
+41200	BGSOFT-AS, RO
 41201	DOLSAT ul. Wojska Polskiego 23C, PL
 41202	UNITEL, UZ
 41203	GEOPOST, GB
@@ -38789,7 +38790,7 @@
 41292	SPEDITOR-NET-AS, BG
 41293	PBK-AS, BE
 41294	ZUGERKB, CH
-41295	IPSERV-AS Visana, nr. 1 bl. 45, sc 2, ap 58, RO
+41295	CCID-AS Visana, nr. 1 bl. 45, sc 2, ap 58, Bucuresti 4, RO
 41296	ABH, TR
 41297	ABAKS-AS, PL
 41298	JURIS-AS Gutenbergstrasse 23, DE
@@ -46880,7 +46881,7 @@
 49506	GUMSNET-AS, CZ
 49507	INCDFM, RO
 49508	KSTEL-AS, RU
-49509	SPOTLER, NL
+49509	SPOTLER-, NL
 49510	TCV-AS, CZ
 49511	DN-RAILWAY-AS, UA
 49512	EASYHOST-AS, BE
@@ -50915,7 +50916,7 @@
 53571	PCC-CORP - PRECISION CASTPARTS CORP, US
 53572	-Reserved AS-, ZZ
 53573	ADVECTION - Advection.NET, US
-53574	-Reserved AS-, ZZ
+53574	LINGO-PRIMUS - Lingo Communications, LLC, US
 53575	AUSTIN-COLLEGE - Austin College, US
 53576	CALVERTHOSP - Calvert Memorial Hospital, US
 53577	URSINUS - Ursinus College, US
@@ -51197,7 +51198,7 @@
 53853	JAMA-ASN - Jama Software, Inc., US
 53854	GHGSC-AS1 - Griffin Health Services Corp., US
 53855	RIPPLE-01 - Ripple, US
-53856	-Reserved AS-, ZZ
+53856	NJIX - NJ IX, US
 53857	VERGENT-53857 - Vergent, LLC, US
 53858	BAYCARE-HEALTH-SYSTEM - Baycare Health System, US
 53859	-Reserved AS-, ZZ
@@ -51266,7 +51267,7 @@
 53922	STUMBLEUPON - StumbleUpon, Inc., US
 53923	-Reserved AS-, ZZ
 53924	CKS-MANAGEMENT - CKS Management, US
-53925	-Reserved AS-, ZZ
+53925	FOXDEN-NETWORKS - FOXDEN NETWORKS INC, US
 53926	APA-US-ASN - Apache Corporation, US
 53927	ACI-WORLDWIDE - ACI Worldwide, Inc., US
 53928	VALUTEL-COMM-INC - ValuTel Communications, Inc., US
@@ -51378,7 +51379,7 @@
 54034	INFOGIX - Infogix, Inc., US
 54035	DAVEY-HOLDINGS-LLC - Davey Holdings LLC, US
 54036	CHES-NET - Clean Harbors Environmental Services, Inc., US
-54037	-Reserved AS-, ZZ
+54037	DCA-LN - DCA LLC, US
 54038	CALLIDUS-SOFTWARE - Callidus Software Inc., US
 54039	EIWIFI - Eastern Indiana WIFI, Inc., US
 54040	NBCUNI - NBCUniversal, US
@@ -51481,7 +51482,7 @@
 54137	TGAG-ASN - Tony Graham Toyota, CA
 54138	STALLMILLAS - Overplay, Inc, US
 54139	CONNEXIO - Connexio.ca, CA
-54140	-Reserved AS-, ZZ
+54140	CISCO-OTT - Cisco Systems, Inc., US
 54141	CPSMERCH - Chase Paymentech Solutions, LLC, US
 54142	ICCABLE - INSIDE CONNECT CABLE LLC, US
 54143	HEHENET - i9 Technologies, US
@@ -51579,7 +51580,7 @@
 54235	WTBTSC-AS - Watch Tower Bible and Tract Society of Canada, CA
 54236	PPPA-ASN - Pacific Press Publishing Association, Inc, US
 54237	FIRST-CALL-RESOLUTION - First Call Resolution, US
-54238	-Reserved AS-, ZZ
+54238	SATCOM-DIRECT-INC - Satcom Direct Inc., US
 54239	ADAPTIVE - Adaptive Solutions, Inc., US
 54240	SN-2006 - Syndeo Networks, Inc, US
 54241	BOLT-INTERNET-AZ - Bolt Internet Inc, US
@@ -53051,7 +53052,7 @@
 55764	HGSL-IN HGSL House, No.614, IN
 55765	OXYGEN-NETWORKS-AU Oxygen Networks, AU
 55766	COMSCENTRE-AU Comscentre Pty Ltd, AU
-55767	MARLINK unused, NO
+55767	MARLINK unused, AP
 55769	SEATELECOM-KH SOUTH EAST ASIA TELECOM (Cambodia) Co., LTD, KH
 55770	AKAMAI-AP Akamai Technologies, Inc., SG
 55771	RD-AS-AP The Revenue Department of Thailand., TH
@@ -53065,7 +53066,7 @@
 55780	ROYALSUNDARAM-IN ROYAL SUNDARAM GENERAL INSURANCE CO. LIMITED, IN
 55781	FAPLNET-AS-SOP Fujitsu Asia Pte. Ltd., SG
 55782	OBOPAYNET-IN Obopay Mobile Technology India Pvt Ltd, IN
-55784	AU-SYD-MARLINK-MSS MARLINK AU-SYD, NO
+55784	AU-SYD-MARLINK-MSS MARLINK AU-SYD, AP
 55785	MAXUM-AS-AP MAXUM DATA LIMITED, NZ
 55786	MOBIUS-CN 1065-A Zhaojiabang Road, CN
 55789	IDC-TW TWIDC, TW
@@ -54755,6 +54756,7 @@
 57537	NETDSIGN-AS, DE
 57538	PRB-AS, BG
 57539	MEGASERVER-AS, RU
+57540	CZ-SUNTEL-MERGE, CZ
 57541	INTER-AS, RU
 57542	NIXVAL-IXP, ES
 57543	SHABAKIEH, IR
@@ -60966,6 +60968,7 @@
 64005	KK-AS-AP KaritKarma Limited, BD
 64006	NEXUSONE-AS-AP Nexus One Pty Ltd, AU
 64008	DSWD-AS-AP Department of Social Welfare and Development, PH
+64009	HK36CLOUD-HK 18/F, Well Tech Centre, HK
 64010	BASICBRIX-AS-AP BasicBrix LLP, SG
 64012	MSCML-AS-AP Meghna Seeds Crushing Mills Ltd, BD
 64013	PING-GLOBAL Ping Global ASN, HK
@@ -65387,7 +65390,7 @@
 134444	CCL-AKL-AS-AP Computer Concepts Limited, NZ
 134445	CCL-CHC-AS-AP Computer Concepts Limited, NZ
 134446	SNS-AS-AP Sfera Networks s.r.l., HK
-134447	VEL-AS-AP Vision Broadband, PK
+134447	VEL-AS-AP Vision East (Pvt) Ltd, PK
 134448	GENEALIMITED-AS-AP Genea Limited, AU
 134449	DSBL-AS-AP Dah Sing Bank, Limited, HK
 134450	HOSTROYALETECHNOLOGIES-AS-AP HostRoyale Technologies Pvt Ltd, IN
@@ -66471,6 +66474,7 @@
 135594	KCTSI-AS-AP Kabayan Cable Tv Systems Inc., PH
 135595	SCPL-AS-AP SIRO Clinpharm Pvt. Ltd., IN
 135596	HANSTECH-AS-HK Hans Online Services, TW
+135597	MM-AS-AP Media & Multimedia, BD
 135598	TAPAD-AS-AP Tapad, Inc., US
 135599	TELSTRA-GLOBALCDC-AP Telstra Corporation, AU
 135600	WHIZCOMMS-AS-AP Whiz Communications Pte Ltd, SG
@@ -68897,6 +68901,8 @@
 138224	SKYBERBB-AS-IN Skyber Broadband Service Private Limited, IN
 138225	ONEEIGHT-AS-IN One Eight Technologies Private Limited, IN
 138226	SISPL123-AS-IN Spirenet Digital Communications Pvt Ltd, IN
+138227	STREAMON-AS-IN Streamonn Internet Services Private Limited, IN
+138229	VOXDXB-AS-IN Voxterria Innovations Private Limited, IN
 138230	RACKSC-AS Racks Connect India Private Limited, IN
 138253	VMOBIIN-AS Valuemobi Media Pvt Ltd, IN
 138254	VISPL-AS Vinayakkripa Infotech Services Pvt. Ltd., IN
@@ -68985,6 +68991,9 @@
 138384	RMNI-AS-AP Rakuten Mobile Network, Inc., JP
 138385	CDC-AS-AP Shane Gonsalves, BD
 138386	THEATC-AS-AP Australian Turf Club Limited, AU
+138387	YOURCONNECT-AS-AP YOURCONNECT Company Limited., TH
+138388	POKHARA-AS-AP Pokhara Internet Pvt. Ltd., NP
+138389	WGDASPL-AS-AP WTW Global Delivery and Solutions (India) Pvt. Ltd., IN
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-ACADEMY DE-CIX Academy Educational Network, DE
@@ -78739,7 +78748,6 @@
 206935	PRIORITY-AS, IL
 206936	AS206936, DE
 206937	INTER-TEAM, PL
-206938	-Reserved AS-, ZZ
 206939	YOSPACE, GB
 206940	DIOR_COUTURE, FR
 206941	SECURITAS-AS, SE
@@ -79058,6 +79066,18 @@
 207257	IONAUTOMATION, NL
 207258	FENIX-AS, RU
 207259	ENERGO, RU
+209978	CORVID-AS2, GB
+209979	SPRDNETAG-1, DE
+209980	HG24-AS, RU
+209981	SYSTEMCREW-AS, DE
+209982	LIBERTY, MD
+209983	SPOTLER-APP, NL
+209984	WIBER, ES
+209985	QALEIDO, NL
+209986	HU-KONDOROSIKTV-AS, HU
+209987	KING-HEBERG-INC, DE
+209988	ORIGINAL-AS, RU
+209989	LRT-AS, LT
 209990	HOSTPROFIS-AS, AT
 209991	LAVEGO, DE
 209992	IT-TELWEB, IT
@@ -79093,7 +79113,7 @@
 210022	KALIMAT, IQ
 210023	ASIPS, RU
 210024	RIA_TOLL_SYSTEM, BG
-210025	CHENQIAN, NL
+210025	XXSL XXSL Network, NL
 210026	IT-MOD_AS, IT
 210027	VIASAT, MD
 210028	AS50673, NL
@@ -89323,6 +89343,8 @@
 397135	NNMC-ASN-1 - Northern New Mexico College, US
 397136	F12-DC-EAST - F12 Networks Inc., CA
 397137	SEIONTEC-SYSTEMS - Seiontec Systems, LLC, US
+397138	JUSTUS-AS - Brian Reid Photography, US
+397139	NRS - WB Games Inc., US
 397191	SIEL-AS2 - Sony Interactive Entertainment LLC., US
 397192	US-CDN-01 - Hillside (Technology US) LLC, US
 397193	VRSN-AC28 - VeriSign Global Registry Services, US
