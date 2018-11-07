@@ -30704,18 +30704,6 @@ F010AB     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				Hangzhou  Zhejiang  310000
 				CN
 
-F8-2F-6A   (hex)		ITEL MOBILE LIMITED
-F82F6A     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
-
-1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
-1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
-				Room 413, Nangong Building, 399 Linquan Street, SIP
-				Suzhou  Jiangsu  215123
-				CN
-
 80-8F-1D   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 808F1D     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
@@ -30727,6 +30715,18 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
+
+F8-2F-6A   (hex)		ITEL MOBILE LIMITED
+F82F6A     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
+1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
+				Room 413, Nangong Building, 399 Linquan Street, SIP
+				Suzhou  Jiangsu  215123
+				CN
 
 00-24-6C   (hex)		Aruba, a Hewlett Packard Enterprise Company
 00246C     (base 16)		Aruba, a Hewlett Packard Enterprise Company
@@ -30740,17 +30740,17 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				Aarhus    8000
 				DK
 
-B0-00-73   (hex)		Wistron Neweb Corporation
-B00073     (base 16)		Wistron Neweb Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
 00-1A-3F   (hex)		Intelbras
 001A3F     (base 16)		Intelbras
 				BR 101, km 210, S/N°
 				São José  Santa Catarina  88104800
 				BR
+
+B0-00-73   (hex)		Wistron Neweb Corporation
+B00073     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
