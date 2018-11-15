@@ -30614,18 +30614,6 @@ F010AB     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 				Hangzhou  Zhejiang  310000
 				CN
 
-F8-2F-6A   (hex)		ITEL MOBILE LIMITED
-F82F6A     (base 16)		ITEL MOBILE LIMITED
-				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
-				Hong Kong  KOWLOON  999077
-				HK
-
-1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
-1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
-				Room 413, Nangong Building, 399 Linquan Street, SIP
-				Suzhou  Jiangsu  215123
-				CN
-
 80-8F-1D   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
 808F1D     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
@@ -30637,6 +30625,18 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
+
+F8-2F-6A   (hex)		ITEL MOBILE LIMITED
+F82F6A     (base 16)		ITEL MOBILE LIMITED
+				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
+				Hong Kong  KOWLOON  999077
+				HK
+
+1C-2E-1B   (hex)		Suzhou Tremenet Communication Technology Co., Ltd.
+1C2E1B     (base 16)		Suzhou Tremenet Communication Technology Co., Ltd.
+				Room 413, Nangong Building, 399 Linquan Street, SIP
+				Suzhou  Jiangsu  215123
+				CN
 
 00-24-6C   (hex)		Aruba, a Hewlett Packard Enterprise Company
 00246C     (base 16)		Aruba, a Hewlett Packard Enterprise Company
@@ -30650,17 +30650,17 @@ F82F6A     (base 16)		ITEL MOBILE LIMITED
 				Aarhus    8000
 				DK
 
-B0-00-73   (hex)		Wistron Neweb Corporation
-B00073     (base 16)		Wistron Neweb Corporation
-				No.20,Park Avenue II,Hsinchu Science Park
-				Hsin-Chu  R.O.C.  308
-				TW
-
 00-1A-3F   (hex)		Intelbras
 001A3F     (base 16)		Intelbras
 				BR 101, km 210, S/N°
 				São José  Santa Catarina  88104800
 				BR
+
+B0-00-73   (hex)		Wistron Neweb Corporation
+B00073     (base 16)		Wistron Neweb Corporation
+				No.20,Park Avenue II,Hsinchu Science Park
+				Hsin-Chu  R.O.C.  308
+				TW
 
 48-BD-0E   (hex)		Quanta Storage Inc.
 48BD0E     (base 16)		Quanta Storage Inc.
@@ -30774,6 +30774,12 @@ A47B2C     (base 16)		Nokia
 8C5AF8     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
 				Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District
 				Beijing  Beijing  10085
+				CN
+
+88-5A-06   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+885A06     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
 				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
@@ -32556,12 +32562,6 @@ B88EC6     (base 16)		Stateless Networks
 146B72     (base 16)		Shenzhen Fortune Ship Technology Co., Ltd.
 				Room 701-716, 7th Floor,
 				Nanshan District, Shenzhen  Guangdong  518000
-				CN
-
-40-A5-EF   (hex)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
-40A5EF     (base 16)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
-				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base, Tenglong Road, Longhua District, Shenzhen, China.
-				shenzhen  guangdong  518000
 				CN
 
 7C-7A-53   (hex)		Phytrex Technology Corp.
@@ -61559,6 +61559,12 @@ E89363     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
+CC-66-B2   (hex)		Nokia
+CC66B2     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
 10-E8-78   (hex)		Nokia
 10E878     (base 16)		Nokia
 				600 March Road
@@ -61571,14 +61577,8 @@ E89363     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
-CC-66-B2   (hex)		Nokia
-CC66B2     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
-1C-EA-1B   (hex)		Nokia
-1CEA1B     (base 16)		Nokia
+4C-C9-4F   (hex)		Nokia
+4CC94F     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
@@ -61601,6 +61601,12 @@ CC66B2     (base 16)		Nokia
 				Haidian District  Beijing  100085
 				CN
 
+1C-EA-1B   (hex)		Nokia
+1CEA1B     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
+
 E0-09-BF   (hex)		SHENZHEN TONG BO WEI TECHNOLOGY Co.,LTD
 E009BF     (base 16)		SHENZHEN TONG BO WEI TECHNOLOGY Co.,LTD
 				5th floor building 4 pengtengda industrial，langkou community，dalang street longhua newly developed area
@@ -61613,23 +61619,11 @@ E009BF     (base 16)		SHENZHEN TONG BO WEI TECHNOLOGY Co.,LTD
 				Grass Valley  CA  95945
 				US
 
-4C-C9-4F   (hex)		Nokia
-4CC94F     (base 16)		Nokia
-				600 March Road
-				Kanata  Ontario  K2K 2E6
-				CA
-
 CC-ED-DC   (hex)		MitraStar Technology Corp.
 CCEDDC     (base 16)		MitraStar Technology Corp.
 				No. 6, Innovation Road II,
 				Hsinchu    300
 				TW
-
-90-58-51   (hex)		Technicolor CH USA Inc.
-905851     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
 
 D4-58-00   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 D45800     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -61647,6 +61641,36 @@ C464B7     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 4C4D66     (base 16)		Nanjing Jiahao Technology Co., Ltd.
 				Moling Industrial Park, Development Zone, Jiangning, Nanjing
 				Nanjing  Jiangsu  211111
+				CN
+
+90-58-51   (hex)		Technicolor CH USA Inc.
+905851     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+38-F8-5E   (hex)		HUMAX Co., Ltd.
+38F85E     (base 16)		HUMAX Co., Ltd.
+				HUMAX Village, 216, Hwangsaeul-ro, Bu
+				Seongnam-si  Gyeonggi-do  463-875
+				KR
+
+C0-2E-25   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+C02E25     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
+
+40-A5-EF   (hex)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
+40A5EF     (base 16)		Shenzhen Four Seas Global Link Network Technology Co., Ltd.
+				Room 607-610, Block B, TAOJINDI Electronic Business Incubation Base
+				Tenglong Road, Longhua District,   Shenzhen Guangdong  518000
+				CN
+
+48-E6-C0   (hex)		SIMCom Wireless Solutions Co.,Ltd.
+48E6C0     (base 16)		SIMCom Wireless Solutions Co.,Ltd.
+				Building B,SIM Technology Building,No.633,Jinzhong Road
+				Shanghai    200335
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -91860,6 +91884,12 @@ A4-81-7A   (hex)		CIG SHANGHAI CO LTD
 A4817A     (base 16)		CIG SHANGHAI CO LTD
 				5th Floor, Building 8 No 2388 Chenhang Road
 				SHANGHAI    201114
+				CN
+
+48-D8-45   (hex)		Shenzhen Mainuoke Electronics Co., Ltd
+48D845     (base 16)		Shenzhen Mainuoke Electronics Co., Ltd
+				9th Floor, Hengtemei Building, Buji
+				Shenzhen  Guangdong  518000
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -122612,6 +122642,12 @@ D88DC8     (base 16)		Atil Technology Co., LTD
 				Delta  BC  V4G 1M6
 				CA
 
+38-3C-9C   (hex)		Fujian Newland Payment Technology Co.,Ltd.
+383C9C     (base 16)		Fujian Newland Payment Technology Co.,Ltd.
+				No. B602,Building #1,Haixia Jingmao Plaza,Fuzhou Bonded Area
+				Fuzhou  Fujian  350015
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -153277,6 +153313,30 @@ C4F0EC     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
+
+04-D7-A5   (hex)		New H3C Technologies Co., Ltd
+04D7A5     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+C0-10-B1   (hex)		HMD Global Oy
+C010B1     (base 16)		HMD Global Oy
+				Karaportti 2
+				Espoo    02610
+				FI
+
+90-89-5F   (hex)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+90895F     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
+				Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China
+				Weifang  Shandong  261205
+				CN
+
+54-47-D3   (hex)		TSAT AS
+5447D3     (base 16)		TSAT AS
+				Martin Linges v 25
+				Fornebu    1364
+				NO
 
 E0-5A-9F   (hex)		IEEE Registration Authority
 E05A9F     (base 16)		IEEE Registration Authority
