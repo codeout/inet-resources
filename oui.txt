@@ -122894,12 +122894,6 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -122909,20 +122903,26 @@ D4E880     (base 16)		Cisco Systems, Inc
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
 
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
 				Seoul    153-801
 				KR
 
-3C-20-F6   (hex)		Samsung Electronics Co.,Ltd
-3C20F6     (base 16)		Samsung Electronics Co.,Ltd
+7C-38-AD   (hex)		Samsung Electronics Co.,Ltd
+7C38AD     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
 
-7C-38-AD   (hex)		Samsung Electronics Co.,Ltd
-7C38AD     (base 16)		Samsung Electronics Co.,Ltd
+3C-20-F6   (hex)		Samsung Electronics Co.,Ltd
+3C20F6     (base 16)		Samsung Electronics Co.,Ltd
 				#94-1, Imsoo-Dong
 				Gumi  Gyeongbuk  730-350
 				KR
