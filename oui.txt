@@ -61898,6 +61898,18 @@ B4D0A9     (base 16)		China Mobile Group Device Co.,Ltd.
 				Noida  Uttar Pradesh  201301
 				IN
 
+58-CB-52   (hex)		Google, Inc.
+58CB52     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
+
+F8-CA-59   (hex)		NetComm Wireless
+F8CA59     (base 16)		NetComm Wireless
+				LEVEL 5, 18-20 ORION RD. LANE COVE
+				LANE COVE WEST  NSW  2066
+				AU
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92213,10 +92225,10 @@ A4CF12     (base 16)		Espressif Inc.
 				Shanghai   Pudong  201206
 				CN
 
-08-36-C9   (hex)		NETGEAR
-0836C9     (base 16)		NETGEAR
-				350 East Plumeria Drive
-				San Jose  CA  95134
+94-BF-C4   (hex)		Ruckus Wireless
+94BFC4     (base 16)		Ruckus Wireless
+				350 West Java Drive
+				Sunnyvale  CA  94089
 				US
 
 00-04-DF   (hex)		TERACOM TELEMATICA S.A
@@ -92224,6 +92236,12 @@ A4CF12     (base 16)		Espressif Inc.
 				RUA AMERICA N.1000
 				Eldorado do Sul - RS    Brazil
 				BR
+
+08-36-C9   (hex)		NETGEAR
+0836C9     (base 16)		NETGEAR
+				350 East Plumeria Drive
+				San Jose  CA  95134
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -123026,12 +123044,6 @@ A468BC     (base 16)		Private
 				Shenzhen  Guangdong  518057
 				CN
 
-AC-2D-A9   (hex)		TECNO MOBILE LIMITED
-AC2DA9     (base 16)		TECNO MOBILE LIMITED
-				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
-				Hong Kong  Hong Kong  999077
-				HK
-
 D4-E8-80   (hex)		Cisco Systems, Inc
 D4E880     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -123040,6 +123052,12 @@ D4E880     (base 16)		Cisco Systems, Inc
 
 10-AE-60   (hex)		Private
 10AE60     (base 16)		Private
+
+AC-2D-A9   (hex)		TECNO MOBILE LIMITED
+AC2DA9     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
 
 AC-F6-F7   (hex)		LG Electronics (Mobile Communications)
 ACF6F7     (base 16)		LG Electronics (Mobile Communications)
