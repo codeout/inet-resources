@@ -31031,12 +31031,6 @@ E0DCFF     (base 16)		Xiaomi Communications Co Ltd
 60-8C-DF   (hex)		Private
 608CDF     (base 16)		Private
 
-6C-23-CB   (hex)		Wattty Corporation
-6C23CB     (base 16)		Wattty Corporation
-				2-15-31 takaokanishi nakaku
-				hamamatsushi  shizuokaken  4338118
-				JP
-
 D0-41-C9   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 D041C9     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.5 DongXin Road
@@ -31060,6 +31054,12 @@ E8018D     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+6C-23-CB   (hex)		Wattty Corporation
+6C23CB     (base 16)		Wattty Corporation
+				2-15-31 takaokanishi nakaku
+				hamamatsushi  shizuokaken  4338118
+				JP
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62165,6 +62165,12 @@ F47960     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+08-A6-BC   (hex)		Amazon Technologies Inc.
+08A6BC     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102
+				Reno  NV  89507
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -92623,6 +92629,18 @@ E0CC7A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+F0-D4-F7   (hex)		varram system
+F0D4F7     (base 16)		varram system
+				57, TECHNO 11-RO,YUSEONG-GU, DAEJEON, KOREA 
+				DAEJEON    34036
+				KR
+
+04-E5-6E   (hex)		THUB Co., ltd.
+04E56E     (base 16)		THUB Co., ltd.
+				#607 2, Busandaehak-ro 63beon-gil, Geumjeong-gu
+				Busan    46241
+				KR
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
