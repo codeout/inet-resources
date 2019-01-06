@@ -9435,7 +9435,7 @@
 9875	PESAT1-AS-AP PT. Pasifik Satelit Nusantara, ID
 9876	NOWNEW-AS-AP NOW New Zealand Ltd., NZ
 9877	NGEEANN-POLY-AS-AP Ngee Ann Polytechnic Computer Center, SG
-9878	BULLETPROOF-AS Bulletproof, Mission Critical Cloud, AU
+9878	AC3-AS-AP ac3, Australian Centre for Advanced Computing and Communications, AU
 9879	OGILVY-AS-AP OGILVY ASIA/PACIFIC, HK
 9880	NEXTGENNET-AS1-AU-AP NextGen.Net Pty Ltd, North Sydney, AU
 9881	SYMBIO-AS-NZ Symbio Wholesale NZ Ltd, AU
@@ -16705,7 +16705,7 @@
 17666	HITACHISUNWAY Unit 13-4, Block F1, MY
 17667	ISEEK-AS-17667 iseek Communications Pty Ltd, AU
 17668	SPTEL-AP Soul Pattinson Telecommunications Pty Ltd, AU
-17669	BULLETPROOF-AS Bulletproof, Mission Critical Cloud, AU
+17669	AC3-AS-AP ac3, Australian Centre for Advanced Computing and Communications, AU
 17670	INFOKOM-AS PT.Infokom Elektrindo, ID
 17671	ASN-JETCOMS JETCOMS-ID Autonomous system, ID
 17672	CHINATELECOM-HE-AS-AP asn for Hebei Provincial Net of CT, CN
@@ -16768,7 +16768,7 @@
 17729	LEGION-AU-AP Legion-AS, AU
 17730	CROWN-AP Crown Limited Autonomous System, AU
 17731	PANASEER-AP The Panaseer ISP network., AU
-17732	BULLETPROOF-AS Bulletproof, Mission Critical Cloud, AU
+17732	AC3-AS-AP ac3, Australian Centre for Advanced Computing and Communications, AU
 17733	SMU-AS-AP Office of Communications & IT, SG
 17734	SYMBIO-AS-AU Symbio Networks Ltd, AU
 17735	MST863-AS-AP China Ministry of Science and Technology, CN
@@ -16950,9 +16950,8 @@
 17915	GEMONEY1-AS-AP GE Capital Finance Australasia P/L TA GE Money, AU
 17916	CSC-IGN-AUNZ-AP Computer Sciences Corporation, AU
 17917	QTLTELECOM-AS-AP Quadrant Televentures Limited, IN
-17918	BULLETPROOF-AS Bulletproof, Mission Critical Cloud, AU
+17918	AC3-AS-AP ac3, Australian Centre for Advanced Computing and Communications, AU
 17919	DELL-AP-ONLINE Dell AP-Online, SG
-17920	ULTRASERVE-SYD1-AS-AP Ultra Serve Internet Pty Ltd - Transit AS - Hosting Provider, AU
 17922	INDOSAT-INP INDOSAT Internet Network Provider, ID
 17923	CHINATELECOM-NMG-AS-AP asn for Neimenggu Provincial Net of CT, CN
 17924	SMARTONE-MB-AS-AP SmarTone Mobile Communications Ltd, HK
@@ -22122,7 +22121,7 @@
 23325	MCL-ASN - Magnitude Capital, LLC, US
 23326	BROADCOM-CORP - Broadcom Corporation, US
 23327	ACDNET-ASN3 - ACD.net, US
-23328	EST-INC - EST INC, US
+23328	EST-INC - EST, Inc., US
 23329	AS-OPENACCESS - Open Access Inc., US
 23330	OMEGA-ADVISORS - Omega Advisors, Inc, US
 23331	EQT - Equitable Resources, US
@@ -28742,6 +28741,7 @@
 30477	SHO - Shorenstein Realty Services, US
 30478	AVT - Affinity VoIP Telecom, Inc., US
 30479	OMNICO-COM - Omnico Hosting, LLC, US
+30480	ONENET-OKCIX-AS-1 - Oklahoma State Regents for Higher Education, US
 30481	CITIZENS-ISP - Citizens Internet Service, US
 30482	PCAP-BOSTON - Parthenon Capital, LLC, US
 30483	TEXAS-GAS-TRANSMISSION - TEXAS GAS TRANSMISSION, LLC, US
@@ -28958,6 +28958,7 @@
 30694	KLAS-5527 - Keystone Systems, Inc., US
 30695	WALLSTREET-LTLN - Markit On Demand, Inc., US
 30696	TETN-I2 - Texas Education Agency, US
+30697	IVISION - iVision, Inc., US
 30698	BOSCH - Robert Bosch LLC, US
 30699	CORRECTIONSCORP - Corrections Corporation of America, US
 30700	KY-RON - Kentucky Regional Optical Network (KY-RON), US
@@ -37274,6 +37275,7 @@
 39762	VAK Poltava, Ukraine, UA
 39763	BANKASTANA-AS, KZ
 39764	DOLPHIN, CH
+39765	WOUTER0100, NL
 39766	NETKABEL-AS Net Kabel Broadband Network, MK
 39767	SARGASSO-AS Sargasso Networks UK operations, GB
 39768	HAIFA-CHEMICALS, IL
@@ -39502,6 +39504,7 @@
 41993	CLOUDCENTER, FI
 41994	CREDITO-Y-CAUCION, ES
 41995	WS171-AS, RU
+41996	THVMH, NL
 41997	CONNECT-AS-1, AZ
 41998	NECKARCOM-AS, DE
 41999	PGSAYT-AS, TR
@@ -45527,7 +45530,7 @@
 48147	AS-AMINIDC, IR
 48148	SAINF-AS, RU
 48149	ITKM-AS, RU
-48150	PUL, VA
+48150	-Reserved AS-, ZZ
 48151	REDBULL-AS A-5330 Fuschl am SeeAustria, AT
 48152	DIGITAL-REALTY-, DE
 48153	ORWO-AS, DE
@@ -49249,7 +49252,7 @@
 51869	SPBMAPO-NET, RU
 51870	LFDJ-AS, FR
 51871	F1-CONSULT, DE
-51872	AS40676, US
+51872	-Reserved AS-, ZZ
 51873	ARCADE-AS, CH
 51874	HOMENET-SUMY, UA
 51875	SILVERSERVICE, UA
@@ -58449,7 +58452,7 @@
 61330	ECONSULT, LB
 61331	UNIGARANT, NL
 61332	SCPEXIM, RS
-61333	SBC-DE2, DE
+61333	ASTRALUS, DE
 61334	PAYPOINT-AS Bdul Decebal Nr 6, MD
 61335	OOO-SYSMEDIA-AS, RU
 61336	ISLANDSERVERS-AS, UA
@@ -59656,7 +59659,7 @@
 62613	PERELESS - Pereless Systems, US
 62614	NETWOLVES-NETWORK-SERVICES - NetWolves Network Services LLC, US
 62615	SLPS-REDUNDASNT-INTERNET-CONNECTION - St. Lucie Public Schools, US
-62616	-Reserved AS-, ZZ
+62616	CALHEERS-CENTURYLINK-AS - California Health Benefit Exchange, US
 62617	CARECORE-NATIONAL - CareCore National, LLC, US
 62618	MICHIGANTECH - Michigan Technological University, US
 62619	EZE-CASTLE-SOFTWARE-LLC - Eze Castle Software LLC, US
@@ -62323,9 +62326,9 @@
 131090	CAT-IDC-4BYTENET-AS-AP CAT TELECOM Public Company Ltd,CAT, TH
 131091	GSS-AS-AP GSS Global, HK
 131092	KRNIC4BYTE-AS-KR Korea Internet Security Agency, KR
-131098	BDNSKR-AS-KR BROADBANDIDC, KR
-131099	CDNSKR-AS-KR BROADBANDIDC, KR
-131100	FDNSKR-AS-KR BROADBANDIDC, KR
+131098	BDNSKR-AS-KR Korea Internet Security Agency, KR
+131099	CDNSKR-AS-KR Korea Internet Security Agency, KR
+131100	FDNSKR-AS-KR Korea Internet Security Agency, KR
 131102	BTTB-AS-AP 4 byte AS, BD
 131103	GTC-MY-SIP-ASV32 Global Transit Communications - Malaysia, MY
 131104	GTC-MY-PIP-ASV32 Global Transit Communications - Malaysia, MY
@@ -63194,7 +63197,7 @@
 132211	FXCM-ASIA-AP FX Corporate LLC, JP
 132212	ACRETECHNOLOGIES-AS-AP ACRE COMPUTER SERVICES LIMITED, NZ
 132213	CNX-IXP Cambodian Network Exchange (free peering), KH
-132214	BULLETPROOF-AS Bulletproof, Mission Critical Cloud, AU
+132214	AC3-AS-AP ac3, Australian Centre for Advanced Computing and Communications, AU
 132215	POWERGRID-IN Power Grid Corporation of India Limited, IN
 132217	VIRGIN-AS-AP Virgin Australia Airlines Pty Ltd, AU
 132218	MCS-AS-AP Maldives Customs Service, MV
@@ -69209,6 +69212,8 @@
 138534	MATRIXBD-AS-AP Md. Asad Uz Zaman t/a Matrix, BD
 138535	KURIKO-AS Kuriko Netwoek Service, CN
 138536	PREMIUM-AS-AP Premium Connectivity Limited, BD
+138537	BARKERCOLLEGE-AS-AP Barker College, AU
+138538	NANBIAN-CN Ningbo Nanbian Tuoluo Xinxi Jishu Co., Ltd, CN
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-ACADEMY DE-CIX Academy Educational Network, DE
@@ -79232,6 +79237,10 @@
 207257	IONAUTOMATION, NL
 207258	FENIX-AS, RU
 207259	ENERGO, RU
+209627	ARTELIAGROUP, FR
+209628	LIVELA-AS, UA
+209629	AIRC-AS, IT
+209630	KREDIT-AS, UA
 209631	TOPIX4SCHOOLS, IT
 209632	AIRETEL, ES
 209633	SEMEL, FI
