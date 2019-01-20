@@ -1611,6 +1611,7 @@
 1610	CONTE-25-ASN - Contegix, US
 1611	-Reserved AS-, ZZ
 1612	FLUXTEL - Flux Telecom, LLC, US
+1613	EMBER - Ember Infrastructure Services, LLC, US
 1614	ISLLC-AS-01 - IOWA STUDENT LOAN LIQUIDITY CORP., US
 1615	EXEL - Exelixis Inc., US
 1616	CORELINK-US-ASN - CoreLink Data Centers, US
@@ -2617,6 +2618,7 @@
 2633	NAS1-AS - National Academy of Sciences, US
 2634	CELLCO-PART - Cellco Partnership DBA Verizon Wireless, US
 2635	AUTOMATTIC - Automattic, Inc, US
+2636	LOUISVILLE-MSD-ASN-01 - LOUISVILLE AND JEFFERSON COUNTY METROPOLITAN SEWER DISTRICT, US
 2637	GEORGIA-TECH - Georgia Institute of Technology, US
 2638	CENTRO DE ADMINISTRACION NIC., NI
 2639	ZOHO-AS - ZOHO, US
@@ -3637,6 +3639,7 @@
 3705	GPO-NET - U.S. Government Printing Office, US
 3706	DIGEX-AS2 - Digital Express Group, Inc., US
 3707	DIGEX3707 - MCI Communications Services, Inc. d/b/a Verizon Business, US
+3708	PACIFIC-BIOSIENCES - Pacific Biosciences of California, Inc., US
 3709	NET-CITY-SA - City of San Antonio, US
 3710	REALM-AS - Realm Corporation, US
 3711	ERX-ISIS-NZ-0 ISIS International (NZ) Ltd., NZ
@@ -4797,6 +4800,7 @@
 4889	USPSOIG-AS2 - United States Postal Service Office of Inspector General, US
 4890	-Reserved AS-, ZZ
 4891	PORTO-18-4891 - Port of Houston Authority of Harris County, Texas, US
+4892	APPLIEDUK-CLOUD-04 - APPLIED SYSTEMS, INC, US
 4893	RGM-ASN-1 - DRW Holdings, LLC, US
 4894	COANAHEIM - City of Anaheim, US
 4895	BLOOMIP-INC - Bloomip Inc., US
@@ -4850,6 +4854,7 @@
 4943	NOL-AS - Networks On-Line, US
 4944	Petroleos de Venezuela S.A., VE
 4945	HARRIS-SEMICONDUCTOR - Harris Semiconductor Sector Telecommunications, US
+4946	KDAM-1 - Kornit Digital N.A., US
 4947	RISE-IA-2 - JAB Wireless, INC., US
 4948	AIX-NET - Alpha Internet, US
 4949	UCINET-EIGRP - University of California at Irvine, US
@@ -5020,6 +5025,7 @@
 5114	KBI-NET-GW - Knowledge Broker, Inc., US
 5115	ONESTEP - OneStep Internet Services, US
 5116	-Reserved AS-, ZZ
+5117	INETNETWORK - iNet Communications, LLC, US
 5118	NINJA-IX-ROUTE-SERVER - Ninja-IX Corporation, US
 5119	ALTARUM-INSTITUTE - Altarum Institute, US
 5120	DNIC-ASBLK-05120-05376 - DoD Network Information Center, US
@@ -6507,6 +6513,7 @@
 6646	AETNA - Aetna, US
 6647	BITNAMES-ANYCAST - Solfo Inc., US
 6648	BAYAN-TELECOMMUNICATIONS Bayan Telecommunications, Inc., PH
+6649	HYAK - Siuslaw Broadband, LLC, US
 6650	LOGICWORKS-AS - Logicworks Corporation, US
 6651	GEMINI-EXCHANGE - Gemini, US
 6652	PIMA-COLLEGE - Pima Community College, US
@@ -7738,6 +7745,7 @@
 7957	SHOPX - Shoppers Express, Inc., US
 7958	IDI - Internet Direct, Incorporated, US
 7959	VICON - VICON NETWORKS, US
+7960	CALPOLY-NET-ENS - California Polytechnic State University, US
 7961	RBC - Raw Bandwidth Communications, Inc., US
 7962	EXISNET - EXISNET INC, US
 7963	D20 - D20 Hobbies, US
@@ -7873,6 +7881,7 @@
 8094	PUKNET, ZA
 8095	NETVALUE - Netvalue, Inc., US
 8096	R Computadores, CO
+8097	ONETECH - One Technologies, US
 8098	IFN - Internet Financial Group, US
 8099	ASN-280 - 280, Inc., US
 8100	ASN-QUADRANET-GLOBAL - QuadraNet Enterprises LLC, US
@@ -18667,7 +18676,7 @@
 19645	IXSYSTEMS - iX Systems, Inc, US
 19646	BBDO-COLO - BBDO NY, US
 19647	HPES - Hewlett-Packard Company, US
-19648	LDSCHURCH1 - THE CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS, US
+19648	LDSCHURCH1 - Corporation of the Presiding Bishop of the Church of Jesus Christ of Latter-Day Saints, US
 19649	DATAPIPE-GOV-SOLUTIONS - DataPipe, Inc., US
 19650	BUNZLUSA - Bunzl Distribution, Inc., US
 19651	WEBTRENDS-INC-SANBRUNO - WebTrends Incorporated, US
@@ -43105,6 +43114,7 @@
 45689	CONVIVIALNET Convivial Net, JP
 45690	JCTV-NET Tokushima Central TV Co.,Inc., JP
 45691	ELLIOTT-ASIA Elliott Advisors Asia Limited, JP
+45692	LANDSNSW-AU-AS-AP NSW Department of Lands, AU
 45693	INDIAGAMES-TRANSIT-AS-AP INDIAGAMES TRANSIT AS Content hosting serivce India, IN
 45694	VOL-AS-AP VOL Broadband, IN
 45696	PPATK-AS-ID Pusat Pelaporan dan Analisis Transaksi Keuangan, ID
@@ -48118,7 +48128,7 @@
 50744	EMEK-YEZREEL-COLLEGE-LTD, IL
 50745	GR-IX-RS, GR
 50746	BTL, GB
-50747	VEZET-AS, RU
+50747	VEZET-AS, ZZ
 50748	KM-CORP-AS, UA
 50749	YAGHOOT, IR
 50750	TK-CENTER-LTD-AS, RU
@@ -62999,7 +63009,6 @@
 132022	AKTIFNET-AS-AP Aktif Setegap Sdn Bhd, MY
 132023	GREENFIELDS-AS-AP Greenfields Internet Limited, NZ
 132024	REBYC-JP Rebyc Inc., JP
-132025	PROJECTAPSY-AS-AP Projectapsy Internet Service Provider, US
 132026	RL-AS-AP Yatanarpon Teleport Company Limited, MM
 132027	HDC-AS-AP Hastings District Council, NZ
 132028	ASPIRESYS-NET-IN Aspire Systems India Private Ltd, IN
@@ -63133,7 +63142,7 @@
 132159	ZETANETWORKS-AS-AP Asif Rezwan t/a Zeta Networks, BD
 132160	OCEANIC-BROADBAND-AS-AP Oceanic Broadband Solutions Pty. Ltd., AU
 132161	LAYERX-AS-AP LAYERX CLOUD LIMITED, NZ
-132162	QUADRANTENERGY-AS-AP Quadrant Energy Australia Limited, AU
+132162	SANTOSWA-AS-AP SANTOS WA ENERGY LIMITED, AU
 132163	CYBERWORLD-IIG CyberWorld Data Center Co.,Ltd., TH
 132164	KASKUSNETWORKS-AS PT Darta Media Indonesia, ID
 132165	CONNECT-AS-AP Connect Communications, PK
@@ -63326,7 +63335,6 @@
 132359	RAPIDCLOUD-AS-AP RapidCloud (M) Sdn Bhd, MY
 132360	SERVICESTREAM-AS-AP Service Stream Limited, AU
 132361	CITRIXSYSTEMS-AS-AP Citrix Systems Asia Pacific Pty Ltd, AU
-132362	KAI-SIERING-AS-AP Kai Siering, SG
 132363	NET-01LINK-HK Unit 2201, 22/F, King Palace Plaza, HK
 132364	TEC-HK Level 16, Nexxus Buildings, HK
 132365	BANGLADESHAGRICULTURALUNIVERSITY-AS-AP Bangladesh Agricultural University (BAU), BD
@@ -64472,7 +64480,6 @@
 133534	LDAPL-AS-AP Ladbrokes Digital Australia Pty Ltd, AU
 133535	ALAGASNETWORK-AS-AP PRIMABANANEN PTE. LTD., SG
 133536	BB00NET-AS-AP BB00 Networks, AU
-133537	KINALLEE-AS-AP KINALLEE, TH
 133538	HYPERNODE-AS-AP HYPERNODE PTY. LTD., AU
 133539	RBS-AS-AP Md. Nazmul Islam, BD
 133540	EARTHFACTOR-AS-AP EarthFactor Pvt Ltd, PK
@@ -67775,7 +67782,6 @@
 136982	INS-AS-AP Integranet Network Services, PH
 136983	HAITS-AS-AP HILTI ASIA IT SERVICES SDN. BHD., MY
 136984	TRUSTPOWERLTD-AS-AP TrustPower Ltd, NZ
-136985	AS-SW Shenzhen Shunwang Network Information Technology Co., CN
 136987	VISPL-AS-AP Vodafone India Services Private Ltd, IN
 136988	LEASEWEB-AS-AP LEASEWEB AUSTRALIA PTY LIMITED, AU
 136989	CHOPL-AS-AP Coates Hire Operations Pty Limited, AU
@@ -68509,6 +68515,7 @@
 137730	ISURECLOUD Beijing Yun Duan Zhi Du Technology Co., Ltd., CN
 137731	OYNET Wuhan Ouyue Online TV CO .ï¼ŒLTD, CN
 137732	GUANGXUN Qinghe County Guang Xun Network Technology Co., Ltd., CN
+137755	HZZY Hangzhou Zhuyue Technology Co., Ltd., CN
 137756	UNSPECIFIED BEIJING SHENZHOU GREATWALL COMMUNICATION, CN
 137757	UNSPECIFIED BEIJING SHENZHOU GREATWALL COMMUNICATION, CN
 137763	TELEINFO-NET Teleinfo, CN
@@ -68562,7 +68569,6 @@
 137845	MAJUBINA-AS-AP Majubina Resources Sdn Bhd, MY
 137846	RCBLIMITED-AS-AP RCB CO., LIMITED, HK
 137847	CRISP-AS-AP Crisp Wireless Pty Ltd, AU
-137848	INTERNET-BY-DESIGN-AS Internet by Design Limited, NZ
 137849	REDUX-NETWORKS-AS Redux Networks, AU
 137851	AMR-IX-AS Amaravati Internet Exchange, IN
 137852	BIZCOMNT-AS-AP BIZCOM (NT) PTY. LTD., AU
@@ -68961,6 +68967,8 @@
 138263	SSNBROADBAND-AS-IN Shri Sainath Broadband Pvt Ltd, IN
 138264	ABLINK-AS-IN Ablink Network Opc Private Limited, IN
 138265	NEUSTAR-AS-IN Neustar Data Infotech India Priviate Limited, IN
+138266	CHIRAGINFO-AS Chirag Infotech, IN
+138267	BSLTPL-AS-IN Bsl Technologies Pvt. Ltd., IN
 138272	HI5MSPL-AS Hi5 Multimedia Services Pvt Ltd, IN
 138273	GNIPL-AS Global Networks Infocomm Pvt Ltd, IN
 138276	TYPHOONC-AS Typhoon Communication Pvt. Ltd., IN
@@ -69240,6 +69248,8 @@
 138561	BROADBANDZONENG-AS-AP BroadBandZone, BD
 138562	CIPL-AS-AP Cre.Ative IT Pty. Ltd., AU
 138563	LITTLEMAN-AS-AP LittleMan Pty Ltd, AU
+138564	GAOSHI-CLOUD Gaoshi Cloud, HK
+138565	VREDNUS-AS-AP Vrednus Network Private Limited, IN
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-ACADEMY DE-CIX Academy Educational Network, DE
@@ -76241,7 +76251,7 @@
 204207	DEVANLAY, FR
 204208	PETERWAELTI, CH
 204209	BIZIMINTERNET, TR
-204210	GRANT, RU
+204210	GRANT, ZZ
 204212	AS_LYREG3, FR
 204213	NETMIHAN, IR
 204214	SIC-ASN, CZ
@@ -77438,7 +77448,7 @@
 205418	MOZILLA-PARIS, FR
 205419	PL-LIONBRIDGE, PL
 205420	X_MY-AS, UA
-205421	GHOST, GB
+205421	GHOSTGB, ZZ
 205422	GIGACOLLOCATIONLLC, FR
 205423	MBR-AS, DE
 205424	ULUNET, TR
@@ -81175,7 +81185,7 @@
 263312	BizPro Processos de Negócios Ltda., BR
 263313	INSTITUTO DE TECNOLOGIA DE ALIMENTOS, BR
 263314	ATALINK TELECOMUNICACOES, BR
-263315	Masterweb Informatica - masterwebinfo.com.br, BR
+263315	Masterweb Informatica - masterwebinfo.com.br, ZZ
 263316	INFOSHOP Comércio e Serviços Ltda, BR
 263317	VoxTech Telecom, BR
 263318	EDUCARE TECNOLOGIA DA INFORMACAO LTDA, BR
@@ -87568,7 +87578,7 @@
 394725	CALICO - Calico Life Sciences LLC, US
 394726	TRAVELPORT - Travelport Operations, Inc., US
 394727	NODISTO - Nodisto IT, LLC, US
-394728	CRESTVIEW - Crestview Cable Communications, US
+394728	-Reserved AS-, ZZ
 394729	NPIASN - NeoPollard Interactive LLC, US
 394730	LEADFUSION - Leadfusion, Inc., US
 394731	CNRL - Canadian Natural Resources Limited, CA
