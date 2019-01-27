@@ -62315,18 +62315,6 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Bangpakong  Chachoengsao  24180
 				TH
 
-CC-37-AB   (hex)		Edgecore Networks Corporation
-CC37AB     (base 16)		Edgecore Networks Corporation
-				1 Creation Road 3.
-				Hsinchu  Hsinchu  30077
-				TW
-
-90-78-41   (hex)		Intel Corporate
-907841     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 44-A6-1E   (hex)		INGRAM MICRO SERVICES
 44A61E     (base 16)		INGRAM MICRO SERVICES
 				100 CHEMIN DE BAILLOT
@@ -62339,11 +62327,23 @@ CC37AB     (base 16)		Edgecore Networks Corporation
 				Urbach    73660
 				DE
 
+90-78-41   (hex)		Intel Corporate
+907841     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 10-9E-3A   (hex)		Zhejiang Tmall Technology Co., Ltd.
 109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
 				CN
+
+CC-37-AB   (hex)		Edgecore Networks Corporation
+CC37AB     (base 16)		Edgecore Networks Corporation
+				1 Creation Road 3.
+				Hsinchu  Hsinchu  30077
+				TW
 
 24-79-F3   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 2479F3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -62363,6 +62363,12 @@ CC37AB     (base 16)		Edgecore Networks Corporation
 				Shenzhen  Guangdong  518109
 				CN
 
+FC-AB-90   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FCAB90     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 20-DA-22   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 20DA22     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -62371,12 +62377,6 @@ CC37AB     (base 16)		Edgecore Networks Corporation
 
 88-F8-72   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 88F872     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-FC-AB-90   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-FCAB90     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
@@ -123950,6 +123950,12 @@ FC3342     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
+6C-8B-D3   (hex)		Cisco Systems, Inc
+6C8BD3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 80-DA-13   (hex)		eero inc.
 80DA13     (base 16)		eero inc.
 				660 3rd Street
@@ -123960,12 +123966,6 @@ FC3342     (base 16)		Juniper Networks
 1422DB     (base 16)		eero inc.
 				230 9th St.
 				San Francisco  CA  94103
-				US
-
-6C-8B-D3   (hex)		Cisco Systems, Inc
-6C8BD3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
 				US
 
 00-11-B4   (hex)		Westermo Network Technologies AB
@@ -124046,6 +124046,12 @@ E41E0A     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
+00-20-E0   (hex)		Actiontec Electronics, Inc
+0020E0     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
+
 A0-91-A2   (hex)		OnePlus Electronics (Shenzhen) Co., Ltd.
 A091A2     (base 16)		OnePlus Electronics (Shenzhen) Co., Ltd.
 				Room 201, Block A, No.1, 1st Qian Wan Road, Qianhai Shenzhen-Hong Kong Cooperation Zone, Shenzhen, China.
@@ -124068,12 +124074,6 @@ A091A2     (base 16)		OnePlus Electronics (Shenzhen) Co., Ltd.
 1820D5     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
-				US
-
-00-20-E0   (hex)		Actiontec Electronics, Inc
-0020E0     (base 16)		Actiontec Electronics, Inc
-				3301 Olcott St.
-				Santa Clara  CA  95054
 				US
 
 00-03-12   (hex)		TRsystems GmbH
