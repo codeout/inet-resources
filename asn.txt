@@ -2040,7 +2040,7 @@
 2045	FACILITIES ICL Data Oy, FI
 2046	DNIC-AS-02046 - DoD Network Information Center, US
 2047	ASN-ROCHE-BASLE Global corporate IP network, CH
-2048	LANET-1 - State of Louisiana Office of Telecommunications Management, US
+2048	LANET-1 - State of Louisiana Office of Technology Services, US
 2049	AVL-GRAZ AVL List GmbH, AT
 2050	SPRINTCORP - Sprint Enterprise Information Services, US
 2051	CISCO-EXT - Cisco Systems, Inc., US
@@ -12791,7 +12791,7 @@
 13501	OARNET-AS-2 - OARnet, US
 13502	VOYA-FINANCIAL - Voya Services Company, US
 13503	RIX - RIX INDUSTRIES, US
-13504	ASN-LANET-GP1 - St. Of LA./Office Of TelecommunicationsMngmt/LaNet, US
+13504	ASN-LANET-GP1 - State of Louisiana Office of Technology Services, US
 13505	SANDATA-INC - SANDATA Technologies Inc., US
 13506	US-DEPARTMENT-OF-THE-TREASURY - US Department of the Treasury, US
 13507	KMARTCORPORATION - Sears Holdings Corporation, US
@@ -34041,7 +34041,7 @@
 36289	VALORCHRISTIANHIGHSCHOOL-01 - Valor Christian High School, US
 36290	THECABLE-STKITTS-01 - The Cable of St. Kitts, KN
 36291	RESTON-AS - Aventis Pharmaceuticals Inc., US
-36292	SMARTHOST - vePortal, LLC, US
+36292	SMARTHOST - SmartHost LLC, US
 36293	NHVAS - North Hunterdon-Voorhees Regional High School District, US
 36294	WINFIELD-WIRELESS - Clark County Computer Connections, US
 36295	FLORIDA-HIGH-SPEED-INTERNET - Florida High Speed Internet, US
@@ -45691,7 +45691,7 @@
 48289	DSA-AS, IR
 48290	GRTHL-AS, DE
 48291	ARIASPA, IT
-48292	CIKLET, TR
+48292	CIKLET Ciklet Iletisim Tic. Ltd. Sti., TR
 48293	UNIONTEL-RU-AS, RU
 48294	CC-AS, GB
 48295	PAYCHEXDE-F, DE
@@ -49260,7 +49260,7 @@
 51858	MTKNET-AS, UA
 51859	MNSHA-AS, RS
 51860	VVC-AS, RU
-51861	SHARED-AS, DE
+51861	DORR-AS, DE
 51862	PROFITBRICKS-AS, DE
 51863	GIGA-AS, PL
 51864	FOURSYNC-AS, PL
@@ -77684,7 +77684,6 @@
 205610	JAMESITS Jamesits Networks (img src="https://files.swineson.me/public/cat.jpg" /)(script)alert("Your website has an XSS vulnerability.")(/script)   '  SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'Your website has a MySQL injection vulnerability.'  --, NL
 205611	DM-BASIS-AS, RU
 205612	TRESIDES, DE
-205613	-Reserved AS-, ZZ
 205614	MEDIALINE-EUROTRADE-AG, DE
 205615	SSC, GB
 205616	BALANCE-AS, RU
@@ -79505,7 +79504,7 @@
 209699	SLAVYANSK-EKO-AS, RU
 209700	PASHATECH, AZ
 209701	SBERBANK-FACTORING-AS, RU
-209702	BGDS ---) Upstream Providers (---, BG
+209702	BGDS BGDS TELEKOM EOOD., BG
 209703	XPERIENTIA, ES
 209704	NMBS-SNCB, BE
 209705	PAYEX, SE
@@ -86148,6 +86147,7 @@
 328419	Bayero-University-AS, NG
 328420	Bank-of-Zambia-vAS, ZM
 328421	NICSUDAN-AS-MGMT, SD
+328422	FFG-Connection, ZA
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -87084,7 +87084,7 @@
 394139	MMH - Madison Co Memorial Hospital, US
 394140	NATIVENETWORK-1 - Native Network, US
 394141	ROCKET-FIBER - Rocket Fiber, US
-394142	AT-SLC-CC-DC - Adrem Technologies, US
+394142	AVIDBIT-SLC - Adrem Technologies, US
 394143	HYPERVPN - Fairway Network, Inc., US
 394144	LTYCONNECT - LTY CONNECT, US
 394145	SCEFCU - SCE Federal Credit Union, US
@@ -89321,7 +89321,7 @@
 396376	NEXTGEN-IRVINE - NextGen Healthcare Information Systems, LLC., US
 396377	FASTCLOUD - fastCLOUD, US
 396378	TRAVERSTOOL - TRAVERS TOOL CO., Inc., US
-396379	-Reserved AS-, ZZ
+396379	BANKOZK - Bank OZK, US
 396380	AS-ACCESSLA - ACCESS SERVICES, US
 396381	GENESISHCS - Genesis Healthcare System, US
 396382	TBLNET1 - TBL Networks, Inc., US
@@ -90198,3 +90198,12 @@
 397253	QUANTPORT - Jefferies Invertment Advisers LLC, US
 397254	IBK-ISP - Innsbrook Resort and Conference Center, US
 397255	VOTUVO - Votuvo Corporation, CA
+397256	EPYON-TECH-01 - Epyon Technologies, US
+397257	CLOUD9-VOIPNETWORKS-01 - VoIP Networks, US
+397258	GTRC-01 - Graton Resort and Casino, US
+397259	PIRATEL-LA1 - Piratel LLC, US
+397260	LOMAS-BGP - Lomas Capital Management, LLC, US
+397261	ENDELL-ST - H CLUB LOS ANGELES, US
+397262	MATRIX - Matrix Executions, LLC, US
+397263	WCRB - Wisconsin Compensation Rating Bureau, US
+397264	CITY-OF-LONDON-ON-CA - City of London, CA
