@@ -31181,17 +31181,23 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				Sunnyvale,  CA  94089
 				US
 
+4C-17-44   (hex)		Amazon Technologies Inc.
+4C1744     (base 16)		Amazon Technologies Inc.
+				P.O. Box 8102
+				Reno  NV  89507
+				US
+
 80-D0-4A   (hex)		Technicolor CH USA Inc.
 80D04A     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
 
-4C-17-44   (hex)		Amazon Technologies Inc.
-4C1744     (base 16)		Amazon Technologies Inc.
-				P.O. Box 8102
-				Reno  NV  89507
-				US
+4C-91-57   (hex)		Fujian LANDI Commercial Equipment Co.,Ltd
+4C9157     (base 16)		Fujian LANDI Commercial Equipment Co.,Ltd
+				Building 17,the 1st Section ,Fuzhou Software Park
+				No.89 Software Road   Fuzhou ,Fujian  350003
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62333,6 +62339,18 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Bangpakong  Chachoengsao  24180
 				TH
 
+CC-37-AB   (hex)		Edgecore Networks Corporation
+CC37AB     (base 16)		Edgecore Networks Corporation
+				1 Creation Road 3.
+				Hsinchu  Hsinchu  30077
+				TW
+
+90-78-41   (hex)		Intel Corporate
+907841     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 44-A6-1E   (hex)		INGRAM MICRO SERVICES
 44A61E     (base 16)		INGRAM MICRO SERVICES
 				100 CHEMIN DE BAILLOT
@@ -62345,23 +62363,11 @@ A8DB03     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
 				Urbach    73660
 				DE
 
-90-78-41   (hex)		Intel Corporate
-907841     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
-
 10-9E-3A   (hex)		Zhejiang Tmall Technology Co., Ltd.
 109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
 				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, 
 				Shenzhen  Guangdong  518000
 				CN
-
-CC-37-AB   (hex)		Edgecore Networks Corporation
-CC37AB     (base 16)		Edgecore Networks Corporation
-				1 Creation Road 3.
-				Hsinchu  Hsinchu  30077
-				TW
 
 24-79-F3   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 2479F3     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -62381,12 +62387,6 @@ CC37AB     (base 16)		Edgecore Networks Corporation
 				Shenzhen  Guangdong  518109
 				CN
 
-FC-AB-90   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-FCAB90     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 20-DA-22   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 20DA22     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -62395,6 +62395,12 @@ FCAB90     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 88-F8-72   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 88F872     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+FC-AB-90   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+FCAB90     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
@@ -93056,17 +93062,23 @@ D039EA     (base 16)		NetApp
 				Sunnyvale,  CA  94089
 				US
 
-50-41-B9   (hex)		I-O DATA DEVICE,INC.
-5041B9     (base 16)		I-O DATA DEVICE,INC.
-				3-10,Sakurada-machi
-				Kanazawa  Ishikawa  920-8512
-				JP
+DC-2A-A1   (hex)		MedHab LLC
+DC2AA1     (base 16)		MedHab LLC
+				3501 North US Highway 67
+				San Angelo  TX  76905
+				US
 
 90-5C-34   (hex)		Sirius Electronic Systems Srl
 905C34     (base 16)		Sirius Electronic Systems Srl
 				via Robinie, 33
 				Gravellona Toce  VB  28883
 				IT
+
+50-41-B9   (hex)		I-O DATA DEVICE,INC.
+5041B9     (base 16)		I-O DATA DEVICE,INC.
+				3-10,Sakurada-machi
+				Kanazawa  Ishikawa  920-8512
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124022,12 +124034,6 @@ FC3342     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-6C-8B-D3   (hex)		Cisco Systems, Inc
-6C8BD3     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 80-DA-13   (hex)		eero inc.
 80DA13     (base 16)		eero inc.
 				660 3rd Street
@@ -124038,6 +124044,12 @@ FC3342     (base 16)		Juniper Networks
 1422DB     (base 16)		eero inc.
 				230 9th St.
 				San Francisco  CA  94103
+				US
+
+6C-8B-D3   (hex)		Cisco Systems, Inc
+6C8BD3     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
 				US
 
 00-11-B4   (hex)		Westermo Network Technologies AB
@@ -124118,12 +124130,6 @@ E41E0A     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-00-20-E0   (hex)		Actiontec Electronics, Inc
-0020E0     (base 16)		Actiontec Electronics, Inc
-				3301 Olcott St.
-				Santa Clara  CA  95054
-				US
-
 A0-91-A2   (hex)		OnePlus Electronics (Shenzhen) Co., Ltd.
 A091A2     (base 16)		OnePlus Electronics (Shenzhen) Co., Ltd.
 				Room 201, Block A, No.1, 1st Qian Wan Road, Qianhai Shenzhen-Hong Kong Cooperation Zone, Shenzhen, China.
@@ -124148,11 +124154,11 @@ A091A2     (base 16)		OnePlus Electronics (Shenzhen) Co., Ltd.
 				San Diego  CA  92121
 				US
 
-00-03-12   (hex)		TRsystems GmbH
-000312     (base 16)		TRsystems GmbH
-				Eglishalde 16
-				 Trossingen  Baden-Wuerttemberg  D-78647
-				DE
+00-20-E0   (hex)		Actiontec Electronics, Inc
+0020E0     (base 16)		Actiontec Electronics, Inc
+				3301 Olcott St.
+				Santa Clara  CA  95054
+				US
 
 9C-25-BE   (hex)		Wildlife Acoustics, Inc.
 9C25BE     (base 16)		Wildlife Acoustics, Inc.
@@ -124165,6 +124171,18 @@ A091A2     (base 16)		OnePlus Electronics (Shenzhen) Co., Ltd.
 				1395 Crossman Ave
 				Sunnyvale,  CA  94089
 				US
+
+00-03-12   (hex)		TRsystems GmbH
+000312     (base 16)		TRsystems GmbH
+				Eglishalde 16
+				 Trossingen  Baden-Wuerttemberg  D-78647
+				DE
+
+1C-69-7A   (hex)		EliteGroup Computer Systems Co., LTD
+1C697A     (base 16)		EliteGroup Computer Systems Co., LTD
+				No.239, Sec. 2, TiDing Blvd. Nei-Hu Dist.
+				Taipei  Taiwan  11439
+				TW
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -155185,3 +155203,21 @@ C8B422     (base 16)		ASKEY COMPUTER CORP
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+38-F3-2E   (hex)		Skullcandy
+38F32E     (base 16)		Skullcandy
+				6301 N. LANDMARK DRIVE
+				Park City    84098
+				US
+
+10-3D-3E   (hex)		China Mobile Group Device Co.,Ltd.
+103D3E     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
+64-CC-22   (hex)		Arcadyan Corporation
+64CC22     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
