@@ -1,4 +1,3 @@
-0	-Reserved AS-, ZZ
 1	LVLT-1 - Level 3 Parent, LLC, US
 2	UDEL-DCN - University of Delaware, US
 3	MIT-GATEWAYS - Massachusetts Institute of Technology, US
@@ -1632,6 +1631,7 @@
 1631	-Reserved AS-, ZZ
 1632	SONIC-HEALTHCARE-USA-HNY - SONIC HEALTHCARE USA, INC., US
 1633	VMSYSAB - 353233 Alberta LTD, CA
+1634	BWDSB - Bluewater District School Board, CA
 1635	WSC-READING - Weidenhammer, US
 1636	-Reserved AS-, ZZ
 1637	DNIC-AS-01637 - Headquarters, USAISC, US
@@ -3264,7 +3264,6 @@
 3325	KSU Kazan, Russia, RU
 3326	AS3326-BLINKING-MEGABIT AS3326-BLINKING-MEGABIT, UA
 3327	CITIC CITIC Telecom CPC Netherlands B.V., EE
-3328	-Reserved AS-, ZZ
 3329	HOL-GR Athens, Greece, GR
 3330	PROFINET-AT Vienna, Austria, AT
 3331	OPENXS-AS, DE
@@ -13320,6 +13319,7 @@
 14035	KATTEN-MUCHIN-ROSENMAN-LLP - KATTEN MUCHIN ROSENMAN LLP, US
 14036	AMERISERVE - Ameriserve, US
 14037	AS-DZ-14037 - 6G Networks Inc, PL
+14038	DRAKE-UNIVERSITY - Drake University, US
 14039	BTCONF-VIDEO - BT Conferencing, US
 14040	XO-ASN1 - MCI Communications Services, Inc. d/b/a Verizon Business, US
 14041	AS14041 - University Corporation for Atmospheric Research, US
@@ -22334,7 +22334,7 @@
 23537	-Reserved AS-, ZZ
 23538	JOHNSON-COUNTY-ASN - Johnson County Iowa, US
 23539	TUBEMOGUL - TubeMogul, Inc., US
-23540	CMH-IX - Setson LLC, US
+23540	CMH-IX - CMH-IX, US
 23542	CWI-FNG-ASN - Florida's Natural Growers, US
 23543	IDX-SYSTEMS-CORP-ISD - IDX Systems Corporation, US
 23544	ASN1 - City of Mission Viejo, US
@@ -34677,7 +34677,6 @@
 36915	AFOL-KE-AS, KE
 36916	X-DSL-NET1, ZA
 36917	ACS, AO
-36918	Orascom-Telecom-Algerie, DZ
 36919	PEREGRINE-AS, ZA
 36920	KKON, NG
 36921	DOPC-AS-NGN, NG
@@ -44477,6 +44476,7 @@
 47058	NETWORK-ENGINEER - THE GOOD SAMARITAN HOSPITAL OF LEBANON, PENNSYLVANIA, US
 47059	YORKHOSPITAL - York Hospital, US
 47060	BMA - Bermuda Monetary Authority, BM
+47061	AS-OWENTIS-US - OWENTIS, MQ
 47062	AS-SGNY - Siguler Guff & Co. LLC, US
 47063	SWITCHSPACE - Switchspace Inc., US
 47064	ESCXV - Education Service Center Region XV, US
@@ -50650,6 +50650,7 @@
 53264	NCHC-603 - New Continuum Holdings Corporation, US
 53265	TERAGO-BOXFABRIC - TeraGo Networks Inc., CA
 53266	DFNSYSRSWL - DFN Systems, US
+53267	BALTIMORE01 - Eisai Inc., US
 53268	EIS-SFO-AS - Exigen Insurance Solutions, Inc, US
 53269	NMH - Northwestern Memorial Hospital, US
 53270	ZETEC-INC - Zetec, Inc., US
@@ -50914,6 +50915,7 @@
 53529	JCC-ASN - Jefferson County, Colorado, US
 53530	MYRON-ASN - Myron Corp., US
 53531	SENECA-ASN - Seneca Sawmill Company, US
+53532	CINNAMINSON-SCHOOLS - The Board of Education of the Township of Cinnaminson, US
 53533	ENTRA-3 - Entravision Communications Corporation, US
 53534	SHOP1NET1 - Shopatron Inc, US
 53535	ARIN-PFS-ANYCAST - ARIN Operations, US
@@ -51117,6 +51119,7 @@
 53733	JERICH-USA-INC - Jerich USA Inc., US
 53734	GSC-FORTCOLLINS - Gannett Supply Corp. - Fort Collins, CO, US
 53735	BLOOM-ENERGY - Bloom Energy, US
+53736	NUTANIX-IT - Nutanix, US
 53737	PVC-ASN - PET VALU CANADA INC, CA
 53738	DDC-JVL - DATA DIMENSIONS CORP, US
 53739	ISTINC - International Science and Technology, Inc., US
@@ -54574,7 +54577,7 @@
 57326	ASN-INFOTREAT, RO
 57327	FOILHAT-ANYCAST, SE
 57328	MIR-SYAZI, RU
-57329	AS57329 Centro di Produzione Spa, IT
+57329	CDP-SPA Centro di Produzione Spa, IT
 57330	FIVESTARS-NET, UA
 57331	NIKS-AS, BY
 57332	TOM-NET-AS, PL
@@ -54728,7 +54731,6 @@
 57480	PROJECTPOL-AS, PL
 57481	ASMULTISOL, BY
 57482	SMP-AS, RU
-57483	-Reserved AS-, ZZ
 57484	KIAE-TRANSIT-AS supercomputing division, RU
 57485	INTERPARTS, NL
 57486	OPTEL-TELEKOM-AS, RS
@@ -55108,7 +55110,6 @@
 57860	ZENCURITY-NET, DK
 57861	ASSTROJTELKOM, RU
 57862	MARS, IL
-57863	-Reserved AS-, ZZ
 57864	MEGABIT, UA
 57865	ASRSB, SK
 57866	FUSIX-AS, NL
@@ -76849,7 +76850,7 @@
 204705	ASCETELEM, ES
 204706	KOLESA-AS, KZ
 204707	ONESWISSONE, CH
-204708	MIDWAYSNETWORK, FR
+204708	MDW-MAIN-AS The main Autonomous System of Midway's Network (Belfort, France)., FR
 204709	HR-TOTALNA1, HR
 204710	-Reserved AS-, ZZ
 204711	IP-INC-UA-EU, UA
@@ -86272,6 +86273,10 @@
 328426	Zonke-Wifi-AS, ZA
 328427	AirLink-Broadband-AS, ZM
 328428	GBL-Bank-ltd-AS, GH
+328429	General-Business-Machines-AS, GA
+328430	Fawry-Banking-Electronic-Payment-AS, EG
+328431	Connected-Space-AS, ZA
+328432	North-Star-International-AS, BF
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
