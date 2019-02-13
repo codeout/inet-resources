@@ -31211,17 +31211,23 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
+5C-5B-35   (hex)		Mist Systems, Inc.
+5C5B35     (base 16)		Mist Systems, Inc.
+				1601 South De Anza Blvd, Suite 248
+				Cupertino  CA  95014
+				US
+
 DC-B0-82   (hex)		Nokia
 DCB082     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-5C-5B-35   (hex)		Mist Systems, Inc.
-5C5B35     (base 16)		Mist Systems, Inc.
-				1601 South De Anza Blvd, Suite 248
-				Cupertino  CA  95014
-				US
+84-FD-D1   (hex)		Intel Corporate
+84FDD1     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62530,6 +62536,12 @@ E8D0FC     (base 16)		Liteon Technology Corporation
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+D4-D2-52   (hex)		Intel Corporate
+D4D252     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -155354,6 +155366,12 @@ C8B422     (base 16)		ASKEY COMPUTER CORP
 				Park City    84098
 				US
 
+18-46-44   (hex)		Home Control Singapore Pte Ltd
+184644     (base 16)		Home Control Singapore Pte Ltd
+				151 Lorong Chuan
+				Singapore    556741
+				SG
+
 E8-E8-B7   (hex)		Murata Manufacturing Co., Ltd.
 E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				1-10-1, Higashikotari
@@ -155365,24 +155383,6 @@ E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				250, route de l'Empereur
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
-
-18-46-44   (hex)		Home Control Singapore Pte Ltd
-184644     (base 16)		Home Control Singapore Pte Ltd
-				151 Lorong Chuan
-				Singapore    556741
-				SG
-
-E8-C4-17   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
-E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
-				No.5 DongXin Road
-				Wuhan  Hubei  430074
-				CN
-
-48-5D-EB   (hex)		Just Add Power
-485DEB     (base 16)		Just Add Power
-				12505 STARKEY RD STE A
-				LARGO  FL  33773
-				US
 
 F8-B7-97   (hex)		NEC Platforms, Ltd.
 F8B797     (base 16)		NEC Platforms, Ltd.
@@ -155396,6 +155396,18 @@ B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				chengdu  sichuan  611330
 				CN
 
+E8-C4-17   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
+E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+				No.5 DongXin Road
+				Wuhan  Hubei  430074
+				CN
+
+48-5D-EB   (hex)		Just Add Power
+485DEB     (base 16)		Just Add Power
+				12505 STARKEY RD STE A
+				LARGO  FL  33773
+				US
+
 E8-A4-C1   (hex)		Deep Sea Electronics Ltd
 E8A4C1     (base 16)		Deep Sea Electronics Ltd
 				Highfield House
@@ -155407,3 +155419,9 @@ B0700D     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
+
+DC-8C-37   (hex)		Cisco Systems, Inc
+DC8C37     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
