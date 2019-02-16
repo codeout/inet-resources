@@ -31247,6 +31247,12 @@ D4351D     (base 16)		Technicolor
 				Thalwil    8800
 				CH
 
+CC-88-26   (hex)		LG Innotek
+CC8826     (base 16)		LG Innotek
+				26, Hanamsandan 5beon-ro
+				Gwangju  Gwangsan-gu  506-731
+				KR
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62513,12 +62519,6 @@ B03055     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
-E8-D0-FC   (hex)		Liteon Technology Corporation
-E8D0FC     (base 16)		Liteon Technology Corporation
-				4F, 90, Chien 1 Road
-				New Taipei City  Taiwan  23585
-				TW
-
 C0-9F-E1   (hex)		zte corporation
 C09FE1     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -62543,6 +62543,12 @@ AC00D0     (base 16)		zte corporation
 				Wuhan  Hubei  430074
 				CN
 
+E8-D0-FC   (hex)		Liteon Technology Corporation
+E8D0FC     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
 84-C7-8F   (hex)		STORDIS GmbH
 84C78F     (base 16)		STORDIS GmbH
 				Rosenwiesstr. 17
@@ -62554,6 +62560,12 @@ AC00D0     (base 16)		zte corporation
 				466 Changhe Road, Binjiang District
 				Hangzhou  Zhejiang  310052
 				CN
+
+D4-D2-52   (hex)		Intel Corporate
+D4D252     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 98-B8-BA   (hex)		LG Electronics (Mobile Communications)
 98B8BA     (base 16)		LG Electronics (Mobile Communications)
@@ -62567,11 +62579,17 @@ D49DC0     (base 16)		Samsung Electronics Co.,Ltd
 				Suwon  Gyeonggi-Do  16677
 				KR
 
-D4-D2-52   (hex)		Intel Corporate
-D4D252     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
+88-EF-16   (hex)		ARRIS Group, Inc.
+88EF16     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+08-3A-2F   (hex)		Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd
+083A2F     (base 16)		Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd
+				NO.9, street 3, HengLing industrial zone, Tangdong, tianhe district
+				Guangzhou  Guangdong  CN 510000
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -93182,17 +93200,17 @@ DC2AA1     (base 16)		MedHab LLC
 				Kanazawa  Ishikawa  920-8512
 				JP
 
-00-22-89   (hex)		Vandelrande APC inc.
-002289     (base 16)		Vandelrande APC inc.
-				1280 Lebourgneuf Blvd.
-				Quebec    G2K 0H1
-				CA
-
 7C-D6-61   (hex)		Xiaomi Communications Co Ltd
 7CD661     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+00-22-89   (hex)		Vandelrande APC inc.
+002289     (base 16)		Vandelrande APC inc.
+				1280 Lebourgneuf Blvd.
+				Quebec    G2K 0H1
+				CA
 
 18-D9-EF   (hex)		Shuttle Inc.
 18D9EF     (base 16)		Shuttle Inc.
@@ -93229,6 +93247,24 @@ D420B0     (base 16)		Mist Systems, Inc.
 				Holzmarkt 1 
 				Cologne  NW  50676
 				DE
+
+60-D2-48   (hex)		ARRIS Group, Inc.
+60D248     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+C0-89-AB   (hex)		ARRIS Group, Inc.
+C089AB     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+EC-5B-73   (hex)		Advanced & Wise Technology Corp.
+EC5B73     (base 16)		Advanced & Wise Technology Corp.
+				5F, No. 3-2, Industry East 9th Road, Hsinchu Science Park,
+				Hsinchu City  Hsinchu  30075
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124375,6 +124411,12 @@ D44DA4     (base 16)		Murata Manufacturing Co., Ltd.
 				D&M Building, 2-1 Nisshin-cho
 				Kawasaki-shi  Kanagawa    210-8569
 				JP
+
+14-C0-3E   (hex)		ARRIS Group, Inc.
+14C03E     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
