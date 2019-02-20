@@ -62519,12 +62519,6 @@ B03055     (base 16)		China Mobile IOT Company Limited
 				Chongqing  Chongqing  401336
 				CN
 
-E8-D0-FC   (hex)		Liteon Technology Corporation
-E8D0FC     (base 16)		Liteon Technology Corporation
-				4F, 90, Chien 1 Road
-				New Taipei City  Taiwan  23585
-				TW
-
 C0-9F-E1   (hex)		zte corporation
 C09FE1     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
@@ -62549,6 +62543,12 @@ AC00D0     (base 16)		zte corporation
 				Wuhan  Hubei  430074
 				CN
 
+E8-D0-FC   (hex)		Liteon Technology Corporation
+E8D0FC     (base 16)		Liteon Technology Corporation
+				4F, 90, Chien 1 Road
+				New Taipei City  Taiwan  23585
+				TW
+
 84-C7-8F   (hex)		STORDIS GmbH
 84C78F     (base 16)		STORDIS GmbH
 				Rosenwiesstr. 17
@@ -62561,6 +62561,12 @@ AC00D0     (base 16)		zte corporation
 				Hangzhou  Zhejiang  310052
 				CN
 
+D4-D2-52   (hex)		Intel Corporate
+D4D252     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
 98-B8-BA   (hex)		LG Electronics (Mobile Communications)
 98B8BA     (base 16)		LG Electronics (Mobile Communications)
 				60-39, Gasan-dong, Geumcheon-gu
@@ -62572,12 +62578,6 @@ D49DC0     (base 16)		Samsung Electronics Co.,Ltd
 				129, Samsung-ro, Youngtongl-Gu
 				Suwon  Gyeonggi-Do  16677
 				KR
-
-D4-D2-52   (hex)		Intel Corporate
-D4D252     (base 16)		Intel Corporate
-				Lot 8, Jalan Hi-Tech 2/3
-				Kulim  Kedah  09000
-				MY
 
 08-3A-2F   (hex)		Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd
 083A2F     (base 16)		Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd
@@ -93200,17 +93200,17 @@ DC2AA1     (base 16)		MedHab LLC
 				Kanazawa  Ishikawa  920-8512
 				JP
 
-00-22-89   (hex)		Vandelrande APC inc.
-002289     (base 16)		Vandelrande APC inc.
-				1280 Lebourgneuf Blvd.
-				Quebec    G2K 0H1
-				CA
-
 7C-D6-61   (hex)		Xiaomi Communications Co Ltd
 7CD661     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+00-22-89   (hex)		Vandelrande APC inc.
+002289     (base 16)		Vandelrande APC inc.
+				1280 Lebourgneuf Blvd.
+				Quebec    G2K 0H1
+				CA
 
 18-D9-EF   (hex)		Shuttle Inc.
 18D9EF     (base 16)		Shuttle Inc.
