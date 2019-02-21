@@ -31211,22 +31211,16 @@ ACA46E     (base 16)		SHENZHEN GONGJIN ELECTRONICS CO.,LT
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-5C-5B-35   (hex)		Mist Systems, Inc.
-5C5B35     (base 16)		Mist Systems, Inc.
-				1601 South De Anza Blvd, Suite 248
-				Cupertino  CA  95014
-				US
-
 DC-B0-82   (hex)		Nokia
 DCB082     (base 16)		Nokia
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
 
-D0-19-6A   (hex)		Ciena Corporation
-D0196A     (base 16)		Ciena Corporation
-				7035 Ridge Road
-				Hanover  MD  21076
+5C-5B-35   (hex)		Mist Systems, Inc.
+5C5B35     (base 16)		Mist Systems, Inc.
+				1601 South De Anza Blvd, Suite 248
+				Cupertino  CA  95014
 				US
 
 84-FD-D1   (hex)		Intel Corporate
@@ -31235,11 +31229,11 @@ D0196A     (base 16)		Ciena Corporation
 				Kulim  Kedah  09000
 				MY
 
-CC-88-26   (hex)		LG Innotek
-CC8826     (base 16)		LG Innotek
-				26, Hanamsandan 5beon-ro
-				Gwangju  Gwangsan-gu  506-731
-				KR
+D0-19-6A   (hex)		Ciena Corporation
+D0196A     (base 16)		Ciena Corporation
+				7035 Ridge Road
+				Hanover  MD  21076
+				US
 
 D4-35-1D   (hex)		Technicolor
 D4351D     (base 16)		Technicolor
@@ -31252,6 +31246,18 @@ D4351D     (base 16)		Technicolor
 				Zuercherstrasse 68
 				Thalwil    8800
 				CH
+
+CC-88-26   (hex)		LG Innotek
+CC8826     (base 16)		LG Innotek
+				26, Hanamsandan 5beon-ro
+				Gwangju  Gwangsan-gu  506-731
+				KR
+
+84-8B-CD   (hex)		IEEE Registration Authority
+848BCD     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62591,6 +62597,12 @@ D49DC0     (base 16)		Samsung Electronics Co.,Ltd
 				San Diego  CA  92121
 				US
 
+FC-EA-50   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+FCEA50     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93265,6 +93277,24 @@ C089AB     (base 16)		ARRIS Group, Inc.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+68-6D-BC   (hex)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+686DBC     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
+				No.555 Qianmo Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+18-AA-CA   (hex)		Sichuan tianyi kanghe communications co., LTD
+18AACA     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
+				chengdu  sichuan  611330
+				CN
+
+D4-F0-57   (hex)		Nintendo Co.,Ltd
+D4F057     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -124382,17 +124412,17 @@ D09C7A     (base 16)		Xiaomi Communications Co Ltd
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-C0-FD-84   (hex)		zte corporation
-C0FD84     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
-				CN
-
 C8-2C-2B   (hex)		IEEE Registration Authority
 C82C2B     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+C0-FD-84   (hex)		zte corporation
+C0FD84     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
 
 4C-6F-9C   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 4C6F9C     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -124417,6 +124447,24 @@ D44DA4     (base 16)		Murata Manufacturing Co., Ltd.
 				6450 Sequence Drive
 				San Diego  CA  92121
 				US
+
+08-ED-ED   (hex)		Zhejiang Dahua Technology Co., Ltd.
+08EDED     (base 16)		Zhejiang Dahua Technology Co., Ltd.
+				No.1199,Waterfront Road 
+				Hangzhou  Zhejiang  310053
+				CN
+
+AC-F5-E6   (hex)		Cisco Systems, Inc
+ACF5E6     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+20-17-42   (hex)		LG Electronics
+201742     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -142820,12 +142868,6 @@ DC3350     (base 16)		TechSAT GmbH
 				GOLDEN  CO  80401
 				US
 
-00-50-C6   (hex)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
-0050C6     (base 16)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
-				2F, NO. 22, PROSPERITY RD. 2
-				HSINCHU    
-				TW
-
 00-50-49   (hex)		Arbor Networks Inc
 005049     (base 16)		Arbor Networks Inc
 				6 Omni Way
@@ -153233,9 +153275,6 @@ B0FC0D     (base 16)		Amazon Technologies Inc.
 				Reno  NV  89507
 				US
 
-E0-CB-1D   (hex)		Private
-E0CB1D     (base 16)		Private
-
 10-7B-A4   (hex)		Olive & Dove Co.,Ltd.
 107BA4     (base 16)		Olive & Dove Co.,Ltd.
 				803 Polaris bldg., 381, Seongnam-daero, Bundang-gu 
@@ -155450,12 +155489,6 @@ C8B422     (base 16)		ASKEY COMPUTER CORP
 				Park City    84098
 				US
 
-18-46-44   (hex)		Home Control Singapore Pte Ltd
-184644     (base 16)		Home Control Singapore Pte Ltd
-				151 Lorong Chuan
-				Singapore    556741
-				SG
-
 E8-E8-B7   (hex)		Murata Manufacturing Co., Ltd.
 E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				1-10-1, Higashikotari
@@ -155468,17 +155501,11 @@ E8E8B7     (base 16)		Murata Manufacturing Co., Ltd.
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-F8-B7-97   (hex)		NEC Platforms, Ltd.
-F8B797     (base 16)		NEC Platforms, Ltd.
-				2-3 Kandatsukasamachi
-				Chiyodaku  Tokyo  101-8532
-				JP
-
-B0-AA-D2   (hex)		Sichuan tianyi kanghe communications co., LTD
-B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
-				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
-				chengdu  sichuan  611330
-				CN
+18-46-44   (hex)		Home Control Singapore Pte Ltd
+184644     (base 16)		Home Control Singapore Pte Ltd
+				151 Lorong Chuan
+				Singapore    556741
+				SG
 
 E8-C4-17   (hex)		Fiberhome Telecommunication Technologies Co.,LTD
 E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -155491,6 +155518,18 @@ E8C417     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				12505 STARKEY RD STE A
 				LARGO  FL  33773
 				US
+
+F8-B7-97   (hex)		NEC Platforms, Ltd.
+F8B797     (base 16)		NEC Platforms, Ltd.
+				2-3 Kandatsukasamachi
+				Chiyodaku  Tokyo  101-8532
+				JP
+
+B0-AA-D2   (hex)		Sichuan tianyi kanghe communications co., LTD
+B0AAD2     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county, sichuan province
+				chengdu  sichuan  611330
+				CN
 
 E8-A4-C1   (hex)		Deep Sea Electronics Ltd
 E8A4C1     (base 16)		Deep Sea Electronics Ltd
@@ -155524,3 +155563,24 @@ DC8C37     (base 16)		Cisco Systems, Inc
 
 7C-50-DA   (hex)		Private
 7C50DA     (base 16)		Private
+
+BC-9F-E4   (hex)		Aruba, a Hewlett Packard Enterprise Company
+BC9FE4     (base 16)		Aruba, a Hewlett Packard Enterprise Company
+				3333 Scott Blvd
+				Santa Clara  CA  95054
+				US
+
+00-50-C6   (hex)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
+0050C6     (base 16)		LOOP TELECOMMUNICATION INTERNATIONAL, INC.
+				7F, No. 8, Hsin Ann Road
+				Hsinchu    -   
+				TW
+
+B0-A6-F5   (hex)		Xaptum, Inc.
+B0A6F5     (base 16)		Xaptum, Inc.
+				350 W Ontario ST FL 4
+				Chicago  IL  60654
+				US
+
+E0-CB-1D   (hex)		Private
+E0CB1D     (base 16)		Private
