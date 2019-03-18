@@ -8215,7 +8215,6 @@
 8489	PORTAL-TO-WEB, DE
 8491	BSH-AS, RU
 8492	OBIT-AS "OBIT" Ltd., RU
-8493	-Reserved AS-, ZZ
 8494	UA-SIGMA-KYIV, UA
 8495	INTERNET_AG Frankfurt-Munich-Stuttgart-Amsterdam-London, DE
 8496	RU-OPTIBIT, RU
@@ -16057,6 +16056,7 @@
 17010	HOOSIER-ENERGY - Hoosier Energy Rural Electric Cooperative, Inc., US
 17011	PPG-INDUSTRIES - PPG Industries, Inc., US
 17012	PAYPAL - PayPal, Inc., US
+17013	WILMINGTON-COLLEGE-OH - Wilmington College, US
 17014	NAIILLC - North Atlantic Internet, LLC, US
 17015	WSCU - Western State Colorado University, US
 17016	VOWNET-BROADBAND - The MEDIA COTTAGE Inc., US
@@ -18371,6 +18371,7 @@
 19343	WNYCS - Synergy Global Solutions, Inc., US
 19344	PITTSBURGH-TECHNICAL-COLLEGE - Pittsburgh Technical College, US
 19345	SIMONS-ROCK-EDU-ASN01 - Bard College at Simon's Rock, US
+19346	STRATEGICSTAFFINGSOLUTIONS - Strategic Staffing Solutions, Inc., US
 19347	PPMA-1 - PPM America, Inc., US
 19348	CITY-OF-BRENTWOOD---TENNESSEE - City of Brentwood, US
 19349	KCL-ASN - Katz Capital, LLC, US
@@ -18600,6 +18601,7 @@
 19573	PACIFIC-NATIONAL - PACIFIC NATIONAL BANK, US
 19574	CSC - Corporation Service Company, US
 19575	ISPNET - ISPNET Communications LLC, US
+19576	EASTERN-AS-01 - Eastern University, US
 19577	AS19577 - iTRAK Corporation, US
 19578	TRUENET-INC - Truenet, Inc., US
 19579	THEVILLAGES - The Villages Operating Company, US
@@ -21496,6 +21498,7 @@
 22701	ULTRADNS-1 - UltraDNS Corporation, US
 22702	MAGNA5 - X5 Solutions, Inc., US
 22703	ANTHEM - Anthem Blue Cross Blue Shield, US
+22704	CEI-COLLEGE-OF-EASTERN-IDAHO - College of Eastern Idaho, US
 22705	MBI - Placements Montrusco Bolton Investments, CA
 22706	Matsunaka & Matsunaka Ltda - ME, BR
 22707	UXCECLIPSE-ASN - TECTURA CORPORATION, US
@@ -38203,7 +38206,7 @@
 40632	FGLIFE-COLO1 - Fidelity & Guaranty Life, US
 40633	LAIX - LOS ANGELES INTERNET EXCHANGE, US
 40634	FLIPSIDE-COM - Flipside LLC, US
-40635	THINKON-TOR9 - Think On, Inc., CA
+40635	THINKON-MTL2 - Think On, Inc., CA
 40636	PLEXUSSYSTEMS-US1 - Plex Systems, Inc., US
 40637	MAILROUTE - MailRoute, Inc., US
 40638	PASON-SYSTEMS-USA - Pason Systems USA Corp, US
@@ -79546,7 +79549,7 @@
 209242	CLOUDFLAREWARP, GB
 209243	INREN, NL
 209244	FASTLAYER FastLayer Networks Ltd., GB
-209245	YUDUODUO_NETWORK, DE
+209245	YUDUODUO_NETWORKS Yuduoduo Networks, DE
 209246	TURK-IX, TR
 209247	CHORLEYCOUNCIL, GB
 209248	INTERSET-AS, RU
@@ -87309,7 +87312,7 @@
 393847	AAMC-AS1 - Association of American Medical Colleges, US
 393848	IKEA-NA-AS - IKEA North America Services, LLC, US
 393849	PALOS-GARZA - Palos Garza Forwarding, LLC, US
-393850	CLEVERSAFE - CLEVERSAFE, US
+393850	CLEVERSAFE - IBM, US
 393851	CURTIS - Taylor Corporation, US
 393852	-Reserved AS-, ZZ
 393853	ICS - Intelligent Computing Solutions, US
@@ -90853,4 +90856,8 @@
 397391	HON-ASN - Hop One Networks LLC, US
 397392	PTG-ASN2 - ProNet Technology Group, Inc, US
 397393	REHNAS01 - A W Rehn & Associates Inc., US
+397394	GCBB - Gold Coast Broadband, US
 397395	TIDRASN01 - Tortoise Capital Advisors, L.L.C., US
+397396	DATA-CENTER-INC-ASN-01 - Data Center, Inc., US
+397397	CHEYENNE-BOPU - Cheyenne Board of Public Utilities, US
+397398	BREWSTER-ASN-01 - Brewster Academy, US
