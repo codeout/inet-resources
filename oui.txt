@@ -3629,12 +3629,6 @@ C05E6F     (base 16)		V. Stonkaus firma Kodinis Raktas
 				  Vilnius  08303
 				LT
 
-6C-D1-46   (hex)		Smartek d.o.o.
-6CD146     (base 16)		Smartek d.o.o.
-				B.J.Jelacica 22c
-				Cakovec  Croatia  40000
-				US
-
 E0-C2-B7   (hex)		Masimo Corporation
 E0C2B7     (base 16)		Masimo Corporation
 				40 Parker
@@ -3765,12 +3759,6 @@ A42C08     (base 16)		Masterwork Automodules
 8887DD     (base 16)		DarbeeVision Inc.
 				401 N. Cotswolds Lane #C
 				Orange  California  92869
-				US
-
-80-7B-1E   (hex)		Corsair Components
-807B1E     (base 16)		Corsair Components
-				46221 Landing Parkway
-				Fremont  CA  94538
 				US
 
 A0-E2-5A   (hex)		Amicus SK, s.r.o.
@@ -31318,6 +31306,60 @@ D8CA06     (base 16)		Titan DataCenters France
 				E.SpacePark 45 Allee des ormes
 				mougins    06250
 				FR
+
+90-78-B2   (hex)		Xiaomi Communications Co Ltd
+9078B2     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+78-C3-13   (hex)		China Mobile Group Device Co.,Ltd.
+78C313     (base 16)		China Mobile Group Device Co.,Ltd.
+				32 Xuanwumen West Street,Xicheng District
+				Beijing    100053
+				CN
+
+FC-BD-67   (hex)		Arista Networks
+FCBD67     (base 16)		Arista Networks
+				5453 Great America Parkway
+				Santa Clara  CA  95054
+				US
+
+B8-91-C9   (hex)		Handreamnet
+B891C9     (base 16)		Handreamnet
+				#1203 Ace High-end Tower II, 61, Digital-ro 26-gil, Guro-Gu
+				Seoul    08389
+				KR
+
+A8-49-4D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A8494D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+C8-A7-76   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+C8A776     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+14-A2-A0   (hex)		Cisco Systems, Inc
+14A2A0     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
+80-7B-1E   (hex)		Corsair Memory, Inc.
+807B1E     (base 16)		Corsair Memory, Inc.
+				47100 Bayside Parkway
+				Fremont  CA  94538
+				US
+
+6C-D1-46   (hex)		FRAMOS GmbH
+6CD146     (base 16)		FRAMOS GmbH
+				Mehlbeerenstr. 2
+				Taufkirchen    82024
+				DE
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -62765,6 +62807,42 @@ AC4228     (base 16)		Parta Networks
 				Round Rock  TX  78682
 				US
 
+CC-64-A6   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+CC64A6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+18-CF-24   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+18CF24     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+50-F8-A5   (hex)		eWBM Co., Ltd.
+50F8A5     (base 16)		eWBM Co., Ltd.
+				14F, 9, Teheran-ro 20-gil
+				Gangnam-gu, Seoul    06236
+				KR
+
+08-4F-0A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+084F0A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+C8-D6-9D   (hex)		Arab International Optronics
+C8D69D     (base 16)		Arab International Optronics
+				El Salam St. 
+				El Salam City   Cairo  11371
+				EG
+
+BC-97-40   (hex)		IEEE Registration Authority
+BC9740     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93558,6 +93636,12 @@ BC97E1     (base 16)		Broadcom Limited
 20F478     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+1C-20-DB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1C20DB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -124799,6 +124883,18 @@ B4CFE0     (base 16)		Sichuan tianyi kanghe communications co., LTD
 				Beijing    100053
 				CN
 
+74-34-AE   (hex)		this is engineering Inc.
+7434AE     (base 16)		this is engineering Inc.
+				352, 815 Daewangpangyo-ro, Sujeong-gu
+				Seongnam-si  Gyeonggi-do  13449
+				KR
+
+C4-8F-C1   (hex)		DEEPTRACK S.L.U.
+C48FC1     (base 16)		DEEPTRACK S.L.U.
+				Avenida de Barajas 32, Parque E. Omega, Edificio A
+				Alcobendas    28100
+				ES
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -155897,12 +155993,6 @@ E0CB1D     (base 16)		Private
 				Houston  TX  77070
 				US
 
-00-0C-6C   (hex)		Corsair Memory, Inc.
-000C6C     (base 16)		Corsair Memory, Inc.
-				47100 Bayside Parkway
-				Fremont  CA  94538
-				US
-
 90-73-5A   (hex)		Motorola Mobility LLC, a Lenovo Company
 90735A     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				222 West Merchandise Mart Plaza
@@ -155977,3 +156067,57 @@ AC83E9     (base 16)		Beijing Zile Technology Co., Ltd
 				Tecent WeWork, Huilongguan East Avenue, Changping District
 				Beijing  Beijing  100096
 				CN
+
+A4-00-E2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A400E2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D0-C6-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0C65B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-C4-FC   (hex)		Xiaomi Communications Co Ltd
+B4C4FC     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
+
+40-5B-D8   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+405BD8     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
+E4-AB-89   (hex)		MitraStar Technology Corp.
+E4AB89     (base 16)		MitraStar Technology Corp.
+				No. 6, Innovation Road II,
+				Hsinchu    300
+				TW
+
+44-00-4D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+44004D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-F5-8E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B4F58E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-9A-95   (hex)		Shenzhen Boomtech Industrial Corporation
+B49A95     (base 16)		Shenzhen Boomtech Industrial Corporation
+				2F, Block E, Bao'an Intelligent Valley, Yingtian Road No.4 Xixiang Sub-District Office, Bao'an District
+				Shenzhen  Guangdong  518102
+				CN
+
+00-0C-6C   (hex)		Eve Systems GmbH
+000C6C     (base 16)		Eve Systems GmbH
+				Rotkreuzplatz 1
+				Munich    80634
+				DE
