@@ -62813,17 +62813,17 @@ D05794     (base 16)		Sagemcom Broadband SAS
 				Gumi  Gyeongbuk  730-350
 				KR
 
-F0-8A-76   (hex)		Samsung Electronics Co.,Ltd
-F08A76     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
-
 F8-8E-85   (hex)		Comtrend Corporation
 F88E85     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City ,  Taiwan  24159
 				TW
+
+F0-8A-76   (hex)		Samsung Electronics Co.,Ltd
+F08A76     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
 
 00-FA-21   (hex)		Samsung Electronics Co.,Ltd
 00FA21     (base 16)		Samsung Electronics Co.,Ltd
@@ -62873,17 +62873,17 @@ CC64A6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-08-4F-0A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-084F0A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 50-F8-A5   (hex)		eWBM Co., Ltd.
 50F8A5     (base 16)		eWBM Co., Ltd.
 				14F, 9, Teheran-ro 20-gil
 				Gangnam-gu, Seoul    06236
 				KR
+
+08-4F-0A   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+084F0A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 C8-D6-9D   (hex)		Arab International Optronics
 C8D69D     (base 16)		Arab International Optronics
@@ -62905,6 +62905,30 @@ C40683     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 FC-87-43   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 FC8743     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+70-C7-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+70C7F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+8C-FD-18   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8CFD18     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+24-16-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+24166D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan     523808
+				CN
+
+98-35-ED   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+9835ED     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan     523808
 				CN
@@ -62933,35 +62957,17 @@ ACDB48     (base 16)		ARRIS Group, Inc.
 				Hong Kong  0000  0000
 				HK
 
-24-16-6D   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-24166D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
-98-35-ED   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-9835ED     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
-70-C7-F2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-70C7F2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
-8C-FD-18   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-8CFD18     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan     523808
-				CN
-
 C8-5D-38   (hex)		HUMAX Co., Ltd.
 C85D38     (base 16)		HUMAX Co., Ltd.
 				HUMAX Village, 216, Hwangsaeul-ro, Bu
 				Seongnam-si  Gyeonggi-do  463-875
 				KR
+
+D0-C8-57   (hex)		IEEE Registration Authority
+D0C857     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 B8-07-56   (hex)		Cisco Meraki
 B80756     (base 16)		Cisco Meraki
@@ -62969,11 +62975,17 @@ B80756     (base 16)		Cisco Meraki
 				San Francisco    94158
 				US
 
-D0-C8-57   (hex)		IEEE Registration Authority
-D0C857     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
+98-86-5D   (hex)		Nokia Shanghai Bell Co., Ltd.
+98865D     (base 16)		Nokia Shanghai Bell Co., Ltd.
+				No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai
+				Shanghai     201206
+				CN
+
+D8-D4-E6   (hex)		Hytec Inter Co., Ltd.
+D8D4E6     (base 16)		Hytec Inter Co., Ltd.
+				3-28-6 Yoyogi
+				Shibuya-ku  Tokyo  1510053
+				JP
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -93792,6 +93804,12 @@ CC9070     (base 16)		Cisco Systems, Inc
 54EF44     (base 16)		Lumi United Technology Co., Ltd
 				8th Floor, JinQi Wisdom Valley, No.1 TangLing Road, LinXian Ave, Taoyuan Residential District,Nanshan District
 				ShenZhen  GuangDong  518055
+				CN
+
+48-A7-3C   (hex)		Sichuan tianyi kanghe communications co., LTD
+48A73C     (base 16)		Sichuan tianyi kanghe communications co., LTD
+				No.198, section 1, xueshan avenue, jinyuan town, dayi county
+				chengdu  sichuan  611330
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -125081,6 +125099,18 @@ C4411E     (base 16)		Belkin International Inc.
 				Espoo  Finland  02610
 				FI
 
+84-0B-7C   (hex)		Hitron Technologies. Inc
+840B7C     (base 16)		Hitron Technologies. Inc
+				No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C
+				Hsin-chu  Taiwan  300
+				TW
+
+B4-DC-09   (hex)		Guangzhou Dawei Communication Co.,Ltd
+B4DC09     (base 16)		Guangzhou Dawei Communication Co.,Ltd
+				Zone A 906#, International Business Incubator, No.3 Juquan Road, Huangpu District
+				Guangzhou  Guangdong  510660
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -156236,17 +156266,35 @@ D8B6B7     (base 16)		Comtrend Corporation
 				Shenzhen  Guangdong  518055
 				CN
 
+80-91-33   (hex)		AzureWave Technology Inc.
+809133     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
 AC-83-E9   (hex)		Beijing Zile Technology Co., Ltd
 AC83E9     (base 16)		Beijing Zile Technology Co., Ltd
 				Tecent WeWork, Huilongguan East Avenue, Changping District
 				Beijing  Beijing  100096
 				CN
 
-80-91-33   (hex)		AzureWave Technology Inc.
-809133     (base 16)		AzureWave Technology Inc.
-				8F., No. 94, Baozhong Rd.
-				New Taipei City  Taiwan  231
-				TW
+A4-00-E2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A400E2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D0-C6-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0C65B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-C4-FC   (hex)		Xiaomi Communications Co Ltd
+B4C4FC     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 40-5B-D8   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 405BD8     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
@@ -156270,24 +156318,6 @@ B4-F5-8E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 B4F58E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
-				CN
-
-A4-00-E2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-A400E2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-D0-C6-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-D0C65B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-B4-C4-FC   (hex)		Xiaomi Communications Co Ltd
-B4C4FC     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 B4-9A-95   (hex)		Shenzhen Boomtech Industrial Corporation
