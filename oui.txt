@@ -62066,9 +62066,6 @@ E4D124     (base 16)		 Mojo Networks, Inc.
 				Chongqing  Chongqing  401332
 				CN
 
-CC-3A-DF   (hex)		Private
-CC3ADF     (base 16)		Private
-
 B4-CE-FE   (hex)		James Czekaj
 B4CEFE     (base 16)		James Czekaj
 				41716 Waterfall Rd
@@ -62999,6 +62996,18 @@ D8D4E6     (base 16)		Hytec Inter Co., Ltd.
 				San Jose  CA  94568
 				US
 
+60-3A-7C   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+603A7C     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
+7C-B5-9B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
+7CB59B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
+				Shenzhen  Guangdong  518057
+				CN
+
 F8-E7-A0   (hex)		vivo Mobile Communication Co., Ltd.
 F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
@@ -63011,17 +63020,8 @@ F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-60-3A-7C   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-603A7C     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
-
-7C-B5-9B   (hex)		TP-LINK TECHNOLOGIES CO.,LTD.
-7CB59B     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
-				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
-				Shenzhen  Guangdong  518057
-				CN
+CC-3A-DF   (hex)		Private
+CC3ADF     (base 16)		Private
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -156314,17 +156314,35 @@ D8B6B7     (base 16)		Comtrend Corporation
 				Shenzhen  Guangdong  518055
 				CN
 
+80-91-33   (hex)		AzureWave Technology Inc.
+809133     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
 AC-83-E9   (hex)		Beijing Zile Technology Co., Ltd
 AC83E9     (base 16)		Beijing Zile Technology Co., Ltd
 				Tecent WeWork, Huilongguan East Avenue, Changping District
 				Beijing  Beijing  100096
 				CN
 
-80-91-33   (hex)		AzureWave Technology Inc.
-809133     (base 16)		AzureWave Technology Inc.
-				8F., No. 94, Baozhong Rd.
-				New Taipei City  Taiwan  231
-				TW
+A4-00-E2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+A400E2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+D0-C6-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D0C65B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B4-C4-FC   (hex)		Xiaomi Communications Co Ltd
+B4C4FC     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+				CN
 
 40-5B-D8   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 405BD8     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
@@ -156348,24 +156366,6 @@ B4-F5-8E   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 B4F58E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
-				CN
-
-A4-00-E2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-A400E2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-D0-C6-5B   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-D0C65B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-B4-C4-FC   (hex)		Xiaomi Communications Co Ltd
-B4C4FC     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 B4-9A-95   (hex)		Shenzhen Boomtech Industrial Corporation
@@ -156404,6 +156404,12 @@ B4A305     (base 16)		XIAMEN YAXON NETWORK CO., LTD.
 				Xiamen  Fujian  361008
 				CN
 
+58-C8-76   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+58C876     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
+				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
+				Hangzhou  Zhejiang  310000
+				CN
+
 38-EF-E3   (hex)		 INGENICO TERMINALS SAS
 38EFE3     (base 16)		 INGENICO TERMINALS SAS
 				28-32 BOULEVARD DE GRENELLE
@@ -156420,10 +156426,4 @@ D03745     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 50D4F7     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 				Building 24(floors 1,3,4,5)and 28(floors 1-4)Central Science and Technology Park,Shennan Road,Nanshan
 				Shenzhen  Guangdong  518057
-				CN
-
-58-C8-76   (hex)		China Mobile (Hangzhou) Information Technology Co., Ltd.
-58C876     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
-				No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District
-				Hangzhou  Zhejiang  310000
 				CN
