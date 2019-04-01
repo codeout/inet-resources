@@ -23055,6 +23055,7 @@
 24299	ISSP-AS Internet Solution & Service Provider Co., Ltd, TH
 24300	IBM-PH-AS-AP IBM Philippine, AU
 24301	BJHDBN-AS-AP Beijing Haidian Broadband Network, CN
+24302	CRIS-CERNET-AS CRIS-CERNET, CN
 24303	GOLDCORP-AS-AU Gold Corporation, Precious Metal Manufacturer and Retail, Perth, Western Australia, AU
 24304	ARW-HK-AP Arrow Asia Hong Kong AS., HK
 24305	BRITE-AS-AP BRITE NSW PTY LTD, AU
@@ -29307,7 +29308,6 @@
 31115	INTRED-AS, IT
 31116	DH-AS Warsaw, Poland, PL
 31117	ENERGOTEL-AS, SK
-31118	-Reserved AS-, ZZ
 31119	-Reserved AS-, ZZ
 31120	PADACO-, NL
 31121	WPWEB-AS, IT
@@ -55422,7 +55422,6 @@
 58129	ACTINDO-AS, DE
 58130	AS-RSNET, SK
 58131	OSCE-AS Wallnerstrasse 6, AT
-58132	-Reserved AS-, ZZ
 58133	ITS-LTD-AS, RU
 58134	ASSVYAZSERVIS, RU
 58135	ASKALUGAASTRAL, RU
@@ -56354,7 +56353,7 @@
 59127	NCV Newmedia Corporation, JP
 59128	KMC Kyoto University Microcomputer Club, JP
 59129	LOGICLINKS LogicLinks, Inc., JP
-59130	MHDD-NET NTT Communications Corperation, JP
+59130	MHDD-NET NTT Communications Corporation, JP
 59131	IDNIC-UNIKA-AS-ID Universitas Katolik Soegijapranata, ID
 59132	IDNIC-BI-AS-ID Bank Indonesia, ID
 59133	IDNIC-DAYASITEL-AS-ID PT Daya Sinergi Telekomunikasi, ID
@@ -86837,6 +86836,8 @@
 328453	Web-Africa-Networks-AS, ZA
 328454	Bank-Of-Ghana-AS, GH
 328455	Technopulse-Ltd-AS, ZA
+328456	Pattern-Matched-Technologies-AS, ZA
+328457	Brainshare-Technologies-AS, NG
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -89249,7 +89250,7 @@
 395615	COF-EQX-SEA-PP - Capital One Financial Corporation, US
 395616	IIC-AS - The Insurance Institute of Canada, CA
 395617	PLYMOUTH - Plymouth Poultry Company, US
-395618	-Reserved AS-, ZZ
+395618	QUEENS-HEALTH-SYSTEM - The Queen's Medical Center, US
 395619	PING-SHIELD - BackConnect, Inc., US
 395620	FOCUSVISION - Focusvision Worldwide, Inc., US
 395621	CONAIR-EW - Conair Corporation, US
@@ -91071,3 +91072,10 @@
 397437	NEIL-01 - Oculus Proxies LLC, US
 397438	ASN-PROLO-1 - Prolo Solutions, Inc, US
 397439	DPSAC-1 - Digital Path, US
+397440	TAVANT-SC9-DATACENTER - Tavant Technologies, Inc., US
+397441	PDL - People Data Labs, Inc, US
+397442	STSL - Strategic Technology Solutions, LLC, US
+397443	LOWER-COLORADO-RIVER-AUTHORITY - Lower Colorado River Authority, US
+397444	AS-OIL-41 - Overkill Interbuzz LLC, US
+397445	1314-DOUGLAS-01 - NATIONAL INDEMNITY COMPANY, US
+397446	MIDWESTFIBERNETWORK-ASN1 - Midwest Fiber Network, LLC, US
