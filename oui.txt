@@ -31424,12 +31424,6 @@ C4C603     (base 16)		Cisco Systems, Inc
 				Kulim  Kedah  09000
 				MY
 
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City,  Taiwan  24159
-				TW
-
 00-1D-20   (hex)		Comtrend Corporation
 001D20     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
@@ -31447,6 +31441,12 @@ C4C603     (base 16)		Cisco Systems, Inc
 				310 Littleton Road
 				Westford  MA  01886
 				US
+
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City,  Taiwan  24159
+				TW
 
 DC-54-D7   (hex)		Amazon Technologies Inc.
 DC54D7     (base 16)		Amazon Technologies Inc.
@@ -63155,6 +63155,12 @@ D8AF81     (base 16)		   ZAO NPK Rotek
 				Moscow    119019
 				RU
 
+04-A2-22   (hex)		Arcadyan Corporation
+04A222     (base 16)		Arcadyan Corporation
+				No.8, Sec.2, Guangfu Rd.
+				Hsinchu City  Hsinchu  30071
+				TW
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -93968,6 +93974,12 @@ CC9070     (base 16)		Cisco Systems, Inc
 				Rome     00133
 				IT
 
+C8-D1-2A   (hex)		Comtrend Corporation
+C8D12A     (base 16)		Comtrend Corporation
+				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
+				New Taipei City,  Taiwan  24159
+				TW
+
 00-0C-FF   (hex)		MRO-TEK Realty Limited
 000CFF     (base 16)		MRO-TEK Realty Limited
 				#6, New BEL Road
@@ -93980,29 +93992,11 @@ D8E72B     (base 16)		NetAlly
 				Westford  MA  01886
 				US
 
-C8-D1-2A   (hex)		Comtrend Corporation
-C8D12A     (base 16)		Comtrend Corporation
-				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
-				New Taipei City,  Taiwan  24159
-				TW
-
 00-35-FF   (hex)		Texas Instruments
 0035FF     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
-
-E4-FD-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-68-3F-1E   (hex)		EFFECT Photonics B.V.
-683F1E     (base 16)		EFFECT Photonics B.V.
-				Kastanjelaan 400
-				Eindhoven  Noord-Brabant  5616 LZ
-				NL
 
 44-59-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 4459E3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -94022,10 +94016,40 @@ E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+E4-FD-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+68-3F-1E   (hex)		EFFECT Photonics B.V.
+683F1E     (base 16)		EFFECT Photonics B.V.
+				Kastanjelaan 400
+				Eindhoven  Noord-Brabant  5616 LZ
+				NL
+
 98-7A-14   (hex)		Microsoft Corporation
 987A14     (base 16)		Microsoft Corporation
 				One Microsoft Way
 				REDMOND  WA  98052
+				US
+
+04-AB-6A   (hex)		Chun-il Co.,Ltd.
+04AB6A     (base 16)		Chun-il Co.,Ltd.
+				13-7, Gimhae-daero 2694 beon-gil,
+				Gimhae-si  Gyeongsangnam-do  50936
+				KR
+
+54-DE-D0   (hex)		Sevio Srl
+54DED0     (base 16)		Sevio Srl
+				Via Dei Caniana 6/A
+				Bergamo  Bergamo  24127
+				IT
+
+84-57-33   (hex)		Microsoft Corporation
+845733     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND    98052
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
