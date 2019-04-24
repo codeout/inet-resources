@@ -31424,14 +31424,14 @@ C4C603     (base 16)		Cisco Systems, Inc
 				Kulim  Kedah  09000
 				MY
 
-1C-64-99   (hex)		Comtrend Corporation
-1C6499     (base 16)		Comtrend Corporation
+00-1D-20   (hex)		Comtrend Corporation
+001D20     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City,  Taiwan  24159
 				TW
 
-00-1D-20   (hex)		Comtrend Corporation
-001D20     (base 16)		Comtrend Corporation
+1C-64-99   (hex)		Comtrend Corporation
+1C6499     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City,  Taiwan  24159
 				TW
@@ -63185,6 +63185,18 @@ B4A2EB     (base 16)		IEEE Registration Authority
 				Shanghai    200233
 				CN
 
+FC-7D-6C   (hex)		HYESUNG TECHWIN Co., Ltd
+FC7D6C     (base 16)		HYESUNG TECHWIN Co., Ltd
+				#1509,545,Dunchon-daero, Jungwon-gu
+				Seongnam   Gyeonggi-do  13215
+				KR
+
+E8-6F-38   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+E86F38     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
+				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
+				Chongqing  Chongqing  401332
+				CN
+
 34-75-63   (hex)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
 347563     (base 16)		SHENZHEN RF-LINK TECHNOLOGY CO.,LTD.
 				Bldg56A,6/F,Baotian Rd3,Xixiang Town,Baoan District,
@@ -94010,35 +94022,23 @@ CC9070     (base 16)		Cisco Systems, Inc
 				Rome     00133
 				IT
 
-00-0C-FF   (hex)		MRO-TEK Realty Limited
-000CFF     (base 16)		MRO-TEK Realty Limited
-				#6, New BEL Road
-				Chikkamaranahalli  Bangalore  560 054
-				IN
-
 C8-D1-2A   (hex)		Comtrend Corporation
 C8D12A     (base 16)		Comtrend Corporation
 				3F-1, 10 Lane 609, Chongxin Road, Section 5, 
 				New Taipei City,  Taiwan  24159
 				TW
 
+00-0C-FF   (hex)		MRO-TEK Realty Limited
+000CFF     (base 16)		MRO-TEK Realty Limited
+				#6, New BEL Road
+				Chikkamaranahalli  Bangalore  560 054
+				IN
+
 00-35-FF   (hex)		Texas Instruments
 0035FF     (base 16)		Texas Instruments
 				12500 TI Blvd
 				Dallas  TX  75243
 				US
-
-E4-FD-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
-68-3F-1E   (hex)		EFFECT Photonics B.V.
-683F1E     (base 16)		EFFECT Photonics B.V.
-				Kastanjelaan 400
-				Eindhoven  Noord-Brabant  5616 LZ
-				NL
 
 44-59-E3   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 4459E3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -94058,6 +94058,18 @@ E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+E4-FD-A1   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+68-3F-1E   (hex)		EFFECT Photonics B.V.
+683F1E     (base 16)		EFFECT Photonics B.V.
+				Kastanjelaan 400
+				Eindhoven  Noord-Brabant  5616 LZ
+				NL
+
 98-7A-14   (hex)		Microsoft Corporation
 987A14     (base 16)		Microsoft Corporation
 				One Microsoft Way
@@ -94069,6 +94081,18 @@ E4FDA1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				13-7, Gimhae-daero 2694 beon-gil,
 				Gimhae-si  Gyeongsangnam-do  50936
 				KR
+
+54-DE-D0   (hex)		Sevio Srl
+54DED0     (base 16)		Sevio Srl
+				Via Dei Caniana 6/A
+				Bergamo  Bergamo  24127
+				IT
+
+84-57-33   (hex)		Microsoft Corporation
+845733     (base 16)		Microsoft Corporation
+				One Microsoft Way
+				REDMOND    98052
+				US
 
 F8-60-F0   (hex)		Aruba, a Hewlett Packard Enterprise Company
 F860F0     (base 16)		Aruba, a Hewlett Packard Enterprise Company
@@ -94087,18 +94111,6 @@ F860F0     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 				Jozky Silneho 2783/9
 				Kromeriz    76701
 				CZ
-
-54-DE-D0   (hex)		Sevio Srl
-54DED0     (base 16)		Sevio Srl
-				Via Dei Caniana 6/A
-				Bergamo  Bergamo  24127
-				IT
-
-84-57-33   (hex)		Microsoft Corporation
-845733     (base 16)		Microsoft Corporation
-				One Microsoft Way
-				REDMOND    98052
-				US
 
 5C-A1-E0   (hex)		EmbedWay Technologies
 5CA1E0     (base 16)		EmbedWay Technologies
@@ -94122,6 +94134,24 @@ F860F0     (base 16)		Aruba, a Hewlett Packard Enterprise Company
 08B3AF     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+4C-FB-FE   (hex)		Sercomm Japan Corporation
+4CFBFE     (base 16)		Sercomm Japan Corporation
+				8F, 3-1, YuanQu St., NanKang, Taipei 115, Taiwan
+				Taipei     115
+				TW
+
+38-18-4C   (hex)		Sony Home Entertainment&Sound Products Inc
+38184C     (base 16)		Sony Home Entertainment&Sound Products Inc
+				Sony City Osaki 2-10-1 Osaki Shinagawa-ku
+				Tokyo  Japan  141-8610
+				JP
+
+60-23-A4   (hex)		Sichuan AI-Link Technology Co., Ltd.
+6023A4     (base 16)		Sichuan AI-Link Technology Co., Ltd.
+				Anzhou,Industrial Park
+				Anzhou,Industrial Park  Sichuan  621000
 				CN
 
 D8-E7-2B   (hex)		NetAlly
@@ -125525,6 +125555,18 @@ B4C476     (base 16)		Wuhan Maritime Communication Research Institute
 				Westford  MA  01886 
 				US
 
+D4-4B-B6   (hex)		Zhejiang Tmall Technology Co., Ltd.
+D44BB6     (base 16)		Zhejiang Tmall Technology Co., Ltd.
+				Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province
+				Shenzhen  GuangDong  518000
+				CN
+
+64-CB-9F   (hex)		TECNO MOBILE LIMITED
+64CB9F     (base 16)		TECNO MOBILE LIMITED
+				ROOMS 05-15, 13A/F., SOUTH TOWER, WORLD FINANCE CENTRE, HARBOUR CITY, 17 CANTON ROAD, TSIM SHA TSUI, KOWLOON, HONG KONG
+				Hong Kong  Hong Kong  999077
+				HK
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -156906,4 +156948,10 @@ A4530E     (base 16)		Cisco Systems, Inc
 1CD5E2     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
 				Shenzhen  Guangdong  518055
+				CN
+
+C0-CB-F1   (hex)		Mobiwire Mobiles (NingBo) Co., LTD
+C0CBF1     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
+				No.999 Dacheng East Road, Fenghua District, Ningbo City , Zhejiang Province, PRC
+				Ningbo  Zhejiang  315500
 				CN
