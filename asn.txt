@@ -3314,7 +3314,7 @@
 3382	ERX-JUITA-UINET University of Indonesia, ID
 3383	REDBRICK-HQ - Red Brick Systems, US
 3384	CELT - Center for Educational Leadership and Technology, US
-3385	BROADVIEWNET-AS-3385 - Broadview Networks, Inc., US
+3385	BROADVIEWNET-AS-3385 - Windstream Communications LLC, US
 3386	USNET-AS - US Net Incorporated, US
 3387	USIA - US Information Agency/USIA Computer Center, US
 3388	UNM-AS - University of New Mexico, US
@@ -6376,7 +6376,7 @@
 6512	GLOBAL2000 - Global 2000 Communications, Inc., US
 6513	PROXIMUS - Proximus, US
 6514	SRMC - Scientific Research Management Corporation, US
-6515	INTERSTICE - Rekalla, US
+6515	-Reserved AS-, ZZ
 6516	TRUENET - TrueNet Corporation, US
 6517	-Reserved AS-, ZZ
 6518	CIX-GCCC - CIX, Inc. and Greater Cinti Chamber of Commerce, US
@@ -7819,7 +7819,7 @@
 8036	UTULSA-AS - University of Tulsa, US
 8037	PUB-BGP-AS - People's United Bank, US
 8038	6CONNECT - 6connect, Inc., US
-8039	CCC-ASN-1 - Cinergy Communications, US
+8039	CCC-ASN-1 - Windstream Communications LLC, US
 8040	MMD - MMD Entertainment, LLC, US
 8041	ATW - EarthReach Communications, LLC, US
 8042	WCS - Wickberg Consulting Services, US
@@ -11382,7 +11382,7 @@
 11843	AURA-L3-01 - Auravox, LLC, US
 11844	Empresa Catarinense De Tec em Telecomunicacoes Ltd, BR
 11845	Vox-Telecom, ZA
-11846	BROADVIEWNET - Broadview Networks, Inc., US
+11846	BROADVIEWNET - Windstream Communications LLC, US
 11847	OTT - Mid-Maine Communications, Inc., US
 11848	SECUREVISION-GULFCOAST - SecureVision, US
 11849	CAMPLINK-3 - Camplink, US
@@ -11540,7 +11540,7 @@
 12003	INTEGRATELECOM - Allstream Business US, LLC, US
 12004	YLEO - Young Living Essential Oils, US
 12005	SC-AS - University of South Carolina, US
-12006	BROADVIEWNET-AS-12006 - Broadview Networks, Inc., US
+12006	BROADVIEWNET-AS-12006 - Windstream Communications LLC, US
 12007	RAYASN - Raytheon Company, US
 12008	ULTRADNS - NeuStar, Inc., US
 12009	EONI - Eastern Oregon Net, Inc., US
@@ -14257,7 +14257,7 @@
 14986	ULTRAHOST - Ultra Hosting, US
 14987	RETHEMHOSTING - Rethem Hosting LLC, US
 14988	BTC-GATE1, BW
-14989	BROADVIEWNET - Broadview Networks, Inc., US
+14989	BROADVIEWNET - Windstream Communications LLC, US
 14990	AVNET-NA - Avnet Inc., US
 14991	IL2K - ElkhartNet, Inc, US
 14992	CRYSTALTECH - Newtek Technology Solutions, Inc, US
@@ -15525,7 +15525,7 @@
 16481	BABSON-GNET - Babson College, US
 16482	PEAK10-LOU - Peak 10, Inc., US
 16483	SAVO - The SAVO Group, Ltd., US
-16484	BROADVIEWNET-AS-16484 - Broadview Networks, Inc., US
+16484	BROADVIEWNET-AS-16484 - Windstream Communications LLC, US
 16485	CBA-OTT - The Canadian Bar Association, CA
 16486	WEYERHAEUSER - Weyerhaeuser Company, US
 16487	PARTNER-SOLUTIONS - Partner Solutions Inc., CA
@@ -28035,7 +28035,7 @@
 29790	NEW-LIBERTY-HOSPITAL - New Liberty Hospital District of Clay County, Missouri, US
 29791	VOXEL-DOT-NET - Internap Corporation, US
 29792	NETAPP-AS-2 - NetApp, Inc., US
-29793	BRIDGE-3640-ASN - Broadview Networks, Inc., US
+29793	BRIDGE-3640-ASN - Windstream Communications LLC, US
 29794	CR-DATL-01 - CohnReznick LLP, US
 29795	LATISYS-DENVER - Latisys-Denver, LLC, US
 29796	MARKETTOOLS-INC - MarketTools Inc., US
@@ -28613,7 +28613,7 @@
 30370	QTIAS - COGECODATA, CA
 30371	AS-GTT-30371 - GTT, US
 30372	SUNESYS2 - Sunesys, LLC, US
-30373	BUSINESSONLYBROADBANDLLC - Business Only Broadband, US
+30373	BUSINESSONLYBROADBANDLLC - Windstream Communications LLC, US
 30374	MODWEST - Blackfoot Telephone Cooperative, Inc., US
 30375	TEVA-NA - Teva Pharmaceuticals USA, INC, US
 30376	COLLEGE-OF-ST-SCHOLASTICA - College of St. Scholastica, US
@@ -29939,7 +29939,7 @@
 31888	WHITE-CLOUD-COMMUNICATIONS - Inside Connect, US
 31889	REGUS - Regus Business Centres, US
 31890	QUICKENLOANS - Quicken Loans Inc., US
-31891	BRIDGECOM-ASN - Broadview Networks, Inc., US
+31891	BRIDGECOM-ASN - Windstream Communications LLC, US
 31892	FLP-MSA - Forever Living Products, US
 31893	H5COLO - H5 Colo Associates LLC, US
 31894	-Reserved AS-, ZZ
@@ -32875,9 +32875,11 @@
 35053	PHADE-AS, DE
 35054	EQUINIX-CH-ASN, CH
 35056	FORTISAG-AS, BE
+35057	PROTECTED-AS, UA
 35058	DHD-AS, DE
 35059	SUPN-AS, RU
 35060	PAYTEL-AS, PL
+35061	RZ-VERDEN, DE
 35062	TEAMNET, DE
 35063	TKCHOPIN-AS, PL
 35064	RI, NL
@@ -32891,7 +32893,9 @@
 35072	SERCO-GROUP Serco Group AS, GB
 35073	PAKOM-AS Stockholm, Sweden, SE
 35074	COBRANET-AS, LB
+35075	AFRITELEC, FR
 35076	NAME-SERVICE-AS, GE
+35077	NETWO, FR
 35078	CORVETTE-AS, RU
 35079	T-GENEL-SIGORTA-AS, TR
 35080	OYAK-TELEKOM-AS, TR
@@ -43845,6 +43849,7 @@
 46386	ACOMENTBGP - United Monitoring Services Inc, US
 46387	BVS-AS - BVS Performance Systems, US
 46388	SUNRISELAB-1 - Sunrise Medical Laboratories, Inc., US
+46389	STLIX - Saint Louis Internet Exchange Inc, US
 46390	NABNY245 - National Australia Bank Limited, US
 46391	AS46391 - Bassett Medical Center, US
 46392	GCPOWERNET - Grant County Powernet, Inc., US
@@ -47128,7 +47133,7 @@
 49670	INSTADEF-AS, FI
 49671	GLOBAL-AS, UA
 49672	CH-AS, TR
-49673	TRUENETWORK Truenetwork IP Network, RU
+49673	TRUENETWORK Truenetwork Communications, RU
 49674	DJEMBA-AS, RO
 49675	SKBKONTUR-AS, RU
 49676	CARITAS-DRS-AS, DE
@@ -61016,7 +61021,6 @@
 63972	SOCIAL-TH 88/28 Moo 4 Tiwanont Road Nonta-Buri Province 11000, TH
 63974	RFG-AU RETAIL FOOD GROUP LIMITED, AU
 63975	ANTI-DDOS Long Live Network Technology, CN
-63976	GND2AIR-AU Ground 2 Air Networks Pty Ltd, AU
 63977	STC-AS-AP SuperLine Technology Co.,Limited, HK
 63978	CJL-JP Shin-Toyo Akasaka Building 7F, JP
 63979	TALK-CLOUD-AS-AP TALK A CLOUD LIMITED, NZ
@@ -66094,6 +66098,7 @@
 135121	PROSPA-AS-AP Prospa Advance Pty Ltd, AU
 135122	MILLAWAVE-AS-AP MILLAWAVE, PH
 135123	SAMBA-AS-AP Samba Bank Limited, PK
+135124	GSC-AS-AP Green Surma Communications, BD
 135125	TALMURI-AS-AP Emdadul Huq Khan t/a Talmuri Computer System, BD
 135126	OCCOMPTYLTD-AS-AP Occom Pty Ltd, AU
 135127	XSTRAGROUPPTYLTD-AS-AP XSTRA Group Pty Ltd, AU
@@ -67304,6 +67309,7 @@
 136376	UDAYATEL-AS Udayatel Communications Private Limited, IN
 136377	LINKWAVE-AS Linkwave Technologies Pvt. Ltd, IN
 136378	TWTCOMMUNICATIONINC-AS-AP TWT Communication lnc, TW
+136379	ICL-AS-AP Istanaimpian Corporation Limited, KH
 136380	WEB-NETWORKS-AS-AP Web Networks Pvt. Ltd., NP
 136381	TIMILIMITED-AS-AP TIMI LIMITED, HK
 136382	CREATIVEBOX-AS-AP Creative Box Company Limited, TH
@@ -67344,6 +67350,7 @@
 136418	KINALLEE-AS-AP Steet 217, Viel Vong, 7 Makara 20, KH
 136419	MSSKYLINKNET-AS-AP Jewel Aziz t/a Skylink Net, BD
 136420	CUMULUS-AS-AP Dialog Broadband Networks (Pvt) Ltd., LK
+136421	PSKNK-MY Pejabat Setiausaha Kerajaan Negeri Kedah, MY
 136422	EASYNET-AS-AP Zinnatul Rayhan t/a Easy Net, BD
 136423	MELBGRAMM-AS Melbourne Grammar School, AU
 136424	SIMPRO-AS-AP THE SIMPRO GROUP PTY LTD, AU
@@ -69530,6 +69537,7 @@
 138724	MMCINT-AS-IN Maha Mediacom Internet Pvt Ltd, IN
 138725	NCMRW-AS-IN National Centre For Medium Range Weather Foreacsting, IN
 138726	ONELINKB-AS-IN Ozzy Infonet India Private Limited, IN
+138727	KARCEG-AS-IN Center For E-governance, IN
 138733	ANUPAM-AS Maxit Infocom Private Limited, IN
 138734	BTELECOM-AS-IN Bakliwal Telecom Services Pvt Ltd, IN
 138735	PNPLH-AS Prytel Network Private Limited, IN
@@ -69542,6 +69550,7 @@
 138749	ROBUSTED-AS-IN Robustedge Software And Digital Networks Pvt. Ltd., IN
 138751	ATNPL-AS Anodic Telenetwork Private Limited, IN
 138752	SOBPL-AS Starone Broadband Private Limited, IN
+138772	MISPLR-AS Mahrth Internet Service Private Limited, IN
 138775	ISOBARC1-AS Isobar Commerce India Private Limited, IN
 138776	GJISP-AS Gj2 Internet Private Limited, IN
 138777	KARVY-AS Karvy Innotech Limited, IN
@@ -69737,6 +69746,8 @@
 139034	SATTLINK-INC-AS-AP Sattelite Plus Incorporated, PH
 139035	GBLINK-AS-AP GBLINK NETWORK SOLUTIONS PRIVATE LIMITED, IN
 139036	EDGESPEED-AS-AP Edge Speed, BD
+139037	QUIPTEKPACIFIC-AS-AP QUIPTEK PACIFIC PTY LTD, AU
+139038	AFTABSIDDIQUI-AS-AP Aftab Siddiqui, AU
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-ACADEMY DE-CIX Academy Educational Network, DE
@@ -79178,7 +79189,7 @@
 206732	LOCONTEWIFI-AS, IT
 206733	BFC-, HK
 206734	DCDN, FI
-206735	SMARTCIX-AS, DE
+206735	DE-SPEEDBONE, DE
 206736	NETSPEED, PL
 206737	ALLPROCESS, IT
 206738	TRCLINK, IT
@@ -79693,6 +79704,15 @@
 207257	IONAUTOMATION, NL
 207258	FENIX-AS, RU
 207259	ENERGO, RU
+208962	KAPULAN1, HU
+208963	RLGINFO, FR
+208964	GLCNETCOM, IT
+208965	INET, UA
+208966	SKTV, NO
+208967	TOSS, DE
+208968	AVACON-CONNECT-, DE
+208969	DRWIFI, ES
+208970	FABIANBLAESE, DE
 208971	IMOTEC-AS-RIPE, GB
 208972	GIBIRNET-, TR
 208973	HAARLEM, NL
@@ -79727,7 +79747,7 @@
 209002	MALEX-GROUP-AS, UA
 209003	NEXTVISION, GB
 209004	AMEX-ME-AS, BH
-209005	AFRITELEC, FR
+209005	-Reserved AS-, ZZ
 209006	WEBAIR-INTERNET-FRANCE, FR
 209007	WIFITELEKOM-ALANYANET-FENIKS-BINBIRNET, TR
 209008	DORMASH, RU
@@ -83023,7 +83043,6 @@
 264162	NC BRASIL TELECOM E SERVIÇOS LTDA- ME, BR
 264163	REYVI INTERNET LTDA, BR
 264164	Telecomunicações Netcoro Ltda, BR
-264165	APARATO-SOLUCOES EM TECNOLOGIA LTDA - ME, BR
 264166	R & H COMERCIO DE INFORMATICA LTDA-ME, BR
 264167	Amazon Wifi Servicos de Internet Ltda, BR
 264168	jn cabral & cia ltda me, BR
@@ -91437,3 +91456,9 @@
 397534	IWU-PUBLIC-01 - Indiana Wesleyan University (Marion College), US
 397535	THRACE-LLC - Thrace LLC, US
 397536	CLOUDCONNECTIV - Cloud Connectiv Incorporated, US
+397537	MARINERS-GW - The Baseball Club of Seattle, LLLP, US
+397538	CIUSSS-MCQ-01 - CIUSSS MCQ, CA
+397539	LAKSH-CYBERSECURITY-AND-DEFENSE-LLC - LAKSH CYBERSECURITY AND DEFENSE LLC, US
+397540	WINDSCRIBE - Windscribe, AQ
+397541	FINRA-CAT - FINRA, US
+397542	ACCDPEC - Austin Convention Center, US
