@@ -31547,11 +31547,23 @@ CCCCCC     (base 16)		Silicon Laboratories
 				Austin  TX  78735
 				US
 
+64-DF-10   (hex)		JingLue Semiconductor(SH) Ltd.
+64DF10     (base 16)		JingLue Semiconductor(SH) Ltd.
+				No.800 Naxian Rd
+				Shanghai    201210
+				CN
+
 A8-D0-E3   (hex)		Systech Electronics Ltd
 A8D0E3     (base 16)		Systech Electronics Ltd
 				Lever Tech Centre, 69-71 King Yip Street,
 				    852
 				HK
+
+90-BD-E6   (hex)		Quectel Wireless Solutions Co., Ltd.
+90BDE6     (base 16)		Quectel Wireless Solutions Co., Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63365,6 +63377,18 @@ D4ADBD     (base 16)		Cisco Systems, Inc
 				Suwon-si,  Gyeonggi-do,   16690
 				KR
 
+C4-63-FB   (hex)		Neatframe AS
+C463FB     (base 16)		Neatframe AS
+				Martin Linges Vei 25
+				Fornebu  Fornebu  1364
+				NO
+
+E4-CC-9D   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+E4CC9D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
+				Phase 3, Bayan Lepas FIZ
+				Bayan Lepas  Penang  11900
+				MY
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -90704,12 +90728,6 @@ E0885D     (base 16)		Technicolor CH USA Inc.
 				shenzhen  guangdong  518057
 				CN
 
-BC-C3-1B   (hex)		Kygo Life AS
-BCC31B     (base 16)		Kygo Life AS
-				Sjolyst Plass 3
-				Oslo    0278
-				NO
-
 FC-D6-BD   (hex)		Robert Bosch GmbH
 FCD6BD     (base 16)		Robert Bosch GmbH
 				AE-BE/EKE
@@ -94375,6 +94393,18 @@ F06865     (base 16)		Taicang T&W Electronics
 				89# Jiang Nan RD
 				Suzhou  Jiangsu  215412
 				CN
+
+BC-C3-1B   (hex)		Kygo Life A
+BCC31B     (base 16)		Kygo Life A
+				Sjolyst Plass 3
+				Oslo    0278
+				NO
+
+8C-49-62   (hex)		Roku, Inc
+8C4962     (base 16)		Roku, Inc
+				150 Winchester Circle
+				Los Gatos  CA  95032
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
