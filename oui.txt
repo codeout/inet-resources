@@ -31631,6 +31631,18 @@ B03E51     (base 16)		BSkyB Ltd
 				Shenzhen  Guangdong  518000
 				CN
 
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+C8-5A-9F   (hex)		zte corporation
+C85A9F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -63569,6 +63581,12 @@ B4EE25     (base 16)		Shenzhen Belon Technology CO.,LTD
 				Santa Barbara  CA  93101
 				US
 
+18-2A-D3   (hex)		Juniper Networks
+182AD3     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94657,6 +94675,12 @@ C82B96     (base 16)		Espressif Inc.
 				1211 North Miller Street
 				Anaheim  CA  92806
 				US
+
+78-69-D4   (hex)		Shenyang Vibrotech Instruments Inc.
+7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
+				No 23-2 Yunfeng St. Tiexi Dist. 
+				Shenyang   Liaoning  110021
+				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -126179,6 +126203,12 @@ C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 				Hangzhou  Zhejiang  310052
 				CN
 
+88-9D-98   (hex)		Allied-telesisK.K.
+889D98     (base 16)		Allied-telesisK.K.
+				7-21-11 Nishi-Gotannda
+				Shinagawa-ku  Tokyo  141-0031
+				JP
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -157682,20 +157712,44 @@ BC62D2     (base 16)		Genexis International B.V.
 				Piscataway  NJ  08554
 				US
 
-5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
-5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
-				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
-				Shenzhen  Guangdong  518000
-				CN
-
 08-4F-F9   (hex)		Cisco Systems, Inc
 084FF9     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
 
+5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
+5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
+				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
+				Shenzhen  Guangdong  518000
+				CN
+
 68-F1-25   (hex)		Data Controls Inc.
 68F125     (base 16)		Data Controls Inc.
 				Fukashiro Bldg, 8F
 				Taito-ku  Tokyo  111-0052
 				JP
+
+DC-F8-B9   (hex)		zte corporation
+DCF8B9     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+B0-65-F1   (hex)		WIO Manufacturing HK Limited
+B065F1     (base 16)		WIO Manufacturing HK Limited
+				15/F OTB Building, 160 Glocester Road
+				Hong Kong    00000
+				HK
+
+90-12-34   (hex)		Shenzhen YOUHUA Technology Co., Ltd
+901234     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
+				Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District
+				Shenzhen  Guangdong  518055
+				CN
+
+F0-5C-77   (hex)		Google, Inc.
+F05C77     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View  CA  94043
+				US
