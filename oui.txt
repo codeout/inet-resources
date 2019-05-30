@@ -35825,12 +35825,6 @@ D052A8     (base 16)		Physical Graph Corporation
 				Reston  VA  20190
 				US
 
-34-F6-2D   (hex)		SHARP Corporation
-34F62D     (base 16)		SHARP Corporation
-				22-22,Nagaike-Cho
-				Osaka-City  Osaka-Prefecture  545-8522
-				JP
-
 C4-EB-E3   (hex)		RRCN SAS
 C4EBE3     (base 16)		RRCN SAS
 				23 chemin du vieux chene
@@ -63611,6 +63605,12 @@ A8C0EA     (base 16)		Pepwave Limited
 				Zhenjiang  Jiangsu  212003
 				CN
 
+34-F6-2D   (hex)		SHARP Corporation
+34F62D     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -85268,12 +85268,6 @@ B462AD     (base 16)		Elysia Germany GmbH
 				Midrand    1685
 				ZA
 
-80-38-96   (hex)		SHARP Corporation
-803896     (base 16)		SHARP Corporation
-				22-22,Nagaike-Cho
-				Osaka-City  Osaka-Prefecture  545-8522
-				JP
-
 80-D1-60   (hex)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 80D160     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Phase 3, Bayan Lepas FIZ
@@ -94724,11 +94718,23 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Chongqing  China  401120
 				CN
 
+80-38-96   (hex)		SHARP Corporation
+803896     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
+
 68-07-0A   (hex)		TPVision Europe B.V
 68070A     (base 16)		TPVision Europe B.V
 				Prins Bernhardplein 200
 				Amsterdam  Noord-Holland  1097 JB
 				NL
+
+FC-58-9A   (hex)		Cisco Systems, Inc
+FC589A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -96499,12 +96505,6 @@ BCD165     (base 16)		Cisco SPVTG
 				2025 Broadway, 2CD
 				New York City  New York  10023
 				US
-
-28-84-FA   (hex)		SHARP Corporation
-2884FA     (base 16)		SHARP Corporation
-				22-22,Nagaike-Cho
-				Osaka-City  Osaka-Prefecture  545-8522
-				JP
 
 E0-FF-F7   (hex)		Softiron Inc.
 E0FFF7     (base 16)		Softiron Inc.
@@ -126255,6 +126255,12 @@ C03656     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 889D98     (base 16)		Allied-telesisK.K.
 				7-21-11 Nishi-Gotannda
 				Shinagawa-ku  Tokyo  141-0031
+				JP
+
+28-84-FA   (hex)		SHARP Corporation
+2884FA     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
 				JP
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -157813,3 +157819,9 @@ F08620     (base 16)		Arcadyan Corporation
 				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
 				Wuhan    430000
 				CN
+
+2C-F8-9B   (hex)		Cisco Systems, Inc
+2CF89B     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
