@@ -31610,26 +31610,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-38-C4-E8   (hex)		NSS Sp. z o.o.
-38C4E8     (base 16)		NSS Sp. z o.o.
-				Modularna 11
-				Warszawa    02-238
-				PL
-
 34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
 34DD7E     (base 16)		Umeox Innovations Co.,Ltd
 				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
 
-C8-5A-9F   (hex)		zte corporation
-C85A9F     (base 16)		zte corporation
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
+C8-5A-9F   (hex)		zte corporation
+C85A9F     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -31696,6 +31696,18 @@ E4922A     (base 16)		DBG HOLDINGS LIMITED
 				UNIT D, 6/F., UNISON INDUSTRIAL CENTRE, 27-31 AUPUI WAN STREET, FOTAN, N.T.
 				Hong Kong    999077
 				HK
+
+5C-75-AF   (hex)		Fitbit, Inc.
+5C75AF     (base 16)		Fitbit, Inc.
+				199 Fremont Street, 14th Fl
+				San Francisco  CA  94105
+				US
+
+38-BA-B0   (hex)		Broadcom
+38BAB0     (base 16)		Broadcom
+				1320 Ridder Park
+				San Jose  CA  95131
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63689,6 +63701,12 @@ E02481     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
+70-44-1C   (hex)		SHENZHEN KAIFA TECHNOLOGY CO.,LTD.
+70441C     (base 16)		SHENZHEN KAIFA TECHNOLOGY CO.,LTD.
+				7006 Caitian Rd., Futian Dist. 
+				Shen Zhen  Guang Dong  518035
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94825,6 +94843,12 @@ F0E4A2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+08-3A-88   (hex)		Universal Global Scientific Industrial Co., Ltd.
+083A88     (base 16)		Universal Global Scientific Industrial Co., Ltd.
+				141, Lane 351, Taiping Road, Sec.1,Tsao Tuen
+				Nan-Tou  Taiwan  54261
+				TW
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -157940,11 +157964,11 @@ F08620     (base 16)		Arcadyan Corporation
 				Tsim Sha Tsui    
 				HK
 
-2C-64-1F   (hex)		Vizio, Inc
-2C641F     (base 16)		Vizio, Inc
-				39 Tesla
-				Irvine  CA  92618
-				US
+44-D7-91   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+44D791     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
 
 F8-08-4F   (hex)		Sagemcom Broadband SAS
 F8084F     (base 16)		Sagemcom Broadband SAS
@@ -157952,14 +157976,20 @@ F8084F     (base 16)		Sagemcom Broadband SAS
 				Rueil Malmaison Cedex  hauts de seine  92848
 				FR
 
-44-D7-91   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-44D791     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 90-17-C8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 9017C8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+2C-64-1F   (hex)		Vizio, Inc
+2C641F     (base 16)		Vizio, Inc
+				39 Tesla
+				Irvine  CA  92618
+				US
+
+D0-D0-03   (hex)		Samsung Electronics Co.,LTD
+D0D003     (base 16)		Samsung Electronics Co.,LTD
+				129, Samsung-ro, Youngtongl-Gu
+				Suwon  Gyeonggi-Do  16677
+				KR
