@@ -31610,26 +31610,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
-34DD7E     (base 16)		Umeox Innovations Co.,Ltd
-				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
-				Shenzhen  Guangdong  518000
-				CN
-
 38-C4-E8   (hex)		NSS Sp. z o.o.
 38C4E8     (base 16)		NSS Sp. z o.o.
 				Modularna 11
 				Warszawa    02-238
 				PL
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
+34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
+34DD7E     (base 16)		Umeox Innovations Co.,Ltd
+				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
 				CN
 
 C8-5A-9F   (hex)		zte corporation
 C85A9F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -31714,6 +31714,30 @@ E4922A     (base 16)		DBG HOLDINGS LIMITED
 				10369 N Commerce Pkwy
 				Mirimar  FL  33025
 				US
+
+D8-29-18   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+D82918     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+4C-F1-9E   (hex)		Groupe Atlantic
+4CF19E     (base 16)		Groupe Atlantic
+				Ideal Boilers, National Ave
+				Hull  East Yorkshire  HU5 4JB
+				GB
+
+04-ED-33   (hex)		Intel Corporate
+04ED33     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
+
+88-51-7A   (hex)		HMD Global Oy
+88517A     (base 16)		HMD Global Oy
+				Bertel Jungin aukio 9
+				Espoo    02600
+				FI
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63731,6 +63755,24 @@ E8D0B9     (base 16)		Taicang T&W Electronics
 				Suzhou  Jiangsu  215412
 				CN
 
+68-4A-AE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+684AAE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+AC-B3-B5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+ACB3B5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+1C-AE-CB   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+1CAECB     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94884,6 +94926,18 @@ ECFA5C     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
 0C20D3     (base 16)		vivo Mobile Communication Co., Ltd.
 				#283,BBK Road
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
+				CN
+
+54-34-EF   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+5434EF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+30-FB-B8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+30FBB8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -126448,6 +126502,36 @@ F8B46A     (base 16)		Hewlett Packard
 				#283,BBK Road
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
+
+84-46-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8446FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+B0-08-75   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+B00875     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+BC-B0-E7   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+BCB0E7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+60-D7-55   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+60D755     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+20-85-93   (hex)		IEEE Registration Authority
+208593     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
