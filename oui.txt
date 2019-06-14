@@ -31610,26 +31610,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-38-C4-E8   (hex)		NSS Sp. z o.o.
-38C4E8     (base 16)		NSS Sp. z o.o.
-				Modularna 11
-				Warszawa    02-238
-				PL
-
 34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
 34DD7E     (base 16)		Umeox Innovations Co.,Ltd
 				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
 				Shenzhen  Guangdong  518000
 				CN
 
-C8-5A-9F   (hex)		zte corporation
-C85A9F     (base 16)		zte corporation
+38-C4-E8   (hex)		NSS Sp. z o.o.
+38C4E8     (base 16)		NSS Sp. z o.o.
+				Modularna 11
+				Warszawa    02-238
+				PL
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
+C8-5A-9F   (hex)		zte corporation
+C85A9F     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -31738,6 +31738,12 @@ D82918     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Bertel Jungin aukio 9
 				Espoo    02600
 				FI
+
+F4-97-C2   (hex)		Nebulon Inc
+F497C2     (base 16)		Nebulon Inc
+				3089 Skyway Court
+				Fremont  CA  94539
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -58097,12 +58103,6 @@ CC70ED     (base 16)		Cisco Systems, Inc
 				San Jose  CA  94568
 				US
 
-D4-3D-39   (hex)		FCI. Inc
-D43D39     (base 16)		FCI. Inc
-				B-7F, SiliconPark, 35, Pangyo-ro 255beon-gil, Bundang-gu
-				Seongnam-si  Gyeonggi-do  13486
-				KR
-
 4C-96-2D   (hex)		Fresh AB
 4C962D     (base 16)		Fresh AB
 				Gransholmsvägen 136
@@ -63772,6 +63772,12 @@ ACB3B5     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+D4-3D-39   (hex)		Dialog Semiconductor
+D43D39     (base 16)		Dialog Semiconductor
+				B-7F, SiliconPark, 35, Pangyo-ro 255beon-gil, Bundang-gu
+				Seongnam-si  Gyeonggi-do  13486
+				KR
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -126503,10 +126509,10 @@ F8B46A     (base 16)		Hewlett Packard
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-84-46-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-8446FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+1C-CC-D6   (hex)		Xiaomi Communications Co Ltd
+1CCCD6     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 B0-08-75   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -126523,6 +126529,12 @@ BCB0E7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 
 60-D7-55   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 60D755     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
+84-46-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8446FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
@@ -158148,4 +158160,10 @@ B8-99-AE   (hex)		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 B899AE     (base 16)		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 				Chudong science and technology park, 111 shaxin road, tangxia town,
 				dongguan city  guangdong province  523710
+				CN
+
+A4-45-19   (hex)		Xiaomi Communications Co Ltd
+A44519     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
