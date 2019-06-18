@@ -30212,9 +30212,6 @@ CCBBFE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Guangzhou  Guangdong Province  511400
 				CN
 
-F0-A2-25   (hex)		Private
-F0A225     (base 16)		Private
-
 00-B4-F5   (hex)		DongGuan Siyoto Electronics Co., Ltd       
 00B4F5     (base 16)		DongGuan Siyoto Electronics Co., Ltd       
 				Hecheng Industrial District, QiaoTou Town
@@ -31610,26 +31607,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
-34DD7E     (base 16)		Umeox Innovations Co.,Ltd
-				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
-				Shenzhen  Guangdong  518000
-				CN
-
 38-C4-E8   (hex)		NSS Sp. z o.o.
 38C4E8     (base 16)		NSS Sp. z o.o.
 				Modularna 11
 				Warszawa    02-238
 				PL
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
+34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
+34DD7E     (base 16)		Umeox Innovations Co.,Ltd
+				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
 				CN
 
 C8-5A-9F   (hex)		zte corporation
 C85A9F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -31744,6 +31741,15 @@ F497C2     (base 16)		Nebulon Inc
 				3089 Skyway Court
 				Fremont  CA  94539
 				US
+
+F0-A2-25   (hex)		Private
+F0A225     (base 16)		Private
+
+A4-E3-1B   (hex)		Nokia
+A4E31B     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63779,10 +63785,28 @@ D43D39     (base 16)		Dialog Semiconductor
 				Seongnam-si  Gyeonggi-do  13486
 				KR
 
+30-0D-9E   (hex)		Ruijie Networks Co.,LTD
+300D9E     (base 16)		Ruijie Networks Co.,LTD
+				20# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
+				Fuzhou  Fujian  350002
+				CN
+
+B8-A5-8D   (hex)		Axe Group Holdings Limited
+B8A58D     (base 16)		Axe Group Holdings Limited
+				Road Town
+				tortola    VG1110
+				VG
+
 50-A1-32   (hex)		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 50A132     (base 16)		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 				Chudong science and technology park, 111 shaxin road, tangxia town,
 				dongguan city  guangdong province  523710
+				CN
+
+94-90-34   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+949034     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
+				SHENZHEN  GUANGDONG  518057
 				CN
 
 58-46-E1   (hex)		Baxter International Inc
@@ -126563,6 +126587,18 @@ BCB0E7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Piscataway  NJ  08554
 				US
 
+50-CE-E3   (hex)		Gigafirm.co.LTD
+50CEE3     (base 16)		Gigafirm.co.LTD
+				3-21-8,kisonishi
+				machida-city  tokyo  1940037
+				JP
+
+B4-7C-59   (hex)		Jiangsu Hengxin Technology Co.,Ltd.
+B47C59     (base 16)		Jiangsu Hengxin Technology Co.,Ltd.
+				No.138 Taodu Road,Yixing city,Jiangsu Province,China
+				Yixing  Jiangsu  214200
+				CN
+
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
 				250 route de l'Empereur
@@ -158185,3 +158221,9 @@ A44519     (base 16)		Xiaomi Communications Co Ltd
 				The Rainbow City of China Resources
 				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
+
+40-55-82   (hex)		Nokia
+405582     (base 16)		Nokia
+				600 March Road
+				Kanata  Ontario  K2K 2E6
+				CA
