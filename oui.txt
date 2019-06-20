@@ -31529,26 +31529,26 @@ B03E51     (base 16)		BSkyB Ltd
 				KYOTO  KYOTO  601-8501
 				JP
 
-34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
-34DD7E     (base 16)		Umeox Innovations Co.,Ltd
-				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
-				Shenzhen  Guangdong  518000
-				CN
-
 38-C4-E8   (hex)		NSS Sp. z o.o.
 38C4E8     (base 16)		NSS Sp. z o.o.
 				Modularna 11
 				Warszawa    02-238
 				PL
 
-80-B0-7B   (hex)		zte corporation
-80B07B     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
+34-DD-7E   (hex)		Umeox Innovations Co.,Ltd
+34DD7E     (base 16)		Umeox Innovations Co.,Ltd
+				Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen
+				Shenzhen  Guangdong  518000
 				CN
 
 C8-5A-9F   (hex)		zte corporation
 C85A9F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
+				CN
+
+80-B0-7B   (hex)		zte corporation
+80B07B     (base 16)		zte corporation
 				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
 				shenzhen  guangdong  518057
 				CN
@@ -31673,51 +31673,9 @@ A4E31B     (base 16)		Nokia
 				Kanata  Ontario  K2K 2E6
 				CA
 
-14-98-7D   (hex)		Technicolor CH USA Inc.
-14987D     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-48-00-33   (hex)		Technicolor CH USA Inc.
-480033     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-D0-B2-C4   (hex)		Technicolor CH USA Inc.
-D0B2C4     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-FC-94-E3   (hex)		Technicolor CH USA Inc.
-FC94E3     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-D0-8A-91   (hex)		Technicolor CH USA Inc.
-D08A91     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-3C-9A-77   (hex)		Technicolor CH USA Inc.
-3C9A77     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-10-62-D0   (hex)		Technicolor CH USA Inc.
-1062D0     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-D0-5A-00   (hex)		Technicolor CH USA Inc.
-D05A00     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
+A4-56-CC   (hex)		Technicolor CH USA Inc.
+A456CC     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6 
 				Lawrenceville  GA  30044
 				US
 
@@ -31745,15 +31703,33 @@ D4B92F     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
-FC-52-8D   (hex)		Technicolor CH USA Inc.
-FC528D     (base 16)		Technicolor CH USA Inc.
+3C-9A-77   (hex)		Technicolor CH USA Inc.
+3C9A77     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
 
-A4-56-CC   (hex)		Technicolor CH USA Inc.
-A456CC     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6 
+10-62-D0   (hex)		Technicolor CH USA Inc.
+1062D0     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+D0-5A-00   (hex)		Technicolor CH USA Inc.
+D05A00     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+14-98-7D   (hex)		Technicolor CH USA Inc.
+14987D     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+48-00-33   (hex)		Technicolor CH USA Inc.
+480033     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
 
@@ -31762,6 +31738,30 @@ A456CC     (base 16)		Technicolor CH USA Inc.
 				RM B3 & B4 BLOCK B, KO FAI INDUSTRIAL BUILDING  NO.7 KO FAI ROAD, YAU TONG, KLN, H.K
 				Hong Kong  KOWLOON  999077
 				HK
+
+D0-8A-91   (hex)		Technicolor CH USA Inc.
+D08A91     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+D0-B2-C4   (hex)		Technicolor CH USA Inc.
+D0B2C4     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+FC-94-E3   (hex)		Technicolor CH USA Inc.
+FC94E3     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+FC-52-8D   (hex)		Technicolor CH USA Inc.
+FC528D     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
@@ -63833,6 +63833,18 @@ FC9114     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
+5C-0B-CA   (hex)		Tunstall Nordic AB
+5C0BCA     (base 16)		Tunstall Nordic AB
+				Agnesfridsvagen 113A
+				Malmo    21237
+				SE
+
+98-F7-81   (hex)		ARRIS Group, Inc.
+98F781     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
 				One Baxter Parkway
@@ -94982,12 +94994,6 @@ ECFA5C     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
 				Hanover  MD  21076
 				US
 
-80-B2-34   (hex)		Technicolor CH USA Inc.
-80B234     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
 44-32-C8   (hex)		Technicolor CH USA Inc.
 4432C8     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -95012,10 +95018,22 @@ E0885D     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
+80-B2-34   (hex)		Technicolor CH USA Inc.
+80B234     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
 94-6A-77   (hex)		Technicolor CH USA Inc.
 946A77     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6 
 				Lawrenceville  GA  30044
+				US
+
+88-7E-25   (hex)		Extreme Networks, Inc.
+887E25     (base 16)		Extreme Networks, Inc.
+				6480 Via Del Oro
+				San Jose  CA  95119
 				US
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -126627,6 +126645,24 @@ BC-9B-68   (hex)		Technicolor CH USA Inc.
 BC9B68     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6 
 				Lawrenceville  GA  30044
+				US
+
+70-54-25   (hex)		ARRIS Group, Inc.
+705425     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+C8-63-FC   (hex)		ARRIS Group, Inc.
+C863FC     (base 16)		ARRIS Group, Inc.
+				6450 Sequence Drive
+				San Diego  CA  92121
+				US
+
+D0-DD-49   (hex)		Juniper Networks
+D0DD49     (base 16)		Juniper Networks
+				1133 Innovation Way
+				Sunnyvale  CA  94089
 				US
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
@@ -158269,3 +158305,9 @@ BC2392     (base 16)		BYD Precision Manufacture Company Ltd.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
+
+54-2B-DE   (hex)		New H3C Technologies Co., Ltd
+542BDE     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
