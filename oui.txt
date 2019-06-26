@@ -31781,6 +31781,24 @@ F4D620     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				DONG GUAN  GUANG DONG  523860
 				CN
 
+A4-45-CD   (hex)		IoT Diagnostics
+A445CD     (base 16)		IoT Diagnostics
+				10052 Commerce Park Drive
+				Cincinnati  OH  45246
+				US
+
+98-41-5C   (hex)		Nintendo Co.,Ltd
+98415C     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
+1C-EA-0B   (hex)		Edgecore Networks Corporation
+1CEA0B     (base 16)		Edgecore Networks Corporation
+				1 Creation RD 3.
+				Hsinchu    30077
+				TW
+
 0C-6F-9C   (hex)		Shaw Communications Inc.
 0C6F9C     (base 16)		Shaw Communications Inc.
 				Suite 900, 630 3rd Avenue S.W.
@@ -62831,12 +62849,6 @@ C4FDE6     (base 16)		DRTECH
 				Round Rock  TX  78682
 				US
 
-E4-1D-2D   (hex)		Mellanox Technologies, Inc.
-E41D2D     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 B0-AE-25   (hex)		Varikorea
 B0AE25     (base 16)		Varikorea
 				#505 kolon digital tower aston, gasan, geumcheon
@@ -63880,6 +63892,24 @@ B42A0E     (base 16)		Technicolor CH USA Inc.
 				445 Hoes Lane
 				Piscataway  NJ  08554
 				US
+
+1C-34-DA   (hex)		Mellanox Technologies, Inc.
+1C34DA     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+E4-1D-2D   (hex)		Mellanox Technologies, Inc.
+E41D2D     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+24-41-8C   (hex)		Intel Corporate
+24418C     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3
+				Kulim  Kedah  09000
+				MY
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -92741,30 +92771,6 @@ D003DF     (base 16)		Samsung Electronics Co.,Ltd
 				Seoul    08833
 				KR
 
-00-25-8B   (hex)		Mellanox Technologies, Inc.
-00258B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-24-8A-07   (hex)		Mellanox Technologies, Inc.
-248A07     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-EC-0D-9A   (hex)		Mellanox Technologies, Inc.
-EC0D9A     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-50-6B-4B   (hex)		Mellanox Technologies, Inc.
-506B4B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 78-7D-53   (hex)		Aerohive Networks Inc.
 787D53     (base 16)		Aerohive Networks Inc.
 				1011 McCarthy Blvd
@@ -95078,11 +95084,47 @@ E0885D     (base 16)		Technicolor CH USA Inc.
 				San Francisco  CA  94107
 				US
 
+24-8A-07   (hex)		Mellanox Technologies, Inc.
+248A07     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+00-25-8B   (hex)		Mellanox Technologies, Inc.
+00258B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+B8-59-9F   (hex)		Mellanox Technologies, Inc.
+B8599F     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
 5C-66-6C   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 5C666C     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 				NO.18 HAIBIN ROAD,
 				DONG GUAN  GUANG DONG  523860
 				CN
+
+50-6B-4B   (hex)		Mellanox Technologies, Inc.
+506B4B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+EC-0D-9A   (hex)		Mellanox Technologies, Inc.
+EC0D9A     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+AC-A8-8E   (hex)		SHARP Corporation
+ACA88E     (base 16)		SHARP Corporation
+				1 Takumi-cho, Sakai-ku
+				Sakai City  Osaka  590-8522
+				JP
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
 D86CE9     (base 16)		Sagemcom Broadband SAS
@@ -105004,12 +105046,6 @@ EC3091     (base 16)		Cisco Systems, Inc
 				Jinsuk Building 1536-7
 				Seoul    137-073
 				KR
-
-00-1D-8D   (hex)		Raytek GmbH
-001D8D     (base 16)		Raytek GmbH
-				Blankenburger Str. 135
-				Berlin    13127
-				DE
 
 00-1D-86   (hex)		Shinwa Industries(China) Ltd.
 001D86     (base 16)		Shinwa Industries(China) Ltd.
@@ -124505,18 +124541,6 @@ E81CBA     (base 16)		Fortinet, Inc.
 				Fengshun County, Meizhou  Guangdong province  514000
 				CN
 
-00-02-C9   (hex)		Mellanox Technologies, Inc.
-0002C9     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-7C-FE-90   (hex)		Mellanox Technologies, Inc.
-7CFE90     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 28-39-26   (hex)		CyberTAN Technology Inc.
 283926     (base 16)		CyberTAN Technology Inc.
 				99 Park Ave III, Hsinchu Science Park
@@ -126722,8 +126746,32 @@ D81265     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				Chongqing  Chongqing  401332
 				CN
 
+7C-FE-90   (hex)		Mellanox Technologies, Inc.
+7CFE90     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+00-02-C9   (hex)		Mellanox Technologies, Inc.
+0002C9     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+00-1D-8D   (hex)		Fluke Process Instruments GmbH
+001D8D     (base 16)		Fluke Process Instruments GmbH
+				Blankenburger Str. 135
+				Berlin    13127
+				DE
+
 F0-4F-7C   (hex)		Private
 F04F7C     (base 16)		Private
+
+14-13-46   (hex)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+141346     (base 16)		Skyworth Digital Technology(Shenzhen) Co.,Ltd
+				7F,Block A,Skyworth Building,
+				Shenzhen  Guangdong  518057
+				CN
 
 2C-39-96   (hex)		Sagemcom Broadband SAS
 2C3996     (base 16)		Sagemcom Broadband SAS
@@ -156182,18 +156230,6 @@ C84782     (base 16)		Areson Technology Corp.
 				New Taipei City    24158
 				TW
 
-F4-52-14   (hex)		Mellanox Technologies, Inc.
-F45214     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
-98-03-9B   (hex)		Mellanox Technologies, Inc.
-98039B     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100
-				Sunnyvale  CA  94085
-				US
-
 CC-98-8B   (hex)		SONY Visual Products Inc.
 CC988B     (base 16)		SONY Visual Products Inc.
 				2-10-1 Osaki
@@ -158401,3 +158437,21 @@ D89790     (base 16)		Commonwealth Scientific and Industrial Research Organisati
 				3333 Scott Blvd
 				Santa Clara  CA  95054
 				US
+
+98-03-9B   (hex)		Mellanox Technologies, Inc.
+98039B     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100
+				Sunnyvale  CA  94085
+				US
+
+F4-52-14   (hex)		Mellanox Technologies, Inc.
+F45214     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
+				US
+
+44-EF-BF   (hex)		China Dragon Technology Limited
+44EFBF     (base 16)		China Dragon Technology Limited
+				B4 Bldg.Haoshan 1st Industry Park,
+				Shenzhen  Guangdong  518104
+				CN
