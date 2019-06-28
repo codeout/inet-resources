@@ -63701,6 +63701,12 @@ F4B688     (base 16)		PLANTRONICS, INC.
 AC-DE-48   (hex)		Private
 ACDE48     (base 16)		Private
 
+AC-E3-42   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+ACE342     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 04-4A-6C   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 044A6C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
@@ -63719,12 +63725,6 @@ E02481     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-AC-E3-42   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-ACE342     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
-				CN
-
 70-44-1C   (hex)		SHENZHEN KAIFA TECHNOLOGY CO.,LTD.
 70441C     (base 16)		SHENZHEN KAIFA TECHNOLOGY CO.,LTD.
 				7006 Caitian Rd., Futian Dist. 
@@ -63737,22 +63737,16 @@ ACE342     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Sunnyvale  CA  94089
 				US
 
-E8-D0-B9   (hex)		Taicang T&W Electronics
-E8D0B9     (base 16)		Taicang T&W Electronics
-				89# Jiang Nan RD
-				Suzhou  Jiangsu  215412
-				CN
-
 4C-7A-48   (hex)		Nippon Seiki (Europe) B.V.
 4C7A48     (base 16)		Nippon Seiki (Europe) B.V.
 				Antareslaan 27
 				Hoofddorp    2132
 				NL
 
-68-4A-AE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-684AAE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+E8-D0-B9   (hex)		Taicang T&W Electronics
+E8D0B9     (base 16)		Taicang T&W Electronics
+				89# Jiang Nan RD
+				Suzhou  Jiangsu  215412
 				CN
 
 AC-B3-B5   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -63773,6 +63767,12 @@ D43D39     (base 16)		Dialog Semiconductor
 				Seongnam-si  Gyeonggi-do  13486
 				KR
 
+68-4A-AE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+684AAE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
+				CN
+
 30-0D-9E   (hex)		Ruijie Networks Co.,LTD
 300D9E     (base 16)		Ruijie Networks Co.,LTD
 				20# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -63785,11 +63785,23 @@ B8A58D     (base 16)		Axe Group Holdings Limited
 				tortola    VG1110
 				VG
 
+94-90-34   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+949034     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
+				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
+				SHENZHEN  GUANGDONG  518057
+				CN
+
 50-A1-32   (hex)		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 50A132     (base 16)		Shenzhen MiaoMing  Intelligent Technology Co.,Ltd
 				Chudong science and technology park, 111 shaxin road, tangxia town,
 				dongguan city  guangdong province  523710
 				CN
+
+B4-2A-0E   (hex)		Technicolor CH USA Inc.
+B42A0E     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 14-B7-F8   (hex)		Technicolor CH USA Inc.
 14B7F8     (base 16)		Technicolor CH USA Inc.
@@ -63821,23 +63833,23 @@ FC9114     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
-94-90-34   (hex)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-949034     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
-				Unit East Block22-24/F,Skyworth semiconductor design  Bldg., Gaoxin Ave.4.S.,Nanshan District,Shenzhen,China
-				SHENZHEN  GUANGDONG  518057
-				CN
+08-95-2A   (hex)		Technicolor CH USA Inc.
+08952A     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+84-17-EF   (hex)		Technicolor CH USA Inc.
+8417EF     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
 
 54-E4-A9   (hex)		BHR Tech GmbH
 54E4A9     (base 16)		BHR Tech GmbH
 				Georg-Franz-Koller-Straße 18
 				Bisamberg    2102
 				AT
-
-B4-2A-0E   (hex)		Technicolor CH USA Inc.
-B42A0E     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
 
 90-58-51   (hex)		Technicolor CH USA Inc.
 905851     (base 16)		Technicolor CH USA Inc.
@@ -63854,18 +63866,6 @@ B42A0E     (base 16)		Technicolor CH USA Inc.
 3C-B7-4B   (hex)		Technicolor CH USA Inc.
 3CB74B     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6 
-				Lawrenceville  GA  30044
-				US
-
-08-95-2A   (hex)		Technicolor CH USA Inc.
-08952A     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-84-17-EF   (hex)		Technicolor CH USA Inc.
-8417EF     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
 
@@ -63928,6 +63928,18 @@ E41D2D     (base 16)		Mellanox Technologies, Inc.
 				Lot 8, Jalan Hi-Tech 2/3
 				Kulim  Kedah  09000
 				MY
+
+9C-FF-C2   (hex)		AVI Systems GmbH
+9CFFC2     (base 16)		AVI Systems GmbH
+				Dr. Franz Wilhelmstraße 2A
+				Krems a. d. Donau    3500
+				AT
+
+44-D8-78   (hex)		Hui Zhou Gaoshengda Technology Co.,LTD
+44D878     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
+				No.75,Zhongkai High-Tech Development District,Huizhou
+				Hui Zhou  Guangdong  516006
+				CN
 
 58-46-E1   (hex)		Baxter International Inc
 5846E1     (base 16)		Baxter International Inc
@@ -94955,16 +94967,16 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Bayan Lepas  Penang  11900
 				MY
 
-58-85-A2   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
-5885A2     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
-				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
-				Chongqing  China  401120
-				CN
-
 78-69-D4   (hex)		Shenyang Vibrotech Instruments Inc.
 7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
 				No 23-2 Yunfeng St. Tiexi Dist. 
 				Shenyang   Liaoning  110021
+				CN
+
+58-85-A2   (hex)		Realme Chongqing MobileTelecommunications Corp Ltd
+5885A2     (base 16)		Realme Chongqing MobileTelecommunications Corp Ltd
+				No.24 Nichang Boulevard, Huixing Block, Yubei District, Chongqing.
+				Chongqing  China  401120
 				CN
 
 80-38-96   (hex)		SHARP Corporation
@@ -94979,29 +94991,29 @@ DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 				Amsterdam  Noord-Holland  1097 JB
 				NL
 
-FC-58-9A   (hex)		Cisco Systems, Inc
-FC589A     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose  CA  94568
-				US
-
 00-0A-68   (hex)		Solarflare Communications Inc.
 000A68     (base 16)		Solarflare Communications Inc.
 				Suite 100, 7505 Irvine Center Drive
 				Irvine  CA  92618
 				US
 
+FC-58-9A   (hex)		Cisco Systems, Inc
+FC589A     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose  CA  94568
+				US
+
 00-50-C7   (hex)		Private
 0050C7     (base 16)		Private
 
-84-76-37   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-847637     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+F0-E4-A2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+F0E4A2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
 
-F0-E4-A2   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-F0E4A2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+84-76-37   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+847637     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
@@ -95054,24 +95066,6 @@ ECFA5C     (base 16)		Beijing Xiaomi Electronics Co., Ltd.
 				Hanover  MD  21076
 				US
 
-80-29-94   (hex)		Technicolor CH USA Inc.
-802994     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
-				Lawrenceville  GA  30044
-				US
-
-44-1C-12   (hex)		Technicolor CH USA Inc.
-441C12     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6 
-				Lawrenceville  GA  30044
-				US
-
-94-6A-77   (hex)		Technicolor CH USA Inc.
-946A77     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6 
-				Lawrenceville  GA  30044
-				US
-
 44-32-C8   (hex)		Technicolor CH USA Inc.
 4432C8     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
@@ -95084,9 +95078,27 @@ E0885D     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
+80-29-94   (hex)		Technicolor CH USA Inc.
+802994     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+44-1C-12   (hex)		Technicolor CH USA Inc.
+441C12     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6 
+				Lawrenceville  GA  30044
+				US
+
 80-B2-34   (hex)		Technicolor CH USA Inc.
 80B234     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
+				Lawrenceville  GA  30044
+				US
+
+94-6A-77   (hex)		Technicolor CH USA Inc.
+946A77     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6 
 				Lawrenceville  GA  30044
 				US
 
@@ -95100,6 +95112,12 @@ E0885D     (base 16)		Technicolor CH USA Inc.
 848094     (base 16)		Meter, Inc.
 				148 Townsend St
 				San Francisco  CA  94107
+				US
+
+EC-0D-9A   (hex)		Mellanox Technologies, Inc.
+EC0D9A     (base 16)		Mellanox Technologies, Inc.
+				350 Oakmead Parkway, Suite 100 
+				Sunnyvale  CA  94085
 				US
 
 24-8A-07   (hex)		Mellanox Technologies, Inc.
@@ -95132,28 +95150,22 @@ B8599F     (base 16)		Mellanox Technologies, Inc.
 				Sunnyvale  CA  94085
 				US
 
-EC-0D-9A   (hex)		Mellanox Technologies, Inc.
-EC0D9A     (base 16)		Mellanox Technologies, Inc.
-				350 Oakmead Parkway, Suite 100 
-				Sunnyvale  CA  94085
-				US
-
 AC-A8-8E   (hex)		SHARP Corporation
 ACA88E     (base 16)		SHARP Corporation
 				1 Takumi-cho, Sakai-ku
 				Sakai City  Osaka  590-8522
 				JP
 
-E0-19-54   (hex)		zte corporation
-E01954     (base 16)		zte corporation
-				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
-				shenzhen  guangdong  518057
-				CN
-
 78-97-C3   (hex)		DINGXIN INFORMATION TECHNOLOGY CO.,LTD
 7897C3     (base 16)		DINGXIN INFORMATION TECHNOLOGY CO.,LTD
 				No.6 huasui Road,ZhuJiang Xincheng
 				Guangzhou  Guangdong  510623
+				CN
+
+E0-19-54   (hex)		zte corporation
+E01954     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen  guangdong  518057
 				CN
 
 D8-6C-E9   (hex)		Sagemcom Broadband SAS
@@ -126644,10 +126656,10 @@ F8B46A     (base 16)		Hewlett Packard
 				Wusha,Chang'An  DongGuan City,Guangdong,  523860
 				CN
 
-84-46-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
-8446FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
-				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
-				Dongguan    523808
+1C-CC-D6   (hex)		Xiaomi Communications Co Ltd
+1CCCD6     (base 16)		Xiaomi Communications Co Ltd
+				The Rainbow City of China Resources
+				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
 				CN
 
 B0-08-75   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -126668,10 +126680,10 @@ BCB0E7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Dongguan    523808
 				CN
 
-1C-CC-D6   (hex)		Xiaomi Communications Co Ltd
-1CCCD6     (base 16)		Xiaomi Communications Co Ltd
-				The Rainbow City of China Resources
-				NO.68, Qinghe Middle Street  Haidian District, Beijing  100085
+84-46-FE   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
+8446FE     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
+				Dongguan    523808
 				CN
 
 20-85-93   (hex)		IEEE Registration Authority
@@ -126764,17 +126776,17 @@ D0DD49     (base 16)		Juniper Networks
 				Sunnyvale  CA  94089
 				US
 
-B8-1F-5E   (hex)		Apption Labs Limited
-B81F5E     (base 16)		Apption Labs Limited
-				7-8 Westbridge Close
-				Leicester    LE3 5LW
-				GB
-
 D8-12-65   (hex)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 D81265     (base 16)		CHONGQING FUGUI ELECTRONICS CO.,LTD.
 				Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District
 				Chongqing  Chongqing  401332
 				CN
+
+B8-1F-5E   (hex)		Apption Labs Limited
+B81F5E     (base 16)		Apption Labs Limited
+				7-8 Westbridge Close
+				Leicester    LE3 5LW
+				GB
 
 7C-FE-90   (hex)		Mellanox Technologies, Inc.
 7CFE90     (base 16)		Mellanox Technologies, Inc.
@@ -158228,17 +158240,17 @@ BC62D2     (base 16)		Genexis International B.V.
 				Piscataway  NJ  08554
 				US
 
-5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
-5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
-				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
-				Shenzhen  Guangdong  518000
-				CN
-
 08-4F-F9   (hex)		Cisco Systems, Inc
 084FF9     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
+
+5C-92-5E   (hex)		Zioncom Electronics (Shenzhen) Ltd.
+5C925E     (base 16)		Zioncom Electronics (Shenzhen) Ltd.
+				A1&A2 Building,Lantian Technology Park, Xinyu Road, Xingqiao Henggang Block, Shajing Street, Baoan District
+				Shenzhen  Guangdong  518000
+				CN
 
 68-F1-25   (hex)		Data Controls Inc.
 68F125     (base 16)		Data Controls Inc.
@@ -158270,35 +158282,23 @@ DCF8B9     (base 16)		zte corporation
 				shenzhen  guangdong  518057
 				CN
 
-7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
-7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
-				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
-				Wuhan    430000
-				CN
-
 F0-86-20   (hex)		Arcadyan Corporation
 F08620     (base 16)		Arcadyan Corporation
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
 
+7C-C9-26   (hex)		Wuhan GreeNet Information Service Co.,Ltd.
+7CC926     (base 16)		Wuhan GreeNet Information Service Co.,Ltd.
+				4-6F, Building 2, Phase 6, Optical Valley Software Park, East Lake High-Tech Development Zone
+				Wuhan    430000
+				CN
+
 2C-F8-9B   (hex)		Cisco Systems, Inc
 2CF89B     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose  CA  94568
 				US
-
-2C-64-1F   (hex)		Vizio, Inc
-2C641F     (base 16)		Vizio, Inc
-				39 Tesla
-				Irvine  CA  92618
-				US
-
-F8-08-4F   (hex)		Sagemcom Broadband SAS
-F8084F     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
 
 54-E7-D5   (hex)		Sun Cupid Technology (HK) LTD
 54E7D5     (base 16)		Sun Cupid Technology (HK) LTD
@@ -158312,11 +158312,23 @@ F8084F     (base 16)		Sagemcom Broadband SAS
 				Dongguan    523808
 				CN
 
+F8-08-4F   (hex)		Sagemcom Broadband SAS
+F8084F     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
+
 90-17-C8   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 9017C8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park
 				Dongguan    523808
 				CN
+
+2C-64-1F   (hex)		Vizio, Inc
+2C641F     (base 16)		Vizio, Inc
+				39 Tesla
+				Irvine  CA  92618
+				US
 
 D0-D0-03   (hex)		Samsung Electronics Co.,LTD
 D0D003     (base 16)		Samsung Electronics Co.,LTD
@@ -158360,12 +158372,6 @@ A44519     (base 16)		Xiaomi Communications Co Ltd
 				Kanata  Ontario  K2K 2E6
 				CA
 
-BC-23-92   (hex)		BYD Precision Manufacture Company Ltd.
-BC2392     (base 16)		BYD Precision Manufacture Company Ltd.
-				No.3001, Bao He Road, Baolong Industrial, Longgang Street,Longgang Zone, Shenzhen
-				shenzhen    518116
-				CN
-
 94-E6-F7   (hex)		Intel Corporate
 94E6F7     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3
@@ -158378,8 +158384,8 @@ BC2392     (base 16)		BYD Precision Manufacture Company Ltd.
 				Lawrenceville  GA  30044
 				US
 
-48-F7-C0   (hex)		Technicolor CH USA Inc.
-48F7C0     (base 16)		Technicolor CH USA Inc.
+60-3D-26   (hex)		Technicolor CH USA Inc.
+603D26     (base 16)		Technicolor CH USA Inc.
 				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
@@ -158414,11 +158420,17 @@ E03717     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
-60-3D-26   (hex)		Technicolor CH USA Inc.
-603D26     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6
+10-33-BF   (hex)		Technicolor CH USA Inc.
+1033BF     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6 
 				Lawrenceville  GA  30044
 				US
+
+BC-23-92   (hex)		BYD Precision Manufacture Company Ltd.
+BC2392     (base 16)		BYD Precision Manufacture Company Ltd.
+				No.3001, Bao He Road, Baolong Industrial, Longgang Street,Longgang Zone, Shenzhen
+				shenzhen    518116
+				CN
 
 0C-02-27   (hex)		Technicolor CH USA Inc.
 0C0227     (base 16)		Technicolor CH USA Inc.
@@ -158426,9 +158438,9 @@ E03717     (base 16)		Technicolor CH USA Inc.
 				Lawrenceville  GA  30044
 				US
 
-10-33-BF   (hex)		Technicolor CH USA Inc.
-1033BF     (base 16)		Technicolor CH USA Inc.
-				5030 Sugarloaf Parkway Bldg 6 
+48-F7-C0   (hex)		Technicolor CH USA Inc.
+48F7C0     (base 16)		Technicolor CH USA Inc.
+				5030 Sugarloaf Parkway Bldg 6
 				Lawrenceville  GA  30044
 				US
 
