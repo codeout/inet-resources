@@ -32294,18 +32294,6 @@ B04FC3     (base 16)		Shenzhen NVC Cloud Technology Co., Ltd.
 				AUSTIN  TX  78758
 				US
 
-EC-BE-DD   (hex)		Sagemcom Broadband SAS
-ECBEDD     (base 16)		Sagemcom Broadband SAS
-				250, route de l'Empereur
-				Rueil Malmaison Cedex  hauts de seine  92848
-				FR
-
-70-48-F7   (hex)		Nintendo Co.,Ltd
-7048F7     (base 16)		Nintendo Co.,Ltd
-				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
-				KYOTO  KYOTO  601-8501
-				JP
-
 CC-EF-03   (hex)		Hunan Keyshare Communication Technology Co., Ltd.
 CCEF03     (base 16)		Hunan Keyshare Communication Technology Co., Ltd.
 				No. 19 Building, CEC Software Park, No. 39 jianshan Rd
@@ -32318,11 +32306,23 @@ CCEF03     (base 16)		Hunan Keyshare Communication Technology Co., Ltd.
 				shenzhen  GuangDong  518000
 				CN
 
+70-48-F7   (hex)		Nintendo Co.,Ltd
+7048F7     (base 16)		Nintendo Co.,Ltd
+				11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU
+				KYOTO  KYOTO  601-8501
+				JP
+
 18-E1-CA   (hex)		wanze
 18E1CA     (base 16)		wanze
 				wanjinglu
 				dandong  Liaoning  118000
 				CN
+
+EC-BE-DD   (hex)		Sagemcom Broadband SAS
+ECBEDD     (base 16)		Sagemcom Broadband SAS
+				250, route de l'Empereur
+				Rueil Malmaison Cedex  hauts de seine  92848
+				FR
 
 00-C0-B6   (hex)		HVE, Inc. 
 00C0B6     (base 16)		HVE, Inc. 
@@ -95573,6 +95573,12 @@ FCC233     (base 16)		ASUSTek COMPUTER INC.
 				Piscataway  NJ  08554
 				US
 
+58-35-26   (hex)		DEEPLET TECHNOLOGY CORP
+583526     (base 16)		DEEPLET TECHNOLOGY CORP
+				5F,No.9,Lane235,Pao-Chiao Rd., Hsin-Tien,
+				New Taipei City      23145
+				TW
+
 F8-D0-27   (hex)		Seiko Epson Corporation
 F8D027     (base 16)		Seiko Epson Corporation
 				2070 Kotobuki Koaka
@@ -127293,6 +127299,12 @@ A06A00     (base 16)		Verilink Corporation
 28BD89     (base 16)		Google, Inc.
 				1600 Amphitheatre Parkway
 				Mountain View  CA  94043
+				US
+
+EC-1B-BD   (hex)		Silicon Laboratories
+EC1BBD     (base 16)		Silicon Laboratories
+				7000 W. William Cannon Dr.
+				Austin    78735
 				US
 
 7C-8A-E1   (hex)		COMPAL INFORMATION (KUNSHAN) CO., LTD. 
