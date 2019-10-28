@@ -28387,7 +28387,7 @@
 30238	AS-IRONP-VEGA - Cisco Systems Ironport Division, US
 30239	TRAVELPORT - Travelport Operations, Inc., US
 30240	RXN3 - RADIANZ Americas, Inc., US
-30241	ATLAS-BROADBAND - Ignisis, US
+30241	ATLAS-BROADBAND - Ignisis, ZZ
 30242	SAMSA - SAMSA, US
 30243	SPSD - The School District of the City of Saginaw, US
 30244	PSI-NY-1 - Amherst Pierpont Securities, US
@@ -32711,7 +32711,7 @@
 34956	-Reserved AS-, ZZ
 34957	CEGETEL-LA-REUNION-AS, FR
 34958	FAMIPOW-AS, BE
-34959	-Reserved AS-, ZZ
+34959	AS-, ZZ
 34960	NETCETERA-AG-AS, CH
 34961	ALSO-AS, LT
 34962	ANONYMIZE Anonymize, CH
@@ -36780,7 +36780,7 @@
 39299	GL-UA Kiev, Ukraine, UA
 39300	WHS, UA
 39301	TELEVORK-AS, SE
-39302	-Reserved AS-, ZZ
+39302	AS-, ZZ
 39303	CAROLINE-AS, RU
 39304	DV-IX-AS, RU
 39305	CONVERGENCE-, FR
@@ -70280,6 +70280,7 @@
 139749	NANYANGTELECOMINC-AS-AP Nanyang Telecom Inc, PH
 139750	IDCSERVICESNETINC-AS-AP IDCServices.net Inc, HK
 139751	XUNYONG-AS-AP Hefei Xunyong Technology Co., Ltd., CN
+139752	MCTI-AS-AP Multinetwork Cable Television, Inc, PH
 139931	BANGLADESH-AS-AP Bangladesh Submarine Cable Company Limited (BSCCL), BD
 196608	INTERNIC2, DE
 196609	PCS, DE
@@ -82814,7 +82815,7 @@
 262628	2i Servicos de Telecomunicacoes do Brasil Ltda., BR
 262629	Cooper Card Administradora de Cartoes LTDA, BR
 262630	Prime Telecomunicacoes LTDA, BR
-262631	TELECOM LTDA., BR
+262631	, 
 262632	Grajaunet Telecomunicacoes, BR
 262633	RTC INTERNET VIA RADIO LTDA ME, BR
 262634	LEMOS E MORAIS LTDA., BR
@@ -88439,6 +88440,7 @@
 328559	OPTICALL-TELECOM-AS, RE
 328560	Jemstep-Incorporated, ZA
 328561	SIBANYE, ZA
+328562	Swift-Connect, ZA
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
