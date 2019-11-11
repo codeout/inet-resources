@@ -8363,7 +8363,7 @@
 8697	JTC-AS8697 Jordan Telecom Group ( JTG ), JO
 8698	Nationwide Building Society, GB
 8699	FIBERWAVES-AS, LB
-8700	-Reserved AS-, ZZ
+8700	AS-, ZZ
 8702	Swedish Post, SE
 8703	HP-CH-AS1 Enterprise Services, Global Network Engineering, CH
 8704	CHEL-IX-AS, RU
@@ -13273,7 +13273,7 @@
 14016	PAYSYS - Pay Systems, US
 14017	BNSF-AS - Burlington Northern Sante Fe Railway Corp, US
 14018	EZLINK - EZLink Internet Access, US
-14019	PARMTECH - PTC, ZZ
+14019	PARMTECH - PTC, US
 14020	LONGWOOD-1 - Longwood Gardens Inc., US
 14021	PSECU - Pennsylvania State Employees Credit Union, US
 14022	BBCOM - Backbone Communications, Inc., US
@@ -46756,7 +46756,7 @@
 49391	JOINT, IL
 49392	ASBAXETN, RU
 49393	SOLUTIONS-FACTORY-AS, KZ
-49394	-Reserved AS-, ZZ
+49394	AS-, ZZ
 49395	SJM, US
 49396	SOUTHLINE-AS, RU
 49397	SAVA-GROUP-AS, FI
@@ -69083,7 +69083,7 @@
 138318	VCBLTD-AS-IN The Visakhapatnam Cooperative Bank Ltd, IN
 138319	NKIPL-AS Nandkishore Infrastructure Pvt. Ltd., IN
 138320	FALCONLINK1-AS-AP Shamsuzzaman Mamun, BD
-138321	AETOS Capital Group Pty Ltd., AU
+138321	Group Pty Ltd., AU
 138322	AWCC-AS-AP Afghan Wireless, AF
 138323	OPTICOMMCOPTYLTD-AS-AP Opticomm Co Pty Ltd, AU
 138324	JHELUMI-AS-AP JHELUM NETWORKS PVT LTD, PK
@@ -70349,6 +70349,7 @@
 139777	WATERNSW-AS-AP Water NSW, AU
 139778	CARPENTERS-AS-AP DALTRON, PG
 139779	CAMBOHOST-AS-AP Cambo.Host Ltd, KH
+139780	BIC-AS-AP Brother's ICT Connectivity, BD
 139931	BANGLADESH-AS-AP Bangladesh Submarine Cable Company Limited (BSCCL), BD
 196608	INTERNIC2, DE
 196609	PCS, DE
@@ -73575,7 +73576,7 @@
 200458	VMOBILE, BG
 200459	NET_HOST_SOLUTION, BG
 200460	TRANQUILLITY, SE
-200461	-Reserved AS-, ZZ
+200461	AS-, ZZ
 200462	AS-ETH, DE
 200463	LETKOM, RU
 200464	AS-FAES, CH
@@ -88560,6 +88561,7 @@
 328566	Elite-Networks-AS, CD
 328567	LEC-Communications, LS
 328568	I-Team, ZA
+328569	Banque-Central-Congo, CD
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -91515,7 +91517,7 @@
 396164	UNMETERED - UNMETERED, US
 396165	-Reserved AS-, ZZ
 396166	WKBANK01 - World Knowledge Bank LLC, US
-396167	-Reserved AS-, ZZ
+396167	-Reserved AS-, US
 396168	THINKBIGNETWORKS-KC - ThinkBig Networks, LLC, US
 396169	CV-BROKERAGE - CV Brokerage Inc., ZZ
 396170	APEX-HEALTHCARE-SYSTEMS - Apex Healthcare Systems Corp., US
@@ -92256,7 +92258,7 @@
 396905	HOMEWORKS-1 - HomeWorks Connect, US
 396906	ATG-396906 - Accretive Networks, US
 396907	XANTERRA - XANTERRA Inc., US
-396908	LAB-01 - Northrop Grumman Corp, ZZ
+396908	LAB-01 - Northrop Grumman Corp, US
 396909	NMMCC-AS - New Mexico Mutual Casualty Company, US
 396910	AS-LCPA-14 - Lee County Port Authority, US
 396911	DPLO-411SSFLT - Diplomat Pharmacy, Inc, US
