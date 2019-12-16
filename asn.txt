@@ -6488,7 +6488,7 @@
 6641	SPORTSLINE - SportsLine USA Inc., US
 6642	RDSB-ASN - Rainbow District School Board, CA
 6643	JIVECOMMUNICATIONS - Jive Communications, Inc., US
-6644	PARSECWEB-AS - PARSEC, SE
+6644	PARSECWEB-AS - PARSEC, US
 6645	OLEAN-GENERAL-HOSPITAL - OLEAN GENERAL HOSPITAL, US
 6646	AETNA - Aetna, US
 6647	BITNAMES-ANYCAST - Solfo Inc., US
@@ -9679,7 +9679,6 @@
 10150	TENNET-AU-AP Optus Customer Network, AU
 10151	ITONE-CSLOXINFO-AS-TH-AP IT One Co., Ltd., TH
 10152	NEC-MELB-DC-AS-AP NEC Australia Pty Ltd, AU
-10153	, 
 10154	DUNAMU-AS-KR DUNAMU, KR
 10155	JBCTV-AS-KR CJ Hello Co., Ltd., KR
 10156	SNUE-AS-KR Seoul National University of Education, KR
@@ -15391,7 +15390,7 @@
 16409	PBW-COMMUNICATIONS - PBW Communications, LLC, US
 16410	DKM3-ARIN - The Reynolds and Reynolds Company, US
 16411	NREL-AS-NATIONAL-RENEWABLE-ENERGY-LABORATORY - National Renewable Energy Laboratory, US
-16412	MSHA - Mountain States Health Alliance, ZZ
+16412	MSHA - Mountain States Health Alliance, US
 16413	TELEBERMUDA - Telebermuda International Limited, BM
 16414	TS-MHSN-AS - Truespeed Internet Services, CA
 16415	ALORICA - ALORICA INC, US
@@ -18206,7 +18205,7 @@
 19257	SUBRIGO - SUBRIGO CORPORATION, US
 19258	DEVRY-DATACENTER-2 - Adtalem Global Education INC, US
 19259	Todito.com S.A. de C.V., MX
-19260	GKTL-1-AS1 - Global Knowledge Training, LLC, ZZ
+19260	GKTL-1-AS1 - Global Knowledge Training, LLC, US
 19261	ASPSTATION - aspStation, Inc., US
 19262	VZGNI-TRANSIT - MCI Communications Services, Inc. d/b/a Verizon Business, US
 19263	CBAD-NET - Cincinnati Bell Any Distance, Inc., US
@@ -34526,7 +34525,7 @@
 36770	WMTW-TV - Hearst-Argyle Television, Inc., US
 36771	WPTZ-TV - Hearst-Argyle Television, Inc., US
 36772	WNNE-TV - Hearst-Argyle Television, Inc., US
-36773	GKTL-1-AS2-CAN - Global Knowledge Training, LLC, ZZ
+36773	GKTL-1-AS2-CAN - Global Knowledge Training, LLC, US
 36774	INTUIT-ITH - Innovative Merchant Solutions, LLC., US
 36775	CHARTER-36775-NA - Charter Communications, US
 36776	FIVE9 - Five9 Inc., US
@@ -35369,6 +35368,7 @@
 37720	Alsatia-AS, ZA
 37721	Virtual-Technologies-Solutions-SA, BF
 37722	Kaldera, MU
+37723	Cajutel-ASN, SL
 37726	PS-Extra-AS, EG
 37769	MWANZA-IXP-peering, TZ
 37770	KIXP-Mombasa-Peering, KE
@@ -37755,6 +37755,7 @@
 40265	CB-MAIN-INTERNET - City Bank, US
 40266	SQN-NET - SpeedyQuick Networks Inc, US
 40267	PCTI - Passaic County Technical Institute, US
+40268	SOLD-CORP - Housevalues, Inc., US
 40269	KTPA1440 - Kaplan, Inc., US
 40270	EPISD-ASN-1 - The El Paso Independent School District (EPISD), US
 40271	MEVIGO-092006 - Mevigo Inc., US
@@ -49349,7 +49350,7 @@
 51996	MICROSTRATEGY_POLAND-AS, PL
 51997	ASKET-AS, KZ
 51998	ARHCITY, RU
-51999	-Reserved AS-, ZZ
+51999	AS-, ZZ
 52000	MIRHOSTING, RU
 52001	GROTRIAN-AS, DE
 52002	PSOFT-AS, RU
@@ -62336,7 +62337,6 @@
 131164	SINOTECH-TW-AP 61 Ming Chuan Road Section 1, TW
 131165	MEDIAACCESS-AS-AP Media Access International Pte Ltd, SG
 131166	WNL-AS-AP Wantok Network Limited, VU
-131167	, 
 131168	WINDCAVE-AS-AP Windcave Limited, NZ
 131169	ONMOBILEGLOBAL-AS-AP #26, Bannerghatta Road, J. P. Nagar, Phase III, IN
 131170	EFINOC-AS-AP Electronics For Imaging India Private Limited, IN
@@ -62987,6 +62987,7 @@
 131956	SNOW-VPN NTT Communications Corporation, JP
 131957	MICROAD MicroAd, Inc., JP
 131958	T-NET Tama Cable Network Co.,Ltd., JP
+131959	YOUTV YOU Communications Corporation, JP
 131993	QUINNOX-IN UNIT 107 MULTISTORIED BUILDING, SEEPZ, IN
 131994	DBINDIA-IN Deutsche Bank AG, HK
 131995	XLPROG-AS-AP XLPM, NC
@@ -63004,7 +63005,6 @@
 132007	DWI-AS-AP DataWave Internet Pty Ltd, AU
 132008	CROWNBETPTYLTD-AS-AP CrownBet Pty Ltd, AU
 132009	EASYBUY-AS-AP True Internet Co., Ltd., TH
-132010	Ltd, AU
 132011	PAC-AS-AP Panasonic Avionics Corporation Singapore Branch, SG
 132012	WGIL-AS Winspeed Group International Limited, TW
 132013	ICS-AS-AP True Internet assigned for ICS, TH
@@ -65477,7 +65477,6 @@
 134594	AAPL-AS-AP AVNET ASIA PTE LTD, SG
 134595	VELOCITYINTERNET-AS-AP Velocity Internet, BD
 134597	ACCLINKSNR-AS-AP ACCLINKS NAURU LTD. INC., NR
-134598	Ltd, PK
 134599	DIGITALDOTNET-AS-AP Digital Dot Net (DDN), BD
 134600	LSICL-AS-AP Le Siam Internetwork Company Limited, TH
 134601	MICROLINK-AS-AP Microlink Technology, BD
@@ -67761,7 +67760,6 @@
 136915	OR-AS-AP Outer Rim Entertainment, US
 136916	ADELAIDECLOUD-AS-AP Adelaide Cloud Pty Ltd, AU
 136917	IFRA-AS-AP IFRA NETWORK, BD
-136918	BHD., MY
 136919	FACE24COLTD-AS-AP FACE24 Co.,Ltd, MM
 136920	GARDAMORLDA-AS-AP Gardamor, Lda, TL
 136921	FNU-AS-AP Fiji National University, FJ
@@ -70484,6 +70482,7 @@
 139882	FUSEDIT-AS-AP FusedIT Trust, AU
 139883	SPTEL-AS-AP SP Telecommunications PTE LTD, SG
 139884	AGPL-AS-AP Apeiron Global Pvt. Ltd., IN
+139885	FUSHANJ-TELECOM-AS-AP Fushanj Telecom ISP, AF
 139886	QTINC-AS-AP QT Inc., JP
 139888	TANGZHUO-AS-AP No.16 Hengcha Rd, Zhuhui, Hengyang, Hunan, CN
 139931	BANGLADESH-AS-AP Bangladesh Submarine Cable Company Limited (BSCCL), BD
@@ -76878,7 +76877,7 @@
 203803	TELVIO-AS ====================== RECONN Link ==============================, RU
 203804	AS-INFOLICA, RU
 203806	GRANLINE-AS, RU
-203807	-Reserved AS-, ZZ
+203807	AS-, ZZ
 203808	EXCLOUDS-AS, BY
 203810	HOSTTURKA, TR
 203811	MADAR, IQ
@@ -78088,7 +78087,7 @@
 205100	F3NETZE, DE
 205101	AS205101, TR
 205102	-Reserved AS-, ZZ
-205103	ASTELEGRAPH, DE
+205103	TELEGRAPH-AS, DE
 205104	FREGENAL, ES
 205105	INFONET, PL
 205106	PEASOUP, GB
@@ -84922,7 +84921,7 @@
 264380	Server Fast Telecom, BR
 264381	RAIDNET PROVEDOR DE TELECOMUNICACOES LTDA, BR
 264382	Rctel Solucoes em Telecom, BR
-264383	JOHN LEMES DE OLIVEIRA ME., BR
+264383	DE OLIVEIRA ME., BR
 264384	Linejet servios de telecomunicaes ltd, BR
 264385	Provedor Home Net, BR
 264386	MMM E G TELECOMUNICACOES LTDA - ME, BR
@@ -88868,7 +88867,7 @@
 328581	K3-Telecom-AS, SL
 328582	Flash-Bay, KE
 328583	crazyweb-Tech, ZA
-328584	Cajutel-AS, SL
+328584	-Reserved AS-, ZZ
 328585	MegaMore, NG
 328586	HORIZON-IT-SOLUTIONS-LTD, SS
 328587	Ministry-of-Interior-, EG
