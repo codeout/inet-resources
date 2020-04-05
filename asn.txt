@@ -8930,8 +8930,10 @@
 9385	SNOOPA-AS-AP Snoopa Community Geelong Pty Ltd, AU
 9386	DESTINY-AS-AP Destiny Inc., PH
 9387	AUGERE-PK AUGERE-Pakistan, PK
+9388	WEST263 Chengdu west dimension digital technology Co.,LTD, CN
 9389	UNSPECIFIED BEIJING SHENZHOU GREATWALL COMMUNICATION, CN
 9391	UNSPECIFIED GUANGDONG HIGHWAY BROADBAND NETWORK SERVICE CENTE, CN
+9392	APSATCOM APT MOBILE SATCOM LIMITED, CN
 9393	UNSPECIFIED INFORMATION CENTER OF BEIJING SCIENCE AND TECHNOLOGY COMMISION, CN
 9394	CTTNET China TieTong Telecommunications Corporation, CN
 9395	GXBLNET BeiJing Guoxin bilin Telecom Technology Co.,Ltd, CN
@@ -16769,6 +16771,7 @@
 17776	CHINAENTERCOM China Enterprise Communications Ltd., CN
 17777	CSTAR China Telecommunications Broadcast Satellite Corp., CN
 17778	HURUAN District E, Room 532, Building B, Junyue Building, Taizhou, Zhejiang, CN
+17779	HURUAN Zhejiang HuRuan Technology Co., Ltd., CN
 17780	BJENET BEIJING EDUCATION INFORMATION SERVICE CENTER, CN
 17782	CORELINK-AS-AP Shijiazhuang Xuding Technology Co., Ltd, CN
 17783	SRILRPG-AS SRIL RPG Autonomous System, IN
@@ -28360,6 +28363,7 @@
 30174	UTA, US
 30175	EPICOR, US
 30176	AS-PRIORITYCOLO, CA
+30177	FIBER-SOUTH-01, US
 30178	CSI-ASN, US
 30179	ATX-FTF-USRICR1, US
 30180	MEDIAGRIF, CA
@@ -28434,6 +28438,7 @@
 30249	APLUSFCU, US
 30250	AS-ALLENISD-610, US
 30251	FALKEN, US
+30252	BMCD-, US
 30253	DEMANDCHAININC, US
 30254	-Reserved AS-, ZZ
 30255	NYGC, US
@@ -28535,6 +28540,7 @@
 30352	CPI-CORP-CLT, US
 30353	IMB-SBC, US
 30354	DSS-9, US
+30355	GENESYS-IT-SOLUTIONS-INC, CA
 30356	BCBSM, US
 30357	WRIGLEYUSA, US
 30358	SHC-DIRECT-LLC, US
@@ -42600,7 +42606,7 @@
 45095	CNNIC-AQIDC-AP Henan xinfeijinxin Computer Co., Ltd, CN
 45096	CNNIC-ALIBABA-BJ-NET-AP Alibaba (Beijing) Technology Co., Ltd., CN
 45097	BAOLIRONGTONG Poly facility (Beijing) Technology Co., Ltd., CN
-45098	CNNIC-LIVESKY-AP Beijing JingTian Technology Co., Ltd., CN
+45098	CHINACACHE Beijing Blue I.T Technologies Co.,Ltd., CN
 45100	CNNIC-YUNLIN-NETWORK-AP YUNLIN NETWORKS TECHNOLOGY CO.,LTD, CN
 45101	CNNIC-WAL-MART-AP Wal-mart (China) Investment Co., Ltd., CN
 45102	CNNIC-ALIBABA-US-NET-AP Alibaba (US) Technology Co., Ltd., CN
@@ -42610,7 +42616,7 @@
 45106	CNNIC-TYKD-AP China Netcom Broadband Corporation Ltd., CN
 45108	CNNIC-ALISOFT-AP Alisoft (Shanghai) Co., Ltd., CN
 45109	MQEP MAOQIN Electric Power, CN
-45110	CNNIC-CBCNET-AP Beijing Tian Wei Xin Tong technology corp. limited., CN
+45110	CBCNET Beijing Tian Wei Xin Tong technology corp. limited., CN
 45111	CNNIC-HHJYIDC-AP Beijing Honghejiaye Technology Development Co., Ltd, CN
 45112	CNNIC-HNPCNET-AP HeNan Ping Coal Group, CN
 45113	CNNIC-DTCOAL-AP Shanxi Datong Coal Group Communication Co., Ltd, CN
@@ -44919,7 +44925,7 @@
 47549	HOSTINGSYSTEMS-AS, GB
 47550	NETLIFE-AS, UA
 47551	AS-MAYAK-NETWORK "MAYAK NETWORK" LTD, RU
-47552	VEZET-KIROV-AS, RU
+47552	TELEON-AS, RU
 47553	MISAKA-CUSTAGGR-1, NL
 47554	AS_SOSHIANT, IR
 47555	EURASERV, BE
@@ -46371,7 +46377,7 @@
 49001	LEON-GLOBAL, PL
 49002	RUPOST-AS, RU
 49003	ENERGOS, RU
-49004	NEXOPIPE-AS SquareFlow Communications Limited, GB
+49004	SPUTNET-AS SquareFlow Communications Limited, GB
 49005	SIFT-AS, GB
 49006	SISTEME, MD
 49007	PL-NET4ME-TR-AS, PL
@@ -55983,6 +55989,7 @@
 58855	IKGLOBAL Beijing Yufeng Technology Co., Ltd., CN
 58856	CNNIC-CHINACACHE-AP Beijing Blue I.T Technologies Co.,Ltd., CN
 58857	PBSCQ Pacnet Business Solutions(Chongqing), CN
+58858	CNNIC-CRITICAL-AP China Internet Network Infomation Center, CN
 58859	WSUNET Shenzhen WSUNet Technology Co., Ltd., CN
 58860	BEIKUAN Beijing Beikuan Network Co,Ltd, CN
 58861	ANCHNET ShangHai AnchNet Tec, Inc., CN
@@ -56107,6 +56114,7 @@
 58998	VCLOUD Beijing Internet Harbor Technology Co.,Ltd, CN
 58999	WORLDCOM Beijing stone teda communication technology co., LTD, CN
 59000	GRANDENET Grande Arche Technologies (Shanghai), Co. Ltd., CN
+59001	WHSHENGSHI Wuhan Shengshi Tianyou Tech.,LTD, CN
 59002	CQLJNET Chongqing Cloud Computing Investment&Operation Co.,Ltd, CN
 59003	TJGDKD Tianjin B&T broadband network technology Co., Ltd., CN
 59004	TNCNT Tianjin new cloud network technology co., LTD, CN
@@ -60561,7 +60569,7 @@
 63563	COLORNET BEIJING COLOLRNET TECHNOLOGY CO.,LTD, CN
 63564	BAISHANCLOUD Guizhou Baishan Cloud Technology Co., Ltd., CN
 63565	YHWLM Beijing lian guang tong network technology co., LTD, CN
-63566	DNIONNET Shanghai Dnion Information Technology Co,Ltd, CN
+63566	YWNET Beijing yiwangxin science and Technology Development Co., Ltd., CN
 63567	PGYIDC Suqian Pugongying Network Service Co.,Ltd, CN
 63568	ECLOUD Beijing Zhonglian Runtong Information Technology Co. Ltd., CN
 63569	CLOUDUN Cloudun Information Technology (Beijing) Co., Ltd, CN
@@ -60592,6 +60600,7 @@
 63596	SY-HX Shenyang Huaxing communication engineering limited liability company, CN
 63597	SY-HX Shenyang Huaxing communication engineering limited liability company, CN
 63598	KUNTIME Hebei Kun Time Network Technology Co. Ltd., CN
+63599	NOWTOP Guangzhou Nowtop-technology Limited Company, CN
 63600	NOVANETWORK SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD., CN
 63601	NOVANETWORK SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD., CN
 63602	CNIX China Internet Exchange, CN
@@ -60601,6 +60610,7 @@
 63607	ANHUIGUANGDIAN Anhui Radio and Television Information Network Co.,Ltd., CN
 63608	QHCATV Qinghai Broadcasting&TV Information Network Inc, CN
 63609	LD-NET Beijing LD Technology Co., Ltd., CN
+63610	HCIX HCI Solutions Co.,Ltd, CN
 63611	ANLAI Beijing Online Communication Technology Limted., CN
 63612	XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN
 63613	DLTTCNET Dalian Tiantu Cable Television Network Co.,Ltd, CN
@@ -60609,6 +60619,7 @@
 63616	GLOBALUNICOM Beijing GlobalUnicom CO LTD, CN
 63617	MCKINSEY McKinsey & Consulting Company Inc. Shanghai, CN
 63618	ARONNET Hangzhou Aron Teconology Co.,Ltd., CN
+63619	SKYUNNET Beijing Sankuai Cloud Computing Co.,Ltd., CN
 63620	HUABOTECHNET ShenZhen HuaBo Technology Develop Co., Ltd., CN
 63621	NXBCTV-NET NINGXIA BROADCAST&TV NETWORK CO.,LTD, CN
 63624	PULIANNET JiLinShengPuLian Network Service Limited Company, CN
@@ -60620,6 +60631,7 @@
 63631	CLOUDBASE Guangdong Cloudbase Technology Co., Ltd., CN
 63632	CLOUDBASE Guangdong Cloudbase Technology Co., Ltd., CN
 63633	HOTWON GUANGZHOU HOTWON COMPUTER TECHNOLOGY CO.,LTD., CN
+63634	CPCN China Payment & Clearing Network Co., Ltd., CN
 63635	KUANLU Wuhan kuanlu Mdt InfoTech Ltd, CN
 63636	EDG1NET Shanghai Changxin Technology Corp., Ltd., CN
 63637	SNAILNETWORK Zhejiang Nilian information technology Co., Ltd., CN
@@ -60704,6 +60716,7 @@
 63720	BJMMYP BeiJing MaiMai You Pin Technology Co., Ltd., CN
 63721	WHNF WuHan NaiFei Technology Co., Ltd., CN
 63722	HODONET Hodo Telecom Co,Ltd., CN
+63724	NEWCAMPUS2-LENOVO Lenovo (Beijing) Tiaopin Science and Technology Ltd, CN
 63725	WINGCLOUD Guizhou Wing Cloud High Technology Ltd, CN
 63726	HAILIANIDC QingDao HaiLian Information Engineering Co.Ltd, CN
 63727	HWCSNET Huawei, CN
@@ -62327,6 +62340,7 @@
 131129	HSX-AS-VN Hochiminh Stock Exchange, VN
 131130	TLS-AS-VN MB securities joint stock company, VN
 131131	SHBS-AS-VN SHB Securities Joint Stock Company (SHBS), VN
+131136	WUXI-SHANGHANG Wuxi Shanghang Data Co., Ltd., CN
 131137	INSPURSOFTWARE Inspur Software Group Co., Ltd., CN
 131142	APOL-AS-TW Asia Pacific On-Line Service Inc., TW
 131143	CHINATRUST-AS-TW Chinatrust Commercial Bank, TW
@@ -62663,6 +62677,7 @@
 131479	ZETTANET-AS ZettaNet Pty Ltd, AU
 131480	INNOVATIONSDIRECT-AS-AP Innovations Direct Pty Ltd, AU
 131481	HCNET Bei jing hu chuang tong xin ji shu you xian gong si, CN
+131482	ARONNET Hangzhou Aron Teconology Co.,Ltd., CN
 131483	JOYNET Joynet Shanghai Network Services Co.,Ltd, CN
 131485	YWAX Yunwanganxin(Beijing)Science and Technology Co.,Ltd, CN
 131486	JDCOM Beijing Jingdong 360 Degree E-commerce Co., Ltd., CN
@@ -62711,7 +62726,7 @@
 131530	STACKSNET Shanghai Stacks Network Co., Ltd, CN
 131531	JHMLWL Jinhua world interconnection technology co., LTD, CN
 131532	CHENGJINET Shanghai intercity communication co. LTD, CN
-131533	BJZTTX Beijing Zhongtong Taixin Technology Co., Ltd, CN
+131533	WUXI-SHANGHANG Wuxi Shanghang Data Co., Ltd., CN
 131534	GZMXTX Guangzhou Ming Xin Communication Technology Limited Company, CN
 131535	UNIHUB Beijing BoShengTuo Network Technology Co,Ltd., CN
 131536	SHGWBNNET Shanghai Great Wall Broadband Network Service Co., Ltd., CN
@@ -62729,6 +62744,7 @@
 131555	DRGNET BEIJING DRAGON Network co.,Ltd., CN
 131557	SUNHONGS Guangzhou navigation information technology co., LTD, CN
 131558	WALMART-CN Wal-mart (China) Investment Co., Ltd., CN
+131561	WUXI-SHANGHANG Wuxi Shanghang Data Co., Ltd., CN
 131564	BONC-NET Beijing 2049 cloud computing data technology service co. LTD, CN
 131565	IMBTVN INNER MONGOLIA BROADCAST&TV NETWORK GROUP CORPORATION, CN
 131567	DOUBLENET Fnetlink International Co., Ltd., CN
@@ -63409,7 +63425,7 @@
 132385	SUPERPARTNERS-AU Superpartners, AU
 132386	USMANISP-AS-AP Usman Internet Service Provider Private Limited, PK
 132387	ESSARGROUP-IN Essar House, IN
-132388	INTUIT-IN Building 8, IN
+132388	INTUIT-IN Intuit India Product Development Center Private Limited, IN
 132389	CMI-INT-AS China Mobile International Limited, AU
 132390	GUJARATKUTCHNETWORK-AS Gtpl Broadband Pvt. Ltd., IN
 132391	RACK-CENTRAL-AS-AP FourG Telecom, NZ
@@ -64325,7 +64341,7 @@
 133325	NATCOMLIMITED-AS-AP powered by cloudKleyer, HK
 133326	RIN-AS-AP Sabervox, AU
 133327	FLEX-AS-AP Flextronics International Ltd., SG
-133329	TVS Motor Company Limited, IN
+133329	Company Limited, IN
 133330	WASCT-AS-AP Western Australian Sports Centre Trust, AU
 133331	INFOBASELIMITED-AS-AP Infobase Limited, BD
 133332	LCPL-AS-AP Logic Communications Pty Ltd, AU
@@ -65155,7 +65171,7 @@
 134165	CBRE-AS-AU CBRE Pty Limited, AU
 134166	TOT-IDC-AS-AP Internet Data Center Service, TH
 134167	CBRE-AS-HK CBRE Pty Limited, HK
-134168	Gateway Sdn Bhd, BN
+134168	Bhd, BN
 134169	CERNEWTECHRES-AS-CN CERNEWTECH (Beijing) co.,LTD, CN
 134170	CAVITE-AS-AP PROVINCIAL GOVERNMENT OF CAVITE, PH
 134171	LZDSEA-AS-AP Lazada South East Asia Pte. Ltd., SG
@@ -68598,6 +68614,8 @@
 137706	NATIONAL-UNIVERSITY-AS-AP National University, BD
 137707	SLN-AS-AP SLN, BD
 137708	VIRTUALNODE-AS-AP VIRTUAL NODE PTY LTD, AU
+137709	LINKEDIN Beijing LinkedIn Information Technology Co.,Ltd, CN
+137710	WANGSHENXINXI Net God Information Technology (Beijing) Co., Ltd., CN
 137711	GONGQI Shanghai GongQi Network Technology Co., Ltd, CN
 137712	JIAHE Beijing Jiahe Paper Network Technology Co., Ltd., CN
 137713	SHPYNET Shanghai Piyun Network Technology Co.,Ltd., CN
@@ -68609,6 +68627,8 @@
 137720	IOTSPACE Beijing IotSpace Information Technology Co.,Ltd, CN
 137721	HENTE ANKANG HENTE TECHNOLOGY DEVELOPMENT CO.,LTD., CN
 137722	TROILA Tianjin troila technology development co., LTD, CN
+137723	UNI-CLOUD TSINGUA UNIUDC CO.,LTD., CN
+137724	BEIJING-WANCONG Beijing Wancong Information Technology Co., Ltd., CN
 137725	JSCNNET JIANGSU BROADCASTING DATA NETWORK CORPORATION LIMITED, CN
 137726	SINOPEC-NET China Petroleum & Chemical Corporation, CN
 137727	CUDSNET Cloud Union Data Services Co.Ltd., CN
@@ -68617,22 +68637,65 @@
 137730	ISURECLOUD Beijing Yun Duan Zhi Du Technology Co., Ltd., CN
 137731	OYNET Wuhan Ouyue Online TV CO .ï¼ŒLTD, CN
 137732	GUANGXUN Qinghe County Guang Xun Network Technology Co., Ltd., CN
+137733	ANSTEEL Ansteel Group Corporation Limited, CN
+137734	BEIJING-WANCONG Beijing Wancong Information Technology Co., Ltd., CN
+137735	CCBNET China Construction Bank, CN
+137736	CCBNET China Construction Bank, CN
+137737	BMWNSC BMW China Automotive Trading LTD., CN
+137738	BJQH Chindata (Beijing) Co., Ltd., CN
+137739	CNVISANET Visa Information Technology (Beijing) Co.Ltd, CN
+137740	CHINACACHE Beijing Blue I.T Technologies Co.,Ltd., CN
+137741	CHINACACHE Beijing Blue I.T Technologies Co.,Ltd., CN
+137742	PICCNET PICC Property and Casualty Company Limited, CN
+137743	QUANTUM-INTERCONNECTION Quantum interconnection (Beijing) network communication co. LTD, CN
+137747	SBUXNETWORK STARBUCKS (CHINA) COMPANY LIMITED, CN
+137748	SBUXNETWORK STARBUCKS (CHINA) COMPANY LIMITED, CN
 137749	FNTN NANJING FUTURE NETWORK INDUSTRY INNOVATION Co,.LTD, CN
+137751	HANDSOME Xi'an Qianxi Network Technology Co. Ltd., CN
 137752	HBGJ Hubei Guangjia Communication Technology Co., LTD, CN
+137753	JD Beijing Jingdong Shangke Information Technology Co. Ltd., CN
+137754	SIXFOURCLOUD GUANGDONG SIXFOURCLOUD TECHNOLOGY CO.LTD, CN
 137755	HZZY Hangzhou Zhuyue Technology Co., Ltd., CN
 137756	UNSPECIFIED BEIJING SHENZHOU GREATWALL COMMUNICATION, CN
 137757	UNSPECIFIED BEIJING SHENZHOU GREATWALL COMMUNICATION, CN
+137758	ICBC-ASTRONET Industrial and Commercial Bank of China Limited,ICBC, CN
+137759	MTSCHINANET MTS SYSTEM (China) Co.,Ltd, CN
+137761	ETIIR ETIIR, CN
+137762	GUOXINYOUYUN Guosen youyun software system co. LTD., CN
 137763	TELEINFO-NET Teleinfo, CN
 137764	YOUKAI Beijing excellent technology Co.Ltd., CN
+137765	JLHLNET Beijing Jingliang Cloud Technology Co.,Ltd., CN
 137766	AN-S Yangzhou safety and speedly Network Technology CO.,Ltd., CN
 137767	SGMNET Shanghai General Motor Corporation Limited, CN
+137768	ALGOBLU Algoblu Ltd., CN
+137769	PCLAB Shenzhen Cyberspace Laboratory, CN
+137770	PCLAB Shenzhen Cyberspace Laboratory, CN
+137771	ZLXDNET Beijing Zhonglian XinDa Technology Co., Ltd., CN
+137772	MINGCLOUD Beijing MingCloud Technology Co Ltd, CN
+137773	GZLGKJ Guizhou lianguang technology co. LTD, CN
+137774	NGAA Beijing next generation access Acceleration CO.LTD, CN
+137775	BYTEDANCE Beijing Bytedance Network Technology Co., Ltd., CN
+137776	RONG-XIN-HUI-TONG Beijing Rong-Xin-Hui-Tong Communication Technology Co., Ltd., CN
+137777	CDT Shenzhen dragon brother industrial co., LTD, CN
 137778	NJSCZ Nangjing sichongzou kemao Ltd., CN
 137779	HCZQ HUA CHUANG SECURITIES Co.,Ltd., CN
 137781	BEIKUANTECH Beijing Beikuan Technology Co,Ltd, CN
-137787	NEWCAMPUS4-LENOVO Lenovo (Beijing) Information Technology Ltd, CN
+137782	SHDCCENTRE STATE GRID SHANGHAI MUNICIPAL ELECTRIC POWER COMPANY, CN
+137784	CACLOUD CACloud Services (Shanghai) Co., Ltd., CN
+137785	CACLOUD CACloud Services (Shanghai) Co., Ltd., CN
+137786	PLANI Nanjing Plani Information Technology Co. Ltd., CN
+137787	NEWCAMPUS4-LENOVO Beijing Jingdong Shangke Information Technology Co. Ltd., CN
+137788	BEACON Shanxi Beacon Cloudscape, CN
+137790	BYRT Bei jing bo yun rong tian ke ji you xian gong si, CN
+137791	VCGAME Guangzhou enjoyVC Communication Technology CO., Ltd, CN
+137792	CQTX Changqing Oilfield, CN
+137793	JIKETONGXIN Beijing Jike Communication Technology Co., Ltd., CN
 137794	DAHE-NETWORK Dahe tianchi (Beijing) network co. LTD, CN
+137796	ZYKPIN-COM Beijing Zhongyunkunpin Communication technology co. LTD., CN
 137797	NET-EAST-NJ Nanjing dongfang network information technology co. LTD., CN
+137798	DIGITAL-GUANGDON Digital Guangdong Network Construction Co, Ltd, CN
 137799	CGBNET China Guangfa Bank, CN
+137800	SOGOU Beijing sogou information service co., LTD, CN
 137802	AGOTOZ AgotoZ technologies (Beijing) corporation ltd., CN
 137804	CNIX China Internet Exchange, CN
 137805	JD-FINANCE-NETWORK Beijing JD Finance Technology Holding Co., Ltd., CN
@@ -69418,7 +69481,6 @@
 138615	GARDENIA-AS-AP Gardenia Cyber Communication, BD
 138616	SANUK-AS-AP Sanuk Systems (Thailand) Co., Ltd, TH
 138617	ORANGE-AS-AP Orange Broadband Co.,LTD, MM
-138618	Ltd., HK
 138619	NH-AS-AP Net @ Home, BD
 138620	KDMPL-AS-AP Kriti Darshan Media Pvt. Ltd., NP
 138621	CITY-NET-COM-AS-AP City Net Communication, BD
@@ -69483,8 +69545,8 @@
 138682	REMOHAND1-AS-AP REMOHAND TECHNICAL CO LTD, KH
 138683	PROVET-AS-AP Provet Pty Ltd, AU
 138684	MANAULINKS-AS-AP ManauLinks Co.,Ltd., MM
-138685	SHIRA LIMITED, CN
-138686	LI Zongqing, JP
+138685	, 
+138686	, 
 138687	XDEER-AS-AP Xdeer Limited, HK
 138688	BONDHONONLINENETWORK-AS-AP Bondhon Online Network, BD
 138689	CPTVNET-AS-AP CONCEPCION PAY-TV NETWORK, INC., PH
@@ -69709,7 +69771,7 @@
 138910	JACOBAXELSON-AS-AP Jacob Axelson, US
 138911	RNS-AS-AP Renaissance Phuket Resort & Spa, TH
 138912	GHATAILONLINE-AS-AP Ghatail Online, BD
-138913	VNP DIGITAL Inc, AU
+138913	Inc, AU
 138914	HUAYANG-AS-CN Shenzhen Huayang Technology Co., Ltd., CN
 138915	KAOPU-HK Kaopu Cloud HK Limited, HK
 138916	PCDSI-AS-AP Personal Collection Direct Selling, Inc., PH
@@ -69879,6 +69941,8 @@
 139087	FAST1-AS-AP Fast Web & Wireless Communications (Pvt.) Limited, PK
 139088	TUFA-AS-AP TUFA Telecommunication (Pvt) Ltd., PK
 139089	MTNETWORKS-AS-AP MT Networks LLC, MN
+139090	WXEIMSC Wuxi Education Information Management Service Center, CN
+139091	SHMBN Shanghai MBN telecommunication technology Co., LTD., CN
 139092	SINNET Beijing Sinnet Technology Co., Ltd., CN
 139093	CETCCLOUD Dian ke yun (Beijing) Technology Co., Ltd., CN
 139094	CETCCLOUD Dian ke yun (Beijing) Technology Co., Ltd., CN
@@ -69896,18 +69960,32 @@
 139110	NEWCAMPUS1-LENOVO Lenovo Mobile Communication Technology (Beijing) Ltd, CN
 139112	QNET Shanghai Qnet Networking Technology Co.,Ltd, CN
 139113	FELIZLINKNET Shanghai Felizlink Communication Technology Co., Ltd., CN
+139154	CEGN-SD Big Data Center Of Shandong Province, CN
+139155	HYYL STARBUCKS (CHINA) COMPANY LIMITED, CN
+139156	WSQT Beijing wangshun qiantong network communications technology company, CN
+139157	BONC Business-intelligence of Oriental Nations Corporation Ltd., CN
+139158	FEISHU Beijing Feishu Technology Co., Ltd., CN
 139159	GUOXINCLOUD Guoxincloud, CN
+139160	HY-IDC Shandong Huayun Interconnection Information Technology Co., Ltd., CN
 139161	XJRCCB Xinjiang Rural Credit Union, CN
 139162	XJKJ Beijing Xiaoju Science and Technology Co., Ltd., CN
 139163	XJKJ Beijing Xiaoju Science and Technology Co., Ltd., CN
 139164	XJKJ Beijing Xiaoju Science and Technology Co., Ltd., CN
 139165	XJKJ Beijing Xiaoju Science and Technology Co., Ltd., CN
+139173	QUUYUN-NETWORK Hangzhou Quuyun Network Technology Co., Ltd., CN
 139174	COSCOSHIPPING CHINA COSCO SHIPPING CORPORATION LIMITED, CN
 139175	COSCOSHIPPING CHINA COSCO SHIPPING CORPORATION LIMITED, CN
 139176	IDCBC Beijing fast exchange Network Technology Development Co.,Ltd, CN
+139177	EDU New Oriental Education & Technology Group Ltd., CN
+139178	NXY-BJ Rural Credit Banks Funds Clearing Center, CN
 139179	CPIC China Pacific Insurance (Group) Co.,Ltd., CN
 139180	SDYXT Shandong eshinton Network Technology Co., Ltd., CN
+139182	ABCLIFE-NET ABC Life Insurance Co., Ltd, CN
 139183	TRLCNET Thomson Reuters (Beijing) Technology Development Co. Ltd, CN
+139184	SWIFTCALL Beijing Swiftcall Science Technologies,Ltd, CN
+139185	HONGYUN-INTERNET Guangzhou Hongyun Internet Technology Co.,Ltd., CN
+139186	SHAT-NET Shanghai Aitao Information Technology Development Co., Ltd, CN
+139188	CMBNET China Merchants Bank Co., Ltd., CN
 139189	YUJIAHENGTONG Beijing Yu Jia Heng Tong Communications and Information Co., Ltd., CN
 139190	GOOGLE-AS-AP Google Asia Pacific Pte. Ltd., SG
 139191	KH77NETCOLTD-AS-AP KH77-NET CO., LTD, KH
@@ -71063,7 +71141,11 @@
 140536	CHINATELECOM-HUBEI-SUIZHOU-5G-NETWORK CHINATELECOM Hubei province Suizhou 5G network, CN
 140537	CHINATELECOM-HUBEI-ENSHI-5G-NETWORK CHINATELECOM Hubei province Enshi 5G network, CN
 140538	CHINATELECOM-HUBEI-XIANTAO-5G-NETWORK CHINATELECOM Hubei province Xiantao 5G network, CN
+140539	MDDN-AS-AP Mirpur DOHS Digital Network, BD
 140540	SNIKB-AS-AP SnikB Technologies, IN
+140541	MSOPTIMA-AS-AP Optima, BD
+140542	CCT-AS-AP CCT Technologies Co., Limited, HK
+140543	READYDEDIS-AS-AP ReadyDedis, LLC, IN
 196608	INTERNIC2, DE
 196609	PCS, DE
 196610	DECIX-ACADEMY DE-CIX Academy Educational Network, DE
@@ -79018,12 +79100,14 @@
 205632	MARS, DE
 205633	CAMULTISERVICES-AS, FR
 205634	TOFU-NETWORK, DE
+205635	CNG, CH
 205636	ASN-NEWNIX, IT
 205637	VRI, NL
 205638	TINKOFF-AS, RU
 205639	TELSYS-NORWAY, NO
 205640	AS-TNET, UZ
 205641	ELCOM-AS, RU
+205642	JUSTINGERHARDT, CA
 205643	CENTINSUR, IR
 205644	FIBER01-WOERDEN-AS, NL
 205645	MESWIFI, ES
@@ -79050,6 +79134,7 @@
 205666	SWS-AS, DE
 205667	NARXOZ-AS, KZ
 205668	GREENMINIHOST, NL
+205669	RESEL, FR
 205670	AXEOS, NL
 205671	MAIN, PL
 205672	DEYMA, RU
@@ -79094,6 +79179,7 @@
 205711	CHLS-AS, RU
 205712	ASN-PARALLELS, RU
 205713	PL-PEP-AS, PL
+205714	TELE2, HR
 205715	AS-FITELNETWORK, ES
 205716	ADL, IT
 205717	VASH_DOHOD-AS, RU
@@ -79102,6 +79188,7 @@
 205720	MALTAT, RU
 205721	NETS-PROD-, DK
 205722	AMINIDC, IR
+205723	MSYS-CH1, CH
 205724	TSB-AS T.S.BOHEMIA a.s., CZ
 205725	SELCUKECZAHOLDING, TR
 205726	VUSAM, NL
@@ -79152,9 +79239,12 @@
 205771	IBM-UK-ICDS-AS, GB
 205772	DIGIBET-AS, RU
 205773	TELECOM-SERVICE-AS, RU
+205774	TONET, HR
 205775	ASEVERBIT, ES
 205776	VISUALCOMP-AS, PL
 205777	THOMASGLASS, FR
+205778	FADAM, FR
+205779	ALFALINE-AS, PL
 205780	EQUATE, KW
 205781	CITYLAN-KRASNODAR-AS, RU
 205782	TUBITAK-UME-AS, TR
@@ -79177,6 +79267,7 @@
 205799	GCASNUM, GB
 205800	STEPS-TELECOM-AS, IQ
 205801	SYNALABS, FR
+205802	DAILYTELECOM, US
 205803	EUROFUNK, AT
 205804	DELTAV, GB
 205805	VATTENFALLVIND, DK
@@ -79188,6 +79279,7 @@
 205811	SFM-POP, DE
 205812	FABIEN, BE
 205813	MONTMAY, PL
+205814	KIRMIZIHOSTING, TR
 205815	SIX, CH
 205816	ELIEELKAIM, FR
 205817	TECHNICOLOR-AS, GB
@@ -81139,7 +81231,7 @@
 207763	CAMPIONLABS, ES
 207764	KEKSBG, IT
 207765	TRANSIT-NETWORKS-LIMITED, GB
-207766	NEXOPIPE-AS SquareFlow Network Ltd, GB
+207766	SPUTNET-AS SquareFlow Network Ltd, GB
 207767	AS_FERMORITE, GR
 207768	NETEXPLORER-, FR
 207769	TAIF-AS, RU
@@ -83958,7 +84050,7 @@
 262406	MELFINET - National Telecom SCM Ltda, BR
 262407	RAPIDANET TELECOM LTDA, BR
 262408	CEPAIN TELECOM, BR
-262409	CONNECTI SERVICOS DE COMUNICACAO LTDA, BR
+262409	CONNECTI SERVICOS DE COMUNICACAO EIRELI, BR
 262411	Force Telecom Ltda, BR
 262412	Falkland Tecnologia em Telecomunicações SA, BR
 262413	Intertrade Brasil, Telecomunicações, Multimídia e, BR
@@ -86435,7 +86527,7 @@
 264960	R L GUIMARAES TELECOMUNICACAO - ME, BR
 264961	WebNet ., BR
 264962	VOLTEC SERVIÇO DE AUTOMAÇÃO TELECOM ..., BR
-264963	Conecta Link, BR
+264963	ConectaLink Telecomunicações, BR
 264964	REDE PLANETA INTERNET WIRELESS LTDA ME, BR
 264965	R PARMIGIANI COMERCIO DE INFORMATICA LTDA, BR
 264966	UNDERCORP TELECOM LTDA., BR
@@ -91761,6 +91853,11 @@
 270592	new core tecnologia e informatica eirelli, BR
 270593	CORREIA & CIA LTDA - EPP, BR
 270594	ITALY NETWORK COM. E SERV. DE TELECOMUNICACOES LTD, BR
+270595	V S DO PATROCINIO PROVEDOR DE INTERNET, BR
+270596	Rafael Olegario Silva De Lima Servico De Comunicac, BR
+270597	ONIUQA INFORMATICA LTDA ME, BR
+270598	FUSION INTERNET WIFI LTDA, BR
+270599	MAIS MEGA TELECOM LTDA, BR
 327683	POSIX-AFRICA, ZA
 327684	ipartners, NG
 327685	MXIT-LIFESTYLE, MU
@@ -92692,6 +92789,7 @@
 328632	RTS-Net, ZA
 328633	MikroTikSA-Networks, ZA
 328634	Finance-Trust-Bank, UG
+328635	AIGF, CI
 328680	-Reserved AS-, ZZ
 328681	-Reserved AS-, ZZ
 328682	-Reserved AS-, ZZ
@@ -97765,6 +97863,10 @@
 398276	ORGANON, US
 398277	AS, US
 398278	ITI-FW-DC, US
+398279	KITCHELL-CORP, US
+398280	SYSTEMVERSE-ARIN-01, US
+398281	NMLLC-01, US
+398282	SUPPLYHQ-INET, US
 399258	AS-JL-04, US
 399259	AS399259, US
 399260	C1CX-PA, US
