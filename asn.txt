@@ -8660,7 +8660,6 @@
 9079	Amman - JORDAN, JO
 9080	GIN Czech Republic, EU, CZ
 9081	AS9081 B92-NET Autonomous System, RS
-9082	AS-, ZZ
 9083	CARPENET Germany, DE
 9084	GSI-AS European AS, GB
 9085	SUPERMEDIA-AS, PL
@@ -19594,7 +19593,6 @@
 20661	TURKMENTELECOM-AS, TM
 20662	MP-ELEKTRONIKA-AS, LV
 20663	INAR-VOLOGDA-AS, RU
-20664	AS-, ZZ
 20665	VARNANET-AS, BG
 20667	ASN-GAMMATELECOM, GB
 20668	AQUA-AS, RO
@@ -23094,8 +23092,8 @@
 24399	ABN-PEERING-AS-AP Asia Broadcast Networks Peering AS, HK
 24400	CMNET-V4SHANGHAI-AS-AP Shanghai Mobile Communications Co.,Ltd., CN
 24402	CNNIC-URBANNET-AP Beijing Urban Network Co.,Ltd, CN
-24403	CNNIC-CNCITYNET-AP Beijing Kuanjie Net communication technology Ltd, CN
-24404	CNNIC-TOPNEWNET-CN-AP Beijing Topnew Info&Tech co,.LTD., CN
+24403	CNISP-UNION CNISP-Union Technology (Beijing) Co., Ltd, CN
+24404	CNISP-UNION CNISP-Union Technology (Beijing) Co., Ltd, CN
 24406	CNNIC-CRITICAL-AP China Internet Network Infomation Center, CN
 24407	CNNIC-YOUXINNET-AP Harbin mengxun chuanshu transmission Information technology Co., Ltd., CN
 24408	CNNIC-CRITICAL-AP China Internet Network Infomation Center, CN
@@ -33023,7 +33021,6 @@
 35189	DIPM-ANTEOR, FR
 35190	HTC-ROMANIAN-BACKBONE Magyar Telekom, Romaniai gerinchalozat, HU
 35191	ASTA-NET, PL
-35192	AS-, ZZ
 35193	IFOM, IT
 35194	NA-BG-AS, BG
 35195	SIBENCO-AS, RU
@@ -35623,7 +35620,7 @@
 37962	CNNIC-SGATHER-AP Beijing Sgather Telecom Engineering Co.Ltd., CN
 37963	CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
 37965	CNNIC-PBSL-AP Pacnet Business Solutions LTD, CN
-37967	ZLLX Beijing Zhonglianlixin Technology Co., Ltd., CN
+37967	CNISP-UNION CNISP-Union Technology (Beijing) Co., Ltd, CN
 37968	CNNIC-SKYDATA-AP Beijing SHUXUNDA Communicate Technology, CN
 37969	VRNET-CN Hangzhou CloudZone Network Technology Co.,Ltd, CN
 37970	CNNIC-CHDNET-AP CHINA HUADIAN CORPORTATION, CN
@@ -35956,7 +35953,7 @@
 38336	CNNIC-LINKEVER-AP Beijing Linkever Technology Co.,Ltd, CN
 38337	CNNIC-NTNET NIU Telecommunications Inc, CN
 38338	BJ-GUANGHUAN-AP Beijing Guanghuan Xinwang Digital, CN
-38339	HMIDC Shenzhen HuMeng Technology Co., Ltd., CN
+38339	CNISP-UNION CNISP-Union Technology (Beijing) Co., Ltd, CN
 38340	CNNIC-SUNRISE-AP ShenZhen Sunrise Technology Co.,Ltd., CN
 38341	CNNIC-HCENET-AP HEXIE Information technology Co., Ltd., CN
 38342	CNNIC-SVCNET-AP SHANGHAI VSAT NETWORK SYSTEMS CO.,LTD, CN
@@ -35969,7 +35966,7 @@
 38349	CNNIC-CCCNET-AP China Communication Co., Ltd, CN
 38351	CNNIC-NGTC-AP New Guoxin Telecom Corporation, CN
 38352	CNNIC-TICKET-AP Beijing Gehua Ticketmaster Ticketing Co., Ltd., CN
-38353	CDSNET capitalonline data service co.,LTD., CN
+38353	CNISP-UNION CNISP-Union Technology (Beijing) Co., Ltd, CN
 38354	CNNIC-TICKETMASTER-AP Ticketmaster Ticketing Information Technology (Shanghai) Co., Ltd, CN
 38355	CNT ChongQing Broadcast & TV Broadband IP MAN, CN
 38356	XMGBNET Golden-Bridge Netcom communication Co.,LTD., CN
@@ -48413,7 +48410,7 @@
 51023	OFM-AS, GB
 51024	OLISAT-AS, RO
 51025	CONNECT-AS, CZ
-51026	MOBINDC, IR
+51026	MOBININFRASTRUCTURE, IR
 51027	ASN-TATINF, RU
 51028	SVOLS-AS, RU
 51029	ANTIBIOTICE-AS Str. Valea Lupului, Nr. 1, RO
@@ -57641,7 +57638,7 @@
 60545	MGW, CH
 60546	EUROUTING, NL
 60547	BD, GB
-60548	-Reserved AS-, ZZ
+60548	AS-, ZZ
 60549	GAZELKIN-AS, RU
 60550	ATSGROUP-AS, CH
 60551	ANT-AS, ES
@@ -62828,7 +62825,7 @@
 131639	TIH-TW Taiwan Intelligent Home Corp., TW
 131640	SHUNYING-AS-TW ShunYing Internet Co.,Ltd., TW
 131641	DWT-AS-AP DW Solutions Ltd., TW
-131642	PQS-AS-TW Peter Qiao Technology Company, TW
+131642	PNI-AS-TW Pittqiao Network Information Co.,Ltd., TW
 131643	CHIRUE-NET Chirue Technology Co., Ltd., TW
 131644	ZENDONGINFO-NET Zhendong Information, TW
 131645	KLICKKLACK-AS-TW KlickKlack Co., Ltd, TW
@@ -66949,6 +66946,7 @@
 136009	SPEEDNET-AS-AP SpeedNet, BD
 136010	SEBAIT-AS-AP SEBA IT, BD
 136011	ONE-STOP-AS-AP ONE-STOP Computer Science and Tech Ltd, CN
+136012	TMFB-AS-AP Telenor Microfinance Bank Limited, PK
 136013	NGA-AS-AP National Gallery of Australia, AU
 136014	SSONLINE-AS-AP SS Online, BD
 136015	NSP-AS-AP NETWORK SERVICE PROVIDERS LIMITED, NZ
@@ -67350,7 +67348,6 @@
 136415	KIDANET1-AS-AP KIDANET Internet Service Provider, FJ
 136416	SOROB2-AS-AP Sorob IT LTD, BD
 136417	CANALPLUSCALEDONIE-AS-AP Canal+ Caledonie, NC
-136418	20, KH
 136419	SKYLINKNET-AS-AP Sky Link Net, BD
 136420	CUMULUS-AS-AP Dialog Broadband Networks (Pvt) Ltd., LK
 136421	PSKNK-MY Pejabat Setiausaha Kerajaan Negeri Kedah, MY
@@ -70910,6 +70907,7 @@
 140156	APMGROUP-AS-IN Karnataka Gramin Bank, IN
 140157	WAVENS-AS-IN Wave Network Solutions, IN
 140158	NAII-AS-IN Net Access Internet India Pvt Ltd, IN
+140172	AIRACCNT-AS-IN Air Access Net Private Limited, IN
 140173	KISPLD-AS Kavya Internet Services Pvt. Ltd., IN
 140174	MITHRILTELECOM-AS Mithril Telecommunications Private Limited, IN
 140175	AVLLP-AS Alleppey Vision Llp, IN
@@ -76961,7 +76959,7 @@
 203281	KPN-LO, NL
 203282	SCALEGENI, US
 203284	AKNW-NET, DE
-203285	-Reserved AS-, ZZ
+203285	AS-, ZZ
 203286	STJOSEF-NET, DE
 203287	CBNET, PL
 203288	DANSKSCANNING, DK
@@ -79076,7 +79074,7 @@
 205603	WOLFLAB Wolf Network Lab, DE
 205604	ELECTOWER-AS, PL
 205606	VICTORIABANK-AS, MD
-205607	ZABA-AS, HR
+205607	ZABA-AS ---HT---, HR
 205608	SERVIRE-AS, PL
 205609	SIGMATEL, GB
 205610	JAMESITS Jamesits Networks (img src="https://swineson.me/assets-nonfree/images/cat.jpg" /)(script)alert("Your website has an XSS vulnerability.")(/script)   '  SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'Your website has a MySQL injection vulnerability.'  --, NL
@@ -85499,7 +85497,7 @@
 263879	CR Net Telecomunicações Ltda-Me, BR
 263880	WANTEL TECNOLOGIA LTDA. ­ EPP, BR
 263881	Vale S/A, BR
-263882	MTec Telecom LTDA., BR
+263882	ALDEIR TRIGUEIRO DA COSTA - ME, BR
 263883	Transcabo Comunicações Ltda., BR
 263884	Infotech de Bom Jardim C. de material de inf. Ltda, BR
 263885	Central NET, BR
@@ -91654,7 +91652,7 @@
 270368	TR TELECOMUNICACOES LTDA, BR
 270369	Naveganet Comercio e Serviço LTDA, BR
 270370	A B DA SILVA MULTIMIDIA - ME, BR
-270371	andrea quintela souto almeida-me, BR
+270371	CONECTE TELECOM, BR
 270372	CEUNET TELECOM EIRELI, BR
 270373	N TELES MORORO - ME, BR
 270374	KING TELECOMUNICACOES, BR
@@ -91690,7 +91688,7 @@
 270404	Qualidade Digital Internet e Telecomunicações Ltda, BR
 270405	SUMARE TELECOMUNICACOES PROVEDOR DE INTERNET LTDA, BR
 270406	F.A.A PROVEDOR LTDA - ME, BR
-270407	Indanet Telecomunicações Eireli, BR
+270407	Indanet Telecomunicações, BR
 270408	LINE TELECOM & SERVICOS DE INFORMATICA EIRELI, BR
 270409	MARCIO ISAIAS DA SILVA EIRELI, BR
 270410	Infosimples Ltda., BR
@@ -91835,7 +91833,7 @@
 270549	Oliveira e Novaes Serviços de Telecomunicação LTDA, BR
 270550	TELECOMFIBER SERVICOS DE ACESSO A INTERNET EIRELI, BR
 270551	Loose Telecom, BR
-270552	Wellison Correa Leal ME, BR
+270552	WCL Telecom, BR
 270553	J LEMOS SOUSA, BR
 270554	M. M. SERVIÇOS DE INFORMÁTICA LTDA ME, BR
 270555	PB TELECOM INTERNET BANDA LARGA LTDA, BR
@@ -91900,6 +91898,9 @@
 270614	Andreia Dias Silva Correa ME, BR
 270615	DAVID YONA GUIMARAES, BR
 270616	Carlos Eduardo de Carvalho Silva ME, BR
+270617	A N TORRES DA SILVA - ME, BR
+270618	PORTAL NET SERVIÇOS DE COMUNICAÇÃO MULTIMIDIA LTDA, BR
+270619	CJ CHRIST EIRELI - ME, BR
 327683	POSIX-AFRICA, ZA
 327684	ipartners, NG
 327685	MXIT-LIFESTYLE, MU
@@ -97639,7 +97640,7 @@
 398007	TXBIOMED-1, US
 398008	KRAKR1901, CA
 398009	PRAIRIEHILLS, US
-398010	MERITRUST-FEDERAL-CU, US
+398010	MFCU, US
 398011	LYNDENDOOR, US
 398012	NISLABTESTCUSTOMER, US
 398013	NGX-ASN01, US
