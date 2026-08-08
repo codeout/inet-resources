@@ -8055,7 +8055,7 @@
 8608	QINIP - Ziggo Services B.V., NL
 8609	UNSPECIFIED - Universidade Catolica Portuguesa, PT
 8611	UNSPECIFIED - Athens University of Economics and Business, GR
-8612	TISCALI-IT - Tiscali Italia S.P.A., IT
+8612	TISCALI-IT - Smeraldo S.p.A., IT
 8613	Wavenet-AS8613 - Wavenet Limited, GB
 8614	ITC-AS - ITC Institutul Pentru Tehnica De Calcul SA, RO
 8615	CNT-AS - "Central Telegraph" Public Joint-stock Company, RU
@@ -18737,7 +18737,6 @@
 20494	IPY-AS - Kaisanet Oy, FI
 20495	WEDARE - We Dare B.V., NL
 20497	INTERNIO-AS - INTERNIO SYSTEMS SRL, RO
-20499	IPC-AS-NONE - IP Connect LLC, RU
 20500	GRIFFIN - GTT - EMEA Ltd., GB
 20501	UNSPECIFIED - BANQUE DE LUXEMBOURG SA, LU
 20504	RTL-AS - RTL Nederland B.V., NL
@@ -22718,7 +22717,6 @@
 25194	GLAVERBEL-AS - AGC Glass Europe, BE
 25198	ZetServers - INTERKVM HOST SRL, RO
 25199	UA-RELOAD - Kvempeks LLC, UA
-25201	PCB-AS - Peder Christian Bach, NO
 25202	IRPOST-GOLESTAN - IRPOST-SISVBAL, IR
 25203	SIMFINET-AS - Inkom Plus Ltd., RU
 25206	UNACS-AS-BG - Unacs - Yuri Jordanov Ltd., BG
@@ -27021,7 +27019,6 @@
 30213	CHARTER-30213-NA - Charter Communications LLC, US
 30214	AS-IRONP-CASP - Cisco Systems Ironport Division, US
 30215	AS-CISCOHPS-APAC - Cisco Systems Ironport Division, US
-30216	STARMAX - StarMax Corporation, US
 30217	DESYNC - Desync Networks, US
 30218	ACE-002 - Ace Data Centers II, L.L.C., US
 30219	MLB-ADVANCED-MEDIA - Major League Baseball Advanced Media, LP, US
@@ -27710,7 +27707,7 @@
 31028	NOVOE-KTV-AS - Novoe Kabelnoe Television Ltd., RU
 31029	M-REAL - M-REAL NET Ltd., BG
 31030	ASCORONA - Roman Hochuli, CH
-31032	CALL-CENTER-POLAND-AS - CCIG Group Sp. z o.o, PL
+31032	CCIG-AS - CCIG Group Sp. z o.o, PL
 31033	INVESTNET-AS - Intesa Sanpaolo S.p.A., IT
 31034	ARUBA-ASN - Aruba S.p.A., IT
 31035	ADVAIXUA-AS - ADVAIX TELECOM LLC, UA
@@ -29124,7 +29121,7 @@
 32721	WESBANCO - WesBanco Bank, Inc., US
 32722	BTLAW - Barnes & Thornburg, US
 32723	ARCHTOP-FIBER - Archtop Fiber, US
-32724	WEST-B2B-OMA - West Technology Group, LLC, US
+32724	TMN-SA - TMN SA, CH
 32725	WEST-B2B-SAT01 - West Technology Group, LLC, US
 32726	LIBERTY - Liberty University, US
 32727	SB - SB Professional Services, US
@@ -30806,7 +30803,6 @@
 34723	RNT-AS - Real Network and Tel SRL, RO
 34724	BAULINK-AS - BAU NETWORKS DOO TORNJOS, RS
 34727	IPEFIX - IPEFIX SARL, FR
-34728	Cinven - Cinven Services Limited, GB
 34729	SILBERAUTO - Veho Baltics OU, EE
 34730	BGK-AS - Bank Gospodarstwa Krajowego, PL
 34731	ARCHIMEDIA-AS - Archimedia SRL, IT
@@ -37906,7 +37902,7 @@
 43170	ATES-AS - ATES LLC, RU
 43171	MAXNET - Lukasz Rafal Hamerski trading as Maxnet, PL
 43172	GDPL-GDYNIA-AS - GDPL-GDYNIA-AS, PL
-43173	AIUT-AS - AIUT Sp. z o.o., PL
+43173	AIUT-AS - AIUT S.A., PL
 43174	NOVELCOM-AS - NOVELCOM SARL, FR
 43175	LUXNET-AS - LUX.NET, LLC, UA
 43178	TECHNOLABS - Technolabs Networks Ltd., GB
@@ -42657,7 +42653,7 @@
 48574	ASN-CZ-PLANET-A-48574 - T-Mobile Czech Republic a.s., CZ
 48576	risch - Dr. Risch AG, LI
 48577	ASN-BandaBlu-ExHygie - PSA S.r.l., IT
-48578	VSEVTYRES-AS - Nokian Tyres LTD, RU
+48578	VSEVTYRES-AS - Ikon Tyres LTD, RU
 48579	ELASTX - ELASTX AB, SE
 48580	JKP_Informatika - JKP INFORMATIKA NOVI SAD, RS
 48582	ngena-nw - ngena GmbH, DE
@@ -50989,7 +50985,7 @@
 57919	ASWICOM - Wicom Ltd., RU
 57920	UNDERNET-ANYCAST - Brillant Auto Kft., HU
 57921	IRGITNET - Towarowa Gielda Energii S.A, PL
-57922	VIRTARA-Group - Virtara Group Bilisim Teknolojileri Ticaret Limited Sirketi, TR
+57922	VIRTARA-Group - Virtara Teknoloji Limited Sirketi, TR
 57923	DYMOV-AS - DYMOV-AS, RU
 57925	NIC-AS - NIC.UA LLC, UA
 57926	SAFEDNS-AS - SafeDNS, Inc., US
@@ -58043,6 +58039,7 @@
 132364	TEC-HK - Level 16, Nexxus Buildings, HK
 132365	BangladeshAgriculturalUniversity-AS-AP - Bangladesh Agricultural University (BAU), BD
 132366	ALFAZNETWORK-AS-AP - Alfaz Network, BD
+132367	AIRTEKNETWORK-AS-AP - Airtek Network Solutions Corp, PH
 132368	AUDATEXCOMAU-AS-AP - AUDATEX AUSTRALIA PTY LTD, AU
 132369	XIANGAO-AS-AP - XIANGAO INTERNATIONAL TELECOMMUNICATION LIMITED, HK
 132370	CIVICA-NET6-AS-AP - Civica Pty Limited, AU
@@ -80218,6 +80215,7 @@
 154807	ONLINE1S-VN - 1-Second Online Technology Joint Stock Company, VN
 154808	IRINN-XTPL-AS-IN - XPPONET TECHNOLOGIES PRIVATE LIMITED, IN
 154810	CLOUDMEDIA-VN - CLOUDMEDIA COMPANY LIMITED, VN
+154811	ZTABOXLIMITED-AS-AP - ZTABOX LIMITED, HK
 196608	INTERNIC2 - INTERNET AG Global Network, DE
 196609	PCS - PCS Professional Communication Systems GmbH, DE
 196610	DECIX-Academy - DE-CIX Management GmbH, DE
@@ -80830,7 +80828,6 @@
 197416	TALPAS-SI-AS - TALPAS-SI-AS, SI
 197417	Devoro - UAB Devoro, LT
 197418	NET-KONTAKT-AS - NET-KONT@KT P. Janicki i M. Pastuszka S.C., PL
-197419	IISS - International Institute For Strategic Studies, GB
 197420	Luzanov_Anton_Aleksandrovich - IE Luzanov Anton Aleksandrovich, RU
 197421	Bawabet-AL-Manama - Bawabet Al Manama Company for General Trading and Supply and Install Camera Systems, Internet and Communication Services Ltd., IQ
 197422	TETANEUTRAL-NET-AS - Tetaneutral.net Association declaree, FR
@@ -85673,7 +85670,6 @@
 202429	RIO - Roedl IT Operation GmbH, DE
 202430	alarislabs - Alarislabs Pte Ltd, SG
 202431	MGSP-AS - M.G. System Sp. z o.o., PL
-202432	AS202432 - IT Service Profit OOO, RU
 202433	Acenet - Acenet sh.p.k., AL
 202434	ZIBED-AS - Dariusz Zietara trading as Zibed, PL
 202435	hyatt-de-corp - Hyatt Services GmbH, DE
@@ -89329,7 +89325,6 @@
 206221	ERA-IX-AMSTERDAM - Eranium B.V., NL
 206222	duemilanet - 2000net srl, IT
 206223	Teledyne-UK - Teledyne Limited, GB
-206224	SERVERJET-AS - Servernyi Rezerv LLC, RU
 206225	UPU - Union Postale Universelle, CH
 206226	LITTLEORBIT - Little Orbit Inc., US
 206227	DEEPSTONE - Deepstone S.R.L, IT
@@ -90616,7 +90611,6 @@
 207562	ZOLBIZZ - ZOLBIZZ vzw, BE
 207563	POSEIDON - Poseidon Laboratories LLC, US
 207564	AS207564 - Anders Hansen, NO
-207565	starlink - STARLINK for the Supply & Services of Telecommunication & Internet Co. LTD / Private Company, IQ
 207566	LD007-AS - Chang Way Technologies Co. Limited, HK
 207567	INTEZIONET-AS - Intezio Worldwide Limited, GB
 207568	teleone - Teleone OU, EE
@@ -91464,7 +91458,7 @@
 208468	ALBIANT-IT - BPCE S.A., FR
 208469	AS_7L_01 - 7Layers S.r.l., IT
 208470	SWG-AG - Stadtwerke Goerlitz AG, DE
-208471	VKNETS-AS - Ville Ketola Nilsson, SE
+208471	VKNets - Ville Ketola Nilsson, SE
 208472	SDB - Social Development Bank, SA
 208473	ASN-furrera - Furrera For Telecommunication & Internet Services Co. Private Shareholding Company, PS
 208474	EMCHomeOfData - EMC Home of Data GmbH, DE
@@ -92794,7 +92788,7 @@
 209863	PROLVL-AS - PROLVL Ltd., UA
 209864	NAIVE-NETWORK - Zhaofeng Li, US
 209865	ASLRM2 - ASL Roma 2, IT
-209866	VORT - Piotr Macha, PL
+209866	VORT - Piotr Macha trading as Vort Cloud, PL
 209867	SCORPION-NET - LLC Security Agency "Scorpion", RU
 209868	Contrust-Solutions - Contrust Solutions S.R.L., MD
 209869	OLLIES_CLOUD - Ollie's Cloud LTD, GB
@@ -96717,7 +96711,6 @@
 214058	ASN-CCI - COCA-COLA ICECEK ANONIM SIRKETI, TR
 214059	Czimer-kft - Czimer Kft, HU
 214060	SEABIX - Daetwyler IT Infra AG, CH
-214061	SECURESHIELD - SECURESHIELD SOLUTIONS LLC, US
 214062	ITITANHOSTING - ITITAN HOSTING SOLUTIONS SRL, RO
 214063	SBISDEV-AS - Data Center LLC, RU
 214064	Kevin-Titmarsh - Kevin Titmarsh, GB
@@ -96939,7 +96932,7 @@
 214296	Betatel - BETATEL LTD, BG
 214297	eurekosigorta - Eureko Sigorta A.S., TR
 214298	DATAPLEX - DATAPLEX SA, GR
-214299	VORTCLOUD - GeekCloud Sp. z o.o., PL
+214299	GEEKCLOUD - GeekCloud Sp. z o.o., PL
 214300	Layer4-Group - Layer 4 Group LLC, US
 214301	STILLCO-AS - STILL-C.O. SRL, RO
 214302	AS-LOOMIS - Loomis AB, SE
@@ -97803,7 +97796,7 @@
 215296	LOWPING-NL - Raoul Brouns is trading as LowPing NL, NL
 215297	XOR - Bitriot LLC, US
 215298	ENTE_PUBLICO_DE_RADIOTELEVISION_DE_LES_ILLES_BALEARS - ENTE PUBLICO DE RADIOTELEVISION DE LES ILLES BALEARS, ES
-215299	HARBERSASP - Harbers ASP B.V., NL
+215299	HARBERSASP - Harbers Group B.V., NL
 215300	GLOBALLAYER-SA - Global Layer B.V., NL
 215301	OSBA - WILLEM KRANENDONK, NL
 215302	TecsGroup-AS - TecsGroup Ltd, RU
@@ -98876,6 +98869,17 @@
 216473	net-host - Bashinskii Vadim Ruslanovich, KZ
 216474	AS-SERVERMANAGEMENTPANEL - Moritz Mantel trading as Nerdscave, DE
 216475	nktelecom - NKtelecom INC, US
+219038	NUBEX - NUBEX CLOUD OU, EE
+219039	VPN-RISKONAUT-ORG - Riskonaut Group ApS, DK
+219040	BREEZENODES-AS - Breezenodes Ltd, GB
+219041	DC - 3C1B Telekomunikasyon ve Internet Hiz. San. ve Tic. A.S., TR
+219042	SECURITYTRUST-AS - SECURITY TRUST.IT S.R.L., IT
+219043	JOSEPH-BERNARD-BUITEWEG - Joseph Bernard Buiteweg, US
+219044	spikatel - Spikatel Ltd, RU
+219045	Triangle-International - Triangle International LLC, US
+219046	LIUSHANG-AS - Shanghai Liushang Technology Co.,Ltd., CN
+219047	HongKong-Sparkling - HongKong Sparkling Limited, HK
+219048	SUN-IT-SOLUTIONS - Sachin Kothawade trading as SUN IT SOLUTIONS, IN
 219049	NEBOSYSTEMS - NEBOSYSTEMS EOOD, BG
 219050	TERAFLOW - Teraflow LLC, US
 219051	XND-NET - X Next Digital LLC, US
@@ -99235,7 +99239,7 @@
 219407	RU-Transit - German Khanin, RU
 219408	NetPlus-AS - Net Plus d.o.o., BA
 219409	TRINITY - Trinity Digital Limited, HK
-219410	KINGSTAR-AS - Kingstar(HK)Technology Limited, HK
+219410	KINGSTAR-COMMUNICATION-NETWORK - Kingstar(HK)Technology Limited, HK
 219411	KeyArg - Key Arg B.V., NL
 219412	Oxiwave-Internet - Lewis Brown, GB
 219413	ServiceCom-AS - ServiceCom Ltd., RU
@@ -109820,7 +109824,6 @@
 274174	AS274174 - WAN CONECTA PERU S.A.C., PE
 274175	AS274175 - COOPERATIVA TELEFONICA Y OTROS SERVICIOS CORONEL DU GRATY LIMITADA, AR
 274176	AS274176 - CHICAIZA NAULA MARIA UMBELINA (Mega Compu ISP), EC
-274177	AS274177 - TELECOMUNICACIONES ORION LIMITADA, CL
 274178	AS274178 - CORPORACION PV NETWORKS S.A.C., PE
 274179	AS274179 - CONEXIONES OCANEY E.I.R.L, PE
 274180	AS274180 - SOFTELINET SOLUCIONES TECNOLOGICAS, C.A., VE
@@ -110804,6 +110807,7 @@
 275815	AS275815 - BRBSR2, BR
 275816	AS275816 - ZHTUR, BR
 275817	AS275817 - JRSNA39, BR
+275818	AS275818 - MVBBO9, BR
 327683	Posix Systems (Pty) Ltd - Posix Systems (Pty) Ltd, ZA
 327684	IPARTNERS LIMITED - IPARTNERS LIMITED, NG
 327685	RAIN GROUP HOLDINGS (PTY) LTD - RAIN GROUP HOLDINGS (PTY) LTD, ZA
@@ -121153,7 +121157,6 @@
 402008	L7CORE-L7AS01 - L7CORE, LLC, US
 402009	CCN-COMMUNICATIONS - Chemawawin Cree Nation, CA
 402010	EGRESSIF - Egressif LLC, US
-402011	AS-NETOMAT - Netomat LLC, US
 402012	ASU-NEWPORT-AS - Arkansas State University, US
 402013	ASU-MIDSOUTH-AS - Arkansas State University, US
 402014	ASU-MOUNTAIN-HOME-AS - Arkansas State University, US
@@ -122006,3 +122009,36 @@
 402864	SLATEIT-CORE - SlateIT, US
 402865	PCACGL - Pioneer, US
 402866	PTGGL - Pioneer, US
+402867	GENESYS-CLOUD-00 - Genesys, US
+402868	GENESYS-CLOUD-00 - Genesys, US
+402869	GENESYS-CLOUD-00 - Genesys, US
+402870	GENESYS-CLOUD-00 - Genesys, US
+402871	GENESYS-CLOUD-00 - Genesys, US
+402872	GENESYS-CLOUD-00 - Genesys, US
+402873	GENESYS-CLOUD-00 - Genesys, US
+402874	GENESYS-CLOUD-00 - Genesys, US
+402875	GENESYS-CLOUD-00 - Genesys, US
+402876	GENESYS-CLOUD-00 - Genesys, US
+402877	GENESYS-CLOUD-00 - Genesys, US
+402878	GENESYS-CLOUD-00 - Genesys, US
+402879	GENESYS-CLOUD-00 - Genesys, US
+402880	GENESYS-CLOUD-00 - Genesys, US
+402881	GENESYS-CLOUD-00 - Genesys, US
+402882	GENESYS-CLOUD-00 - Genesys, US
+402883	GENESYS-CLOUD-00 - Genesys, US
+402884	GENESYS-CLOUD-00 - Genesys, US
+402885	GENESYS-CLOUD-00 - Genesys, US
+402886	GENESYS-CLOUD-00 - Genesys, US
+402887	GENESYS-CLOUD-00 - Genesys, US
+402888	GENESYS-CLOUD-00 - Genesys, US
+402889	GENESYS-CLOUD-00 - Genesys, US
+402890	GENESYS-CLOUD-00 - Genesys, US
+402891	GENESYS-CLOUD-00 - Genesys, US
+402892	GENESYS-CLOUD-00 - Genesys, US
+402893	GENESYS-CLOUD-00 - Genesys, US
+402894	GENESYS-CLOUD-00 - Genesys, US
+402895	GENESYS-CLOUD-00 - Genesys, US
+402896	GENESYS-CLOUD-00 - Genesys, US
+402897	CKSVC-01 - CK, US
+402898	PPFLIGHT - ppflight, US
+402899	PTLHL - Prestige, US
