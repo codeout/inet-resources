@@ -48278,18 +48278,6 @@ D87602     (base 16)		NXJ INC.
 				Santa Clara  CA  95054
 				US
 
-C4-4B-31   (hex)		Cisco Systems, Inc
-C44B31     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose   CA  94568
-				US
-
-50-44-72   (hex)		Motorola Mobility LLC, a Lenovo Company
-504472     (base 16)		Motorola Mobility LLC, a Lenovo Company
-				222 West Merchandise Mart Plaza
-				Chicago  IL  60654
-				US
-
 C4-58-78   (hex)		AltoBeam Inc.
 C45878     (base 16)		AltoBeam Inc.
 				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
@@ -48301,6 +48289,24 @@ EC8306     (base 16)		GooWi Wireless Technology Co., Limited
 				RM1601 East CreativeTech Plaza II, Tianan Digital Tech, Futian District 
 				Shenzhen  Guangdong  518000
 				CN
+
+50-44-72   (hex)		Motorola Mobility LLC, a Lenovo Company
+504472     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
+
+68-24-F9   (hex)		VIOLET AUDIO PTE. LTD.
+6824F9     (base 16)		VIOLET AUDIO PTE. LTD.
+				68 CIRCULAR ROAD, #02-01
+				SINGAPORE  Singapore  049422
+				SG
+
+C4-4B-31   (hex)		Cisco Systems, Inc
+C44B31     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
@@ -95669,11 +95675,11 @@ CCAA00     (base 16)		Microsoft Corporation
 				Kanata  Ontario  K2K 2E6
 				CA
 
-00-72-30   (hex)		Nordic Semiconductor ASA
-007230     (base 16)		Nordic Semiconductor ASA
-				Otto Nielsens veg 12
-				Trondheim    NO-7052
-				NO
+60-D1-5F   (hex)		Futurepath Technology(Shenzhen)Co.,Ltd.
+60D15F     (base 16)		Futurepath Technology(Shenzhen)Co.,Ltd.
+				Building E, Zhongke Valley, Zhonghuan AvenueShanxia Community, Pinghu Street, Longgang District
+				Shenzhen  Guangdong  518111
+				CN
 
 90-1D-FF   (hex)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
 901DFF     (base 16)		ZOWEE TECHNOLOGY(HEYUAN)Co.,Ltd
@@ -95681,17 +95687,29 @@ CCAA00     (base 16)		Microsoft Corporation
 				 Heyuan City  Guangdong Province  518100
 				CN
 
-44-BE-23   (hex)		PEGATRON CORPORATION
-44BE23     (base 16)		PEGATRON CORPORATION
-				No. 76, Ligong St., Beitou, Taipei ,Taiwan 
-				Taipei    112
-				TW
+BC-6C-96   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+BC6C96     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
+				6-8 Floor, Tower E3, No. 1001, Zhongshanyuan Road, Nanshan District, Shenzhen,China
+				Shenzhen    518052
+				CN
 
 CC-A8-23   (hex)		Silicon Laboratories
 CCA823     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
+
+44-BE-23   (hex)		PEGATRON CORPORATION
+44BE23     (base 16)		PEGATRON CORPORATION
+				No. 76, Ligong St., Beitou, Taipei ,Taiwan 
+				Taipei    112
+				TW
+
+00-72-30   (hex)		Nordic Semiconductor ASA
+007230     (base 16)		Nordic Semiconductor ASA
+				Otto Nielsens veg 12
+				Trondheim    NO-7052
+				NO
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143300,6 +143318,24 @@ EC33CC     (base 16)		Hewlett Packard Enterprise
 				Reutlingen  Baden-Wuerttemberg  72770
 				DE
 
+08-98-EF   (hex)		Shenzhen Taichi Technology Limited
+0898EF     (base 16)		Shenzhen Taichi Technology Limited
+				A1710, Nanshan Cloud Technology Building, Vanke Cloud City, Liuxin Third Street, Xili Community, Xili Street, Nanshan District, 
+				Shenzhen  Guangdong Province  518000
+				CN
+
+38-F2-5D   (hex)		Hangzhou Ezviz Software Co.,Ltd.
+38F25D     (base 16)		Hangzhou Ezviz Software Co.,Ltd.
+				17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District
+				Hangzhou  Zhejiang  310051
+				CN
+
+54-08-F1   (hex)		SHENZHENLINGDECHUANGTECHNOLOGY CO.,LTD
+5408F1     (base 16)		SHENZHENLINGDECHUANGTECHNOLOGY CO.,LTD
+				706, Building A, Ruziniu Building Bantian Street, Longgang District Shenzhen,China
+				Shenzhen,China  Guangdong  518129
+				CN
+
 50-BA-84   (hex)		Cisco Systems, Inc
 50BA84     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
@@ -143318,6 +143354,18 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				Chicago  IL  60654
 				US
 
+18-F0-55   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+18F055     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
+
+38-85-BB   (hex)		Commodore International Corporation
+3885BB     (base 16)		Commodore International Corporation
+				8 The Green, Ste A
+				Dover  DE  19901
+				US
+
 74-11-A0   (hex)		Nokia
 7411A0     (base 16)		Nokia
 				600 March Road
@@ -143329,30 +143377,6 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 				600 March Road
 				Kanata  Ontario  K2K 2E6
 				CA
-
-18-F0-55   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
-18F055     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
-				No.18, Ningshuang Road
-				 Nanjing  Jiangsu  210012
-				CN
-
-38-F2-5D   (hex)		Hangzhou Ezviz Software Co.,Ltd.
-38F25D     (base 16)		Hangzhou Ezviz Software Co.,Ltd.
-				17th Floor, Building D, No.188 Qizhi East Stree, Xixing Subdistrict, Binjiang District
-				Hangzhou  Zhejiang  310051
-				CN
-
-38-85-BB   (hex)		Commodore International Corporation
-3885BB     (base 16)		Commodore International Corporation
-				8 The Green, Ste A
-				Dover  DE  19901
-				US
-
-08-98-EF   (hex)		Shenzhen Taichi Technology Limited
-0898EF     (base 16)		Shenzhen Taichi Technology Limited
-				A1710, Nanshan Cloud Technology Building, Vanke Cloud City, Liuxin Third Street, Xili Community, Xili Street, Nanshan District, 
-				Shenzhen  Guangdong Province  518000
-				CN
 
 9C-64-A1   (hex)		Silicon Laboratories
 9C64A1     (base 16)		Silicon Laboratories
@@ -191621,6 +191645,12 @@ E84EBA     (base 16)		Google, Inc.
 				FORT COLLINS  CO  80524
 				US
 
+04-EC-A9   (hex)		IEEE Registration Authority
+04ECA9     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -239389,3 +239419,9 @@ FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				No. 211, Wenhua 2nd Rd., Guishan Dist.
 				Taoyuan City  Taiwan  33377
 				TW
+
+98-F3-64   (hex)		Yantai Dongfang Wisdom Elrctic Co.,Ltd.
+98F364     (base 16)		Yantai Dongfang Wisdom Elrctic Co.,Ltd.
+				6 Jindu Road Yantai, Shandong
+				Yantai  Shandong  264000
+				CN
