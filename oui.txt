@@ -48230,12 +48230,6 @@ AC40B5     (base 16)		Lumiva Inc.
 				Cupertino  CA  95014
 				US
 
-28-69-DA   (hex)		Moultrie Mobile
-2869DA     (base 16)		Moultrie Mobile
-				5724 Highway 280 East
-				Birmingham  AL  35242
-				US
-
 44-14-04   (hex)		eero inc.
 441404     (base 16)		eero inc.
 				660 3rd Street 
@@ -48306,6 +48300,18 @@ C4-4B-31   (hex)		Cisco Systems, Inc
 C44B31     (base 16)		Cisco Systems, Inc
 				80 West Tasman Drive
 				San Jose   CA  94568
+				US
+
+F8-34-E5   (hex)		vivo Mobile Communication Co., Ltd.
+F834E5     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+5C-A2-A2   (hex)		Texas Instruments
+5CA2A2     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
@@ -95710,6 +95716,18 @@ CCA823     (base 16)		Silicon Laboratories
 				Otto Nielsens veg 12
 				Trondheim    NO-7052
 				NO
+
+94-2A-D6   (hex)		Texas Instruments
+942AD6     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+E0-95-B3   (hex)		Texas Instruments
+E095B3     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -143382,6 +143400,36 @@ A42DF1     (base 16)		Motorola Mobility LLC, a Lenovo Company
 9C64A1     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
+				US
+
+B0-A5-B3   (hex)		Hewlett Packard Enterprise
+B0A5B3     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
+				US
+
+50-EE-B5   (hex)		Texas Instruments
+50EEB5     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+D8-F0-2F   (hex)		Texas Instruments
+D8F02F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+D8-1B-F4   (hex)		Texas Instruments
+D81BF4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
+
+18-14-F4   (hex)		Texas Instruments
+1814F4     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -191651,6 +191699,18 @@ E84EBA     (base 16)		Google, Inc.
 				Piscataway  NJ  08554
 				US
 
+28-D5-55   (hex)		vivo Mobile Communication Co., Ltd.
+28D555     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+98-A3-3C   (hex)		Shenzhen Cultraview Digital Technology Co., Ltd
+98A33C     (base 16)		Shenzhen Cultraview Digital Technology Co., Ltd
+				F6,M6,Maqueling, High-tech park, Nanshan district
+				Shenzhen  Guangdong  518057
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -239425,3 +239485,15 @@ FCE33D     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 				6 Jindu Road Yantai, Shandong
 				Yantai  Shandong  264000
 				CN
+
+28-E8-88   (hex)		Lingban Technology (Hangzhou) Co., Ltd
+28E888     (base 16)		Lingban Technology (Hangzhou) Co., Ltd
+				 101, Building 8, No.1288, Liangmu Road, Cangqian Street,Yuhang District
+				Hangzhou   Zhejiang  311100
+				CN
+
+AC-9A-3F   (hex)		Texas Instruments
+AC9A3F     (base 16)		Texas Instruments
+				12500 TI Blvd
+				Dallas  TX  75243
+				US
