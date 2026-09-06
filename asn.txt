@@ -18871,7 +18871,6 @@
 20755	NET-LAB - net-lab GmbH, DE
 20756	NAMESHIELD - NAMESHIELD SAS, FR
 20759	SA-IX - King Abdul Aziz City for Science and Technology, SA
-20760	EUROCIBER-AS - Santander Global Technology and Operations, S.L., ES
 20763	BPH - Bank BPH S.A., PL
 20764	RASCOM-AS - CJSC RASCOM, RU
 20765	UNSPECIFIED - Henkel AG & Co KGaA, DE
@@ -35007,7 +35006,6 @@
 39862	DIGICOM - PP DIGITAL COMMUNICATIONS, UA
 39863	CROSSNET - Crossnet LLC, AM
 39864	TENSORCOMP-AS - Company "Tensor" LLC, RU
-39865	VIT-CH - FotoWare Switzerland AG, CH
 39867	IC-AS - Interconnect Ltd., GR
 39868	FRANSABANK - FRANSABANK SAL, LB
 39869	LIVENET-PL - Livenet Sp. z o.o., PL
@@ -39343,7 +39341,7 @@
 44945	OLAH - OLAH, HU
 44946	DGINET-AS - Dembach Goo Informatik GmbH & Co. KG, DE
 44947	AMWAJ - AMWAJ ALKHYR COMMERCIAL BROKERS CO., AE
-44948	SHL - Kevin Buehl, CH
+44948	SHL - Kevin Buehl, DE
 44949	GIGACODES-AS - Gigacodes GmbH, DE
 44950	SIL - Seym Invest ltd, UA
 44951	EFONDS-AS - eFonds AG, DE
@@ -62080,7 +62078,9 @@
 136565	CyberWorld - CyberWorld, TH
 136566	CyberWorld-BKK2 - CyberWorld Data Center Co.,Ltd., TH
 136567	CyberWorld-AMS1 - CyberWorld Data Center Co.,Ltd., TH
+136568	SANDHU-AS-AP - Sandhu Brothers Communication (Private) Limited, PK
 136569	CyberWorld-SG1 - CyberWorld Data Center Co.,Ltd., TH
+136570	CHANGSHEN - Chang Sheng Co., Ltd., TW
 136571	NEXTTELECOM-AS-AP - Next Telecom Pty Ltd, AU
 136572	TOOTCIO-AS-AP - Office of The Chief Information Officer (OCIO), AU
 136573	ZCCT-AS-AP - Sanjoy Saha t/a Zip Cyber Cafe & Technology, BD
@@ -66130,6 +66130,7 @@
 140697	KKNETWROK-AS-AP - KK Networks (Pvt) Ltd., PK
 140698	SKYLINE1-AS-AP - SKYLINE NETWORKS COMPANY LIMITED, HK
 140699	RoyalThaiArmy-AS-AP - Royal Thai Army, TH
+140700	COLIN - Colin Interior Decoration Design Ltd., TW
 140701	IDCLEGEND-AS-AP - IDC Legend Corp., JP
 140702	AMTAC-AS-AP - Amtac Professional Services Pty Ltd, AU
 140703	COMPUTERTALK-AS-AP - COMPUTERTALK PTY LTD, AU
@@ -76998,6 +76999,7 @@
 151628	CT-HEBEI-SHIJIAZHUANG-MAN - China Telecom, CN
 151629	AALOKITLIMITED-AS-AP - Aalok IT Limited, BD
 151630	HKYZKJ-AS-AP - Yun Zhong Technology Limited, HK
+151631	CROWN - Crown Integrated Marketing Ltd., TW
 151632	WASN-AS-AP - Web and Soft Network, BD
 151633	ARCHON-AS-AP - Archon Network and Data Solution, PH
 151634	JAZI-AS-AP - Jazi Group Pty Ltd, AU
@@ -77319,6 +77321,7 @@
 151956	EARTHLINKLIMITED-AS-AP - Earthlink, NZ
 151957	GLOBALONLINE-AS-AP - GLOBAL ONLINE, BD
 151958	SORB-AS-AP - Sorb Security PTE. LTD., SG
+151959	FANTASIA - Fantasia Digital Marketing Limited, TW
 151960	AREALINKBD-AS-AP - Area Link BD, BD
 151961	FMMTECHNOLOGY-AS-AP - F M M TECHNOLOGY, BD
 151962	SDL-AS-AP - SOS Developments Ltd, BD
@@ -79355,6 +79358,7 @@
 154027	IRINN-NETIQ-AS-IN - NETIQ HYPERNET PVT LTD, IN
 154028	IRINN-BULLP555-AS-IN - BULLPULSE MARKETEDGE PRIVATE LIMITED, IN
 154029	PETL-AS-AP - Protean eGov Technologies Limited, IN
+154030	HUANGDEXIA - Huang Dexiang Co., Ltd., TW
 154031	SNDS-AS-AP - Sierra.Net Network & Data Solution, PH
 154032	PETL-AS-AP - Protean eGov Technologies Limited, IN
 154033	PENNYTEL-AS-AP - Pennytel, AU
@@ -80196,6 +80200,11 @@
 154875	LPBS-VN - LPBank Securities Joint Stock Company, VN
 154876	MARAWICONNECT-AS-AP - MarawiConnect, PH
 154877	GZNTCL-AS-AP - Guangzhou Zhuoxun Network Technology Co., Ltd, CN
+154878	HUSHENGXIN - Hushengxin Co., Ltd., TW
+154879	JCA - JCA INTERATIVE, TW
+154880	KAIWEI - Kaiwei Advertising Integrated Marketing Co., Ltd., TW
+154881	LIANGCAI - Liangcai Co., Ltd., TW
+154882	LINGCAI - Lingcai International Ltd., TW
 196608	INTERNIC2 - INTERNET AG Global Network, DE
 196609	PCS - PCS Professional Communication Systems GmbH, DE
 196610	DECIX-Academy - DE-CIX Management GmbH, DE
@@ -85561,7 +85570,7 @@
 202348	YLEM1-AS-AP - Young Min Kim, KR
 202349	Fibrabox - Fibercli Proyectos e Innovacion S.L., ES
 202350	MAIRIE-D-ALBI - Commune d'Albi, FR
-202351	FRICKEL-NETWORK - Jan Gilla, DE
+202351	INTERNET-SCHMIEDE - Jan Gilla, DE
 202352	MIBIT-AS - CONECTA 3 TELECOM S.L., ES
 202353	TODOR-AS - PE TRK Todor, UA
 202354	BlueSky - Blue Sky Internet Services LTD, IQ
@@ -86164,7 +86173,7 @@
 202974	First_Service_Provider - First Service Provider Ltd., RU
 202975	teknonet - Teknonet s.r.l., IT
 202976	tr-kirnet-bilisim - KIRNET BILISIM VE TELEKOMUNIKASYON HIZMETLERI SANAYI TICARET LIMITED SIRKETI, TR
-202977	NLBbankarsASN - NLB Komercijalna banka AD Beograd, RS
+202977	NLBbankarsASN - NLB Banka AD Beograd, RS
 202978	XIRIA - Xiria Ltd, GB
 202979	ngaservices - NGA Services, spol. s r.o., CZ
 202981	TOTALMOBRAND-AS - TOTALMOBRAND SA, PT
@@ -91313,7 +91322,7 @@
 208368	BudgetThuis - Jonaz B.V., NL
 208369	LIKONET-AS - LLC Likonet, UA
 208370	DigiSysNet - DigiSys Ltd., BG
-208371	bookvoed - BUKVOED Ltd., RU
+208371	Gramota - Gramota LLC, RU
 208372	EKuLOC - Maerz Network Services GmbH, DE
 208373	SBFF-ASN - Sodertorns Brandforsvarsforbund, SE
 208374	LU-CIX-2 - LU-CIX Management G.I.E., LU
@@ -96648,7 +96657,6 @@
 214064	Kevin-Titmarsh - Kevin Titmarsh, GB
 214065	IITEU-ASN-X - Daramic SAS, FR
 214066	Tatspirtprom-AS - Tatspirtprom JSC, RU
-214067	KUZEYDC - KUZEY VERI MERKEZI ANONIM SIRKETI, TR
 214068	Grundvest - Grundvest Innovative IT GmbH, DE
 214069	TELE-SERVICE - Limited Liability Company "Tele-Service", RU
 214070	FR-IMT-BS-TSP - SCES COMMUNS IMT BUSINESS SCHOOL TELECOM SUD PARIS, FR
@@ -98631,7 +98639,6 @@
 216303	PRIDE_SYSTEM - Pride System SRL, MD
 216306	MAX_SET - Max IT Finance Ltd, IL
 216307	HYPERHOST-AS - Hyperhost Solutions Limited, GB
-216308	Mustafa-ILICAN-INCIRCI - Mustafa-ILICAN-INCIRCI, TR
 216309	INVISIONTECH-GROUP-SRL - InvisionTech Group S.r.l., IT
 216310	NEO-SERV - Thibaut Lulinski trading as NeoServ, FR
 216311	NORYLIX-AS - NORYLIX LTD, GB
@@ -98756,7 +98763,6 @@
 216442	uk-ngaconnect - NGA Connect Limited, GB
 216443	INFOGENIUS - InfoGenius SAS, FR
 216444	CHERRYSERVERS4-AS - UAB "Cherry Servers", LT
-216445	egemenhosting - BURAK BAHADIR EGEMEN, TR
 216446	INSATEL-AS - Insatel Sp. z o.o., PL
 216448	banenor - BANE NOR SF, NO
 216449	SKYWOLF-US-MNT - Skywolf Inc, US
@@ -98785,6 +98791,14 @@
 216473	net-host - Bashinskii Vadim Ruslanovich, KZ
 216474	AS-SERVERMANAGEMENTPANEL - Moritz Mantel trading as Nerdscave, DE
 216475	nktelecom - NKtelecom INC, US
+218756	CH-ZG-BBCS - Kanton Zug, CH
+218757	MyCheapHost - MYCHEAP LTD, GB
+218758	CATBOY - Lewis Brown, GB
+218759	HGK - Hrvatska gospodarska komora, HR
+218760	ETC-HOSTING - ETC IT AB, SE
+218761	EXPERIAN_LD5_LD8 - Experian International Unlimited, GB
+218762	VP - NKO Perspektiva ltd, RU
+218763	MPHMEDIA - MPH MEDIA & TECH LTD, GB
 218764	cs-finland - Cloud Software - FZCO, AE
 218765	SHINRIDEVELOPMENT-AS - Shinri Development LLC, RU
 218766	Horvath - Semjon Horvath, DE
@@ -98825,7 +98839,7 @@
 218801	NETARMOR-AE - NetArmor Software Design L.L.C, AE
 218802	Northshield - Northshield LLC, US
 218803	GOUNDETECTED-AS - Techlexity Myroslav Koval, PL
-218804	MAHMOOD-ALTHAWADI - Mahmood Althawadi, BH
+218804	IDDQD-AS - IDDQD-AS, BH
 218805	MEDIBUDDY-UK - Medibuddy LTD, GB
 218806	PulsarHost-AS - Raiymbek Dosmailov, KZ
 218807	Pixel-Networks - Timothy Glover, GB
@@ -110253,6 +110267,8 @@
 274450	AS274450 - SOA38, MX
 274451	AS274451 - RMC76, MX
 274452	AS274452 - DRA21, MX
+274453	AS274453 - PPI8, MX
+274455	AS274455 - DDR11, MX
 274461	AS274461 - Dazsoft Desenvolvimento de Softwares Ltda ME, BR
 274462	AS274462 - WEB FIBER TELECOMUNICACOES, BR
 274463	AS274463 - DM TREVIZAN, BR
@@ -122321,7 +122337,7 @@
 402946	SPUZE - SPUZE, US
 402947	SPUZE - SPUZE, US
 402948	HOSTFC - HostFC,, US
-402949	SMARTERMESH - Smartermesh, US
+402949	SMARTERMESH - Smartermesh, MX
 402950	XNK - XNK,, US
 402951	DOUGLAS-TELECOM - Douglas, US
 402952	HOUSE-FIBER-01 - House, US
@@ -122341,9 +122357,14 @@
 402966	DATNOC-DC-01 - Datnoc, US
 402967	OUROBOROS - Swallowtail, US
 402968	SNP-CLOUD-ASN-01 - Spear, CA
-402969	BYCNETWORK - Biocyber, US
+402969	BYCNETWORK - Biocyber, ID
 402970	RAVNIX-CUSTOMERS - RAVNIX, US
 402971	CA-POP - NM, US
 402972	AWC-ASN-1 - Yuma/LaPaz, US
 402973	CLINTISD-ASN - Clint, US
 402974	SEHC-ON-11 - SE, CA
+402975	DALINET - DragonDoor, US
+402976	BLUE-CLOUD - Robeing, US
+402977	RPICORP - RESEARCH, US
+402978	NEXIM-GLOBAL - Nexim, US
+402979	VSL-VORTEX-01 - Visionary, US
