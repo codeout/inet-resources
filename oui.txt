@@ -48488,6 +48488,18 @@ B83250     (base 16)		Suzhou Comay Information Technology Co., LTD
 				Suzhou  Jiangsu  215008
 				CN
 
+A8-40-21   (hex)		zte corporation
+A84021     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+10-7E-59   (hex)		Calix Inc.
+107E59     (base 16)		Calix Inc.
+				2777 Orchard Pkwy
+				San Jose  CA  95131
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96076,6 +96088,12 @@ CC827B     (base 16)		IEEE Registration Authority
 				1173 Coleman Ave
 				San Jose  CA  95110
 				US
+
+E8-56-7A   (hex)		zte corporation
+E8567A     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -240434,23 +240452,17 @@ BC516C     (base 16)		Tiandy Technologies Co.,LTD
 				Berlin  Berlin  10559
 				DE
 
-38-90-FE   (hex)		New H3C Technologies Co., Ltd
-3890FE     (base 16)		New H3C Technologies Co., Ltd
-				466 Changhe Road, Binjiang District
-				Hangzhou  Zhejiang  310052
+7C-0C-F1   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
+7C0CF1     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
+				Beijing  Beijing  100085
 				CN
 
-9C-0A-B3   (hex)		Vantiva USA LLC
-9C0AB3     (base 16)		Vantiva USA LLC
-				4855 Peachtree Industrial Blvd, Suite 200
-				Norcross  GA  30902
-				US
-
-20-CC-73   (hex)		Samsung Electronics Co.,Ltd
-20CC73     (base 16)		Samsung Electronics Co.,Ltd
-				#94-1, Imsoo-Dong
-				Gumi  Gyeongbuk  730-350
-				KR
+80-2A-13   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+802A13     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
+				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
+				Chongqing   China  401120
+				CN
 
 BC-EB-E8   (hex)		Samsung Electronics Co.,Ltd
 BCEBE8     (base 16)		Samsung Electronics Co.,Ltd
@@ -240476,22 +240488,34 @@ F0E426     (base 16)		Samsung Electronics Co.,Ltd
 				Gumi  Gyeongbuk  730-350
 				KR
 
+38-90-FE   (hex)		New H3C Technologies Co., Ltd
+3890FE     (base 16)		New H3C Technologies Co., Ltd
+				466 Changhe Road, Binjiang District
+				Hangzhou  Zhejiang  310052
+				CN
+
+34-2D-0F   (hex)		zte corporation
+342D0F     (base 16)		zte corporation
+				12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China
+				shenzhen   guangdong  518057
+				CN
+
+20-CC-73   (hex)		Samsung Electronics Co.,Ltd
+20CC73     (base 16)		Samsung Electronics Co.,Ltd
+				#94-1, Imsoo-Dong
+				Gumi  Gyeongbuk  730-350
+				KR
+
+9C-0A-B3   (hex)		Vantiva USA LLC
+9C0AB3     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
 1C-42-B8   (hex)		Taicang T&W Electronics
 1C42B8     (base 16)		Taicang T&W Electronics
 				89# Jiang Nan RD
 				Suzhou  Jiangsu  215412
-				CN
-
-7C-0C-F1   (hex)		Beijing Xiaomi Mobile Software Co., Ltd
-7C0CF1     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
-				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
-				Beijing  Beijing  100085
-				CN
-
-80-2A-13   (hex)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-802A13     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
-				No.178 Yulong Avenue, Yufengshan, Yubei District, Chongqing.
-				Chongqing   China  401120
 				CN
 
 30-96-4C   (hex)		EGYM SE
@@ -240499,3 +240523,9 @@ F0E426     (base 16)		Samsung Electronics Co.,Ltd
 				Einsteinstraße 172
 				München  Bayern  81677
 				DE
+
+34-C2-29   (hex)		Calix Inc.
+34C229     (base 16)		Calix Inc.
+				2777 Orchard Pkwy
+				San Jose  CA  95131
+				US
