@@ -48596,6 +48596,18 @@ C423E2     (base 16)		WNC Corporation
 				Round Rock   TX  78682
 				US
 
+8C-F6-7D   (hex)		NETGEAR
+8CF67D     (base 16)		NETGEAR
+				3553 N. First Street
+				San Jose  CA  95134
+				US
+
+94-97-22   (hex)		AzureWave Technology Inc.
+949722     (base 16)		AzureWave Technology Inc.
+				8F., No. 94, Baozhong Rd.
+				New Taipei City  Taiwan  231
+				TW
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96287,6 +96299,18 @@ F47D8F     (base 16)		Google, Inc.
 				Road Town  Tortola  VG1110
 				VG
 
+E4-AD-CA   (hex)		Murata Manufacturing Co., Ltd.
+E4ADCA     (base 16)		Murata Manufacturing Co., Ltd.
+				1-10-1, Higashikotari
+				Nagaokakyo-shi  Kyoto  617-8555
+				JP
+
+68-86-E0   (hex)		NXP Semiconductors Taiwan Ltd.
+6886E0     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
+
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
 				466 Changhe Road, Binjiang District
@@ -104806,12 +104830,6 @@ A82BCD     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 				Anzhou,Industrial Park
 				Anzhou,Industrial Park  Sichuan  621000
 				CN
-
-BC-F9-F2   (hex)		TEKO
-BCF9F2     (base 16)		TEKO
-				Prospect Pobedy, 19
-				Kazan  Republic of Tatarstan  420138
-				RU
 
 60-10-A2   (hex)		Crompton Instruments
 6010A2     (base 16)		Crompton Instruments
@@ -144260,17 +144278,11 @@ EC15FE     (base 16)		Hangzhou Hikstorage Technology Co.,Ltd.
 				Milpitas  CA  95035
 				US
 
-30-A7-F5   (hex)		Apple, Inc.
-30A7F5     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
-
-44-25-F4   (hex)		Apple, Inc.
-4425F4     (base 16)		Apple, Inc.
-				1 Infinite Loop
-				Cupertino  CA  95014
-				US
+A0-12-17   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+A01217     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+				NO.18 HAIBIN ROAD,
+				DONG GUAN  GUANG DONG  523860
+				CN
 
 98-42-F5   (hex)		Apple, Inc.
 9842F5     (base 16)		Apple, Inc.
@@ -144284,17 +144296,35 @@ C4EB81     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-A0-12-17   (hex)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-A01217     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
-				NO.18 HAIBIN ROAD,
-				DONG GUAN  GUANG DONG  523860
-				CN
+30-A7-F5   (hex)		Apple, Inc.
+30A7F5     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
+
+44-25-F4   (hex)		Apple, Inc.
+4425F4     (base 16)		Apple, Inc.
+				1 Infinite Loop
+				Cupertino  CA  95014
+				US
 
 58-2B-D3   (hex)		Espressif Inc.
 582BD3     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+DC-01-79   (hex)		SKY UK LIMITED
+DC0179     (base 16)		SKY UK LIMITED
+				Grant Way
+				Isleworth  Middlesex  TW7 5QD
+				GB
+
+BC-F9-F2   (hex)		CJSC STC TEKO
+BCF9F2     (base 16)		CJSC STC TEKO
+				73 M. Gafuri Street
+				Kazan  Republic of Tatarstan  420108
+				RU
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -192898,6 +192928,12 @@ C8ED8B     (base 16)		Espressif Inc.
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+5C-E6-74   (hex)		NXP Semiconductors Taiwan Ltd.
+5CE674     (base 16)		NXP Semiconductors Taiwan Ltd.
+				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
+				Nanzi Dist.  Kaohsiung  811643
+				TW
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
