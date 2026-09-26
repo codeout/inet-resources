@@ -8585,12 +8585,6 @@ B0F530     (base 16)		Hitron Technologies. Inc
 				Piscataway  NJ  08554
 				US
 
-00-1E-B8   (hex)		Aloys, Inc
-001EB8     (base 16)		Aloys, Inc
-				#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,
-				JUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438
-				KR
-
 0C-E4-A0   (hex)		Huawei Device Co., Ltd.
 0CE4A0     (base 16)		Huawei Device Co., Ltd.
 				No.2 of Xincheng Road, Songshan Lake Zone
@@ -11599,12 +11593,6 @@ D058FC     (base 16)		SKY UK LIMITED
 				130 Kings Road
 				Brentwood  Essex  08854
 				GB
-
-38-56-B5   (hex)		Peerbridge Health Inc
-3856B5     (base 16)		Peerbridge Health Inc
-				3 Columbus Circle 15th Fl
-				New York  NY  10019
-				US
 
 14-57-9F   (hex)		HUAWEI TECHNOLOGIES CO.,LTD
 14579F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -48650,6 +48638,24 @@ ACD400     (base 16)		Cisco Systems, Inc
 				Hong Kong    NA
 				HK
 
+6C-E2-10   (hex)		Espressif Systems (Singapore) Pte. Ltd
+6CE210     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+00-1E-B8   (hex)		ATLAS LINK INC.
+001EB8     (base 16)		ATLAS LINK INC.
+				#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,
+				JUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438
+				KR
+
+38-56-B5   (hex)		Peerbridge Health Inc
+3856B5     (base 16)		Peerbridge Health Inc
+				1000 Corporate Centre Dr Ste 390
+				Franklin  TN  37067-6669
+				US
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -62900,12 +62906,6 @@ E0508B     (base 16)		Zhejiang Dahua Technology Co., Ltd.
 				Hangzhou  Zhejiang  310053
 				CN
 
-00-00-64   (hex)		Yokogawa Digital Computer Corporation
-000064     (base 16)		Yokogawa Digital Computer Corporation
-				Shinjuku MIDWEST Bldg.4-30-3
-				Yoyogi  Shibuya-ku, Tokyo  151-0053
-				JP
-
 D0-F7-3B   (hex)		Helmut Mauell GmbH Werk Weida
 D0F73B     (base 16)		Helmut Mauell GmbH Werk Weida
 				Am Rosenhügel 1-7
@@ -69100,12 +69100,6 @@ B41780     (base 16)		DTI Group Ltd
 				Building 23#，NO.3009 BYD Road，Pingshan
 				Shenzhen  Guangdong  518118
 				CN
-
-D0-0A-AB   (hex)		Yokogawa Digital Computer Corporation
-D00AAB     (base 16)		Yokogawa Digital Computer Corporation
-				Shinjuku MIDWEST Bldg.4-30-3
-				Yoyogi  Shibuya-ku, Tokyo  151-0053
-				JP
 
 20-A9-9B   (hex)		Microsoft Corporation
 20A99B     (base 16)		Microsoft Corporation
@@ -95381,12 +95375,6 @@ D826D3     (base 16)		eero inc.
 2C-3F-87   (hex)		Private
 2C3F87     (base 16)		Private
 
-0C-16-6E   (hex)		WirelessMobility Engineering Centre SDN. BHD
-0C166E     (base 16)		WirelessMobility Engineering Centre SDN. BHD
-				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
-				Penang    11900
-				MY
-
 D8-FB-58   (hex)		Mellanox Technologies, Inc.
 D8FB58     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
@@ -96358,6 +96346,36 @@ E8A7B6     (base 16)		Bouffalo Lab (Nanjing) Co., Ltd.
 				5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China
 				Nanjing  Jiangsu  211800
 				CN
+
+A4-CC-37   (hex)		Silicon Laboratories
+A4CC37     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+0C-16-6E   (hex)		Eagle Wireless Engineering Centre SDN BHD
+0C166E     (base 16)		Eagle Wireless Engineering Centre SDN BHD
+				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
+				Penang    11900
+				MY
+
+D0-0A-AB   (hex)		DTS INSIGHT Corporation
+D00AAB     (base 16)		DTS INSIGHT Corporation
+				4-30-3 Yoyogi,
+				Yoyogi  Shibuya-ku, Tokyo  151-0053
+				JP
+
+00-00-64   (hex)		DTS INSIGHT Corporation
+000064     (base 16)		DTS INSIGHT Corporation
+				4-30-3 Yoyogi,
+				Yoyogi  Shibuya-ku, Tokyo  151-0053
+				JP
+
+8C-45-98   (hex)		Espressif Inc.
+8C4598     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144404,6 +144422,30 @@ E43A85     (base 16)		Cisco Systems, Inc
 				San Jose  CA  95002
 				US
 
+00-E1-F8   (hex)		BK Technologies.com
+00E1F8     (base 16)		BK Technologies.com
+				7100 Technology Drive 
+				West Melbourne  FL  32904
+				US
+
+E4-15-A0   (hex)		SCHRAML GmbH
+E415A0     (base 16)		SCHRAML GmbH
+				Herxheimer Str. 7
+				Vagen  Bavaria  83620
+				DE
+
+C8-EA-71   (hex)		Espressif Inc.
+C8EA71     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+B4-56-F3   (hex)		Westermo Network Technologies AB
+B456F3     (base 16)		Westermo Network Technologies AB
+				Metallverksgatan 6
+				Vasteras    721 30
+				SE
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -158659,12 +158701,6 @@ B05216     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 				19F, Geopyeong Bldg. 129
 				Seoul  Seoul  135726
 				KR
-
-00-60-41   (hex)		Yokogawa Digital Computer Corporation
-006041     (base 16)		Yokogawa Digital Computer Corporation
-				Shinjuku MIDWEST Bldg.4-30-3
-				Yoyogi  Shibuya-ku, Tokyo  151-0053
-				JP
 
 18-F8-7A   (hex)		i3 International Inc.
 18F87A     (base 16)		i3 International Inc.
@@ -188972,12 +189008,6 @@ C0AFF2     (base 16)		Dyson Limited
 				Beijing    100053
 				CN
 
-F8-55-4B   (hex)		WirelessMobility Engineering Centre SDN. BHD
-F8554B     (base 16)		WirelessMobility Engineering Centre SDN. BHD
-				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
-				Penang    11900
-				MY
-
 BC-2A-33   (hex)		Quectel Wireless Solutions Co.,Ltd.
 BC2A33     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -193001,17 +193031,29 @@ B02F20     (base 16)		VIM technology CO., LTD.
 				Piscataway  NJ  08854
 				US
 
-C8-ED-8B   (hex)		Espressif Inc.
-C8ED8B     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
-
 5C-E6-74   (hex)		NXP Semiconductors Taiwan Ltd.
 5CE674     (base 16)		NXP Semiconductors Taiwan Ltd.
 				No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan
 				Nanzi Dist.  Kaohsiung  811643
 				TW
+
+F8-55-4B   (hex)		Eagle Wireless Engineering Centre SDN BHD
+F8554B     (base 16)		Eagle Wireless Engineering Centre SDN BHD
+				SummerSkye Square, NO. 1-2-13 & 1-2, 13A, Jalan Sungai Tiram 8, 11900 Bayan Lepas
+				Penang    11900
+				MY
+
+04-23-36   (hex)		Zyxel Communications Corporation
+042336     (base 16)		Zyxel Communications Corporation
+				No. 6 Innovation Road II, Science Park
+				Hsichu  Taiwan  300
+				TW
+
+C8-ED-8B   (hex)		Espressif Inc.
+C8ED8B     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 34-98-7C   (hex)		AltoBeam Inc.
 34987C     (base 16)		AltoBeam Inc.
@@ -193019,11 +193061,35 @@ C8ED8B     (base 16)		Espressif Inc.
 				Beijing  Beijing  100083
 				CN
 
-04-23-36   (hex)		Zyxel Communications Corporation
-042336     (base 16)		Zyxel Communications Corporation
-				No. 6 Innovation Road II, Science Park
-				Hsichu  Taiwan  300
-				TW
+00-60-41   (hex)		DTS INSIGHT Corporation
+006041     (base 16)		DTS INSIGHT Corporation
+				Shinjuku MIDWEST Bldg.4-30-3
+				Yoyogi  Shibuya-ku, Tokyo  151-0053
+				JP
+
+BC-19-26   (hex)		Espressif Inc.
+BC1926     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+10-A8-5B   (hex)		Espressif Systems (Singapore) Pte. Ltd
+10A85B     (base 16)		Espressif Systems (Singapore) Pte. Ltd
+				1 FUSIONOPOLIS VIEW#07-02ECLIPSE
+				Singapore    138577
+				SG
+
+B8-C1-B5   (hex)		HANSHOW TECHNOLOGY CO.,LTD.
+B8C1B5     (base 16)		HANSHOW TECHNOLOGY CO.,LTD.
+				The 1st Floor Podium and Floor 4 of Building 1, Floor 7 of Building 5, JiaxingPhotovoltaic Technology Innovation Park, No.1288, Kanghe Road, Xiuzhou District,Jiaxing City, Zhejiang Prov,P.R.China
+				JIAXING    314000
+				CN
+
+38-23-DA   (hex)		Even Realities Ltd.
+3823DA     (base 16)		Even Realities Ltd.
+				Building West 2603, LEPU TOWER, Nanshan District, Shenzhen, China
+				Shenzhen  Guangdong  518055
+				CN
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
@@ -241117,3 +241183,21 @@ AC4E74     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 				15485 Sand Canyon Ave
 				Irvine  CA  92618
 				US
+
+5C-9A-E1   (hex)		Ericsson AB
+5C9AE1     (base 16)		Ericsson AB
+				Torshamnsgatan 36
+				Stockholm    SE-164 80
+				SE
+
+E0-BF-0B   (hex)		Silicon Laboratories
+E0BF0B     (base 16)		Silicon Laboratories
+				 400 West Cesar Chavez
+				Austin  TX  78701
+				US
+
+4C-84-21   (hex)		Espressif Inc.
+4C8421     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
