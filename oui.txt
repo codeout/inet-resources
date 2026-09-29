@@ -48626,17 +48626,29 @@ ACD400     (base 16)		Cisco Systems, Inc
 				Round Rock   TX  78682
 				US
 
+B0-96-48   (hex)		Vantiva USA LLC
+B09648     (base 16)		Vantiva USA LLC
+				4855 Peachtree Industrial Blvd, Suite 200
+				Norcross  GA  30902
+				US
+
 94-FC-04   (hex)		Dongguan Amsamotion Automation Technology Co.,Ltd.
 94FC04     (base 16)		Dongguan Amsamotion Automation Technology Co.,Ltd.
 				501F, Building 1, Yonglida Intelligent Manufacturing Park, No.1 Xinwen Third Street, Daojiao Town
 				Dongguan  Guangdong  523000
 				CN
 
-94-FA-57   (hex)		Equalizer Technologies
-94FA57     (base 16)		Equalizer Technologies
-				Room 6 2/F, One Vista Summit, 3 San Hop Lane, Tuen Mun
-				Hong Kong    NA
-				HK
+8C-A2-29   (hex)		Huawei Device Co., Ltd.
+8CA229     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+38-56-B5   (hex)		Peerbridge Health Inc
+3856B5     (base 16)		Peerbridge Health Inc
+				1000 Corporate Centre Dr Ste 390
+				Franklin  TN  37067-6669
+				US
 
 6C-E2-10   (hex)		Espressif Systems (Singapore) Pte. Ltd
 6CE210     (base 16)		Espressif Systems (Singapore) Pte. Ltd
@@ -48644,16 +48656,40 @@ ACD400     (base 16)		Cisco Systems, Inc
 				Singapore    138577
 				SG
 
+E0-C4-01   (hex)		EM Microelectronic
+E0C401     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
 00-1E-B8   (hex)		ATLAS LINK INC.
 001EB8     (base 16)		ATLAS LINK INC.
 				#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,
 				JUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438
 				KR
 
-38-56-B5   (hex)		Peerbridge Health Inc
-3856B5     (base 16)		Peerbridge Health Inc
-				1000 Corporate Centre Dr Ste 390
-				Franklin  TN  37067-6669
+94-FA-57   (hex)		Equalizer Technologies
+94FA57     (base 16)		Equalizer Technologies
+				Room 6 2/F, One Vista Summit, 3 San Hop Lane, Tuen Mun
+				Hong Kong    NA
+				HK
+
+E0-C0-B4   (hex)		Huawei Device Co., Ltd.
+E0C0B4     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+0C-2F-D1   (hex)		Huawei Device Co., Ltd.
+0C2FD1     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+18-DB-88   (hex)		Hewlett Packard Enterprise
+18DB88     (base 16)		Hewlett Packard Enterprise
+				6280 America Center Dr
+				San Jose  CA  95002
 				US
 
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
@@ -96376,6 +96412,18 @@ D00AAB     (base 16)		DTS INSIGHT Corporation
 				Vistra Corporate Services Centre, Wickhams Cay II
 				Road Town  Tortola  VG1110
 				VG
+
+04-9E-28   (hex)		EM Microelectronic
+049E28     (base 16)		EM Microelectronic
+				Rue des Sors 3
+				Marin-Epagnier  Neuchatel  2074
+				CH
+
+B8-DB-3D   (hex)		SIMCom Wireless Solutions Limited
+B8DB3D     (base 16)		SIMCom Wireless Solutions Limited
+				SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China
+				Shanghai    200335
+				CN
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -144386,18 +144434,6 @@ DC0179     (base 16)		SKY UK LIMITED
 				Isleworth  Middlesex  TW7 5QD
 				GB
 
-BC-F9-F2   (hex)		CJSC STC TEKO
-BCF9F2     (base 16)		CJSC STC TEKO
-				73 M. Gafuri Street
-				Kazan  Republic of Tatarstan  420108
-				RU
-
-68-01-25   (hex)		Amazon Technologies Inc.
-680125     (base 16)		Amazon Technologies Inc.
-				P.O Box 8102 
-				Reno  NV  89507
-				US
-
 C8-C9-19   (hex)		Broadcom Limited
 C8C919     (base 16)		Broadcom Limited
 				15191 Alton Parkway
@@ -144422,6 +144458,36 @@ E43A85     (base 16)		Cisco Systems, Inc
 				San Jose  CA  95002
 				US
 
+C8-EA-71   (hex)		Espressif Inc.
+C8EA71     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
+
+B4-56-F3   (hex)		Westermo Network Technologies AB
+B456F3     (base 16)		Westermo Network Technologies AB
+				Metallverksgatan 6
+				Vasteras    721 30
+				SE
+
+F0-B7-15   (hex)		Huawei Device Co., Ltd.
+F0B715     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+2C-F0-6A   (hex)		Huawei Device Co., Ltd.
+2CF06A     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+A8-D6-01   (hex)		Huawei Device Co., Ltd.
+A8D601     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 00-E1-F8   (hex)		BK Technologies.com
 00E1F8     (base 16)		BK Technologies.com
 				7100 Technology Drive 
@@ -144434,17 +144500,17 @@ E415A0     (base 16)		SCHRAML GmbH
 				Vagen  Bavaria  83620
 				DE
 
-C8-EA-71   (hex)		Espressif Inc.
-C8EA71     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+BC-F9-F2   (hex)		CJSC STC TEKO
+BCF9F2     (base 16)		CJSC STC TEKO
+				73 M. Gafuri Street
+				Kazan  Republic of Tatarstan  420108
+				RU
 
-B4-56-F3   (hex)		Westermo Network Technologies AB
-B456F3     (base 16)		Westermo Network Technologies AB
-				Metallverksgatan 6
-				Vasteras    721 30
-				SE
+68-01-25   (hex)		Amazon Technologies Inc.
+680125     (base 16)		Amazon Technologies Inc.
+				P.O Box 8102 
+				Reno  NV  89507
+				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -193091,6 +193157,24 @@ B8C1B5     (base 16)		HANSHOW TECHNOLOGY CO.,LTD.
 				Shenzhen  Guangdong  518055
 				CN
 
+84-67-E8   (hex)		Huawei Device Co., Ltd.
+8467E8     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+F0-21-0E   (hex)		Huawei Device Co., Ltd.
+F0210E     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+E0-41-23   (hex)		Huawei Device Co., Ltd.
+E04123     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -241148,17 +241232,11 @@ C8F10A     (base 16)		IEEE Registration Authority
 				Piscataway  NJ  08554
 				US
 
-3C-FF-DD   (hex)		vivo Mobile Communication Co., Ltd.
-3CFFDD     (base 16)		vivo Mobile Communication Co., Ltd.
-				No.1, vivo Road, Chang'an
-				Dongguan  Guangdong  523860
-				CN
-
-BC-23-9F   (hex)		vivo Mobile Communication Co., Ltd.
-BC239F     (base 16)		vivo Mobile Communication Co., Ltd.
-				No.1, vivo Road, Chang'an
-				Dongguan  Guangdong  523860
-				CN
+20-97-71   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+209771     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
+				HO CHI MINH CITY  HO CHI MINH  820000
+				VN
 
 18-6F-A7   (hex)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 186FA7     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
@@ -241172,11 +241250,29 @@ AC4E74     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 				Shenzhen    518052
 				CN
 
-20-97-71   (hex)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-209771     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
-				PART OF FACTORY 2, LOT C2.10, D1 STREET, DONG AN 2 INDUSTRIAL PARK, BINHDUONG WARD
-				HO CHI MINH CITY  HO CHI MINH  820000
-				VN
+3C-FF-DD   (hex)		vivo Mobile Communication Co., Ltd.
+3CFFDD     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+BC-23-9F   (hex)		vivo Mobile Communication Co., Ltd.
+BC239F     (base 16)		vivo Mobile Communication Co., Ltd.
+				No.1, vivo Road, Chang'an
+				Dongguan  Guangdong  523860
+				CN
+
+80-84-26   (hex)		Huawei Device Co., Ltd.
+808426     (base 16)		Huawei Device Co., Ltd.
+				No.2 of Xincheng Road, Songshan Lake Zone
+				Dongguan  Guangdong  523808
+				CN
+
+4C-84-21   (hex)		Espressif Inc.
+4C8421     (base 16)		Espressif Inc.
+				Vistra Corporate Services Centre, Wickhams Cay II
+				Road Town  Tortola  VG1110
+				VG
 
 34-80-0D   (hex)		Marvell Semiconductors
 34800D     (base 16)		Marvell Semiconductors
@@ -241184,20 +241280,14 @@ AC4E74     (base 16)		SHEN ZHEN TENDA TECHNOLOGY CO.,LTD
 				Irvine  CA  92618
 				US
 
-5C-9A-E1   (hex)		Ericsson AB
-5C9AE1     (base 16)		Ericsson AB
-				Torshamnsgatan 36
-				Stockholm    SE-164 80
-				SE
-
 E0-BF-0B   (hex)		Silicon Laboratories
 E0BF0B     (base 16)		Silicon Laboratories
 				 400 West Cesar Chavez
 				Austin  TX  78701
 				US
 
-4C-84-21   (hex)		Espressif Inc.
-4C8421     (base 16)		Espressif Inc.
-				Vistra Corporate Services Centre, Wickhams Cay II
-				Road Town  Tortola  VG1110
-				VG
+5C-9A-E1   (hex)		Ericsson AB
+5C9AE1     (base 16)		Ericsson AB
+				Torshamnsgatan 36
+				Stockholm    SE-164 80
+				SE
