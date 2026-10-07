@@ -96449,24 +96449,6 @@ D00AAB     (base 16)		DTS INSIGHT Corporation
 				Marin-Epagnier  Neuchatel  2074
 				CH
 
-B8-DB-3D   (hex)		SIMCom Wireless Solutions Limited
-B8DB3D     (base 16)		SIMCom Wireless Solutions Limited
-				SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China
-				Shanghai    200335
-				CN
-
-0C-72-FB   (hex)		Cisco Systems, Inc
-0C72FB     (base 16)		Cisco Systems, Inc
-				80 West Tasman Drive
-				San Jose   CA  94568
-				US
-
-4C-81-BE   (hex)		IEEE Registration Authority
-4C81BE     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
-
 C8-A1-62   (hex)		DJI BAIWANG TECHNOLOGY CO LTD
 C8A162     (base 16)		DJI BAIWANG TECHNOLOGY CO LTD
 				Room 101, Building 12, Baiwangxin Industrial Park, 1002 Songbai Road, Sunshine Community, Xili Street
@@ -96491,10 +96473,40 @@ C8A162     (base 16)		DJI BAIWANG TECHNOLOGY CO LTD
 				Liberty Lake  WA  99019
 				US
 
+B8-DB-3D   (hex)		SIMCom Wireless Solutions Limited
+B8DB3D     (base 16)		SIMCom Wireless Solutions Limited
+				SIMCom Headquarters Building, Building 3, No. 289 Linhong Road, Changning District, Shanghai P.R. China
+				Shanghai    200335
+				CN
+
 C0-AB-19   (hex)		Mellanox Technologies, Inc.
 C0AB19     (base 16)		Mellanox Technologies, Inc.
 				350 Oakmead Parkway, Suite 100  
 				Sunnyvale  CA  94085
+				US
+
+0C-72-FB   (hex)		Cisco Systems, Inc
+0C72FB     (base 16)		Cisco Systems, Inc
+				80 West Tasman Drive
+				San Jose   CA  94568
+				US
+
+4C-81-BE   (hex)		IEEE Registration Authority
+4C81BE     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+00-8A-8F   (hex)		Siemens Power Automation Ltd.
+008A8F     (base 16)		Siemens Power Automation Ltd.
+				Building E1, Jiyin Industrial Park, 2999 Jiyin Avenue,
+				Jiangning District  NANJING  211100 
+				CN
+
+CC-F7-22   (hex)		IEEE Registration Authority
+CCF722     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -144661,6 +144673,24 @@ BCD849     (base 16)		TP-Link Systems Inc.
 				Cumhuriyet Mahallesi, Ince sokak No25/1 Çayırova/ Kocaeli  Winenerji binası
 				Çayırova  Kocaeli  41400
 				TR
+
+88-9E-9A   (hex)		AltoBeam Inc.
+889E9A     (base 16)		AltoBeam Inc.
+				B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian
+				Beijing  Beijing  100083
+				CN
+
+CC-26-8F   (hex)		Oraimo Technology Limited
+CC268F     (base 16)		Oraimo Technology Limited
+				RMS 05-15，13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG
+				HONG KONG  HONG KONG  999077
+				HK
+
+08-E4-91   (hex)		Shenzhen Jingxun Technology Co., Ltd.
+08E491     (base 16)		Shenzhen Jingxun Technology Co., Ltd.
+				3/F, A5 Building, Zhiyuan Community, No. 1001, Xueyuan Road, Nanshan District
+				Shenzhen    518071
+				CN
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -193373,6 +193403,12 @@ F8828A     (base 16)		Qingdao Haier Technology Co.Ltd
 				Qingdao    266101
 				CN
 
+AC-8E-63   (hex)		CHINA DRAGON TECHNOLOGY LIMITED
+AC8E63     (base 16)		CHINA DRAGON TECHNOLOGY LIMITED
+				B4 Building,No.3 First industrial Zone,Nanpu Road,Lao Community,Xinqian Street,Baoan District,Shenzhen,City
+				ShenZhen    518100
+				CN
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -241507,3 +241543,9 @@ D05D01     (base 16)		TP-Link Systems Inc.
 				10 Mauchly
 				 Irvine  CA  92618
 				US
+
+2C-37-FB   (hex)		Nanjing Qinheng Microelectronics Co., Ltd.
+2C37FB     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
+				No.18, Ningshuang Road
+				 Nanjing  Jiangsu  210012
+				CN
