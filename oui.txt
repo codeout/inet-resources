@@ -96791,12 +96791,6 @@ BC1409     (base 16)		Arista Networks
 				Sunnyvale  CA  94089
 				US
 
-40-23-64   (hex)		Serage 
-402364     (base 16)		Serage 
-				35-37 Whitton Dene Road
-				Hounslow  London  TW32JN
-				GB
-
 84-9A-10   (hex)		Kingtype Technologies corp.,Ltd.
 849A10     (base 16)		Kingtype Technologies corp.,Ltd.
 				No.9, 3rd Wuke Road, Wuhou District
@@ -96808,6 +96802,12 @@ BC1409     (base 16)		Arista Networks
 				The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District
 				Beijing  Beijing  100085
 				CN
+
+40-23-64   (hex)		Serage 
+402364     (base 16)		Serage 
+				35-37 Whitton Dene Road
+				Hounslow  London  TW32JN
+				GB
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
 6C8720     (base 16)		New H3C Technologies Co., Ltd
@@ -145105,6 +145105,12 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Vídeňská 186/118
 				Brno    61900
 				CZ
+
+9C-AD-E0   (hex)		Intel Corporate
+9CADE0     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -193943,6 +193949,12 @@ BCD810     (base 16)		Amazon Technologies Inc.
 				Shanghai    200233
 				CN
 
+88-8A-F5   (hex)		Intel Corporate
+888AF5     (base 16)		Intel Corporate
+				Lot 8, Jalan Hi-Tech 2/3  
+				Kulim  Kedah  09000
+				MY
+
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
 				445 Hoes Lane
@@ -242208,4 +242220,10 @@ C08009     (base 16)		Vantiva USA LLC
 1CFC4E     (base 16)		EFORT Intelligent Robot Co., Ltd. Copyright
 				No.96 East Wanchun Road,China(Anhui) Pilot Free Trade Zone Wuhu Area, Wuhu, Anhui Province, China
 				Wuhu  Anhui  241000
+				CN
+
+D4-05-11   (hex)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
+				B Area, 10th floor, TCL multimedia Building, TCL International E City, #1001 Zhonshanyuan road,Shenzhen
+				guangdong  China  518058
 				CN
