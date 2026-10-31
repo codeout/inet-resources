@@ -145112,6 +145112,12 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Kulim  Kedah  09000
 				MY
 
+94-FC-9A   (hex)		Google, Inc.
+94FC9A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View    94043
+				US
+
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
 B00C9D     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
@@ -193931,11 +193937,11 @@ D40CFD     (base 16)		Apple, Inc.
 				Cupertino  CA  95014
 				US
 
-B8-F4-53   (hex)		IEEE Registration Authority
-B8F453     (base 16)		IEEE Registration Authority
-				445 Hoes Lane
-				Piscataway  NJ  08554
-				US
+58-30-AC   (hex)		Quectel Wireless Solutions Co.,Ltd.
+5830AC     (base 16)		Quectel Wireless Solutions Co.,Ltd.
+				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
+				Shanghai    200233
+				CN
 
 BC-D8-10   (hex)		Amazon Technologies Inc.
 BCD810     (base 16)		Amazon Technologies Inc.
@@ -193943,17 +193949,23 @@ BCD810     (base 16)		Amazon Technologies Inc.
 				Reno  NV  89507
 				US
 
-58-30-AC   (hex)		Quectel Wireless Solutions Co.,Ltd.
-5830AC     (base 16)		Quectel Wireless Solutions Co.,Ltd.
-				7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District
-				Shanghai    200233
-				CN
-
 88-8A-F5   (hex)		Intel Corporate
 888AF5     (base 16)		Intel Corporate
 				Lot 8, Jalan Hi-Tech 2/3  
 				Kulim  Kedah  09000
 				MY
+
+B8-F4-53   (hex)		IEEE Registration Authority
+B8F453     (base 16)		IEEE Registration Authority
+				445 Hoes Lane
+				Piscataway  NJ  08554
+				US
+
+60-41-5A   (hex)		Google, Inc.
+60415A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View    94043
+				US
 
 C8-5C-E2   (hex)		IEEE Registration Authority
 C85CE2     (base 16)		IEEE Registration Authority
