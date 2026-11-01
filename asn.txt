@@ -289,7 +289,7 @@
 291	ESNET-EAST - ESnet, US
 292	ESNET-WEST - ESnet, US
 293	ESNET - ESnet, US
-294	FRANCE-IP-NET-AS - Renater, EU
+294	FRANCE-IP-NET-AS - Renater, FR
 295	USTCCLOUD - United States Department of Defense (DoD), US
 296	ACFP-AS - Air Force Systems Networking, US
 297	AS297 - National Aeronautics and Space Administration, US
@@ -19084,7 +19084,7 @@
 21155	ASN-PROSERVE - Signet B.V., NL
 21157	SYSCO - SYSCO SRL, RO
 21158	AS21158 - Maximilian Baehring, DE
-21159	NOVOSERVE-GMBH-AS - NovoServe B.V., NL
+21159	IAF - IAF B.V., NL
 21160	ASN-MARKEL - Markel International Services Ltd, GB
 21161	ASN-BECHTLE - Bechtle AG, DE
 21162	ISM-HOSTING - Valantic Digital Experience Solutions (DXS) B.V., NL
@@ -32812,7 +32812,6 @@
 37244	DT DOBIE KENYA LTD - DT DOBIE KENYA LTD, KE
 37248	Phase3 Telecom Limited - Phase3 Telecom Limited, NG
 37249	Computer Warehouse group - Computer Warehouse group, NG
-37250	Egyptair - Egyptair, EG
 37251	Telkom SA Ltd. - Telkom SA Ltd., ZA
 37252	GB Auto - GB Auto, EG
 37253	Altron TMT (Pty) Ltd - Altron TMT (Pty) Ltd, ZA
@@ -33080,7 +33079,6 @@
 37603	GameZone Angola - GameZone Angola, AO
 37604	Desert Road Pty Ltd t/a Zebranet - Desert Road Pty Ltd t/a Zebranet, BW
 37605	General Telecommunication Networks (NIG) Limited - General Telecommunication Networks (NIG) Limited, NG
-37607	Smile Communications Tanzania Ltd - Egyptair, TZ
 37608	iRENALA - iRENALA, MG
 37610	New Frontiers Technology Consult Limited - New Frontiers Technology Consult Limited, UG
 37611	AFRIHOST SP (PTY) LTD - AFRIHOST SP (PTY) LTD, ZA
@@ -41250,7 +41248,7 @@
 47184	TOUIX-AS - TOUIX, FR
 47185	SabihaGokcen-TR - Havaalani Isletme ve Havacilik Endustrileri, TR
 47186	PORR - Porr AG, AT
-47187	Forinicom - Tecnotel Servizi Tecnologici srl, IT
+47187	TECNOADSL-H-AS - Tecnotel Servizi Tecnologici srl, IT
 47188	PressTV - Press TV Co., IR
 47189	NAVOTECH-AS - JANUSZ LYSON, PL
 47190	TOTAL_OIL - GUZEL ENERJI AKARYAKIT A.S., TR
@@ -42871,7 +42869,7 @@
 49034	LAUDERT - Laudert GmbH + Co. KG, DE
 49035	MIKROBI - Mikrolan Sp. z o.o., PL
 49036	EUROLIVETECH - SIA "Euro Live Technologies", LV
-49037	A1-TELECOM - Prostie Reshenia LLC, AM
+49037	A1-TELECOM - A1 TELECOM LLC, AM
 49038	EUROLINE-TELECOM-AS - Pedchenko Maksym, UA
 49040	KiG-Unisat-TV - K and G UNISAT -TV LLC, BG
 49041	Globalcom-AS - Globalkom 2 Ltd, BG
@@ -52044,7 +52042,7 @@
 59393	WH2A - WH2A B.V., NL
 59394	The-National-Bank-ASNumber - The National Bank PLC, PS
 59395	EFAR-AS - Southern Communications Ltd, GB
-59396	TRS - Tolvu- og Rafeindapjonusta Sudurlands ehf, IS
+59396	TRS - Opin Kerfi hf, IS
 59397	REMOD-AS - Remod Oy, FI
 59398	IDSYS-AS - InterData Systems SRL, RO
 59399	RMRS-AS - FAI Russian Maritime Register of Shipping, RU
@@ -80262,6 +80260,11 @@
 155067	IDNIC-TULTEL-ID - PT TULUS TELEKOMUNIKASI RAYA, ID
 155068	IDNIC-GUGIK-ID - PT Gugik Digital Indonesia, ID
 155069	IRINN-FFTPL-AS-IN - FAB FIVE TECHNOLOGIES PRIVATE LIMITED, IN
+155070	EVERLUME-AS-AP - EverLume Solutions Pvt. Ltd., IN
+155071	ANSPL-IN - AI NETWORK SOLUTIONS PRIVATE LIMITED, IN
+155072	IDNIC-PTKIN-ID - PT KINARA INDONESIAN NETWORK, ID
+155073	IRINN-BALA-AS-IN - SENSIPLE SOFTWARE SOLUTIONS PRIVATE LIMITED, IN
+155074	IDNIC-ARFAHNETWORK-ID - PT ARFAH NETWORK INDONESIA, ID
 196608	INTERNIC2 - INTERNET AG Global Network, DE
 196609	PCS - PCS Professional Communication Systems GmbH, DE
 196610	DECIX-Academy - DE-CIX Management GmbH, DE
@@ -82034,7 +82037,6 @@
 198633	UAPZ-AS - JSC UKRAINIAN RAILWAYS, UA
 198634	mdjgroup - MDJ GROUP SRL, IT
 198635	ASCANIUS - Ascanius AG, CH
-198636	CAPSULA-AS - CAPSULA LTD, GB
 198637	ZPUE-AS - ZPUE S.A., PL
 198638	flexbit-at-as - Juergen Bachinger, AT
 198639	ASSOZVEZDIEORIONA - Sozvezdiye Oriona Ltd., RU
@@ -83101,7 +83103,7 @@
 199743	HPS - SLTN Telecom Professional Services B.V., NL
 199744	ITESYS-AS - itesys srl, IT
 199745	terrible - terrible llc, US
-199746	SHRDSERV - NextServ LLC, US
+199746	SHRDSERV - SharedServ Ltd, GB
 199747	FREEFOXCONNECT - Global Gateway Cloud LLC, US
 199748	CCN-UK - Voneus Ltd, GB
 199749	PRISME - Orange Business Services SA, FR
@@ -83320,7 +83322,7 @@
 199969	PCB-AS - ProCredit Bank AD Skopje, MK
 199970	TRKTONUS-AS - TRK Tonus LLC, RU
 199971	SI-IXTLANTEAM - Ixtlan Team d.o.o., SI
-199972	DCNET - NURHAN AKYUZ trading as AKYUZNET, TR
+199972	TR-DCNET-AS - DCNET BILISIM LIMITED SIRKETI, TR
 199973	MIGR-AS - Migrationsverket, SE
 199975	TVC-AS - TV CENTER JSC, RU
 199976	AS_DUNE - DUNE TECHNOLOGY SL, ES
@@ -87628,7 +87630,7 @@
 204461	VITELE-AS - VITELECOM LLC, UA
 204462	ALGOSYSTEMS-GR - Algosystems S.A., GR
 204463	XINZHAO - Xin Zhao, CA
-204464	SHRDSERV - NextServ LLC, US
+204464	SHRDSERV - SharedServ Ltd, GB
 204465	CloudToko - CloudToko B.V., NL
 204466	SYMRISE - SYMRISE AG, DE
 204467	AIRSTREAM-AS - AIRSTREAM SRL, MD
@@ -90470,7 +90472,7 @@
 207446	Kazteleport-AS - JSC Kazteleport - subsidiary of Halyk Bank of Kazakhstan, KZ
 207447	STECH-AS - OOO Smart Technologies, RU
 207448	PEMA-KOMMUNIKATIONER-AS - Pema Kommunikationer AB, SE
-207449	Hostinity - LEBREUILLY Jeremy trading as Hostinity, FR
+207449	Hostinity - LEBREUILLY Jeremy trading as Hostinity and as CORENIX, FR
 207450	LEAN - Lean Company for Rental and Services of Information Systems and Computer Limited Liability Company, KW
 207451	PEARHOST-AS - Ales Hruska, CZ
 207453	aurigaspa - Auriga SpA, IT
@@ -93121,7 +93123,7 @@
 210274	ARTFILES-AS - Artfiles New Media GmbH, DE
 210275	SITCO-AS - Saudi Information Technology Company CJSC, SA
 210276	MSAL-AS - FEDERAL STATE BUDGET EDUCATIONAL ESTABLISHMENT OF HIGHER EDUCATION "MOSCOW STATE LAW UNIVERSITY NAMED AFTER O.E KUTAFIN (MSLA)", RU
-210277	AS210277 - Internet Utilities Europe and Asia Limited, GB
+210277	AS210277 - OCTET NETWORKS - FZCO, AE
 210278	SKYIT-BB - Sky Italia srl, IT
 210279	DMT - DIGITAL MEDIA TECHNOLOGIES LTD, GB
 210280	blunovatp - Blunova Trapani S.R.L., IT
@@ -94460,7 +94462,7 @@
 211708	Callum_Cardy - Callum Cardy, SH
 211709	turbonet - TURBO NET TELEKOMUNIKASYON ELEKTRONIK HABERLESME BILISIM HIZMETLERI SANAYI TICARET LTD STI, TR
 211710	UGG - UGG General Partner Gmbh trading as Unsere Grune Glasfaser GmbH Co. KG, DE
-211711	FIBERNET-TELEKOM - FIBERNET TELEKOMUNIKASYON A.S., TR
+211711	FIBERNET-TELEKOM - Fibernet Telekomunikasyon AS, TR
 211712	AS7utra - LLC 7utra, RU
 211713	as-connectium - Connectium B.V., NL
 211714	MIAC-AS - BUZ Orlovskoy oblasti MIAC, RU
@@ -95740,7 +95742,7 @@
 213082	REDDER-CA - Redder Telco s.r.l., IT
 213083	TELEKOMAT - Telekomat Haberlesme ve Iletisim Hiz. Tic. Ltd. Sti., TR
 213084	FOURTELECOM-S-AS - Four Telecom Services GmbH & Co KG, AT
-213085	LOGINELTDAS - Internet Utilities Europe and Asia Limited, GB
+213085	LOGINELTDAS - OCTET NETWORKS - FZCO, AE
 213087	HUR-INFOTECH - H&R InfoTech GmbH, DE
 213088	CMKP - Centrum Medyczne Ksztalcenia Podyplomowego, PL
 213089	vitalbanet - Lorusso Salvatore trading as Vitalbanet S.A.S, IT
@@ -98713,6 +98715,16 @@
 216473	net-host - Bashinskii Vadim Ruslanovich, KZ
 216474	AS-SERVERMANAGEMENTPANEL - Moritz Mantel trading as Nerdscave, DE
 216475	nktelecom - NKtelecom INC, US
+218231	CLOU-TR - Fehmi Bora Simsek, TR
+218232	NEXUSPARTNERSLIMITED-AS - Nexus Partners Limited, BZ
+218233	SaturnNet - Ruby Foster, AU
+218234	SHANLEY-AS - SHANLEY CAPITAL LTD, GB
+218235	XCOM1710-NET - Shawn Huebner, DE
+218236	BG-AURA - AURA Gaming Technology Ltd., BG
+218237	KapitalTelecom - Kapital Telecom LLC, AZ
+218238	ENERTELCO-NET - ENERTELCO TELEKOM BILISIM VE INTERNET HIZMETLERI TICARET LIMITED SIRKETI, TR
+218239	ANTIDDOS-NETWORKS-AS - AntiDDoS Networks LTD, GB
+218240	TATNET - ILDAR MANZHIKOV, RU
 218241	SP9SKA - Dawid Kulas, PL
 218242	ZDUNEK-DEV - Adam Zdunek, PL
 218243	EPICJUMP-SYSTEMS - Dominik Andreas Jetten trading as EpicJump Systems, DE
@@ -98746,12 +98758,12 @@
 218271	INFINITY-CLOUD - Khlebosolov Daniil Alekseevich, RU
 218272	TPF - Transports Publics Fribourgeois (TPF) SA, CH
 218273	Templass - Ali Rayan trading as Templass, DE
-218274	AS-FBLAB-IT - Fabrizio Borelli, IT
+218274	FBLAB-IT-AS - Fabrizio Borelli, IT
 218275	CLEV-AS - CLEV NETWORKS LIMITED, GB
 218276	KENTAVREN-AS - Trukhin Sergey Vladimirovich, RU
 218277	MTXNET - Jannik Schroeder, DE
 218278	SAVVIS - OOO Savvis, RU
-218279	DE-LEVINSCHROER-20261024 - Levin Schroeren, DE
+218279	DERLEV - Levin Schroeren, DE
 218280	HILDREY-NET - Stephen Hildrey, GB
 218281	THECHANGE-AS - THE CHANGE SOLUTIONS INC., PA
 218282	WESTTECH-AS - WESTTECH LTD, GB
@@ -98962,8 +98974,8 @@
 218487	DBO-AS - Dennis Boehm, DE
 218488	ROUTEPLEX-AS - Routeplex Limited, GB
 218489	FIBERNET-KG - FiberNet LLC, KG
-218490	Olegs-AS - Olegs Cvetkovs, LV
-218491	Evija-AS - Evija Lakotka, LV
+218490	Dr-Nefarios-Lab - Olegs Cvetkovs, LV
+218491	Dr-Nefarios-Lab - Evija Lakotka, LV
 218492	PK - "PK" LLC, RU
 218493	OFNET-AS - OFNET LLP, KZ
 218494	PROSVYAZ-AS - Prostaya Svyaz LLC, RU
@@ -98989,7 +99001,7 @@
 218514	LLC-Icomtech - LLC Icomtech, UA
 218515	SHENFENG-CHEN - Shenfeng Chen, CN
 218516	iTiService - iTi Service, RU
-218517	Dmitrijs-AS - Dmitrijs Bolasnikovs, LV
+218517	Dr-Nefarios-Lab - Dmitrijs Bolasnikovs, LV
 218518	lebaraeu - Lebara Ltd, GB
 218519	nordnet-as - Salesforge OU, EE
 218520	ORG-LACL1-AS - Lumen Arc Connect LLC, US
@@ -99055,7 +99067,7 @@
 218580	CWMBRASIL-AS - WESLEY MELO DA SILVA, BR
 218581	GOLDINGER-S2 - Goldinger IT GmbH, CH
 218582	VOLUNIA - VOLUNIA, FR
-218583	Anastasia-AS - Anastasia Cernavska, LV
+218583	Dr-Nefarios-Lab - Anastasia Cernavska, LV
 218584	Sipher - Sipher Ltd, GB
 218585	ENA-TELECOM-1 - ENA Operador de Telecomunicaciones S.L., ES
 218586	UK-ZOHOCORPORATION - ZOHO Corporation B.V, NL
@@ -99149,7 +99161,6 @@
 218674	IED-AS - Daria Sergeevna Biserova, RU
 218675	POWERTECH-SYSTEM - POWERTECH SYSTEM LIMITED, HK
 218676	ENDUROSAT - EnduroSat EAD, BG
-218677	IAF - IAF B.V., NL
 218678	ANDESIP-AS - ANDESIP S.R.L., BO
 218679	SERVFAIL - Dominique Liberda, PL
 218680	LITE-SOLUTIONS - Lite Digital LLC, GE
@@ -106883,7 +106894,6 @@
 270232	AS270232 - CIATEQ, A.C., MX
 270233	AS270233 - Ciatec, A.C., MX
 270234	AS270234 - CENTRO DE INVESTIGACION EN MATERIALES AVANZADOS, MX
-270235	AS270235 - AGROASEMEX SA, MX
 270236	AS270236 - OPTOENLACES S.A. DE C.V., MX
 270237	AS270237 - Mult3 Telecom, BR
 270238	AS270238 - RURALNET TELECOM LTDA, BR
@@ -111286,6 +111296,7 @@
 275095	AS275095 - ALC385, VE
 275096	AS275096 - SEM112, CO
 275097	AS275097 - BRC72, VE
+275098	AS275098 - JSV16, PE
 275293	AS275293 - FRPSO156, BR
 275294	AS275294 - ARNJU36, BR
 275295	AS275295 - ROCFA160, BR
@@ -111774,7 +111785,6 @@
 327934	SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom) - SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom), TN
 327935	iSPACE (PTY) LTD - iSPACE (PTY) LTD, ZA
 327936	Kibo Connect - Kibo Connect, ZA
-327937	Smile Communication DRC - Egyptair, CD
 327941	SIMBANET MALAWI LIMITED - SIMBANET MALAWI LIMITED, MW
 327942	LANDMARK UNIVERSITY OMU-ARAN - LANDMARK UNIVERSITY OMU-ARAN, NG
 327943	Mezobyte (Pty) LTD - Mezobyte (Pty) LTD, ZA
@@ -112182,7 +112192,6 @@
 328442	United SA - United SA, CD
 328443	Societe Datco - Societe Datco, CD
 328444	Wirelexx (Pty) Ltd - Wirelexx (Pty) Ltd, ZA
-328445	UNLIMITED SARL - Egyptair, CD
 328446	Open Access Technologies (Pty) Ltd - Open Access Technologies (Pty) Ltd, ZA
 328447	EKO Electricity Distribution PLC - EKO Electricity Distribution PLC, NG
 328448	La Direction générale des impôts - La Direction générale des impôts, BF
@@ -112752,7 +112761,7 @@
 329098	Intech Business Solutions (Pty) Ltd - Intech Business Solutions (Pty) Ltd, ZA
 329099	MANGONET INTEGRATED TECHNOLOGIES LIMITED - MANGONET INTEGRATED TECHNOLOGIES LIMITED, NG
 329101	Icon Fiber Solutions ltd - Icon Fiber Solutions ltd, KE
-329102	Intellicomms Pty Limited - Intellicomms Pty Limited, ZA
+329102	Intellicomms Pty Limited - Sierra Rutile Limited, ZA
 329103	NINETEC SARL - NINETEC SARL, NE
 329104	AOS LTD - AOS LTD, RW
 329105	Lusaka Internet Exchange point - Lusaka Internet Exchange point, ZM
@@ -112769,7 +112778,6 @@
 329117	Apex Fund Services South Africa Limited - Apex Fund Services South Africa Limited, ZA
 329118	AXIONE Gabon SA - AXIONE Gabon SA, GA
 329119	PATRIE NETWORK- PATRIE-NET- SA - PATRIE NETWORK- PATRIE-NET- SA, MR
-329120	Dearie Communication - Egyptair, NG
 329121	Mzanzi Lisetta Media and Printing (Pty) Ltd - Mzanzi Lisetta Media and Printing (Pty) Ltd, ZA
 329122	FiberFly PTY Ltd - FiberFly PTY Ltd, ZA
 329123	RATEL PLUS NIGERIA LIMITED - RATEL PLUS NIGERIA LIMITED, NG
@@ -112786,7 +112794,6 @@
 329134	Guaranty Trust Bank (Uganda) Ltd - Guaranty Trust Bank (Uganda) Ltd, UG
 329135	UNICAST TECHNOLOGY LTD - UNICAST TECHNOLOGY LTD, KE
 329136	TRADESWITCH (PTY) LTD - TRADESWITCH (PTY) LTD, ZA
-329137	Gigify Uganda Limited - Egyptair, UG
 329138	BCN - Banco Caboverdiano de Negócios, SA - BCN - Banco Caboverdiano de Negócios, SA, CV
 329139	Mthinte Communication Pty Ltd - Mthinte Communication Pty Ltd, ZA
 329140	Afrifiber SAS - Afrifiber SAS, DJ
@@ -112861,7 +112868,7 @@
 329213	CDN NETWORK - CDN NETWORK, MA
 329214	MASTERCARD SOUTHERN AFRICA (PTY) LTD - MASTERCARD SOUTHERN AFRICA (PTY) LTD, ZA
 329215	LiFi.net Limited - LiFi.net Limited, NG
-329216	Lwayo Communication - Lwayo Communication, ZA
+329216	Lwayo Communication - Sierra Rutile Limited, ZA
 329217	EUPHORBIA SARL - EUPHORBIA SARL, BJ
 329218	Qrios VAS Limited - Qrios VAS Limited, NG
 329219	Fenix S.L. - Fenix S.L., GQ
@@ -123094,3 +123101,7 @@
 403149	SJVUAPCD-FRESNO-01 - San, US
 403150	LYNX - 1Legion, CA
 403151	INTELA - Intela, US
+403152	ACORN-NET - Acorn, CA
+403153	SKKET-NETWORK - Skket, US
+403154	MOTORCITY-NETWORKS - MotorCity, US
+403155	FUTURE-TECH-HOLDINGS - Future, US
