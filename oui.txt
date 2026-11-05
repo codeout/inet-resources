@@ -48878,6 +48878,18 @@ FCF684     (base 16)		MatX
 				Würselen    52146
 				DE
 
+00-CE-39   (hex)		MeLE Technologies(Shenzhen)Co.,Ltd.
+00CE39     (base 16)		MeLE Technologies(Shenzhen)Co.,Ltd.
+				3FW, Mele Building,No.28 Cuijing Road, Pingshan District,
+				Shenzhen  Guangdong  518118
+				CN
+
+10-25-13   (hex)		LG Electronics
+102513     (base 16)		LG Electronics
+				222 LG-ro, JINWI-MYEON
+				Pyeongtaek-si  Gyeonggi-do  451-713
+				KR
+
 00-74-9C   (hex)		Ruijie Networks Co.,LTD
 00749C     (base 16)		Ruijie Networks Co.,LTD
 				19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road
@@ -96849,6 +96861,12 @@ BC1409     (base 16)		Arista Networks
 182F58     (base 16)		Veritech LLC
 				1070 Hardees Drive
 				Aberdeen  MD  21001
+				US
+
+60-8D-28   (hex)		Motorola Mobility LLC, a Lenovo Company
+608D28     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
 				US
 
 6C-87-20   (hex)		New H3C Technologies Co., Ltd
@@ -145154,12 +145172,6 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 				Kulim  Kedah  09000
 				MY
 
-94-FC-9A   (hex)		Google, Inc.
-94FC9A     (base 16)		Google, Inc.
-				1600 Amphitheatre Parkway
-				Mountain View    94043
-				US
-
 20-AD-72   (hex)		eero inc.
 20AD72     (base 16)		eero inc.
 				660 3rd Street 
@@ -145170,6 +145182,12 @@ EC43C4     (base 16)		MitraStar Technology Corp.
 34238E     (base 16)		eero inc.
 				660 3rd Street 
 				San Francisco  CA  94107
+				US
+
+94-FC-9A   (hex)		Google, Inc.
+94FC9A     (base 16)		Google, Inc.
+				1600 Amphitheatre Parkway
+				Mountain View    94043
 				US
 
 B0-0C-9D   (hex)		Quectel Wireless Solutions Co.,Ltd.
@@ -242335,3 +242353,9 @@ D40511     (base 16)		TCL King Electrical Appliances(Huizhou)Co.,Ltd
 				No.8, Sec.2, Guangfu Rd.
 				Hsinchu City  Hsinchu  30071
 				TW
+
+E4-22-24   (hex)		Motorola Mobility LLC, a Lenovo Company
+E42224     (base 16)		Motorola Mobility LLC, a Lenovo Company
+				222 West Merchandise Mart Plaza
+				Chicago  IL  60654
+				US
