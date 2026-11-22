@@ -42890,7 +42890,7 @@
 49104	Boursa-kuwait-AS - Boursa Kuwait Stock Exchange, KW
 49106	OPTICOM-AS - Opticom Group AO, RU
 49107	TELKO-AS - "Telko" CJSC, RU
-49108	MIR-BET-AS - Mir-Bet LLP, KZ
+49108	MIR-BET-AS - RCIT LLC, RU
 49111	iNET-AS - iNet Ltd, SC
 49112	ARMORCONNECTIC-AS - Societe Francaise Du Radiotelephone - SFR SA, FR
 49113	CABLOTEL - Cablotel S.A., CH
@@ -50299,7 +50299,7 @@
 57464	ADI-COM-SOFT-AS - ADI COM SOFT SRL, RO
 57465	HiHo-Win - exaSys AG, CH
 57466	ETS-AS - Eurasian Trade System Commodity Exchange OJSC, KZ
-57468	AZA-TELECOM - AZA TELECOM SAS, FR
+57468	AZA-TELECOM - Crypteo Telecom SAS, FR
 57469	SWB-APB-AS - Azienda Pubbliservizi Brunico, IT
 57470	Dragon - Erik Herburger, AT
 57471	TRANS-INTERCOM-V-AS - Orbita plus Vyazma Ltd., RU
@@ -60753,6 +60753,7 @@
 135408	HAMMERTECH-AS-AP - Hammer Technologies Pty Ltd, AU
 135409	KBSPL-AS-AP - Kacific Broadband Satellites Pte Ltd, SG
 135410	VSAS-AS-AP - Voltz System and Solutions, BD
+135411	REDGRAPESPTELTD-AS-AP - Red Grapes Pte Ltd, SG
 135412	SGNIC-AS-AP - Singapore Network Information Centre, SG
 135413	SSTNTECHNOLOGY-AS-AP - SSTN Technology, BD
 135414	PTII-AS-AP - Telekomunikasi Indonesia International PT, ID
@@ -64581,6 +64582,7 @@
 139304	LIMDAHOST-AS-AP - Limda Host, BD
 139305	THRYVEBB-AS-AP - THRYVE GROUP PTY LTD, AU
 139306	BLAMACPTYLTD-AS-AP - Blamac Pty Ltd, AU
+139307	MEGANET-AS-AP - Mega Net, BD
 139308	FORHOSTING-AS-AP - Forhosting, NL
 139309	TCL-AS-AP - Tata Communications (CANADA) Ltd., CA
 139310	MATNET-AS-AP - Mackenzie Agricultural Technologies, NZ
@@ -76842,6 +76844,7 @@
 151655	IDNIC-WBMSOLUTION-ID - PT WBM NETWORK SOLUTION, ID
 151656	NUGEN-AS-AP - NUGEN COMMUNICATION PVT LTD, IN
 151657	KCIXP-IX-AP - Bada Communications, KR
+151658	IDNIC-RAXA-ID - PT Raxa Abadi Bersama, ID
 151659	NEW-AS-AP - New Pakistan Cable Network, PK
 151660	NEPTUNEINTERNET-AS-AP - Neptune Internet, AU
 151661	GSSPL-AS-AP - Goldman Sachs Services Private Limited, IN
@@ -80272,6 +80275,8 @@
 155125	IDNIC-MMJ-ID - PT Mustika Media Jaya, ID
 155126	CODZENPTELTD-AS-AP - CODZEN PTE. LTD., SG
 155127	IDNIC-MEIDIA-ID - PT Meidia Fast Network, ID
+155128	HOSTROG-AS-AP - HOSTROG, BD
+155129	IDNIC-NMP-ID - PT Netlink Mega Persada, ID
 196608	INTERNIC2 - INTERNET AG Global Network, DE
 196609	PCS - PCS Professional Communication Systems GmbH, DE
 196610	DECIX-Academy - DE-CIX Management GmbH, DE
@@ -96652,7 +96657,7 @@
 214181	erznet - Antennengemeinschaften ERZNET AG, DE
 214182	CIP - Swisscom (Schweiz) AG, CH
 214184	Ehsan_Mirghafori - Seyed M. Ehsan MirGhafori, IR
-214185	Austurljos - Rafey ehf, IS
+214185	Austurljos - Austurljos ehf, IS
 214186	INTLMN - Intelion Cloud LTD, RU
 214187	WVNORD-AS - Wasserverband Nord, DE
 214188	VoltHosting - VoltHosting Ltd, GB
@@ -98647,6 +98652,11 @@
 216473	net-host - Bashinskii Vadim Ruslanovich, KZ
 216474	AS-SERVERMANAGEMENTPANEL - Moritz Mantel trading as Nerdscave, DE
 216475	nktelecom - NKtelecom INC, US
+218016	MONSSON-AS - MONSSON S.R.L., RO
+218017	GUPTA-AS - Chandra Gupta, IN
+218018	NARU-AS - Jaewook Lee, KR
+218019	STARVIO-AS - STARVIO LLC, UA
+218020	KTA - KT Abrechnungsdienste e.K., DE
 218021	KladovoNet - ELITE-KLNET DOO, RS
 218022	INFINITECLOUD - InfiniteCloud LLC, US
 218023	NetAura - NETAURA DIGITAL LTD, CY
@@ -98834,7 +98844,7 @@
 218205	ZT-IX - NET-CITY 2020 LLC, UA
 218206	Headquarter-Internet - BDO AG Wirtschaftspruefungsgesellschaft, DE
 218207	Freedom-Processing - TOO Freedom Cloud, KZ
-218208	Jaeger - Tom Jaeger, DE
+218208	TDDTECH-Community - Tom Jaeger, DE
 218209	PlatoMasterTechnologyLimited - Plato Master Technology Limited, HK
 218210	MPL-NET - Matthias Plassmann, DE
 218211	HEKKELMAN-AS - Nouche Hekkelman, NL
@@ -99486,7 +99496,7 @@
 218868	HIIL-AS - Hongning Intelligent International Limited, HK
 218869	ORG-PGL22-AS - ProWave Groups LLC, US
 218870	JULIANET - JULIANET KISSRA LTD, IL
-218871	NISHIO-AS - Kazuto Nishio, JP
+218871	YATSNET - Kazuto Nishio, JP
 218872	STAR-MEDIA - STAR MEDIA HD LTD, IL
 218873	AZFIBER-X - AZFIBER-X MMC, AZ
 218874	ACHRONON - Achronon Limited, HK
@@ -99796,7 +99806,6 @@
 219186	dccloudsoc - DC Cloud SOC TOO, KZ
 219187	Tangtech-Internet-Services - Tangtech Internet Services LLC, US
 219188	J-Wynegar-Jr-Inc - J Wynegar Jr Inc, US
-219189	CLNEXUS - CLNexus LTD, GB
 219190	EuphoriaTech - EuphoriaTech Limited, CY
 219191	qudsbank - QUDS BANK, PS
 219192	VoltGuard - Kevin Gorniak, GB
@@ -111442,6 +111451,8 @@
 275110	AS275110 - CAR190, CO
 275111	AS275111 - JUA91, DO
 275112	AS275112 - RAC194, PE
+275113	AS275113 - LUJ21, DO
+275114	AS275114 - HVC7, VE
 275293	AS275293 - FRPSO156, BR
 275294	AS275294 - ARNJU36, BR
 275295	AS275295 - ROCFA160, BR
@@ -115871,7 +115882,6 @@
 395544	DRWORKS-01 - Lanworks Inc., CA
 395545	GRAHAM - Graham County, US
 395546	CROSSOVERNETWORKS - Crossover Networks, CA
-395547	WABCTVNET-7LS - WABC-TV/EABC-TV, US
 395548	HFCU-NET - Hughes Federal Credit Union, US
 395549	AEINSTEINCOM - Albert Einstein College Of Medicine Inc., US
 395550	PHPC-ASN - PARTNERSHIP HEALTHPLAN OF CALIFORNIA, US
@@ -123323,3 +123333,11 @@
 403256	VSL148 - Vireo, US
 403257	VELTRIX - Veltrix, US
 403258	STARK-II - Stark, US
+403259	FISK - Fisk, US
+403260	USEAGLE-BGP-01 - U.S., US
+403261	324NETWORKS - 324, US
+403262	CN-VENTURES - CN, US
+403263	MINADUKI - Minaduki, US
+403264	UC-LAW-SF - University, US
+403265	OCELUS-LTD - Ocelus, CA
+403266	AERO-AZ66-1 - Honeywell, US
